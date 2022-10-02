@@ -38,7 +38,6 @@ def get_crawler(data_mode: DataMode, dump_on: str = None):
             return data
 
         def parse(self, response, **kwargs):
-            print(response.url.split('/'))
             scripts = response.xpath('//script').getall()
             data = dict()
             for script in scripts:
