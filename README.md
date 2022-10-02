@@ -9,6 +9,3 @@ Anyway, whatever the reasons may be, a simple google search (at the time of writ
 
 ## License
 I don't know! Do whatever the hell you want with the data! I am scraped it from somewhere else anyway!
-
-## Notes
-* **Pull Requests for Improvements are welcome!**
