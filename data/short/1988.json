@@ -1,0 +1,712 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Michael Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marcello Mastroianni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Hurt"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sean Connery"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Brooks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morgan Freeman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vincent Gardenia"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holly Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sally Kirkland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Olympia Dukakis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ann Sothern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Archer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Ramsey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Aleandro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope and Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Radio Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Untouchables"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadcast News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope and Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Matewan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maurice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Untouchables"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bernardo Bertolucci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adrian Lyne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Boorman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lasse Hallstr\u00f6m"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norman Jewison"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Stitch for Time"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eyes on the Prize"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hellfire: A Journey from Hiroshima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Radio Bikini"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Young at Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frances Steloff: Memoirs of a Bookseller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Wee Wee Hours..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Language Says It All"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silver Into Gold"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Innerspace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Predator"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadcast News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fatal Attraction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RoboCop"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Babette's Feast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Course Completed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Children"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pathfinder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Family"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Harry and the Hendersons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Happy New Year"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cry Freedom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Untouchables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Witches of Eastwick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dirty Dancing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beverly Hills Cop II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cry Freedom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mannequin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Princess Bride"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadcast News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fatal Attraction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope and Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonstruck"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Man Who Planted Trees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George and Rosemary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Your Face"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ray's Male Heterosexual Dance Hall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Making Waves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shoeshine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Empire of the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lethal Weapon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RoboCop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Witches of Eastwick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Emperor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fatal Attraction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Full Metal Jacket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Life as a Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dead"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moonstruck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadcast News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Children"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope and Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Radio Days"
+            ]
+         }
+      ]
+   }
+]

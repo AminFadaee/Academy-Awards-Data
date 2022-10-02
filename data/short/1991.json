@@ -1,0 +1,736 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jeremy Irons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "G\u00e9rard Depardieu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kevin Costner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joe Pesci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Andy Garcia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bruce Davison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Graham Greene"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kathy Bates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anjelica Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joanne Woodward"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Whoopi Goldberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annette Bening"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Ladd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lorraine Bracco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary McDonnell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cyrano de Bergerac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part III"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avalon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry & June"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part III"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cyrano de Bergerac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avalon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kevin Costner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbet Schroeder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Francis Ford Coppola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stephen Frears"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Berkeley in the Sixties"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Building Bombs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waldo Salt: A Screenwriter's Journey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Days of Waiting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burning Down Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chimps: So Like Us"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey Into Life: The World of the Unborn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rose Kennedy: A Life to Remember"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hunt for Red October"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flatliners"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Total Recall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodfellas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part III"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunt for Red October"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Journey of Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cyrano de Bergerac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ju Dou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Open Doors"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nasty Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cyrano de Bergerac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Scissorhands"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avalon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Havana"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Home Alone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Home Alone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Postcards from the Edge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part III"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Guns II"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Awakenings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodfellas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part III"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Creature Comforts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Grand Day Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grasshoppers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lunch Date"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12:01 PM"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bronx Cheers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dear Rosie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Senzeni Na?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Thunder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dick Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunt for Red October"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Total Recall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dances with Wolves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Awakenings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodfellas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reversal of Fortune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grifters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ghost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avalon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Card"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Metropolitan"
+            ]
+         }
+      ]
+   }
+]

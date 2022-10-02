@@ -1,0 +1,2266 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jos\u00e9 Ferrer",
+                  "notes": null,
+                  "imdb_id": "nm0001207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0042367"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0000071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harvey",
+                  "notes": null,
+                  "imdb_id": "tt0042546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louis Calhern",
+                  "notes": null,
+                  "imdb_id": "nm0129894"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Magnificent Yankee",
+                  "notes": null,
+                  "imdb_id": "tt0042702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spencer Tracy",
+                  "notes": null,
+                  "imdb_id": "nm0000075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Father of the Bride",
+                  "notes": null,
+                  "imdb_id": "tt0042451"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Holden",
+                  "notes": null,
+                  "imdb_id": "nm0000034"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "George Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0001695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edmund Gwenn",
+                  "notes": null,
+                  "imdb_id": "nm0350324"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mister 880",
+                  "notes": null,
+                  "imdb_id": "tt0042742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Erich von Stroheim",
+                  "notes": null,
+                  "imdb_id": "nm0002233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeff Chandler",
+                  "notes": null,
+                  "imdb_id": "nm0001996"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Broken Arrow",
+                  "notes": null,
+                  "imdb_id": "tt0042286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sam Jaffe",
+                  "notes": null,
+                  "imdb_id": "nm0415488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Asphalt Jungle",
+                  "notes": null,
+                  "imdb_id": "tt0042208"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Judy Holliday was not present at the awards ceremony but watched it with several nominees in New York including fellow-best actress candidate Gloria Swanson. In Hollywood, Ethel Barrymore accepted on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Judy Holliday",
+                  "notes": null,
+                  "imdb_id": "nm0391062"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Born Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0042276"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne Baxter",
+                  "notes": null,
+                  "imdb_id": "nm0000879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eleanor Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662223"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caged",
+                  "notes": null,
+                  "imdb_id": "tt0042296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gloria Swanson",
+                  "notes": null,
+                  "imdb_id": "nm0841797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Josephine Hull",
+                  "notes": null,
+                  "imdb_id": "nm0401449"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harvey",
+                  "notes": null,
+                  "imdb_id": "tt0042546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Celeste Holm",
+                  "notes": null,
+                  "imdb_id": "nm0002141"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hope Emerson",
+                  "notes": null,
+                  "imdb_id": "nm0256216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caged",
+                  "notes": null,
+                  "imdb_id": "tt0042296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nancy Olson",
+                  "notes": null,
+                  "imdb_id": "nm0647970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma Ritter",
+                  "notes": null,
+                  "imdb_id": "nm0728812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "John Meehan",
+                  "notes": null,
+                  "imdb_id": "nm0576048"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Red Danube",
+                  "notes": null,
+                  "imdb_id": "tt0041788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Hans Peters",
+                  "notes": null,
+                  "imdb_id": "nm0676462"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Samson and Delilah",
+                  "notes": null,
+                  "imdb_id": "tt0041838"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Walter H. Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878934"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annie Get Your Gun",
+                  "notes": null,
+                  "imdb_id": "tt0042200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Richard Pefferle",
+                  "notes": null,
+                  "imdb_id": "nm0670385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Destination Moon",
+                  "notes": null,
+                  "imdb_id": "tt0042393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernst Fegt\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0270404"
+               },
+               {
+                  "name": "George Sawley",
+                  "notes": null,
+                  "imdb_id": "nm0768120"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Third Man",
+                  "notes": null,
+                  "imdb_id": "tt0041959"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Krasker",
+                  "notes": null,
+                  "imdb_id": "nm0005761"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milton R. Krasner",
+                  "notes": null,
+                  "imdb_id": "nm0005762"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John F. Seitz",
+                  "notes": null,
+                  "imdb_id": "nm0005870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Asphalt Jungle",
+                  "notes": null,
+                  "imdb_id": "tt0042208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Rosson",
+                  "notes": null,
+                  "imdb_id": "nm0005849"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Furies",
+                  "notes": null,
+                  "imdb_id": "tt0042490"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Milner",
+                  "notes": null,
+                  "imdb_id": "nm0005800"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "King Solomon's Mines",
+                  "notes": null,
+                  "imdb_id": "tt0042646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annie Get Your Gun",
+                  "notes": null,
+                  "imdb_id": "tt0042200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Rosher",
+                  "notes": null,
+                  "imdb_id": "nm0003546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Broken Arrow",
+                  "notes": null,
+                  "imdb_id": "tt0042286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Palmer",
+                  "notes": null,
+                  "imdb_id": "nm0005823"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samson and Delilah",
+                  "notes": null,
+                  "imdb_id": "tt0041838"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Flame and the Arrow",
+                  "notes": null,
+                  "imdb_id": "tt0042464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Haller",
+                  "notes": null,
+                  "imdb_id": "nm0005735"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0042276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Louis",
+                  "notes": null,
+                  "imdb_id": "nm0521872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magnificent Yankee",
+                  "notes": null,
+                  "imdb_id": "tt0042702"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Plunkett",
+                  "notes": null,
+                  "imdb_id": "nm0687703"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Samson and Delilah",
+                  "notes": null,
+                  "imdb_id": "tt0041838"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               },
+               {
+                  "name": "Elois Jenssen",
+                  "notes": null,
+                  "imdb_id": "nm0421784"
+               },
+               {
+                  "name": "Gile Steele",
+                  "notes": null,
+                  "imdb_id": "nm0824554"
+               },
+               {
+                  "name": "Gwen Wakeling",
+                  "notes": null,
+                  "imdb_id": "nm0906835"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Forsyte Woman",
+                  "notes": null,
+                  "imdb_id": "tt0041955"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Plunkett",
+                  "notes": null,
+                  "imdb_id": "nm0687703"
+               },
+               {
+                  "name": "Valles",
+                  "notes": null,
+                  "imdb_id": "nm0885049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Black Rose",
+                  "notes": null,
+                  "imdb_id": "tt0042256"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Whittaker",
+                  "notes": null,
+                  "imdb_id": "nm0926451"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joseph L. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0000581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carol Reed",
+                  "notes": null,
+                  "imdb_id": "nm0715346"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Third Man",
+                  "notes": null,
+                  "imdb_id": "tt0041959"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Cukor",
+                  "notes": null,
+                  "imdb_id": "nm0002030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Born Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0042276"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Asphalt Jungle",
+                  "notes": null,
+                  "imdb_id": "tt0042208"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Titan: Story of Michelangelo",
+                  "notes": null,
+                  "imdb_id": "tt0043050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0162414"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "With These Hands",
+                  "notes": null,
+                  "imdb_id": "tt0043138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Arnold",
+                  "notes": null,
+                  "imdb_id": "nm0000791"
+               },
+               {
+                  "name": "Lee Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329156"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Why Korea?",
+                  "notes": null,
+                  "imdb_id": "tt0043135"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund Reek",
+                  "notes": null,
+                  "imdb_id": "nm0715833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steps of Age",
+                  "notes": null,
+                  "imdb_id": "tt0042996"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fight: Science Against Cancer",
+                  "notes": null,
+                  "imdb_id": "tt0042460"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Destination Moon",
+                  "notes": null,
+                  "imdb_id": "tt0042393"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samson and Delilah",
+                  "notes": null,
+                  "imdb_id": "tt0041838"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "King Solomon's Mines",
+                  "notes": null,
+                  "imdb_id": "tt0042646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph E. Winters",
+                  "notes": null,
+                  "imdb_id": "nm0935988"
+               },
+               {
+                  "name": "Conrad A. Nervig",
+                  "notes": null,
+                  "imdb_id": "nm0626308"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara McLean",
+                  "notes": null,
+                  "imdb_id": "nm0572492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annie Get Your Gun",
+                  "notes": null,
+                  "imdb_id": "tt0042200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James E. Newcom",
+                  "notes": null,
+                  "imdb_id": "nm0627727"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur P. Schmidt",
+                  "notes": null,
+                  "imdb_id": "nm0772834"
+               },
+               {
+                  "name": "Doane Harrison",
+                  "notes": null,
+                  "imdb_id": "nm0365561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Third Man",
+                  "notes": null,
+                  "imdb_id": "tt0041959"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oswald Hafenrichter",
+                  "notes": null,
+                  "imdb_id": "nm0353091"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Mona Lisa\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Captain Carey, U.S.A.",
+                  "notes": null,
+                  "imdb_id": "tt0042310"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Evans",
+                  "notes": null,
+                  "imdb_id": "nm0263143"
+               },
+               {
+                  "name": "Jay Livingston",
+                  "notes": null,
+                  "imdb_id": "nm0515254"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Bibbidi-Bobbidi-Boo\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cinderella",
+                  "notes": null,
+                  "imdb_id": "tt0042332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mack David",
+                  "notes": null,
+                  "imdb_id": "nm0202988"
+               },
+               {
+                  "name": "Al Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0388800"
+               },
+               {
+                  "name": "Jerry Livingston",
+                  "notes": null,
+                  "imdb_id": "nm0515256"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Mule Train\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Singing Guns",
+                  "notes": null,
+                  "imdb_id": "tt0042970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Glickman",
+                  "notes": null,
+                  "imdb_id": "nm0322796"
+               },
+               {
+                  "name": "Hy Heath",
+                  "notes": null,
+                  "imdb_id": "nm0372654"
+               },
+               {
+                  "name": "Johnny Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486150"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Be My Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Toast of New Orleans",
+                  "notes": null,
+                  "imdb_id": "tt0043053"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Brodszky",
+                  "notes": "(music)",
+                  "imdb_id": "nm0111004"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Wilhelmina\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wabash Avenue",
+                  "notes": null,
+                  "imdb_id": "tt0043116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Josef Myrow",
+                  "notes": "(music)",
+                  "imdb_id": "nm0617155"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Sad Songs for Me",
+                  "notes": null,
+                  "imdb_id": "tt0042790"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Duning",
+                  "notes": null,
+                  "imdb_id": "nm0006052"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samson and Delilah",
+                  "notes": null,
+                  "imdb_id": "tt0041838"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Flame and the Arrow",
+                  "notes": null,
+                  "imdb_id": "tt0042464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Annie Get Your Gun",
+                  "notes": null,
+                  "imdb_id": "tt0042200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adolph Deutsch",
+                  "notes": null,
+                  "imdb_id": "nm0006037"
+               },
+               {
+                  "name": "Roger Edens",
+                  "notes": null,
+                  "imdb_id": "nm0249136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cinderella",
+                  "notes": null,
+                  "imdb_id": "tt0042332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Wallace",
+                  "notes": null,
+                  "imdb_id": "nm0006337"
+               },
+               {
+                  "name": "Paul J. Smith",
+                  "notes": null,
+                  "imdb_id": "nm1345229"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I'll Get By",
+                  "notes": null,
+                  "imdb_id": "tt0042589"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The West Point Story",
+                  "notes": null,
+                  "imdb_id": "tt0043123"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Little Words",
+                  "notes": null,
+                  "imdb_id": "tt0043044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darryl F. Zanuck",
+                  "notes": null,
+                  "imdb_id": "nm0953123"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0042276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "S. Sylvan Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800373"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Father of the Bride",
+                  "notes": null,
+                  "imdb_id": "tt0042451"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pandro S. Berman",
+                  "notes": null,
+                  "imdb_id": "nm0075825"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Solomon's Mines",
+                  "notes": null,
+                  "imdb_id": "tt0042646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Zimbalist",
+                  "notes": null,
+                  "imdb_id": "nm0956547"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Brackett",
+                  "notes": null,
+                  "imdb_id": "nm0102818"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gerald McBoing-Boing",
+                  "notes": null,
+                  "imdb_id": "tt0043581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jerry's Cousin",
+                  "notes": null,
+                  "imdb_id": "tt0043685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trouble Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0043073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Grandad of Races",
+                  "notes": null,
+                  "imdb_id": "tt0042518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blaze Busters",
+                  "notes": null,
+                  "imdb_id": "tt0042259"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Youngson",
+                  "notes": null,
+                  "imdb_id": "nm0950288"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wrong Way Butch",
+                  "notes": null,
+                  "imdb_id": "tt0043148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Beaver Valley",
+                  "notes": null,
+                  "imdb_id": "tt0042592"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Grandma Moses",
+                  "notes": null,
+                  "imdb_id": "tt0042520"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Country 'Tis of Thee",
+                  "notes": null,
+                  "imdb_id": "tt0042768"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": null,
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cinderella",
+                  "notes": null,
+                  "imdb_id": "tt0042332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C.O. Slyfield",
+                  "notes": null,
+                  "imdb_id": "nm0806351"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louisa",
+                  "notes": null,
+                  "imdb_id": "tt0042687"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie I. Carey",
+                  "notes": null,
+                  "imdb_id": "nm0136989"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Very Own",
+                  "notes": null,
+                  "imdb_id": "tt0042819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": null,
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trio",
+                  "notes": null,
+                  "imdb_id": "tt0042752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cyril Crowhurst",
+                  "notes": null,
+                  "imdb_id": "nm2935868"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Panic in the Streets",
+                  "notes": null,
+                  "imdb_id": "tt0042832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edna Anhalt",
+                  "notes": null,
+                  "imdb_id": "nm0030018"
+               },
+               {
+                  "name": "Edward Anhalt",
+                  "notes": null,
+                  "imdb_id": "nm0030019"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bitter Rice",
+                  "notes": null,
+                  "imdb_id": "tt0040737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Giuseppe De Santis",
+                  "notes": null,
+                  "imdb_id": "nm0211459"
+               },
+               {
+                  "name": "Carlo Lizzani",
+                  "notes": null,
+                  "imdb_id": "nm0515491"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mystery Street",
+                  "notes": null,
+                  "imdb_id": "tt0042771"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Spigelgass",
+                  "notes": null,
+                  "imdb_id": "nm0818700"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gunfighter",
+                  "notes": null,
+                  "imdb_id": "tt0042531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Bowers",
+                  "notes": null,
+                  "imdb_id": "nm0101115"
+               },
+               {
+                  "name": "Andr\u00e9 De Toth",
+                  "notes": null,
+                  "imdb_id": "nm0211964"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Willie Comes Marching Home",
+                  "notes": null,
+                  "imdb_id": "tt0043129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sy Gomberg",
+                  "notes": null,
+                  "imdb_id": "nm0177934"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All About Eve",
+                  "notes": null,
+                  "imdb_id": "tt0042192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph L. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0000581"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0042276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Mannheimer",
+                  "notes": null,
+                  "imdb_id": "nm0543171"
+               }
+            ]
+         },
+         {
+            "notes": "Originally Michael Blankfort had been listed for this nomination. Blankfort fronted for Maltz, who was a blacklisted writer at the time. Following research by the Writers Guild of America West in July 1991, the Academy officially attributed the nomination to Maltz and removed Blankford.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Broken Arrow",
+                  "notes": null,
+                  "imdb_id": "tt0042286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Maltz",
+                  "notes": null,
+                  "imdb_id": "nm0540816"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Father of the Bride",
+                  "notes": null,
+                  "imdb_id": "tt0042451"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances Goodrich",
+                  "notes": null,
+                  "imdb_id": "nm0329304"
+               },
+               {
+                  "name": "Albert Hackett",
+                  "notes": null,
+                  "imdb_id": "nm0352443"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Asphalt Jungle",
+                  "notes": null,
+                  "imdb_id": "tt0042208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Maddow",
+                  "notes": null,
+                  "imdb_id": "nm0534693"
+               },
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sunset Blvd.",
+                  "notes": null,
+                  "imdb_id": "tt0043014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Brackett",
+                  "notes": null,
+                  "imdb_id": "nm0102818"
+               },
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               },
+               {
+                  "name": "D.M. Marshman Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0551261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adam's Rib",
+                  "notes": null,
+                  "imdb_id": "tt0041090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0002106"
+               },
+               {
+                  "name": "Garson Kanin",
+                  "notes": null,
+                  "imdb_id": "nm0437717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Caged",
+                  "notes": null,
+                  "imdb_id": "tt0042296"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Virginia Kellogg",
+                  "notes": null,
+                  "imdb_id": "nm0446132"
+               },
+               {
+                  "name": "Bernard C. Schoenfeld",
+                  "notes": null,
+                  "imdb_id": "nm0774441"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Way Out",
+                  "notes": null,
+                  "imdb_id": "tt0042792"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph L. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0000581"
+               },
+               {
+                  "name": "Lesser Samuels",
+                  "notes": null,
+                  "imdb_id": "nm0760488"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Men",
+                  "notes": null,
+                  "imdb_id": "tt0042727"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl Foreman",
+                  "notes": null,
+                  "imdb_id": "nm0286025"
+               }
+            ]
+         }
+      ]
+   }
+]

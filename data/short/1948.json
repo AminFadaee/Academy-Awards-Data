@@ -1,0 +1,728 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ronald Colman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregory Peck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Garfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Redgrave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Powell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Edmund Gwenn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Bickford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Widmark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thomas Gomez"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Loretta Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dorothy McGuire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Crawford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosalind Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Hayward"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Celeste Holm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Revere"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethel Barrymore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gloria Grahame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marjorie Main"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Great Expectations"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Foxes of Harrow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Narcissus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life with Father"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Great Expectations"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Dolphin Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ghost and Mrs. Muir"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Narcissus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life with Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mother Wore Tights"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Elia Kazan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Dmytryk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Cukor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry Koster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Design for Death"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey Into Medicine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The World Is Rich"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "First Steps"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Passport to Nowhere"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "School in the Mailbox"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Green Dolphin Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unconquered"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Body and Soul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gentleman's Agreement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Dolphin Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Odd Man Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bishop's Wife"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Song of the South"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mother Wore Tights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Perils of Pauline"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Time, the Place and the Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Double Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain from Castile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forever Amber"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life with Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bishop's Wife"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mother Wore Tights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fiesta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Wild Irish Rose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Rio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Song of the South"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gentleman's Agreement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crossfire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Great Expectations"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Miracle on 34th Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bishop's Wife"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tweetie Pie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chip an' Dale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Jekyll and Mr. Mouse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pluto's Blue Note"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tubby the Tuba"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Goodbye, Miss Turlock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brooklyn, U.S.A."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moon Rockets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Now You See It"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "So You Want to Be in Pictures"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Climbing the Matterhorn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Voice Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Champagne for Two"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fight of the Wild Stallions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Give Us the Earth!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bishop's Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Dolphin Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "T-Men"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bachelor and the Bobby-Soxer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Double Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Body and Soul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsieur Verdoux"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shoeshine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Miracle on 34th Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Cage of Nightingales"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It Happened on Fifth Avenue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kiss of Death"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Smash-Up: The Story of a Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Miracle on 34th Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boomerang!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crossfire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gentleman's Agreement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Great Expectations"
+            ]
+         }
+      ]
+   }
+]

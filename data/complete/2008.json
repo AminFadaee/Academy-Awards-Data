@@ -1,0 +1,2466 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               },
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Bevan",
+                  "notes": null,
+                  "imdb_id": "nm0079677"
+               },
+               {
+                  "name": "Eric Fellner",
+                  "notes": null,
+                  "imdb_id": "nm0271479"
+               },
+               {
+                  "name": "Paul Webster",
+                  "notes": null,
+                  "imdb_id": "nm0916986"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Juno",
+                  "notes": null,
+                  "imdb_id": "tt0467406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lianne Halfon",
+                  "notes": null,
+                  "imdb_id": "nm0355147"
+               },
+               {
+                  "name": "Mason Novick",
+                  "notes": null,
+                  "imdb_id": "nm1259504"
+               },
+               {
+                  "name": "Russell Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sydney Pollack",
+                  "notes": null,
+                  "imdb_id": "nm0001628"
+               },
+               {
+                  "name": "Jennifer Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289048"
+               },
+               {
+                  "name": "Kerry Orent",
+                  "notes": null,
+                  "imdb_id": "nm0649715"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "JoAnne Sellar",
+                  "notes": null,
+                  "imdb_id": "nm0783280"
+               },
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               },
+               {
+                  "name": "Daniel Lupi",
+                  "notes": null,
+                  "imdb_id": "nm0526917"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Daniel Day-Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0000358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Clooney",
+                  "notes": null,
+                  "imdb_id": "nm0000123"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Depp",
+                  "notes": null,
+                  "imdb_id": "nm0000136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+                  "notes": null,
+                  "imdb_id": "tt0408236"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tommy Lee Jones",
+                  "notes": null,
+                  "imdb_id": "nm0000169"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Valley of Elah",
+                  "notes": null,
+                  "imdb_id": "tt0478134"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Viggo Mortensen",
+                  "notes": null,
+                  "imdb_id": "nm0001557"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eastern Promises",
+                  "notes": null,
+                  "imdb_id": "tt0765443"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Marion Cotillard became the first French actress to win an Academy Award for Best Actress in a Leading Role for a French-language performance.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Marion Cotillard",
+                  "notes": null,
+                  "imdb_id": "nm0182839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "La Vie en Rose",
+                  "notes": null,
+                  "imdb_id": "tt0450188"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cate Blanchett",
+                  "notes": null,
+                  "imdb_id": "nm0000949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elizabeth: The Golden Age",
+                  "notes": null,
+                  "imdb_id": "tt0414055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elliot Page",
+                  "notes": null,
+                  "imdb_id": "nm0680983"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Juno",
+                  "notes": null,
+                  "imdb_id": "tt0467406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Christie",
+                  "notes": null,
+                  "imdb_id": "nm0001046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Away from Her",
+                  "notes": null,
+                  "imdb_id": "tt0491747"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura Linney",
+                  "notes": null,
+                  "imdb_id": "nm0001473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Savages",
+                  "notes": null,
+                  "imdb_id": "tt0775529"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Javier Bardem",
+                  "notes": null,
+                  "imdb_id": "nm0000849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casey Affleck",
+                  "notes": null,
+                  "imdb_id": "nm0000729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Assassination of Jesse James by the Coward Robert Ford",
+                  "notes": null,
+                  "imdb_id": "tt0443680"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hal Holbrook",
+                  "notes": null,
+                  "imdb_id": "nm0001358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Into the Wild",
+                  "notes": null,
+                  "imdb_id": "tt0758758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Philip Seymour Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charlie Wilson's War",
+                  "notes": null,
+                  "imdb_id": "tt0472062"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Wilkinson",
+                  "notes": null,
+                  "imdb_id": "nm0929489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tilda Swinton",
+                  "notes": null,
+                  "imdb_id": "nm0842770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amy Ryan",
+                  "notes": null,
+                  "imdb_id": "nm0752407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gone Baby Gone",
+                  "notes": null,
+                  "imdb_id": "tt0452623"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cate Blanchett",
+                  "notes": null,
+                  "imdb_id": "nm0000949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I'm Not There",
+                  "notes": null,
+                  "imdb_id": "tt0368794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ruby Dee",
+                  "notes": null,
+                  "imdb_id": "nm0002039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Gangster",
+                  "notes": null,
+                  "imdb_id": "tt0765429"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saoirse Ronan",
+                  "notes": null,
+                  "imdb_id": "nm1519680"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jason Reitman",
+                  "notes": null,
+                  "imdb_id": "nm0718646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Juno",
+                  "notes": null,
+                  "imdb_id": "tt0467406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julian Schnabel",
+                  "notes": null,
+                  "imdb_id": "nm0773603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Diving Bell and the Butterfly",
+                  "notes": null,
+                  "imdb_id": "tt0401383"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tony Gilroy",
+                  "notes": null,
+                  "imdb_id": "nm0006904"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Juno",
+                  "notes": null,
+                  "imdb_id": "tt0467406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diablo Cody",
+                  "notes": null,
+                  "imdb_id": "nm1959505"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lars and the Real Girl",
+                  "notes": null,
+                  "imdb_id": "tt0805564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nancy Oliver",
+                  "notes": null,
+                  "imdb_id": "nm1280672"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Gilroy",
+                  "notes": null,
+                  "imdb_id": "nm0006904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ratatouille",
+                  "notes": null,
+                  "imdb_id": "tt0382932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brad Bird",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0083348"
+               },
+               {
+                  "name": "Jan Pinkava",
+                  "notes": "(story)",
+                  "imdb_id": "nm0684342"
+               },
+               {
+                  "name": "Jim Capobianco",
+                  "notes": "(story)",
+                  "imdb_id": "nm0135296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Savages",
+                  "notes": null,
+                  "imdb_id": "tt0775529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tamara Jenkins",
+                  "notes": null,
+                  "imdb_id": "nm0420982"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               },
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Hampton",
+                  "notes": null,
+                  "imdb_id": "nm0358960"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Away from Her",
+                  "notes": null,
+                  "imdb_id": "tt0491747"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sarah Polley",
+                  "notes": null,
+                  "imdb_id": "nm0001631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diving Bell and the Butterfly",
+                  "notes": null,
+                  "imdb_id": "tt0401383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ronald Harwood",
+                  "notes": null,
+                  "imdb_id": "nm0367838"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Elswit",
+                  "notes": null,
+                  "imdb_id": "nm0005696"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seamus McGarvey",
+                  "notes": null,
+                  "imdb_id": "nm0568974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Assassination of Jesse James by the Coward Robert Ford",
+                  "notes": null,
+                  "imdb_id": "tt0443680"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diving Bell and the Butterfly",
+                  "notes": null,
+                  "imdb_id": "tt0401383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janusz Kaminski",
+                  "notes": null,
+                  "imdb_id": "nm0001405"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+                  "notes": null,
+                  "imdb_id": "tt0408236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Gangster",
+                  "notes": null,
+                  "imdb_id": "tt0765429"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Max",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0561480"
+               },
+               {
+                  "name": "Beth A. Rubino",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0748211"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sarah Greenwood",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0339391"
+               },
+               {
+                  "name": "Katie Spencer",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0818005"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Golden Compass",
+                  "notes": null,
+                  "imdb_id": "tt0385752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Anna Pinnock",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0003519"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Fisk",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0279926"
+               },
+               {
+                  "name": "Jim Erickson",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm1075312"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bourne Ultimatum",
+                  "notes": null,
+                  "imdb_id": "tt0440963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Rouse",
+                  "notes": null,
+                  "imdb_id": "nm0002582"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Into the Wild",
+                  "notes": null,
+                  "imdb_id": "tt0758758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Cassidy",
+                  "notes": null,
+                  "imdb_id": "nm0144203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": "(as Roderick Jaynes)",
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": "(as Roderick Jaynes)",
+                  "imdb_id": "nm0001054"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diving Bell and the Butterfly",
+                  "notes": null,
+                  "imdb_id": "tt0401383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Juliette Welfling",
+                  "notes": null,
+                  "imdb_id": "nm0919761"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dylan Tichenor",
+                  "notes": null,
+                  "imdb_id": "nm0862664"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Elizabeth: The Golden Age",
+                  "notes": null,
+                  "imdb_id": "tt0414055"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandra Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Across the Universe",
+                  "notes": null,
+                  "imdb_id": "tt0445922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Wolsky",
+                  "notes": null,
+                  "imdb_id": "nm0938717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacqueline Durran",
+                  "notes": null,
+                  "imdb_id": "nm0244330"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La Vie en Rose",
+                  "notes": null,
+                  "imdb_id": "tt0450188"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marit Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020801"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+                  "notes": null,
+                  "imdb_id": "tt0408236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Falling Slowly\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Once",
+                  "notes": null,
+                  "imdb_id": "tt0907657"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen Hansard",
+                  "notes": null,
+                  "imdb_id": "nm0360598"
+               },
+               {
+                  "name": "Mark\u00e9ta Irglov\u00e1",
+                  "notes": null,
+                  "imdb_id": "nm2461627"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Raise It Up\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "August Rush",
+                  "notes": null,
+                  "imdb_id": "tt0426931"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jamal Joseph",
+                  "notes": null,
+                  "imdb_id": "nm0430606"
+               },
+               {
+                  "name": "Charles Ray Mack",
+                  "notes": null,
+                  "imdb_id": "nm1358629"
+               },
+               {
+                  "name": "Tevin Thomas",
+                  "notes": null,
+                  "imdb_id": "nm11004643"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"That's How You Know\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enchanted",
+                  "notes": null,
+                  "imdb_id": "tt0461770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0777451"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"So Close\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enchanted",
+                  "notes": null,
+                  "imdb_id": "tt0461770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0777451"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Happy Working Song\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enchanted",
+                  "notes": null,
+                  "imdb_id": "tt0461770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0777451"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Atonement",
+                  "notes": null,
+                  "imdb_id": "tt0783233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dario Marianelli",
+                  "notes": null,
+                  "imdb_id": "nm0547050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "3:10 to Yuma",
+                  "notes": null,
+                  "imdb_id": "tt0381849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marco Beltrami",
+                  "notes": null,
+                  "imdb_id": "nm0001937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Clayton",
+                  "notes": null,
+                  "imdb_id": "tt0465538"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ratatouille",
+                  "notes": null,
+                  "imdb_id": "tt0382932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Giacchino",
+                  "notes": null,
+                  "imdb_id": "nm0315974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Kite Runner",
+                  "notes": null,
+                  "imdb_id": "tt0419887"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alberto Iglesias",
+                  "notes": null,
+                  "imdb_id": "nm0407076"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bourne Ultimatum",
+                  "notes": null,
+                  "imdb_id": "tt0440963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Millan",
+                  "notes": null,
+                  "imdb_id": "nm0586793"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               },
+               {
+                  "name": "Kirk Francis",
+                  "notes": null,
+                  "imdb_id": "nm0290220"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "3:10 to Yuma",
+                  "notes": null,
+                  "imdb_id": "tt0381849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557338"
+               },
+               {
+                  "name": "David Giammarco",
+                  "notes": null,
+                  "imdb_id": "nm0316102"
+               },
+               {
+                  "name": "Jim Stuebe",
+                  "notes": null,
+                  "imdb_id": "nm0836096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               },
+               {
+                  "name": "Craig Berkey",
+                  "notes": null,
+                  "imdb_id": "nm0075389"
+               },
+               {
+                  "name": "Greg Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650088"
+               },
+               {
+                  "name": "Peter F. Kurland",
+                  "notes": null,
+                  "imdb_id": "nm0004212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ratatouille",
+                  "notes": null,
+                  "imdb_id": "tt0382932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Doc Kane",
+                  "notes": null,
+                  "imdb_id": "nm0437301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Transformers",
+                  "notes": null,
+                  "imdb_id": "tt0418279"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Peter J. Devlin",
+                  "notes": null,
+                  "imdb_id": "nm0222818"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bourne Ultimatum",
+                  "notes": null,
+                  "imdb_id": "tt0440963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karen Baker Landers",
+                  "notes": null,
+                  "imdb_id": "nm0048623"
+               },
+               {
+                  "name": "Per Hallberg",
+                  "notes": null,
+                  "imdb_id": "nm0356319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Country for Old Men",
+                  "notes": null,
+                  "imdb_id": "tt0477348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ratatouille",
+                  "notes": null,
+                  "imdb_id": "tt0382932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Michael Silvers",
+                  "notes": null,
+                  "imdb_id": "nm0799011"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "There Will Be Blood",
+                  "notes": null,
+                  "imdb_id": "tt0469494"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew Wood",
+                  "notes": null,
+                  "imdb_id": "nm0003214"
+               },
+               {
+                  "name": "Christopher Scarabosio",
+                  "notes": null,
+                  "imdb_id": "nm0769042"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Transformers",
+                  "notes": null,
+                  "imdb_id": "tt0418279"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Van der Ryn",
+                  "notes": null,
+                  "imdb_id": "nm0886399"
+               },
+               {
+                  "name": "Mike Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394243"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Golden Compass",
+                  "notes": null,
+                  "imdb_id": "tt0385752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael L. Fink",
+                  "notes": null,
+                  "imdb_id": "nm0277842"
+               },
+               {
+                  "name": "Bill Westenhofer",
+                  "notes": null,
+                  "imdb_id": "nm0922543"
+               },
+               {
+                  "name": "Ben Morris",
+                  "notes": null,
+                  "imdb_id": "nm0606377"
+               },
+               {
+                  "name": "Trevor Wood",
+                  "notes": null,
+                  "imdb_id": "nm0940058"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: At World's End",
+                  "notes": null,
+                  "imdb_id": "tt0449088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Knoll",
+                  "notes": null,
+                  "imdb_id": "nm0461306"
+               },
+               {
+                  "name": "Hal T. Hickel",
+                  "notes": null,
+                  "imdb_id": "nm0382579"
+               },
+               {
+                  "name": "Charles Gibson",
+                  "notes": null,
+                  "imdb_id": "nm0002716"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Transformers",
+                  "notes": null,
+                  "imdb_id": "tt0418279"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Farrar",
+                  "notes": null,
+                  "imdb_id": "nm0268141"
+               },
+               {
+                  "name": "Scott Benza",
+                  "notes": null,
+                  "imdb_id": "nm1388484"
+               },
+               {
+                  "name": "Russell Earl",
+                  "notes": null,
+                  "imdb_id": "nm0247270"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Peter and The Wolf",
+                  "notes": null,
+                  "imdb_id": "tt0863136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suzie Templeton",
+                  "notes": null,
+                  "imdb_id": "nm0994585"
+               },
+               {
+                  "name": "Hugh Welchman",
+                  "notes": null,
+                  "imdb_id": "nm1364790"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Even Pigeons Go to Heaven",
+                  "notes": null,
+                  "imdb_id": "tt1066329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Samuel Tourneux",
+                  "notes": null,
+                  "imdb_id": "nm1361017"
+               },
+               {
+                  "name": "Simon Vanesse",
+                  "notes": null,
+                  "imdb_id": "nm2331343"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Met the Walrus",
+                  "notes": null,
+                  "imdb_id": "tt1156511"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Josh Raskin",
+                  "notes": null,
+                  "imdb_id": "nm2865315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Tutli-Putli",
+                  "notes": null,
+                  "imdb_id": "tt1029440"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Lavis",
+                  "notes": null,
+                  "imdb_id": "nm2650321"
+               },
+               {
+                  "name": "Maciek Szczerbowski",
+                  "notes": null,
+                  "imdb_id": "nm2649299"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Love",
+                  "notes": null,
+                  "imdb_id": "tt0874952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aleksandr Petrov",
+                  "notes": null,
+                  "imdb_id": "nm0678154"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Mozart of Pickpockets",
+                  "notes": null,
+                  "imdb_id": "tt0820971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philippe Pollet-Villard",
+                  "notes": null,
+                  "imdb_id": "nm0689562"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "At Night",
+                  "notes": null,
+                  "imdb_id": "tt1117985"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian E. Christiansen",
+                  "notes": null,
+                  "imdb_id": "nm0160157"
+               },
+               {
+                  "name": "Louise Vesth",
+                  "notes": null,
+                  "imdb_id": "nm0895366"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tanghi argentini",
+                  "notes": null,
+                  "imdb_id": "tt0812387"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guy Thys",
+                  "notes": null,
+                  "imdb_id": "nm1157495"
+               },
+               {
+                  "name": "Anja Daelemans",
+                  "notes": null,
+                  "imdb_id": "nm0196664"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Substitute",
+                  "notes": null,
+                  "imdb_id": "tt0922627"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrea Jublin",
+                  "notes": null,
+                  "imdb_id": "nm2501703"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tonto Woman",
+                  "notes": null,
+                  "imdb_id": "tt1176466"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Barber",
+                  "notes": null,
+                  "imdb_id": "nm2905562"
+               },
+               {
+                  "name": "Matthew Brown",
+                  "notes": null,
+                  "imdb_id": "nm2920142"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Freeheld",
+                  "notes": null,
+                  "imdb_id": "tt0914369"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cynthia Wade",
+                  "notes": null,
+                  "imdb_id": "nm1106629"
+               },
+               {
+                  "name": "Vanessa Roth",
+                  "notes": null,
+                  "imdb_id": "nm0745043"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La corona",
+                  "notes": null,
+                  "imdb_id": "tt1157626"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Amanda Micheli",
+                  "notes": null,
+                  "imdb_id": "nm0584974"
+               },
+               {
+                  "name": "Isabel Vega",
+                  "notes": null,
+                  "imdb_id": "nm2872104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Salim Baba",
+                  "notes": null,
+                  "imdb_id": "tt1157707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Sternberg",
+                  "notes": null,
+                  "imdb_id": "nm0827922"
+               },
+               {
+                  "name": "Francisco Bello",
+                  "notes": null,
+                  "imdb_id": "nm2034116"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sari's Mother",
+                  "notes": null,
+                  "imdb_id": "tt0841160"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Longley",
+                  "notes": null,
+                  "imdb_id": "nm1228118"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Taxi to the Dark Side",
+                  "notes": null,
+                  "imdb_id": "tt0854678"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex Gibney",
+                  "notes": null,
+                  "imdb_id": "nm0316795"
+               },
+               {
+                  "name": "Eva Orner",
+                  "notes": null,
+                  "imdb_id": "nm0650321"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No End in Sight",
+                  "notes": null,
+                  "imdb_id": "tt0912593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm2480587"
+               },
+               {
+                  "name": "Audrey Marrs",
+                  "notes": null,
+                  "imdb_id": "nm2513737"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Operation Homecoming: Writing the Wartime Experience",
+                  "notes": null,
+                  "imdb_id": "tt0970184"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Robbins",
+                  "notes": null,
+                  "imdb_id": "nm0730446"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sicko",
+                  "notes": null,
+                  "imdb_id": "tt0386032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601619"
+               },
+               {
+                  "name": "Meghan O'Hara",
+                  "notes": null,
+                  "imdb_id": "nm1713258"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "War Dance",
+                  "notes": null,
+                  "imdb_id": "tt0912599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrea Nix",
+                  "notes": null,
+                  "imdb_id": "nm2107225"
+               },
+               {
+                  "name": "Sean Fine",
+                  "notes": null,
+                  "imdb_id": "nm0277658"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "notes": "Austria.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Counterfeiters",
+                  "notes": null,
+                  "imdb_id": "tt0813547"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Russia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "12",
+                  "notes": null,
+                  "imdb_id": "tt0488478"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Israel.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beaufort",
+                  "notes": null,
+                  "imdb_id": "tt0758732"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katyn",
+                  "notes": null,
+                  "imdb_id": "tt0879843"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Kazakhstan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mongol: The Rise of Genghis Khan",
+                  "notes": null,
+                  "imdb_id": "tt0416044"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ratatouille",
+                  "notes": null,
+                  "imdb_id": "tt0382932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brad Bird",
+                  "notes": null,
+                  "imdb_id": "nm0083348"
+               }
+            ]
+         },
+         {
+            "notes": "Marjane Satrapi became the first woman to be nominated for the Academy Award for Best Animated Feature Film of the Year.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Persepolis",
+                  "notes": null,
+                  "imdb_id": "tt0808417"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marjane Satrapi",
+                  "notes": null,
+                  "imdb_id": "nm2277869"
+               },
+               {
+                  "name": "Vincent Paronnaud",
+                  "notes": null,
+                  "imdb_id": "nm1749112"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Surf's Up",
+                  "notes": null,
+                  "imdb_id": "tt0423294"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ash Brannon",
+                  "notes": null,
+                  "imdb_id": "nm0105169"
+               },
+               {
+                  "name": "Chris Buck",
+                  "notes": null,
+                  "imdb_id": "nm0118333"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "La Vie en Rose",
+                  "notes": null,
+                  "imdb_id": "tt0450188"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Didier Lavergne",
+                  "notes": null,
+                  "imdb_id": "nm0491918"
+               },
+               {
+                  "name": "Jan Archibald",
+                  "notes": null,
+                  "imdb_id": "nm0033767"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norbit",
+                  "notes": null,
+                  "imdb_id": "tt0477051"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "Kazu Hiro",
+                  "notes": null,
+                  "imdb_id": "nm0875308"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: At World's End",
+                  "notes": null,
+                  "imdb_id": "tt0449088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Martin Samuel",
+                  "notes": null,
+                  "imdb_id": "nm0760407"
+               }
+            ]
+         }
+      ]
+   }
+]

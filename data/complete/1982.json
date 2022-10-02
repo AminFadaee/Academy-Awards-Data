@@ -1,0 +1,2107 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Henry Fonda was not present at the awards ceremony. His daughter and co-star Jane Fonda accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Henry Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000020"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burt Lancaster",
+                  "notes": null,
+                  "imdb_id": "nm0000044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Atlantic City",
+                  "notes": null,
+                  "imdb_id": "tt0080388"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dudley Moore",
+                  "notes": null,
+                  "imdb_id": "nm0001545"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur",
+                  "notes": null,
+                  "imdb_id": "tt0082031"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Absence of Malice",
+                  "notes": null,
+                  "imdb_id": "tt0081974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "John Gielgud was not present at the award's ceremony. Presenters Carol Burnett and Joel Grey accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Gielgud",
+                  "notes": null,
+                  "imdb_id": "nm0000024"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur",
+                  "notes": null,
+                  "imdb_id": "tt0082031"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howard E. Rollins Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0738415"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ian Holm",
+                  "notes": null,
+                  "imdb_id": "nm0000453"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Coco",
+                  "notes": null,
+                  "imdb_id": "nm0168394"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Only When I Laugh",
+                  "notes": null,
+                  "imdb_id": "tt0082853"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Katharine Hepburn was not present at the awards ceremony. Presenter Jon Voight accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Keaton",
+                  "notes": null,
+                  "imdb_id": "nm0000473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marsha Mason",
+                  "notes": null,
+                  "imdb_id": "nm0556850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Only When I Laugh",
+                  "notes": null,
+                  "imdb_id": "tt0082853"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The French Lieutenant's Woman",
+                  "notes": null,
+                  "imdb_id": "tt0082416"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Sarandon",
+                  "notes": null,
+                  "imdb_id": "nm0000215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Atlantic City",
+                  "notes": null,
+                  "imdb_id": "tt0080388"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Maureen Stapleton",
+                  "notes": null,
+                  "imdb_id": "nm0822972"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth McGovern",
+                  "notes": null,
+                  "imdb_id": "nm0001527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Hackett",
+                  "notes": null,
+                  "imdb_id": "nm0352466"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Only When I Laugh",
+                  "notes": null,
+                  "imdb_id": "tt0082853"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Melinda Dillon",
+                  "notes": null,
+                  "imdb_id": "nm0227039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Absence of Malice",
+                  "notes": null,
+                  "imdb_id": "tt0081974"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0721888"
+               },
+               {
+                  "name": "Leslie Dilley",
+                  "notes": null,
+                  "imdb_id": "nm0226896"
+               },
+               {
+                  "name": "Michael Ford",
+                  "notes": null,
+                  "imdb_id": "nm0285785"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heaven's Gate",
+                  "notes": null,
+                  "imdb_id": "tt0080855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tambi Larsen",
+                  "notes": null,
+                  "imdb_id": "nm0488910"
+               },
+               {
+                  "name": "James L. Berkey",
+                  "notes": null,
+                  "imdb_id": "nm0075391"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Graysmark",
+                  "notes": null,
+                  "imdb_id": "nm0337067"
+               },
+               {
+                  "name": "Patrizia von Brandenstein",
+                  "notes": null,
+                  "imdb_id": "nm0902038"
+               },
+               {
+                  "name": "Tony Reading",
+                  "notes": null,
+                  "imdb_id": "nm0713937"
+               },
+               {
+                  "name": "George DeTitta Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0221891"
+               },
+               {
+                  "name": "George DeTitta Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0221890"
+               },
+               {
+                  "name": "Peter Howitt",
+                  "notes": null,
+                  "imdb_id": "nm0398184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Sylbert",
+                  "notes": null,
+                  "imdb_id": "nm0843129"
+               },
+               {
+                  "name": "Michael Seirton",
+                  "notes": null,
+                  "imdb_id": "nm0782661"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Lieutenant's Woman",
+                  "notes": null,
+                  "imdb_id": "tt0082416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Assheton Gorton",
+                  "notes": null,
+                  "imdb_id": "nm0331378"
+               },
+               {
+                  "name": "Ann Mollo",
+                  "notes": null,
+                  "imdb_id": "nm0597082"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vittorio Storaro",
+                  "notes": null,
+                  "imdb_id": "nm0005886"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Excalibur",
+                  "notes": null,
+                  "imdb_id": "tt0082348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex Thomson",
+                  "notes": null,
+                  "imdb_id": "nm0004287"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Slocombe",
+                  "notes": null,
+                  "imdb_id": "nm0005878"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Miroslav Ondr\u00edcek",
+                  "notes": null,
+                  "imdb_id": "nm0005816"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pennies from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0082894"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Mackie",
+                  "notes": null,
+                  "imdb_id": "nm0533496"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anna Hill Johnstone",
+                  "notes": null,
+                  "imdb_id": "nm0426895"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shirley Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Lieutenant's Woman",
+                  "notes": null,
+                  "imdb_id": "tt0082416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Rand",
+                  "notes": null,
+                  "imdb_id": "nm0709497"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hugh Hudson",
+                  "notes": null,
+                  "imdb_id": "nm0399853"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louis Malle",
+                  "notes": null,
+                  "imdb_id": "nm0001501"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Atlantic City",
+                  "notes": null,
+                  "imdb_id": "tt0080388"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mark Rydell",
+                  "notes": null,
+                  "imdb_id": "nm0041932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steven Spielberg",
+                  "notes": null,
+                  "imdb_id": "nm0000229"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Genocide",
+                  "notes": null,
+                  "imdb_id": "tt0082443"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arnold Schwartzman",
+                  "notes": null,
+                  "imdb_id": "nm0777510"
+               },
+               {
+                  "name": "Marvin Hier",
+                  "notes": null,
+                  "imdb_id": "nm0383178"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Against Wind and Tide: A Cuban Odyssey",
+                  "notes": null,
+                  "imdb_id": "tt0081988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susanne Bauman",
+                  "notes": null,
+                  "imdb_id": "nm0062184"
+               },
+               {
+                  "name": "Paul Neshamkin",
+                  "notes": null,
+                  "imdb_id": "nm0626402"
+               },
+               {
+                  "name": "Jim Burroughs",
+                  "notes": null,
+                  "imdb_id": "nm0123202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brooklyn Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0082106"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Burns",
+                  "notes": null,
+                  "imdb_id": "nm0122741"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott",
+                  "notes": null,
+                  "imdb_id": "tt0082312"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary Benjamin",
+                  "notes": null,
+                  "imdb_id": "nm0071333"
+               },
+               {
+                  "name": "Susanne Simpson",
+                  "notes": null,
+                  "imdb_id": "nm0801224"
+               },
+               {
+                  "name": "Boyd Estus",
+                  "notes": null,
+                  "imdb_id": "nm0261936"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "El Salvador: Another Vietnam",
+                  "notes": null,
+                  "imdb_id": "tt0082315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glenn Silber",
+                  "notes": null,
+                  "imdb_id": "nm0797838"
+               },
+               {
+                  "name": "Tet\u00e9 Vasconcellos",
+                  "notes": null,
+                  "imdb_id": "nm0890359"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Close Harmony",
+                  "notes": null,
+                  "imdb_id": "tt0082187"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nigel Noble",
+                  "notes": null,
+                  "imdb_id": "nm0633649"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Americas in Transition",
+                  "notes": null,
+                  "imdb_id": "tt0082012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Obie Benz",
+                  "notes": null,
+                  "imdb_id": "nm0002312"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Journey for Survival",
+                  "notes": null,
+                  "imdb_id": "tt0082587"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Young",
+                  "notes": null,
+                  "imdb_id": "nm0949484"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "See What I Say",
+                  "notes": null,
+                  "imdb_id": "tt0083044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Linda Chapman",
+                  "notes": null,
+                  "imdb_id": "nm0152450"
+               },
+               {
+                  "name": "Pam LeBlanc",
+                  "notes": null,
+                  "imdb_id": "nm0495739"
+               },
+               {
+                  "name": "Freddi Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828408"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Urge to Build",
+                  "notes": null,
+                  "imdb_id": "tt0083265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roland Hall\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0356806"
+               },
+               {
+                  "name": "John Hoover",
+                  "notes": null,
+                  "imdb_id": "nm0393898"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Edlund",
+                  "notes": null,
+                  "imdb_id": "nm0249430"
+               },
+               {
+                  "name": "Kit West",
+                  "notes": null,
+                  "imdb_id": "nm0922187"
+               },
+               {
+                  "name": "Bruce Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0629785"
+               },
+               {
+                  "name": "Joe Johnston",
+                  "notes": null,
+                  "imdb_id": "nm0002653"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dragonslayer",
+                  "notes": null,
+                  "imdb_id": "tt0082288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Phil Tippett",
+                  "notes": null,
+                  "imdb_id": "nm0864138"
+               },
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "Brian Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0424644"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Kahn",
+                  "notes": null,
+                  "imdb_id": "nm0434883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terry Rawlings",
+                  "notes": null,
+                  "imdb_id": "nm0712625"
+               }
+            ]
+         },
+         {
+            "notes": "Posthumous nomination.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Wolfe",
+                  "notes": null,
+                  "imdb_id": "nm0938130"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dede Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020441"
+               },
+               {
+                  "name": "Craig McKay",
+                  "notes": null,
+                  "imdb_id": "nm0570947"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Lieutenant's Woman",
+                  "notes": null,
+                  "imdb_id": "tt0082416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Bloom",
+                  "notes": null,
+                  "imdb_id": "nm0089182"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Hungary",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mephisto",
+                  "notes": null,
+                  "imdb_id": "tt0082736"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Man of Iron",
+                  "notes": null,
+                  "imdb_id": "tt0082222"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Muddy River",
+                  "notes": null,
+                  "imdb_id": "tt0082280"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Switzerland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boat Is Full",
+                  "notes": null,
+                  "imdb_id": "tt0082095"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Brothers",
+                  "notes": null,
+                  "imdb_id": "tt0083226"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American Werewolf in London",
+                  "notes": null,
+                  "imdb_id": "tt0082010"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heartbeeps",
+                  "notes": null,
+                  "imdb_id": "tt0082507"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": "Vangelis was not present at the awards ceremony. Co-presenter William Hurt accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vangelis",
+                  "notes": null,
+                  "imdb_id": "nm0006331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dragonslayer",
+                  "notes": null,
+                  "imdb_id": "tt0082288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Grusin",
+                  "notes": null,
+                  "imdb_id": "nm0006115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Arthur's Theme (Best That You Can Do)\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Arthur",
+                  "notes": null,
+                  "imdb_id": "tt0082031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burt Bacharach",
+                  "notes": null,
+                  "imdb_id": "nm0000820"
+               },
+               {
+                  "name": "Carole Bayer Sager",
+                  "notes": null,
+                  "imdb_id": "nm0004728"
+               },
+               {
+                  "name": "Christopher Cross",
+                  "notes": null,
+                  "imdb_id": "nm0189131"
+               },
+               {
+                  "name": "Peter Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020899"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Endless Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Endless Love",
+                  "notes": null,
+                  "imdb_id": "tt0082329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Richie",
+                  "notes": null,
+                  "imdb_id": "nm0005360"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"For Your Eyes Only\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Your Eyes Only",
+                  "notes": null,
+                  "imdb_id": "tt0082398"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Conti",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006015"
+               },
+               {
+                  "name": "Mick Leeson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm8750776"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"One More Hour\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The First Time It Happens\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Muppet Caper",
+                  "notes": null,
+                  "imdb_id": "tt0082474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Raposo",
+                  "notes": null,
+                  "imdb_id": "nm0710809"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Puttnam",
+                  "notes": null,
+                  "imdb_id": "nm0701298"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atlantic City",
+                  "notes": null,
+                  "imdb_id": "tt0080388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Denis H\u00e9roux",
+                  "notes": null,
+                  "imdb_id": "nm0405759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0550881"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Gilbert",
+                  "notes": null,
+                  "imdb_id": "nm0317982"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crac",
+                  "notes": null,
+                  "imdb_id": "tt0082209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fr\u00e9d\u00e9ric Back",
+                  "notes": null,
+                  "imdb_id": "nm0045610"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Creation",
+                  "notes": null,
+                  "imdb_id": "tt0082212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Will Vinton",
+                  "notes": null,
+                  "imdb_id": "nm0899139"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tender Tale of Cinderella Penguin",
+                  "notes": null,
+                  "imdb_id": "tt0083182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janet Perlman",
+                  "notes": null,
+                  "imdb_id": "nm0674222"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Violet",
+                  "notes": null,
+                  "imdb_id": "tt0083293"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Kemp",
+                  "notes": null,
+                  "imdb_id": "nm0447351"
+               },
+               {
+                  "name": "Shelley Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0506099"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Couples and Robbers",
+                  "notes": null,
+                  "imdb_id": "tt0082207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christine Oestreicher",
+                  "notes": null,
+                  "imdb_id": "nm0644325"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "First Winter",
+                  "notes": null,
+                  "imdb_id": "tt0082383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John N. Smith",
+                  "notes": null,
+                  "imdb_id": "nm0808807"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": "Roy Charman was not present at the awards ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Raiders of the Lost Ark",
+                  "notes": null,
+                  "imdb_id": "tt0082971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Varney",
+                  "notes": null,
+                  "imdb_id": "nm0890106"
+               },
+               {
+                  "name": "Steve Maslow",
+                  "notes": null,
+                  "imdb_id": "nm0556541"
+               },
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Roy Charman",
+                  "notes": null,
+                  "imdb_id": "nm0153335"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Portman",
+                  "notes": null,
+                  "imdb_id": "nm0692446"
+               },
+               {
+                  "name": "David M. Ronne",
+                  "notes": null,
+                  "imdb_id": "nm0740122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Outland",
+                  "notes": null,
+                  "imdb_id": "tt0082869"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Wilkinson",
+                  "notes": null,
+                  "imdb_id": "nm0929414"
+               },
+               {
+                  "name": "Robert W. Glass Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0321903"
+               },
+               {
+                  "name": "Robert Thirlwell",
+                  "notes": null,
+                  "imdb_id": "nm0858222"
+               },
+               {
+                  "name": "Robin Gregory",
+                  "notes": null,
+                  "imdb_id": "nm0339932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pennies from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0082894"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael J. Kohut",
+                  "notes": null,
+                  "imdb_id": "nm0463489"
+               },
+               {
+                  "name": "Jay M. Harding",
+                  "notes": null,
+                  "imdb_id": "nm0362326"
+               },
+               {
+                  "name": "Richard Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878889"
+               },
+               {
+                  "name": "Al Overton Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0653929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Vorisek",
+                  "notes": null,
+                  "imdb_id": "nm0903459"
+               },
+               {
+                  "name": "Tom Fleischman",
+                  "notes": null,
+                  "imdb_id": "nm0281530"
+               },
+               {
+                  "name": "Simon Kaye",
+                  "notes": null,
+                  "imdb_id": "nm0443393"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "On Golden Pond",
+                  "notes": null,
+                  "imdb_id": "tt0082846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0860125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pennies from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0082894"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Potter",
+                  "notes": null,
+                  "imdb_id": "nm0693259"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prince of the City",
+                  "notes": null,
+                  "imdb_id": "tt0082945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Presson Allen",
+                  "notes": null,
+                  "imdb_id": "nm0696319"
+               },
+               {
+                  "name": "Sidney Lumet",
+                  "notes": null,
+                  "imdb_id": "nm0001486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ragtime",
+                  "notes": null,
+                  "imdb_id": "tt0082970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Weller",
+                  "notes": null,
+                  "imdb_id": "nm0919876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Lieutenant's Woman",
+                  "notes": null,
+                  "imdb_id": "tt0082416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Pinter",
+                  "notes": null,
+                  "imdb_id": "nm0056217"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chariots of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0082158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colin Welland",
+                  "notes": null,
+                  "imdb_id": "nm0919815"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Absence of Malice",
+                  "notes": null,
+                  "imdb_id": "tt0081974"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kurt Luedtke",
+                  "notes": null,
+                  "imdb_id": "nm0525104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur",
+                  "notes": null,
+                  "imdb_id": "tt0082031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330619"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atlantic City",
+                  "notes": null,
+                  "imdb_id": "tt0080388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Guare",
+                  "notes": null,
+                  "imdb_id": "nm0345359"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reds",
+                  "notes": null,
+                  "imdb_id": "tt0082979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               },
+               {
+                  "name": "Trevor Griffiths",
+                  "notes": null,
+                  "imdb_id": "nm0341767"
+               }
+            ]
+         }
+      ]
+   }
+]

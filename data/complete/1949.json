@@ -1,0 +1,2065 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Laurence Olivier was not present at the awards ceremony. Douglas Fairbanks Jr. accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clifton Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916067"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sitting Pretty",
+                  "notes": null,
+                  "imdb_id": "tt0040795"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dan Dailey",
+                  "notes": null,
+                  "imdb_id": "nm0197314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "When My Baby Smiles at Me",
+                  "notes": null,
+                  "imdb_id": "tt0040962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lew Ayres",
+                  "notes": null,
+                  "imdb_id": "nm0000817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Montgomery Clift",
+                  "notes": null,
+                  "imdb_id": "nm0001050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Search",
+                  "notes": null,
+                  "imdb_id": "tt0040765"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Walter Huston",
+                  "notes": null,
+                  "imdb_id": "nm0404158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Treasure of the Sierra Madre",
+                  "notes": null,
+                  "imdb_id": "tt0040897"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cecil Kellaway",
+                  "notes": null,
+                  "imdb_id": "nm0445523"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Luck of the Irish",
+                  "notes": null,
+                  "imdb_id": "tt0040553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Bickford",
+                  "notes": null,
+                  "imdb_id": "nm0001948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jos\u00e9 Ferrer",
+                  "notes": null,
+                  "imdb_id": "nm0001207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oskar Homolka",
+                  "notes": null,
+                  "imdb_id": "nm0393028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Remember Mama",
+                  "notes": null,
+                  "imdb_id": "tt0040458"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jane Wyman",
+                  "notes": null,
+                  "imdb_id": "nm0943837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Stanwyck",
+                  "notes": null,
+                  "imdb_id": "nm0001766"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sorry, Wrong Number",
+                  "notes": null,
+                  "imdb_id": "tt0040823"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ingrid Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0000006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Irene Dunne",
+                  "notes": null,
+                  "imdb_id": "nm0002050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Remember Mama",
+                  "notes": null,
+                  "imdb_id": "tt0040458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Olivia de Havilland",
+                  "notes": null,
+                  "imdb_id": "nm0000014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Claire Trevor",
+                  "notes": null,
+                  "imdb_id": "nm0872456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Key Largo",
+                  "notes": null,
+                  "imdb_id": "tt0040506"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Agnes Moorehead",
+                  "notes": null,
+                  "imdb_id": "nm0001547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Bel Geddes",
+                  "notes": null,
+                  "imdb_id": "nm0000895"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Remember Mama",
+                  "notes": null,
+                  "imdb_id": "tt0040458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ellen Corby",
+                  "notes": null,
+                  "imdb_id": "nm0179289"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Remember Mama",
+                  "notes": null,
+                  "imdb_id": "tt0040458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jean Simmons",
+                  "notes": null,
+                  "imdb_id": "nm0001739"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger K. Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299097"
+               },
+               {
+                  "name": "Carmen Dillon",
+                  "notes": null,
+                  "imdb_id": "nm0226973"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert M. Haas",
+                  "notes": null,
+                  "imdb_id": "nm0352002"
+               },
+               {
+                  "name": "William Wallace",
+                  "notes": null,
+                  "imdb_id": "nm0908905"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Red Shoes",
+                  "notes": null,
+                  "imdb_id": "tt0040725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hein Heckroth",
+                  "notes": null,
+                  "imdb_id": "nm0373081"
+               },
+               {
+                  "name": "Arthur Lawson",
+                  "notes": null,
+                  "imdb_id": "nm0493156"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Casey Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0730914"
+               },
+               {
+                  "name": "Joseph Kish",
+                  "notes": null,
+                  "imdb_id": "nm0457184"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Naked City",
+                  "notes": null,
+                  "imdb_id": "tt0040636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William H. Daniels",
+                  "notes": null,
+                  "imdb_id": "nm0200125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Foreign Affair",
+                  "notes": null,
+                  "imdb_id": "tt0040367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Remember Mama",
+                  "notes": null,
+                  "imdb_id": "tt0040458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Musuraca",
+                  "notes": null,
+                  "imdb_id": "nm0002228"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted D. McCord",
+                  "notes": null,
+                  "imdb_id": "nm0005792"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Portrait of Jennie",
+                  "notes": null,
+                  "imdb_id": "tt0040705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph H. August",
+                  "notes": null,
+                  "imdb_id": "nm0005641"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph A. Valentine",
+                  "notes": null,
+                  "imdb_id": "nm0884252"
+               },
+               {
+                  "name": "William V. Skall",
+                  "notes": null,
+                  "imdb_id": "nm0005877"
+               },
+               {
+                  "name": "Winton C. Hoch",
+                  "notes": null,
+                  "imdb_id": "nm0005743"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Green Grass of Wyoming",
+                  "notes": null,
+                  "imdb_id": "tt0040402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles G. Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164690"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Loves of Carmen",
+                  "notes": null,
+                  "imdb_id": "tt0040552"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William E. Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0811580"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Three Musketeers",
+                  "notes": null,
+                  "imdb_id": "tt0040876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert H. Planck",
+                  "notes": null,
+                  "imdb_id": "nm0686514"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger K. Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "B.F.'s Daughter",
+                  "notes": null,
+                  "imdb_id": "tt0040141"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene",
+                  "notes": null,
+                  "imdb_id": "nm0409898"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               },
+               {
+                  "name": "Barbara Karinska",
+                  "notes": null,
+                  "imdb_id": "nm0439362"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Emperor Waltz",
+                  "notes": null,
+                  "imdb_id": "tt0040317"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Gile Steele",
+                  "notes": null,
+                  "imdb_id": "nm0824554"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Treasure of the Sierra Madre",
+                  "notes": null,
+                  "imdb_id": "tt0040897"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anatole Litvak",
+                  "notes": null,
+                  "imdb_id": "nm0514822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Search",
+                  "notes": null,
+                  "imdb_id": "tt0040765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jean Negulesco",
+                  "notes": null,
+                  "imdb_id": "nm0624535"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Secret Land",
+                  "notes": null,
+                  "imdb_id": "tt0040767"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orville O. Dull",
+                  "notes": null,
+                  "imdb_id": "nm0241338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Quiet One",
+                  "notes": null,
+                  "imdb_id": "tt0040717"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janice Loeb",
+                  "notes": null,
+                  "imdb_id": "nm0517209"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Toward Independence",
+                  "notes": null,
+                  "imdb_id": "tt0040893"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heart to Heart",
+                  "notes": null,
+                  "imdb_id": "tt0040428"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Operation Vittles",
+                  "notes": null,
+                  "imdb_id": "tt0040673"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Portrait of Jennie",
+                  "notes": null,
+                  "imdb_id": "tt0040705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Eagler",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0247122"
+               },
+               {
+                  "name": "J. McMillan Johnson",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0425262"
+               },
+               {
+                  "name": "Russell Shearman",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0790480"
+               },
+               {
+                  "name": "Clarence Slifer",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0805822"
+               },
+               {
+                  "name": "Charles L. Freeman",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0293325"
+               },
+               {
+                  "name": "James G. Stewart",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0829468"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Deep Waters",
+                  "notes": null,
+                  "imdb_id": "tt0040281"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Hammeras",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0358518"
+               },
+               {
+                  "name": "Fred Sersen",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0785731"
+               },
+               {
+                  "name": "Edward Snyder",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0811451"
+               },
+               {
+                  "name": "Roger Heman Sr.",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0002703"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Naked City",
+                  "notes": null,
+                  "imdb_id": "tt0040636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Weatherwax",
+                  "notes": null,
+                  "imdb_id": "nm0915800"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Sullivan",
+                  "notes": null,
+                  "imdb_id": "nm0838068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Weisbart",
+                  "notes": null,
+                  "imdb_id": "nm0918694"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Red River",
+                  "notes": null,
+                  "imdb_id": "tt0040724"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Nyby",
+                  "notes": null,
+                  "imdb_id": "nm0638528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Red Shoes",
+                  "notes": null,
+                  "imdb_id": "tt0040725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reginald Mills",
+                  "notes": null,
+                  "imdb_id": "nm0590160"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Buttons and Bows\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Paleface",
+                  "notes": null,
+                  "imdb_id": "tt0040679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Livingston",
+                  "notes": null,
+                  "imdb_id": "nm0515254"
+               },
+               {
+                  "name": "Ray Evans",
+                  "notes": null,
+                  "imdb_id": "nm0263143"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"For Every Man There's a Woman\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casbah",
+                  "notes": null,
+                  "imdb_id": "tt0040214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "Leo Robin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0732209"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"It's Magic\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Romance on the High Seas",
+                  "notes": null,
+                  "imdb_id": "tt0040745"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jule Styne",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006312"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"This Is the Moment\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Lady in Ermine",
+                  "notes": null,
+                  "imdb_id": "tt0040869"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Friedrich Hollaender",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006130"
+               },
+               {
+                  "name": "Leo Robin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0732209"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Woody Woodpecker Song\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wet Blanket Policy",
+                  "notes": null,
+                  "imdb_id": "tt0040958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ramey Idriss",
+                  "notes": null,
+                  "imdb_id": "nm0406925"
+               },
+               {
+                  "name": "George Tibbles",
+                  "notes": null,
+                  "imdb_id": "nm0862565"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Red Shoes",
+                  "notes": null,
+                  "imdb_id": "tt0040725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Easdale",
+                  "notes": null,
+                  "imdb_id": "nm0247460"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Walton",
+                  "notes": null,
+                  "imdb_id": "nm0006338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan of Arc",
+                  "notes": null,
+                  "imdb_id": "tt0040491"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugo Friedhofer",
+                  "notes": null,
+                  "imdb_id": "nm0006087"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Easter Parade",
+                  "notes": null,
+                  "imdb_id": "tt0040308"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               },
+               {
+                  "name": "Roger Edens",
+                  "notes": null,
+                  "imdb_id": "nm0249136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Romance on the High Seas",
+                  "notes": null,
+                  "imdb_id": "tt0040745"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Emperor Waltz",
+                  "notes": null,
+                  "imdb_id": "tt0040317"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pirate",
+                  "notes": null,
+                  "imdb_id": "tt0040694"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennie Hayton",
+                  "notes": null,
+                  "imdb_id": "nm0006125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When My Baby Smiles at Me",
+                  "notes": null,
+                  "imdb_id": "tt0040962"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "Laurence Olivier was not present at the awards ceremony. Robert Montgomery accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0040416"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Red Shoes",
+                  "notes": null,
+                  "imdb_id": "tt0040725"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Treasure of the Sierra Madre",
+                  "notes": null,
+                  "imdb_id": "tt0040897"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Little Orphan",
+                  "notes": null,
+                  "imdb_id": "tt0041592"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mickey and the Seal",
+                  "notes": null,
+                  "imdb_id": "tt0040588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mouse Wreckers",
+                  "notes": null,
+                  "imdb_id": "tt0041661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Selzer",
+                  "notes": null,
+                  "imdb_id": "nm0783666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin Hoodlum",
+                  "notes": null,
+                  "imdb_id": "tt0040741"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tea for Two Hundred",
+                  "notes": null,
+                  "imdb_id": "tt0040863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rhythm of a City",
+                  "notes": null,
+                  "imdb_id": "tt0039648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund Reek",
+                  "notes": null,
+                  "imdb_id": "nm0715833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annie Was a Wonder",
+                  "notes": null,
+                  "imdb_id": "tt0040101"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Moulton",
+                  "notes": null,
+                  "imdb_id": "nm0609764"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cinderella Horse",
+                  "notes": null,
+                  "imdb_id": "tt0040233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So You Want to Be on the Radio",
+                  "notes": null,
+                  "imdb_id": "tt0040813"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "You Can't Win",
+                  "notes": null,
+                  "imdb_id": "tt0040981"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Seal Island",
+                  "notes": null,
+                  "imdb_id": "tt0040763"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Calgary Stampede",
+                  "notes": null,
+                  "imdb_id": "tt0040200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Going to Blazes!",
+                  "notes": null,
+                  "imdb_id": "tt0040393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samba-Mania",
+                  "notes": null,
+                  "imdb_id": "tt0040756"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Grey",
+                  "notes": null,
+                  "imdb_id": "nm0002590"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Snow Capers",
+                  "notes": null,
+                  "imdb_id": "tt0040807"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Mead",
+                  "notes": null,
+                  "imdb_id": "nm0574930"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": null,
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moonrise",
+                  "notes": null,
+                  "imdb_id": "tt0040607"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel J. Bloomberg",
+                  "notes": null,
+                  "imdb_id": "nm0089253"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Search",
+                  "notes": null,
+                  "imdb_id": "tt0040765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Schweizer",
+                  "notes": null,
+                  "imdb_id": "nm0777849"
+               },
+               {
+                  "name": "David Wechsler",
+                  "notes": null,
+                  "imdb_id": "nm0917047"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louisiana Story",
+                  "notes": null,
+                  "imdb_id": "tt0040550"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances H. Flaherty",
+                  "notes": null,
+                  "imdb_id": "nm0280878"
+               },
+               {
+                  "name": "Robert J. Flaherty",
+                  "notes": null,
+                  "imdb_id": "nm0280904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Red River",
+                  "notes": null,
+                  "imdb_id": "tt0040724"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Borden Chase",
+                  "notes": null,
+                  "imdb_id": "nm0153698"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Naked City",
+                  "notes": null,
+                  "imdb_id": "tt0040636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Malvin Wald",
+                  "notes": null,
+                  "imdb_id": "nm0907013"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Red Shoes",
+                  "notes": null,
+                  "imdb_id": "tt0040725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emeric Pressburger",
+                  "notes": null,
+                  "imdb_id": "nm0696247"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Treasure of the Sierra Madre",
+                  "notes": null,
+                  "imdb_id": "tt0040897"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Foreign Affair",
+                  "notes": null,
+                  "imdb_id": "tt0040367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Brackett",
+                  "notes": null,
+                  "imdb_id": "nm0102818"
+               },
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               },
+               {
+                  "name": "Richard L. Breen",
+                  "notes": null,
+                  "imdb_id": "nm0106764"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Belinda",
+                  "notes": null,
+                  "imdb_id": "tt0040495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irma von Cube",
+                  "notes": null,
+                  "imdb_id": "nm0902121"
+               },
+               {
+                  "name": "Allen Vincent",
+                  "notes": null,
+                  "imdb_id": "nm0898573"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Search",
+                  "notes": null,
+                  "imdb_id": "tt0040765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Schweizer",
+                  "notes": null,
+                  "imdb_id": "nm0777849"
+               },
+               {
+                  "name": "David Wechsler",
+                  "notes": null,
+                  "imdb_id": "nm0917047"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Snake Pit",
+                  "notes": null,
+                  "imdb_id": "tt0040806"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Partos",
+                  "notes": null,
+                  "imdb_id": "nm0664022"
+               },
+               {
+                  "name": "Millen Brand",
+                  "notes": null,
+                  "imdb_id": "nm0104503"
+               }
+            ]
+         }
+      ]
+   }
+]

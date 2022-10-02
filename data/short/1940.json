@@ -1,0 +1,846 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Donat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clark Gable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey Rooney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thomas Mitchell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brian Aherne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brian Donlevy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claude Rains"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Carey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Vivien Leigh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greer Garson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greta Garbo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene Dunne"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hattie McDaniel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edna May Oliver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Fitzgerald"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maria Ouspenskaya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Olivia de Havilland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beau Geste"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Fury"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of Conquest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stagecoach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Lives of Elizabeth and Essex"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rains Came"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wizard of Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wuthering Heights"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wuthering Heights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stagecoach"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Lives of Elizabeth and Essex"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Victor Fleming"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Capra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Rains Came"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Only Angels Have Wings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Lives of Elizabeth and Essex"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wizard of Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Topper Takes a Trip"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Union Pacific"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Mr. Chips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stagecoach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rains Came"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wizard of Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dark Victory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eternally Yours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Golden Boy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gulliver's Travels"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of Conquest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nurse Edith Cavell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Mice and Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man in the Iron Mask"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rains Came"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wuthering Heights"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wizard of Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gulliver's Travels"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Second Fiddle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Stagecoach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babes in Arms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Intermezzo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Mice and Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "She Married a Cop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Swanee River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Victor Herbert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunchback of Notre Dame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Lives of Elizabeth and Essex"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shall Have Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Way Down South"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dark Victory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Mr. Chips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ninotchka"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Mice and Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stagecoach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wizard of Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wuthering Heights"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ugly Duckling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Detouring America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peace on Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pointer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Busy Little Bears"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Information Please: Series 1, No. 1"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prophet Without Honor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sword Fishing"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sons of Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Drunk Driving"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Five Times Five"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "When Tomorrow Comes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Balalaika"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Mr. Chips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of Conquest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Mice and Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Victor Herbert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunchback of Notre Dame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Lives of Elizabeth and Essex"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rains Came"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bachelor Mother"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ninotchka"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Mr. Lincoln"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gone with the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Mr. Chips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Smith Goes to Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ninotchka"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wuthering Heights"
+            ]
+         }
+      ]
+   }
+]

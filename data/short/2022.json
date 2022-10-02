@@ -1,0 +1,837 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "CODA"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Belfast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Look Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Drive My Car"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Richard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Licorice Pizza"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightmare Alley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Will Smith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Andrew Garfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Benedict Cumberbatch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Javier Bardem"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jessica Chastain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kristen Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicole Kidman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Olivia Colman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pen\u00e9lope Cruz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Troy Kotsur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ciar\u00e1n Hinds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "J.K. Simmons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jesse Plemons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kodi Smit-McPhee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ariana DeBose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Aunjanue Ellis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessie Buckley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kirsten Dunst"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jane Campion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenneth Branagh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Thomas Anderson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ry\u00fbsuke Hamaguchi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Belfast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Look Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Richard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Licorice Pizza"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Worst Person in the World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "CODA"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Drive My Car"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lost Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightmare Alley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tragedy of Macbeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Look Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Richard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "tick, tick... BOOM!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightmare Alley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tragedy of Macbeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cruella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cyrano"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightmare Alley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Belfast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Time to Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Eyes of Tammy Faye"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coming 2 America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cruella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "House of Gucci"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Look Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Encanto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Parallel Mothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power of the Dog"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "No Time to Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Belfast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Encanto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Good Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Richard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Free Guy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Time to Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shang-Chi and the Legend of the Ten Rings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spider-Man: No Way Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ascension"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Attica"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Writing with Fire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Queen of Basketball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audible"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lead Me Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Songs for Benazir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When We Were Bullies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Encanto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Luca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raya and the Last Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mitchells vs the Machines"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Windshield Wiper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Affairs of the Art"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boxballet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Robin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Long Goodbye"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ala Kachuu - Take and Run"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On My Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Please Hold"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dress"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Drive My Car"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lunana: A Yak in the Classroom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hand of God"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Worst Person in the World"
+            ]
+         }
+      ]
+   }
+]

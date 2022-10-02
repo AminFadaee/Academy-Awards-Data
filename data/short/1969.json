@@ -1,0 +1,742 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cliff Robertson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Arkin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Bates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ron Moody"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Albertson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daniel Massey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gene Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Wild"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seymour Cassel"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barbra Streisand"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joanne Woodward"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patricia Neal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanessa Redgrave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ruth Gordon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Estelle Parsons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kay Medford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lynn Carlin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sondra Locke"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2001: A Space Odyssey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shoes of the Fisherman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War and Peace"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Romeo and Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ice Station Zebra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Romeo and Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Planet of the Apes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lion in Winter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Carol Reed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Harvey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Franco Zeffirelli"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gillo Pontecorvo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kubrick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Journey Into Self"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Few Notes on Our Food Problem"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Legendary Champions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Other Voices"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Americans"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Why Man Creates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Space to Grow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Way Out of the Wilderness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House That Ananda Built"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revolving Door"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "2001: A Space Odyssey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ice Station Zebra"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bullitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Odd Couple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild in the Streets"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "War and Peace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stolen Kisses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boys of Paul Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Firemen's Ball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Girl with a Pistol"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lion in Winter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Planet of the Apes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fox"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shoes of the Fisherman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thomas Crown Affair"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Thomas Crown Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chitty Chitty Bang Bang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For Love of Ivy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finian's Rainbow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Girls of Rochefort"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel, Rachel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romeo and Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lion in Winter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Winnie the Pooh and the Blustery Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La maison de Jean-Jacques"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic Pear Tree"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Windy Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Kennedy Remembered"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "De D\u00fcva: The Dove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pas de deux"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prelude"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bullitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finian's Rainbow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lion in Winter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oliver!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel, Rachel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosemary's Baby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Odd Couple"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Producers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2001: A Space Odyssey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Faces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hot Millions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of Algiers"
+            ]
+         }
+      ]
+   }
+]

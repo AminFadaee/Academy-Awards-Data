@@ -1,0 +1,678 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Hurt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Timothy Hutton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jason Robards"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joe Pesci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judd Hirsch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael O'Keefe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sissy Spacek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gena Rowlands"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goldie Hawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Tyler Moore"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mary Steenburgen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cathy Moriarty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diana Scarwid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eileen Brennan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eva Le Gallienne"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kagemusha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode V - The Empire Strikes Back"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raging Bull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Blue Lagoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Formula"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Brilliant Career"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Somewhere in Time"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Time Ran Out..."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Redford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lynch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Polanski"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Mao to Mozart: Isaac Stern in China"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Front Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Day After Trinity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Yellow Star: The Persecution of the Jews in Europe - 1933-1945"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Karl Hess: Toward Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Mess with Bill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's the Same World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Luther Metke at 94"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Eruption of Mount St. Helens!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Raging Bull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Competition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moscow Does Not Believe in Tears"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Confidence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El nido"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kagemusha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Metro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Altered States"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode V - The Empire Strikes Back"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "9 to 5"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Honeysuckle Rose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Competition"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ordinary People"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raging Bull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Fly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "History of the World in Three Minutes Flat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tout rien"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dollar Bottom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Jury of Her Peers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fall Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode V - The Empire Strikes Back"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Altered States"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raging Bull"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ordinary People"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breaker Morant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coal Miner's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elephant Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Stunt Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Melvin and Howard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brubaker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My American Uncle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Private Benjamin"
+            ]
+         }
+      ]
+   }
+]

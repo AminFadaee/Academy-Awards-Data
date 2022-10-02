@@ -1,0 +1,822 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Humphrey Bogart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Kennedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fredric March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Montgomery Clift"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Karl Malden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gig Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kevin McCarthy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leo Genn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Ustinov"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Vivien Leigh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eleanor Parker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Wyman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shelley Winters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kim Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Blondell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Grant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mildred Dunnock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fourteen Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La ronde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House on Telegraph Hill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Too Young to Kiss"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Bathsheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Riviera"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tales of Hoffmann"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Death of a Salesman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strangers on a Train"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Frogmen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Bathsheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Show Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Worlds Collide"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kind Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Model and the Marriage Broker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mudlark"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Bathsheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Caruso"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tales of Hoffmann"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Stevens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elia Kazan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vincente Minnelli"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kon-Tiki"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Was a Communist for the F.B.I."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Benjy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Who Came Back"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Seeing Eye"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "When Worlds Collide"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Decision Before Dawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Well"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Here Comes the Groom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Golden Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rich, Young and Pretty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Royal Wedding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Strip"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Bathsheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Death of a Salesman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice in Wonderland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Riviera"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Show Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Caruso"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Decision Before Dawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo Vadis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Two Mouseketeers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lambert the Sheepish Lion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rooty Toot Toot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "World of Kids"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ridin' the Rails"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Story of Time"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nature's Half Acre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Balzac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Danger Under the Sea"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Caruso"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bright Victory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Want You"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two Tickets to Broadway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Seven Days to Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bullfighter and the Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Here Comes the Groom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Teresa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Frogmen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place in the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Streetcar Named Desire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Detective Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La ronde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The African Queen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ace in the Hole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Bathsheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Go for Broke!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Well"
+            ]
+         }
+      ]
+   }
+]

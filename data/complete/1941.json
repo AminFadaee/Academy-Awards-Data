@@ -1,0 +1,3136 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "James Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0000071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Chaplin",
+                  "notes": null,
+                  "imdb_id": "nm0000122"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Great Dictator",
+                  "notes": null,
+                  "imdb_id": "tt0032553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000020"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raymond Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557339"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Abe Lincoln in Illinois",
+                  "notes": null,
+                  "imdb_id": "tt0032181"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Walter Brennan",
+                  "notes": null,
+                  "imdb_id": "nm0000974"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Westerner",
+                  "notes": null,
+                  "imdb_id": "tt0033253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Albert Bassermann",
+                  "notes": null,
+                  "imdb_id": "nm0060168"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Oakie",
+                  "notes": null,
+                  "imdb_id": "nm0642988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Great Dictator",
+                  "notes": null,
+                  "imdb_id": "tt0032553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Stephenson",
+                  "notes": null,
+                  "imdb_id": "nm0827263"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Gargan",
+                  "notes": null,
+                  "imdb_id": "nm0307326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "They Knew What They Wanted",
+                  "notes": null,
+                  "imdb_id": "tt0033150"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ginger Rogers",
+                  "notes": null,
+                  "imdb_id": "nm0001677"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kitty Foyle",
+                  "notes": null,
+                  "imdb_id": "tt0032671"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Fontaine",
+                  "notes": null,
+                  "imdb_id": "nm0000021"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martha Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jane Darwell",
+                  "notes": null,
+                  "imdb_id": "nm0002034"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara O'Neil",
+                  "notes": null,
+                  "imdb_id": "nm0641966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All This, and Heaven Too",
+                  "notes": null,
+                  "imdb_id": "tt0032194"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judith Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marjorie Rambeau",
+                  "notes": null,
+                  "imdb_id": "nm0708081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Primrose Path",
+                  "notes": null,
+                  "imdb_id": "tt0032946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ruth Hussey",
+                  "notes": null,
+                  "imdb_id": "nm0404046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pride and Prejudice",
+                  "notes": null,
+                  "imdb_id": "tt0032943"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arise, My Love",
+                  "notes": null,
+                  "imdb_id": "tt0032220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Robert Usher",
+                  "notes": null,
+                  "imdb_id": "nm0882336"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arizona",
+                  "notes": null,
+                  "imdb_id": "tt0032221"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Banks",
+                  "notes": null,
+                  "imdb_id": "nm0052206"
+               },
+               {
+                  "name": "Robert Peterson",
+                  "notes": null,
+                  "imdb_id": "nm0677035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dark Command",
+                  "notes": null,
+                  "imdb_id": "tt0032383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Victor Mackay",
+                  "notes": null,
+                  "imdb_id": "nm0533179"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lillian Russell",
+                  "notes": null,
+                  "imdb_id": "tt0032710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Joseph C. Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942532"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Favorite Wife",
+                  "notes": null,
+                  "imdb_id": "tt0029284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Van Nest Polglase",
+                  "notes": null,
+                  "imdb_id": "nm0689026"
+               },
+               {
+                  "name": "Mark-Lee Kirk",
+                  "notes": null,
+                  "imdb_id": "nm0456521"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Son, My Son!",
+                  "notes": null,
+                  "imdb_id": "tt0032831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John DuCasse Schulze",
+                  "notes": null,
+                  "imdb_id": "nm0776388"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lewis J. Rachmil",
+                  "notes": null,
+                  "imdb_id": "nm0705135"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boys from Syracuse",
+                  "notes": null,
+                  "imdb_id": "tt0032276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Otterson",
+                  "notes": null,
+                  "imdb_id": "nm0653163"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Hawk",
+                  "notes": null,
+                  "imdb_id": "tt0033028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anton Grot",
+                  "notes": null,
+                  "imdb_id": "nm0343819"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Westerner",
+                  "notes": null,
+                  "imdb_id": "tt0033253"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Basevi",
+                  "notes": null,
+                  "imdb_id": "nm0059730"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Thief of Bagdad",
+                  "notes": null,
+                  "imdb_id": "tt0033152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vincent Korda",
+                  "notes": null,
+                  "imdb_id": "nm0466112"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bitter Sweet",
+                  "notes": null,
+                  "imdb_id": "tt0032256"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "John S. Detlie",
+                  "notes": null,
+                  "imdb_id": "nm0221898"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Down Argentine Way",
+                  "notes": null,
+                  "imdb_id": "tt0032410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Joseph C. Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942532"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North West Mounted Police",
+                  "notes": null,
+                  "imdb_id": "tt0032850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Roland Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027380"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Abe Lincoln in Illinois",
+                  "notes": null,
+                  "imdb_id": "tt0032181"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Wong Howe",
+                  "notes": null,
+                  "imdb_id": "nm0002146"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All This, and Heaven Too",
+                  "notes": null,
+                  "imdb_id": "tt0032194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Haller",
+                  "notes": null,
+                  "imdb_id": "nm0005735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arise, My Love",
+                  "notes": null,
+                  "imdb_id": "tt0032220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boom Town",
+                  "notes": null,
+                  "imdb_id": "tt0032273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Rosson",
+                  "notes": null,
+                  "imdb_id": "nm0005849"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolph Mat\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0005789"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spring Parade",
+                  "notes": null,
+                  "imdb_id": "tt0033095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph A. Valentine",
+                  "notes": null,
+                  "imdb_id": "nm0884252"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Gaudio",
+                  "notes": null,
+                  "imdb_id": "nm0309974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gregg Toland",
+                  "notes": null,
+                  "imdb_id": "nm0005904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Waterloo Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0033238"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Ruttenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005853"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Thief of Bagdad",
+                  "notes": null,
+                  "imdb_id": "tt0033152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Georges P\u00e9rinal",
+                  "notes": null,
+                  "imdb_id": "nm0005838"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bitter Sweet",
+                  "notes": null,
+                  "imdb_id": "tt0032256"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver T. Marsh",
+                  "notes": null,
+                  "imdb_id": "nm0005784"
+               },
+               {
+                  "name": "Allen M. Davey",
+                  "notes": null,
+                  "imdb_id": "nm0202695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Down Argentine Way",
+                  "notes": null,
+                  "imdb_id": "tt0032410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               },
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North West Mounted Police",
+                  "notes": null,
+                  "imdb_id": "tt0032850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Milner",
+                  "notes": null,
+                  "imdb_id": "nm0005800"
+               },
+               {
+                  "name": "W. Howard Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Northwest Passage",
+                  "notes": null,
+                  "imdb_id": "tt0032851"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sidney Wagner",
+                  "notes": null,
+                  "imdb_id": "nm0906109"
+               },
+               {
+                  "name": "William V. Skall",
+                  "notes": null,
+                  "imdb_id": "nm0005877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Blue Bird",
+                  "notes": null,
+                  "imdb_id": "tt0032264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur C. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0587926"
+               },
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Ford",
+                  "notes": null,
+                  "imdb_id": "nm0000406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alfred Hitchcock",
+                  "notes": null,
+                  "imdb_id": "nm0000033"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Cukor",
+                  "notes": null,
+                  "imdb_id": "nm0002030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sam Wood",
+                  "notes": null,
+                  "imdb_id": "nm0939992"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kitty Foyle",
+                  "notes": null,
+                  "imdb_id": "tt0032671"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Thief of Bagdad",
+                  "notes": null,
+                  "imdb_id": "tt0033152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence W. Butler",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0125022"
+               },
+               {
+                  "name": "Jack Whitney",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0926303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boom Town",
+                  "notes": null,
+                  "imdb_id": "tt0032273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Arnold Gillespie",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0318901"
+               },
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Cyclops",
+                  "notes": null,
+                  "imdb_id": "tt0032412"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Eagler",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0247122"
+               },
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Million B.C.",
+                  "notes": null,
+                  "imdb_id": "tt0032871"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Seawright",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0780880"
+               },
+               {
+                  "name": "Elmer Raguse",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0706649"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Cosgrove",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0181832"
+               },
+               {
+                  "name": "Arthur Johns",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0424284"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Swiss Family Robinson",
+                  "notes": null,
+                  "imdb_id": "tt0033124"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vernon L. Walker",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0908289"
+               },
+               {
+                  "name": "John Aalberg",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0007356"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Blue Bird",
+                  "notes": null,
+                  "imdb_id": "tt0032264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Sersen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0785731"
+               },
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boys from Syracuse",
+                  "notes": null,
+                  "imdb_id": "tt0032276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Fulton",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0298483"
+               },
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0113094"
+               },
+               {
+                  "name": "Joe Lapis",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0487596"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Invisible Man Returns",
+                  "notes": null,
+                  "imdb_id": "tt0032635"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Fulton",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0298483"
+               },
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0113094"
+               },
+               {
+                  "name": "William Hedgcock",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0373232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "R.T. Layton",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0493632"
+               },
+               {
+                  "name": "Ray Binger",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0082915"
+               },
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Hawk",
+                  "notes": null,
+                  "imdb_id": "tt0033028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Byron Haskin",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0005738"
+               },
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Typhoon",
+                  "notes": null,
+                  "imdb_id": "tt0033196"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               },
+               {
+                  "name": "Loren L. Ryder",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0753122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Women in War",
+                  "notes": null,
+                  "imdb_id": "tt0033274"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Lydecker",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0527964"
+               },
+               {
+                  "name": "William Bradford",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0103099"
+               },
+               {
+                  "name": "Bud Thackery",
+                  "notes": "(photographic) (as Ellis J. Thackery)",
+                  "imdb_id": "nm0856844"
+               },
+               {
+                  "name": "Herbert Norsch",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0635942"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "North West Mounted Police",
+                  "notes": null,
+                  "imdb_id": "tt0032850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne Bauchens",
+                  "notes": null,
+                  "imdb_id": "nm0061640"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal C. Kern",
+                  "notes": null,
+                  "imdb_id": "nm0449456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Simpson",
+                  "notes": null,
+                  "imdb_id": "nm0801184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Low",
+                  "notes": null,
+                  "imdb_id": "nm0522848"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sherman Todd",
+                  "notes": null,
+                  "imdb_id": "nm0865285"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pinocchio",
+                  "notes": null,
+                  "imdb_id": "tt0032910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leigh Harline",
+                  "notes": null,
+                  "imdb_id": "nm0363316"
+               },
+               {
+                  "name": "Paul J. Smith",
+                  "notes": null,
+                  "imdb_id": "nm1345229"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": null,
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arizona",
+                  "notes": null,
+                  "imdb_id": "tt0032221"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dark Command",
+                  "notes": null,
+                  "imdb_id": "tt0032383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Favorite Wife",
+                  "notes": null,
+                  "imdb_id": "tt0029284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Webb",
+                  "notes": null,
+                  "imdb_id": "nm0002202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North West Mounted Police",
+                  "notes": null,
+                  "imdb_id": "tt0032850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Million B.C.",
+                  "notes": null,
+                  "imdb_id": "tt0032871"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Werner R. Heymann",
+                  "notes": null,
+                  "imdb_id": "nm0006128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Copland",
+                  "notes": null,
+                  "imdb_id": "nm0178716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fight for Life",
+                  "notes": null,
+                  "imdb_id": "tt0032465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Gruenberg",
+                  "notes": null,
+                  "imdb_id": "nm0344402"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Dictator",
+                  "notes": null,
+                  "imdb_id": "tt0032553"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Meredith Willson",
+                  "notes": null,
+                  "imdb_id": "nm0932745"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The House of the Seven Gables",
+                  "notes": null,
+                  "imdb_id": "tt0032610"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Skinner",
+                  "notes": null,
+                  "imdb_id": "nm0804244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Howards of Virginia",
+                  "notes": null,
+                  "imdb_id": "tt0032612"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Hageman",
+                  "notes": null,
+                  "imdb_id": "nm0006119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Hageman",
+                  "notes": null,
+                  "imdb_id": "nm0006119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mark of Zorro",
+                  "notes": null,
+                  "imdb_id": "tt0032762"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thief of Bagdad",
+                  "notes": null,
+                  "imdb_id": "tt0033152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Waterloo Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0033238"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Stothart",
+                  "notes": null,
+                  "imdb_id": "nm0006307"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"When You Wish Upon a Star\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pinocchio",
+                  "notes": null,
+                  "imdb_id": "tt0032910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leigh Harline",
+                  "notes": "(music)",
+                  "imdb_id": "nm0363316"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Down Argentine Way\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Down Argentine Way",
+                  "notes": null,
+                  "imdb_id": "tt0032410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Who Am I?\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hit Parade of 1941",
+                  "notes": null,
+                  "imdb_id": "tt0032600"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jule Styne",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006312"
+               },
+               {
+                  "name": "Walter Bullock",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0120190"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"It's a Blue World\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Music in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0032823"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chet Forrest",
+                  "notes": null,
+                  "imdb_id": "nm0286609"
+               },
+               {
+                  "name": "Bob Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942243"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Only Forever\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rhythm on the River",
+                  "notes": null,
+                  "imdb_id": "tt0032986"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James V. Monaco",
+                  "notes": "(music)",
+                  "imdb_id": "nm0597444"
+               },
+               {
+                  "name": "Johnny Burke",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0121741"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Love of My Life\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Second Chorus",
+                  "notes": null,
+                  "imdb_id": "tt0033029"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Artie Shaw",
+                  "notes": "(music)",
+                  "imdb_id": "nm0789600"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Waltzing in the Clouds\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spring Parade",
+                  "notes": null,
+                  "imdb_id": "tt0033095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Stolz",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006305"
+               },
+               {
+                  "name": "Gus Kahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006146"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Our Love Affair\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strike Up the Band",
+                  "notes": null,
+                  "imdb_id": "tt0033110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Edens",
+                  "notes": null,
+                  "imdb_id": "nm0249136"
+               },
+               {
+                  "name": "George Stoll",
+                  "notes": null,
+                  "imdb_id": "nm0006303"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I'd Know You Anywhere\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "You'll Find Out",
+                  "notes": null,
+                  "imdb_id": "tt0033283"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy McHugh",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006192"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tin Pan Alley",
+                  "notes": null,
+                  "imdb_id": "tt0033167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arise, My Love",
+                  "notes": null,
+                  "imdb_id": "tt0032220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hit Parade of 1941",
+                  "notes": null,
+                  "imdb_id": "tt0032600"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cy Feuer",
+                  "notes": null,
+                  "imdb_id": "nm0006074"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Irene",
+                  "notes": null,
+                  "imdb_id": "tt0032638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Collins",
+                  "notes": null,
+                  "imdb_id": "nm0172141"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Copland",
+                  "notes": null,
+                  "imdb_id": "nm0178716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Second Chorus",
+                  "notes": null,
+                  "imdb_id": "tt0033029"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Artie Shaw",
+                  "notes": null,
+                  "imdb_id": "nm0789600"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spring Parade",
+                  "notes": null,
+                  "imdb_id": "tt0033095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strike Up the Band",
+                  "notes": null,
+                  "imdb_id": "tt0033110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Stoll",
+                  "notes": null,
+                  "imdb_id": "nm0006303"
+               },
+               {
+                  "name": "Roger Edens",
+                  "notes": null,
+                  "imdb_id": "nm0249136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Hawk",
+                  "notes": null,
+                  "imdb_id": "tt0033028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erich Wolfgang Korngold",
+                  "notes": null,
+                  "imdb_id": "nm0006157"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "David O. Selznick was the founder and owner of Selznick International Pictures, and therefore won and took home Rebecca's Best Picture Oscar.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All This, and Heaven Too",
+                  "notes": null,
+                  "imdb_id": "tt0032194"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kitty Foyle",
+                  "notes": null,
+                  "imdb_id": "tt0032671"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Dictator",
+                  "notes": null,
+                  "imdb_id": "tt0032553"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Letter",
+                  "notes": null,
+                  "imdb_id": "tt0032701"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Milky Way",
+                  "notes": null,
+                  "imdb_id": "tt0032794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               },
+               {
+                  "name": "Rudolf Ising",
+                  "notes": null,
+                  "imdb_id": "nm0411208"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Wild Hare",
+                  "notes": null,
+                  "imdb_id": "tt0033260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Puss Gets the Boot",
+                  "notes": null,
+                  "imdb_id": "tt0032953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolf Ising",
+                  "notes": null,
+                  "imdb_id": "nm0411208"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Quicker'n a Wink",
+                  "notes": null,
+                  "imdb_id": "tt0032960"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         },
+         {
+            "notes": "Vitaphone Varieties",
+            "won": false,
+            "primary": [
+               {
+                  "name": "London Can Take It!",
+                  "notes": null,
+                  "imdb_id": "tt0032723"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "More About Nostradamus",
+                  "notes": null,
+                  "imdb_id": "tt0032810"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Siege",
+                  "notes": null,
+                  "imdb_id": "tt0033050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julien Bryan",
+                  "notes": null,
+                  "imdb_id": "nm0116964"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Teddy the Rough Rider",
+                  "notes": null,
+                  "imdb_id": "tt0033138"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eyes of the Navy",
+                  "notes": null,
+                  "imdb_id": "tt0032449"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "From the National Defense Series",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Service with the Colors",
+                  "notes": null,
+                  "imdb_id": "tt0033037"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Strike Up the Band",
+                  "notes": null,
+                  "imdb_id": "tt0033110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Behind the News",
+                  "notes": null,
+                  "imdb_id": "tt0032246"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles L. Lootens",
+                  "notes": "(Republic SSD)",
+                  "imdb_id": "nm0519780"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Caution",
+                  "notes": null,
+                  "imdb_id": "tt0032304"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Raguse",
+                  "notes": "(Hal Roach SSD)",
+                  "imdb_id": "nm0706649"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kitty Foyle",
+                  "notes": null,
+                  "imdb_id": "tt0032671"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Aalberg",
+                  "notes": "(RKO Radio SSD)",
+                  "imdb_id": "nm0007356"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North West Mounted Police",
+                  "notes": null,
+                  "imdb_id": "tt0032850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Loren L. Ryder",
+                  "notes": "(Paramount SSD)",
+                  "imdb_id": "nm0753122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Town",
+                  "notes": null,
+                  "imdb_id": "tt0032881"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spring Parade",
+                  "notes": null,
+                  "imdb_id": "tt0033095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(Universal SSD)",
+                  "imdb_id": "nm0113094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Howards of Virginia",
+                  "notes": null,
+                  "imdb_id": "tt0032612"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Whitney",
+                  "notes": "(General Service SSD)",
+                  "imdb_id": "nm0926303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Hawk",
+                  "notes": null,
+                  "imdb_id": "tt0033028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Too Many Husbands",
+                  "notes": null,
+                  "imdb_id": "tt0033174"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great McGinty",
+                  "notes": null,
+                  "imdb_id": "tt0032554"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Preston Sturges",
+                  "notes": null,
+                  "imdb_id": "nm0002545"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Angels Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0032209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Hecht",
+                  "notes": null,
+                  "imdb_id": "nm0372942"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Ehrlich's Magic Bullet",
+                  "notes": null,
+                  "imdb_id": "tt0032413"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Burnstine",
+                  "notes": null,
+                  "imdb_id": "nm0122943"
+               },
+               {
+                  "name": "Heinz Herald",
+                  "notes": null,
+                  "imdb_id": "nm0378431"
+               },
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foreign Correspondent",
+                  "notes": null,
+                  "imdb_id": "tt0032484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Bennett",
+                  "notes": null,
+                  "imdb_id": "nm0071657"
+               },
+               {
+                  "name": "Joan Harrison",
+                  "notes": null,
+                  "imdb_id": "nm0365661"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Dictator",
+                  "notes": null,
+                  "imdb_id": "tt0032553"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Chaplin",
+                  "notes": null,
+                  "imdb_id": "nm0000122"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Arise, My Love",
+                  "notes": null,
+                  "imdb_id": "tt0032220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Benjamin Glazer",
+                  "notes": null,
+                  "imdb_id": "nm0322227"
+               },
+               {
+                  "name": "Hans Sz\u00e9kely",
+                  "notes": null,
+                  "imdb_id": "nm0844459"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Comrade X",
+                  "notes": null,
+                  "imdb_id": "tt0032349"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Reisch",
+                  "notes": null,
+                  "imdb_id": "nm0281556"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edison, the Man",
+                  "notes": null,
+                  "imdb_id": "tt0032432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugo Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124947"
+               },
+               {
+                  "name": "Dore Schary",
+                  "notes": null,
+                  "imdb_id": "nm0770196"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Favorite Wife",
+                  "notes": null,
+                  "imdb_id": "tt0029284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo McCarey",
+                  "notes": null,
+                  "imdb_id": "nm0564970"
+               },
+               {
+                  "name": "Bella Spewack",
+                  "notes": null,
+                  "imdb_id": "nm0818415"
+               },
+               {
+                  "name": "Sam Spewack",
+                  "notes": null,
+                  "imdb_id": "nm0818416"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Westerner",
+                  "notes": null,
+                  "imdb_id": "tt0033253"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart N. Lake",
+                  "notes": null,
+                  "imdb_id": "nm0482193"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Philadelphia Story",
+                  "notes": null,
+                  "imdb_id": "tt0032904"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Ogden Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0829330"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kitty Foyle",
+                  "notes": null,
+                  "imdb_id": "tt0032671"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dalton Trumbo",
+                  "notes": null,
+                  "imdb_id": "nm0874308"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebecca",
+                  "notes": null,
+                  "imdb_id": "tt0032976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert E. Sherwood",
+                  "notes": null,
+                  "imdb_id": "nm0792845"
+               },
+               {
+                  "name": "Joan Harrison",
+                  "notes": null,
+                  "imdb_id": "nm0365661"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grapes of Wrath",
+                  "notes": null,
+                  "imdb_id": "tt0032551"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nunnally Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425913"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Long Voyage Home",
+                  "notes": null,
+                  "imdb_id": "tt0032728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dudley Nichols",
+                  "notes": null,
+                  "imdb_id": "nm0629580"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2091 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Cliff Robertson was not present at the Awards ceremony. Frank Sinatra accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cliff Robertson",
+                  "notes": null,
+                  "imdb_id": "nm0731772"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charly",
+                  "notes": null,
+                  "imdb_id": "tt0062794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alan Arkin",
+                  "notes": null,
+                  "imdb_id": "nm0000273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Heart Is a Lonely Hunter",
+                  "notes": null,
+                  "imdb_id": "tt0063050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alan Bates",
+                  "notes": null,
+                  "imdb_id": "nm0000869"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fixer",
+                  "notes": null,
+                  "imdb_id": "tt0062977"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter O'Toole",
+                  "notes": null,
+                  "imdb_id": "nm0000564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ron Moody",
+                  "notes": null,
+                  "imdb_id": "nm0600531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jack Albertson",
+                  "notes": null,
+                  "imdb_id": "nm0016776"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Subject Was Roses",
+                  "notes": null,
+                  "imdb_id": "tt0063654"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daniel Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557292"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gene Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000698"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Producers",
+                  "notes": null,
+                  "imdb_id": "tt0063462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Wild",
+                  "notes": null,
+                  "imdb_id": "nm0928349"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seymour Cassel",
+                  "notes": null,
+                  "imdb_id": "nm0001025"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Faces",
+                  "notes": null,
+                  "imdb_id": "tt0062952"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Tied with Katharine Hepburn for The Lion in Winter (1968).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barbra Streisand",
+                  "notes": null,
+                  "imdb_id": "nm0000659"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ]
+         },
+         {
+            "notes": "Tied with Barbra Streisand for Funny Girl (1968). Hepburn became the third performer to win consecutive awards, and the first to win three awards for lead roles. Anthony Harvey, the film's director, accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joanne Woodward",
+                  "notes": null,
+                  "imdb_id": "nm0940946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rachel, Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0063483"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Patricia Neal",
+                  "notes": null,
+                  "imdb_id": "nm0623658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Subject Was Roses",
+                  "notes": null,
+                  "imdb_id": "tt0063654"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vanessa Redgrave",
+                  "notes": null,
+                  "imdb_id": "nm0000603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Isadora",
+                  "notes": null,
+                  "imdb_id": "tt0063141"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ruth Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0002106"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rosemary's Baby",
+                  "notes": null,
+                  "imdb_id": "tt0063522"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Estelle Parsons",
+                  "notes": null,
+                  "imdb_id": "nm0663820"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rachel, Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0063483"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kay Medford",
+                  "notes": null,
+                  "imdb_id": "nm0575552"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lynn Carlin",
+                  "notes": null,
+                  "imdb_id": "nm0137524"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Faces",
+                  "notes": null,
+                  "imdb_id": "tt0062952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sondra Locke",
+                  "notes": null,
+                  "imdb_id": "nm0516800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Heart Is a Lonely Hunter",
+                  "notes": null,
+                  "imdb_id": "tt0063050"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Box",
+                  "notes": null,
+                  "imdb_id": "nm0101501"
+               },
+               {
+                  "name": "Terence Marsh",
+                  "notes": null,
+                  "imdb_id": "nm0550671"
+               },
+               {
+                  "name": "Vernon Dixon",
+                  "notes": null,
+                  "imdb_id": "nm0228999"
+               },
+               {
+                  "name": "Ken Muggleston",
+                  "notes": null,
+                  "imdb_id": "nm0611203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "2001: A Space Odyssey",
+                  "notes": null,
+                  "imdb_id": "tt0062622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Masters",
+                  "notes": null,
+                  "imdb_id": "nm0557650"
+               },
+               {
+                  "name": "Harry Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486127"
+               },
+               {
+                  "name": "Ernest Archer",
+                  "notes": null,
+                  "imdb_id": "nm0033658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boris Leven",
+                  "notes": null,
+                  "imdb_id": "nm0505227"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shoes of the Fisherman",
+                  "notes": null,
+                  "imdb_id": "tt0063599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Edward C. Carfagno",
+                  "notes": null,
+                  "imdb_id": "nm0137063"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "War and Peace",
+                  "notes": null,
+                  "imdb_id": "tt0063794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikhail Bogdanov",
+                  "notes": null,
+                  "imdb_id": "nm0091637"
+               },
+               {
+                  "name": "Gennady Myasnikov",
+                  "notes": null,
+                  "imdb_id": "nm0616569"
+               },
+               {
+                  "name": "Georgi Koshelev",
+                  "notes": null,
+                  "imdb_id": "nm0467024"
+               },
+               {
+                  "name": "V. Uvarov",
+                  "notes": null,
+                  "imdb_id": "nm1041809"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Romeo and Juliet",
+                  "notes": null,
+                  "imdb_id": "tt0063518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pasqualino De Santis",
+                  "notes": null,
+                  "imdb_id": "nm0005681"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ice Station Zebra",
+                  "notes": null,
+                  "imdb_id": "tt0063121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel L. Fapp",
+                  "notes": null,
+                  "imdb_id": "nm0005701"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oswald Morris",
+                  "notes": null,
+                  "imdb_id": "nm0005807"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Laszlo",
+                  "notes": null,
+                  "imdb_id": "nm0005768"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Romeo and Juliet",
+                  "notes": null,
+                  "imdb_id": "tt0063518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danilo Donati",
+                  "notes": null,
+                  "imdb_id": "nm0232219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phyllis Dalton",
+                  "notes": null,
+                  "imdb_id": "nm0198335"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Planet of the Apes",
+                  "notes": null,
+                  "imdb_id": "tt0063442"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morton Haack",
+                  "notes": null,
+                  "imdb_id": "nm0351736"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0111965"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299094"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Carol Reed",
+                  "notes": null,
+                  "imdb_id": "nm0715346"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Harvey",
+                  "notes": null,
+                  "imdb_id": "nm0367431"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Franco Zeffirelli",
+                  "notes": null,
+                  "imdb_id": "nm0001874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Romeo and Juliet",
+                  "notes": null,
+                  "imdb_id": "tt0063518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gillo Pontecorvo",
+                  "notes": null,
+                  "imdb_id": "nm0690597"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Battle of Algiers",
+                  "notes": null,
+                  "imdb_id": "tt0058946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "2001: A Space Odyssey",
+                  "notes": null,
+                  "imdb_id": "tt0062622"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": "Was awarded the Oscar on May 8, 1969 as the runner-up, after the Board of Governors determined 'Young Americans' to be ineligible and vacated its win.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Journey Into Self",
+                  "notes": null,
+                  "imdb_id": "tt0063160"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill McGaw",
+                  "notes": null,
+                  "imdb_id": "nm0569006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Few Notes on Our Food Problem",
+                  "notes": null,
+                  "imdb_id": "tt0062968"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Blue",
+                  "notes": null,
+                  "imdb_id": "nm0089505"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Legendary Champions",
+                  "notes": null,
+                  "imdb_id": "tt0063222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Cayton",
+                  "notes": null,
+                  "imdb_id": "nm0147326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Other Voices",
+                  "notes": null,
+                  "imdb_id": "tt0064773"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David H. Sawyer",
+                  "notes": null,
+                  "imdb_id": "nm0768150"
+               }
+            ]
+         },
+         {
+            "notes": "In 1969, the academy took back the golden statuette from documentary winner The Young Americans, because it was found that it had been released too early to be eligible for the 1968 Oscars.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Young Americans",
+                  "notes": null,
+                  "imdb_id": "tt0062515"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Cohn",
+                  "notes": null,
+                  "imdb_id": "nm0169944"
+               },
+               {
+                  "name": "Alexander Grasshoff",
+                  "notes": null,
+                  "imdb_id": "nm0335883"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Why Man Creates",
+                  "notes": null,
+                  "imdb_id": "tt0063804"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul Bass",
+                  "notes": null,
+                  "imdb_id": "nm0000866"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Space to Grow",
+                  "notes": null,
+                  "imdb_id": "tt0063632"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas P. Kelly Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0446162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Way Out of the Wilderness",
+                  "notes": null,
+                  "imdb_id": "tt0063796"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan E. Weisburd",
+                  "notes": null,
+                  "imdb_id": "nm0918741"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The House That Ananda Built",
+                  "notes": null,
+                  "imdb_id": "tt0063096"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fali Bilimoria",
+                  "notes": null,
+                  "imdb_id": "nm0082236"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Revolving Door",
+                  "notes": null,
+                  "imdb_id": "tt0063504"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee R. Bobker",
+                  "notes": null,
+                  "imdb_id": "nm0090395"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "notes": "Stanley Kubrick was not present at the awards ceremony. Presenters Diahann Carroll and Burt Lancaster accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "2001: A Space Odyssey",
+                  "notes": null,
+                  "imdb_id": "tt0062622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ice Station Zebra",
+                  "notes": null,
+                  "imdb_id": "tt0063121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Millar",
+                  "notes": null,
+                  "imdb_id": "nm0587671"
+               },
+               {
+                  "name": "J. McMillan Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425262"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bullitt",
+                  "notes": null,
+                  "imdb_id": "tt0062765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank P. Keller",
+                  "notes": null,
+                  "imdb_id": "nm0445628"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Swink",
+                  "notes": null,
+                  "imdb_id": "nm0842732"
+               },
+               {
+                  "name": "Maury Winetrobe",
+                  "notes": null,
+                  "imdb_id": "nm0934883"
+               },
+               {
+                  "name": "William Sands",
+                  "notes": null,
+                  "imdb_id": "nm0762383"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Kemplen",
+                  "notes": null,
+                  "imdb_id": "nm0447469"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Odd Couple",
+                  "notes": null,
+                  "imdb_id": "tt0063374"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Bracht",
+                  "notes": null,
+                  "imdb_id": "nm0102758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wild in the Streets",
+                  "notes": null,
+                  "imdb_id": "tt0063808"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred R. Feitshans Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0270808"
+               },
+               {
+                  "name": "Eve Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628085"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "USSR.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "War and Peace",
+                  "notes": null,
+                  "imdb_id": "tt0063794"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stolen Kisses",
+                  "notes": null,
+                  "imdb_id": "tt0062695"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Hungary.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boys of Paul Street",
+                  "notes": null,
+                  "imdb_id": "tt0062164"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Czechoslovakia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Firemen's Ball",
+                  "notes": null,
+                  "imdb_id": "tt0061781"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Girl with a Pistol",
+                  "notes": null,
+                  "imdb_id": "tt0063485"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Barry",
+                  "notes": null,
+                  "imdb_id": "nm0000290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Planet of the Apes",
+                  "notes": null,
+                  "imdb_id": "tt0063442"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fox",
+                  "notes": null,
+                  "imdb_id": "tt0062990"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lalo Schifrin",
+                  "notes": null,
+                  "imdb_id": "nm0006277"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shoes of the Fisherman",
+                  "notes": null,
+                  "imdb_id": "tt0063599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thomas Crown Affair",
+                  "notes": null,
+                  "imdb_id": "tt0063688"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0006166"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"The Windmills of Your Mind\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Thomas Crown Affair",
+                  "notes": null,
+                  "imdb_id": "tt0063688"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006166"
+               },
+               {
+                  "name": "Alan Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0074732"
+               },
+               {
+                  "name": "Marilyn Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004750"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Chitty Chitty Bang Bang\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chitty Chitty Bang Bang",
+                  "notes": null,
+                  "imdb_id": "tt0062803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"For Love of Ivy\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Love of Ivy",
+                  "notes": null,
+                  "imdb_id": "tt0062985"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quincy Jones",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005065"
+               },
+               {
+                  "name": "Bob Russell",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0751035"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Funny Girl\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jule Styne",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006312"
+               },
+               {
+                  "name": "Bob Merrill",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0581265"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Star!\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finian's Rainbow",
+                  "notes": null,
+                  "imdb_id": "tt0062974"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennie Hayton",
+                  "notes": null,
+                  "imdb_id": "nm0006125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Young Girls of Rochefort",
+                  "notes": null,
+                  "imdb_id": "tt0062873"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0006166"
+               },
+               {
+                  "name": "Jacques Demy",
+                  "notes": null,
+                  "imdb_id": "nm0218840"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Woolf",
+                  "notes": null,
+                  "imdb_id": "nm0941153"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Stark",
+                  "notes": null,
+                  "imdb_id": "nm0823256"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rachel, Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0063483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Romeo and Juliet",
+                  "notes": null,
+                  "imdb_id": "tt0063518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Havelock-Allan",
+                  "notes": null,
+                  "imdb_id": "nm0369743"
+               },
+               {
+                  "name": "John Brabourne",
+                  "notes": null,
+                  "imdb_id": "nm0102646"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Poll",
+                  "notes": null,
+                  "imdb_id": "nm0689347"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": "Walt Disney's nomination and award was posthumous, as he died two years prior to the film's release. Wolfgang Reitherman, the film's director, accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Winnie the Pooh and the Blustery Day",
+                  "notes": null,
+                  "imdb_id": "tt0063819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La maison de Jean-Jacques",
+                  "notes": null,
+                  "imdb_id": "tt0063262"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wolf Koenig",
+                  "notes": null,
+                  "imdb_id": "nm0462860"
+               },
+               {
+                  "name": "Jim Mackay",
+                  "notes": null,
+                  "imdb_id": "nm0533172"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magic Pear Tree",
+                  "notes": null,
+                  "imdb_id": "tt0063257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy T. Murakami",
+                  "notes": null,
+                  "imdb_id": "nm0613471"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Windy Day",
+                  "notes": null,
+                  "imdb_id": "tt0063816"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0399524"
+               },
+               {
+                  "name": "Faith Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0254454"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Robert Kennedy Remembered",
+                  "notes": null,
+                  "imdb_id": "tt0063514"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "De D\u00fcva: The Dove",
+                  "notes": null,
+                  "imdb_id": "tt0062906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Coe",
+                  "notes": null,
+                  "imdb_id": "nm0168642"
+               },
+               {
+                  "name": "Sidney Davis",
+                  "notes": null,
+                  "imdb_id": "nm0205468"
+               },
+               {
+                  "name": "Anthony Lover",
+                  "notes": null,
+                  "imdb_id": "nm0522612"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pas de deux",
+                  "notes": null,
+                  "imdb_id": "tt0063417"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prelude",
+                  "notes": null,
+                  "imdb_id": "tt0063454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Astin",
+                  "notes": null,
+                  "imdb_id": "nm0040014"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": "Recipient: Shepperton Studio Sound Department",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Warner Bros.-Seven Arts Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bullitt",
+                  "notes": null,
+                  "imdb_id": "tt0062765"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Warner Bros.-Seven Arts Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finian's Rainbow",
+                  "notes": null,
+                  "imdb_id": "tt0062974"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Columbia Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Girl",
+                  "notes": null,
+                  "imdb_id": "tt0062994"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: 20th Century-Fox Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star!",
+                  "notes": null,
+                  "imdb_id": "tt0063642"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lion in Winter",
+                  "notes": null,
+                  "imdb_id": "tt0063227"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0063953"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oliver!",
+                  "notes": null,
+                  "imdb_id": "tt0063385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vernon Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rachel, Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0063483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stewart Stern",
+                  "notes": null,
+                  "imdb_id": "nm0827856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rosemary's Baby",
+                  "notes": null,
+                  "imdb_id": "tt0063522"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roman Polanski",
+                  "notes": null,
+                  "imdb_id": "nm0000591"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Odd Couple",
+                  "notes": null,
+                  "imdb_id": "tt0063374"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800319"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Producers",
+                  "notes": null,
+                  "imdb_id": "tt0063462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mel Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0000316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "2001: A Space Odyssey",
+                  "notes": null,
+                  "imdb_id": "tt0062622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               },
+               {
+                  "name": "Arthur C. Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0002009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Faces",
+                  "notes": null,
+                  "imdb_id": "tt0062952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Cassavetes",
+                  "notes": null,
+                  "imdb_id": "nm0001023"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hot Millions",
+                  "notes": null,
+                  "imdb_id": "tt0063094"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ira Wallach",
+                  "notes": null,
+                  "imdb_id": "nm0908923"
+               },
+               {
+                  "name": "Peter Ustinov",
+                  "notes": null,
+                  "imdb_id": "nm0001811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Battle of Algiers",
+                  "notes": null,
+                  "imdb_id": "tt0058946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franco Solinas",
+                  "notes": null,
+                  "imdb_id": "nm0758357"
+               },
+               {
+                  "name": "Gillo Pontecorvo",
+                  "notes": null,
+                  "imdb_id": "nm0690597"
+               }
+            ]
+         }
+      ]
+   }
+]

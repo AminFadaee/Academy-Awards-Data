@@ -1,0 +1,2502 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Gary Cooper was not present at the awards ceremony. John Wayne accepted on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gary Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0000011"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alec Guinness",
+                  "notes": null,
+                  "imdb_id": "nm0000027"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lavender Hill Mob",
+                  "notes": null,
+                  "imdb_id": "tt0044829"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jos\u00e9 Ferrer",
+                  "notes": null,
+                  "imdb_id": "nm0001207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kirk Douglas",
+                  "notes": null,
+                  "imdb_id": "nm0000018"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marlon Brando",
+                  "notes": null,
+                  "imdb_id": "nm0000008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Viva Zapata!",
+                  "notes": null,
+                  "imdb_id": "tt0045296"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Anthony Quinn was not present at the awards ceremony. His wife Katherine DeMille accepted on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anthony Quinn",
+                  "notes": null,
+                  "imdb_id": "nm0000063"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Viva Zapata!",
+                  "notes": null,
+                  "imdb_id": "tt0045296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Hunnicutt",
+                  "notes": null,
+                  "imdb_id": "nm0402277"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Big Sky",
+                  "notes": null,
+                  "imdb_id": "tt0044419"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Palance",
+                  "notes": null,
+                  "imdb_id": "nm0001588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sudden Fear",
+                  "notes": null,
+                  "imdb_id": "tt0045205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Burton",
+                  "notes": null,
+                  "imdb_id": "nm0000009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Cousin Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0044937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Victor McLaglen",
+                  "notes": null,
+                  "imdb_id": "nm0572142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shirley Booth",
+                  "notes": null,
+                  "imdb_id": "nm0095804"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Come Back, Little Sheba",
+                  "notes": null,
+                  "imdb_id": "tt0044509"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Star",
+                  "notes": null,
+                  "imdb_id": "tt0045186"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Crawford",
+                  "notes": null,
+                  "imdb_id": "nm0001076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sudden Fear",
+                  "notes": null,
+                  "imdb_id": "tt0045205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Harris",
+                  "notes": null,
+                  "imdb_id": "nm0364915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Member of the Wedding",
+                  "notes": null,
+                  "imdb_id": "tt0044896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Hayward",
+                  "notes": null,
+                  "imdb_id": "nm0001333"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "With a Song in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0045333"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gloria Grahame",
+                  "notes": null,
+                  "imdb_id": "nm0002108"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Colette Marchand",
+                  "notes": null,
+                  "imdb_id": "nm0545376"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jean Hagen",
+                  "notes": null,
+                  "imdb_id": "nm0353405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Singin' in the Rain",
+                  "notes": null,
+                  "imdb_id": "tt0045152"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Terry Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601930"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Come Back, Little Sheba",
+                  "notes": null,
+                  "imdb_id": "tt0044509"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma Ritter",
+                  "notes": null,
+                  "imdb_id": "nm0728812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "With a Song in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0045333"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Edward C. Carfagno",
+                  "notes": null,
+                  "imdb_id": "nm0137063"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "F. Keogh Gleason",
+                  "notes": null,
+                  "imdb_id": "nm0322294"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carrie",
+                  "notes": null,
+                  "imdb_id": "tt0044486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Roland Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027380"
+               },
+               {
+                  "name": "Emile Kuri",
+                  "notes": null,
+                  "imdb_id": "nm0475689"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Cousin Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0044937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rashomon",
+                  "notes": null,
+                  "imdb_id": "tt0042876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Takashi Matsuyama",
+                  "notes": null,
+                  "imdb_id": "nm0559688"
+               },
+               {
+                  "name": "H. Motsumoto",
+                  "notes": null,
+                  "imdb_id": "nm0609442"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Viva Zapata!",
+                  "notes": null,
+                  "imdb_id": "tt0045296"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "Leland Fuller",
+                  "notes": null,
+                  "imdb_id": "nm0298285"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Claude E. Carpenter",
+                  "notes": null,
+                  "imdb_id": "nm0139304"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Sheriff",
+                  "notes": null,
+                  "imdb_id": "nm0792293"
+               },
+               {
+                  "name": "Marcel Vert\u00e8s",
+                  "notes": null,
+                  "imdb_id": "nm0895057"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Antoni Clave",
+                  "notes": null,
+                  "imdb_id": "nm0165385"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Merry Widow",
+                  "notes": null,
+                  "imdb_id": "tt0044900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Arthur Krams",
+                  "notes": null,
+                  "imdb_id": "nm0469735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Hotaling",
+                  "notes": null,
+                  "imdb_id": "nm0396208"
+               },
+               {
+                  "name": "John McCarthy Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0565042"
+               },
+               {
+                  "name": "Charles S. Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0859962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Snows of Kilimanjaro",
+                  "notes": null,
+                  "imdb_id": "tt0045162"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Paul S. Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289189"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Cousin Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0044937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph LaShelle",
+                  "notes": null,
+                  "imdb_id": "nm0005766"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Navajo",
+                  "notes": null,
+                  "imdb_id": "tt0044955"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Virgil Miller",
+                  "notes": null,
+                  "imdb_id": "nm0589489"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sudden Fear",
+                  "notes": null,
+                  "imdb_id": "tt0045205"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Sky",
+                  "notes": null,
+                  "imdb_id": "tt0044419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Harlan",
+                  "notes": null,
+                  "imdb_id": "nm0005737"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Winton C. Hoch",
+                  "notes": null,
+                  "imdb_id": "nm0005743"
+               },
+               {
+                  "name": "Archie Stout",
+                  "notes": null,
+                  "imdb_id": "nm0005887"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ivanhoe",
+                  "notes": null,
+                  "imdb_id": "tt0044760"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Young",
+                  "notes": null,
+                  "imdb_id": "nm0002875"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Million Dollar Mermaid",
+                  "notes": null,
+                  "imdb_id": "tt0044903"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Snows of Kilimanjaro",
+                  "notes": null,
+                  "imdb_id": "tt0045162"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Helen Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741423"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Affair in Trinidad",
+                  "notes": null,
+                  "imdb_id": "tt0044331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Louis",
+                  "notes": null,
+                  "imdb_id": "nm0521872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carrie",
+                  "notes": null,
+                  "imdb_id": "tt0044486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Cousin Rachel",
+                  "notes": null,
+                  "imdb_id": "tt0044937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               },
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sudden Fear",
+                  "notes": null,
+                  "imdb_id": "tt0045205"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sheila O'Brien",
+                  "notes": null,
+                  "imdb_id": "nm0639816"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcel Vert\u00e8s",
+                  "notes": null,
+                  "imdb_id": "nm0895057"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Antoni Clave",
+                  "notes": null,
+                  "imdb_id": "nm0165385"
+               },
+               {
+                  "name": "Mary Wills",
+                  "notes": null,
+                  "imdb_id": "nm0932683"
+               },
+               {
+                  "name": "Barbara Karinska",
+                  "notes": null,
+                  "imdb_id": "nm0439362"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Show on Earth",
+                  "notes": null,
+                  "imdb_id": "tt0044672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               },
+               {
+                  "name": "Miles White",
+                  "notes": null,
+                  "imdb_id": "nm0925240"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Merry Widow",
+                  "notes": null,
+                  "imdb_id": "tt0044900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Helen Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741423"
+               },
+               {
+                  "name": "Gile Steele",
+                  "notes": null,
+                  "imdb_id": "nm0824554"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "With a Song in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0045333"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Ford",
+                  "notes": null,
+                  "imdb_id": "nm0000406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cecil B. DeMille",
+                  "notes": null,
+                  "imdb_id": "nm0001124"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Greatest Show on Earth",
+                  "notes": null,
+                  "imdb_id": "tt0044672"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joseph L. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0000581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "5 Fingers",
+                  "notes": null,
+                  "imdb_id": "tt0044314"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sea Around Us",
+                  "notes": null,
+                  "imdb_id": "tt0044009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000740"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Navajo",
+                  "notes": null,
+                  "imdb_id": "tt0044955"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hall Bartlett",
+                  "notes": null,
+                  "imdb_id": "nm0058826"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hoaxters",
+                  "notes": null,
+                  "imdb_id": "tt0044713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dore Schary",
+                  "notes": null,
+                  "imdb_id": "nm0770196"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Neighbours",
+                  "notes": null,
+                  "imdb_id": "tt0044958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman McLaren",
+                  "notes": null,
+                  "imdb_id": "nm0572235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Devil Take Us",
+                  "notes": null,
+                  "imdb_id": "tt0044548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Epeira Diadema",
+                  "notes": null,
+                  "imdb_id": "tt0044590"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alberto Ancilotto",
+                  "notes": null,
+                  "imdb_id": "nm0025832"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Man Alive!",
+                  "notes": null,
+                  "imdb_id": "tt0044870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Plymouth Adventure",
+                  "notes": null,
+                  "imdb_id": "tt0045039"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmo Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930536"
+               },
+               {
+                  "name": "Harry Gerstad",
+                  "notes": null,
+                  "imdb_id": "nm0314899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Come Back, Little Sheba",
+                  "notes": null,
+                  "imdb_id": "tt0044509"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Low",
+                  "notes": null,
+                  "imdb_id": "nm0522848"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Flat Top",
+                  "notes": null,
+                  "imdb_id": "tt0044621"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Austin",
+                  "notes": null,
+                  "imdb_id": "nm0042553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Kemplen",
+                  "notes": null,
+                  "imdb_id": "nm0447469"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Show on Earth",
+                  "notes": null,
+                  "imdb_id": "tt0044672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne Bauchens",
+                  "notes": null,
+                  "imdb_id": "nm0061640"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"High Noon (Do Not Forsake Me, Oh My Darlin')\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006323"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Because You're Mine\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Because You're Mine",
+                  "notes": null,
+                  "imdb_id": "tt0044402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Brodszky",
+                  "notes": "(music)",
+                  "imdb_id": "nm0111004"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Thumbelina\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Loesser",
+                  "notes": null,
+                  "imdb_id": "nm0004230"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Zing a Little Zong\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Just for You",
+                  "notes": null,
+                  "imdb_id": "tt0044782"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Leo Robin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0732209"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Am I in Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Son of Paleface",
+                  "notes": null,
+                  "imdb_id": "tt0045177"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112032"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ivanhoe",
+                  "notes": null,
+                  "imdb_id": "tt0044760"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Miracle of Our Lady of Fatima",
+                  "notes": null,
+                  "imdb_id": "tt0044905"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thief",
+                  "notes": null,
+                  "imdb_id": "tt0045230"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herschel Burke Gilbert",
+                  "notes": null,
+                  "imdb_id": "nm0318074"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Viva Zapata!",
+                  "notes": null,
+                  "imdb_id": "tt0045296"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "With a Song in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0045333"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Singin' in the Rain",
+                  "notes": null,
+                  "imdb_id": "tt0045152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennie Hayton",
+                  "notes": null,
+                  "imdb_id": "nm0006125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Jazz Singer",
+                  "notes": null,
+                  "imdb_id": "tt0044765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               },
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Medium",
+                  "notes": null,
+                  "imdb_id": "tt0043794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gian Carlo Menotti",
+                  "notes": null,
+                  "imdb_id": "nm0579781"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Greatest Show on Earth",
+                  "notes": null,
+                  "imdb_id": "tt0044672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cecil B. DeMille",
+                  "notes": null,
+                  "imdb_id": "nm0001124"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kramer",
+                  "notes": null,
+                  "imdb_id": "nm0006452"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ivanhoe",
+                  "notes": null,
+                  "imdb_id": "tt0044760"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pandro S. Berman",
+                  "notes": null,
+                  "imdb_id": "nm0075825"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge",
+                  "notes": null,
+                  "imdb_id": "tt0044926"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Ford",
+                  "notes": null,
+                  "imdb_id": "nm0000406"
+               },
+               {
+                  "name": "Merian C. Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0178260"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Johann Mouse",
+                  "notes": null,
+                  "imdb_id": "tt0045937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Johnny Jet",
+                  "notes": null,
+                  "imdb_id": "tt0046005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madeline",
+                  "notes": null,
+                  "imdb_id": "tt0044865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pink and Blue Blues",
+                  "notes": null,
+                  "imdb_id": "tt0045033"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Romance of Transportation in Canada",
+                  "notes": null,
+                  "imdb_id": "tt0045100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Daly",
+                  "notes": null,
+                  "imdb_id": "nm0198514"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Light in the Window",
+                  "notes": null,
+                  "imdb_id": "tt0044836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boris Vermont",
+                  "notes": null,
+                  "imdb_id": "nm0894453"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Athletes of the Saddle",
+                  "notes": null,
+                  "imdb_id": "tt0044381"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Eaton",
+                  "notes": null,
+                  "imdb_id": "nm0247827"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Desert Killer",
+                  "notes": null,
+                  "imdb_id": "tt0044539"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Neighbours",
+                  "notes": null,
+                  "imdb_id": "tt0044958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman McLaren",
+                  "notes": null,
+                  "imdb_id": "nm0572235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Royal Scotland",
+                  "notes": null,
+                  "imdb_id": "tt0045108"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Water Birds",
+                  "notes": null,
+                  "imdb_id": "tt0045314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bridge of Time",
+                  "notes": null,
+                  "imdb_id": "tt0044447"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Devil Take Us",
+                  "notes": null,
+                  "imdb_id": "tt0044548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thar She Blows!",
+                  "notes": null,
+                  "imdb_id": "tt0045228"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sound Barrier",
+                  "notes": null,
+                  "imdb_id": "tt0044446"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hans Christian Andersen",
+                  "notes": null,
+                  "imdb_id": "tt0044685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Goldwyn Sound Department)",
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Promoter",
+                  "notes": null,
+                  "imdb_id": "tt0045056"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel J. Bloomberg",
+                  "notes": "(Republic Sound Department)",
+                  "imdb_id": "nm0089253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "With a Song in My Heart",
+                  "notes": null,
+                  "imdb_id": "tt0045333"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(20th Century-Fox Sound Department)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Greatest Show on Earth",
+                  "notes": null,
+                  "imdb_id": "tt0044672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fredric M. Frank",
+                  "notes": null,
+                  "imdb_id": "nm0290931"
+               },
+               {
+                  "name": "Theodore St. John",
+                  "notes": null,
+                  "imdb_id": "nm0820693"
+               },
+               {
+                  "name": "Frank Cavett",
+                  "notes": null,
+                  "imdb_id": "nm0147119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Son John",
+                  "notes": null,
+                  "imdb_id": "tt0044941"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo McCarey",
+                  "notes": null,
+                  "imdb_id": "nm0564970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Narrow Margin",
+                  "notes": null,
+                  "imdb_id": "tt0044954"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0326107"
+               },
+               {
+                  "name": "Jack Leonard",
+                  "notes": null,
+                  "imdb_id": "nm0502649"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pride of St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0045049"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guy Trosper",
+                  "notes": null,
+                  "imdb_id": "nm0873613"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sniper",
+                  "notes": null,
+                  "imdb_id": "tt0045161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edna Anhalt",
+                  "notes": null,
+                  "imdb_id": "nm0030018"
+               },
+               {
+                  "name": "Edward Anhalt",
+                  "notes": null,
+                  "imdb_id": "nm0030019"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bad and the Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0044391"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Schnee",
+                  "notes": null,
+                  "imdb_id": "nm0773660"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "5 Fingers",
+                  "notes": null,
+                  "imdb_id": "tt0044314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933858"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "High Noon",
+                  "notes": null,
+                  "imdb_id": "tt0044706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl Foreman",
+                  "notes": null,
+                  "imdb_id": "nm0286025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man in the White Suit",
+                  "notes": null,
+                  "imdb_id": "tt0044876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger MacDougall",
+                  "notes": null,
+                  "imdb_id": "nm0532032"
+               },
+               {
+                  "name": "John Dighton",
+                  "notes": null,
+                  "imdb_id": "nm0226538"
+               },
+               {
+                  "name": "Alexander Mackendrick",
+                  "notes": null,
+                  "imdb_id": "nm0533241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Quiet Man",
+                  "notes": null,
+                  "imdb_id": "tt0045061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank S. Nugent",
+                  "notes": null,
+                  "imdb_id": "nm0637793"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lavender Hill Mob",
+                  "notes": null,
+                  "imdb_id": "tt0044829"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "T.E.B. Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0165021"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pat and Mike",
+                  "notes": null,
+                  "imdb_id": "tt0045012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0002106"
+               },
+               {
+                  "name": "Garson Kanin",
+                  "notes": null,
+                  "imdb_id": "nm0437717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Atomic City",
+                  "notes": null,
+                  "imdb_id": "tt0044382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sydney Boehm",
+                  "notes": null,
+                  "imdb_id": "nm0091213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sound Barrier",
+                  "notes": null,
+                  "imdb_id": "tt0044446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terence Rattigan",
+                  "notes": null,
+                  "imdb_id": "nm0711905"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Viva Zapata!",
+                  "notes": null,
+                  "imdb_id": "tt0045296"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Steinbeck",
+                  "notes": null,
+                  "imdb_id": "nm0825705"
+               }
+            ]
+         }
+      ]
+   }
+]

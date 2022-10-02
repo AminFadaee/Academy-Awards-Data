@@ -1,0 +1,858 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rex Harrison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Quinn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Sellers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Peter Ustinov"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edmond O'Brien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Gielgud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Holloway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julie Andrews"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Bancroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Debbie Reynolds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kim Stanley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophia Loren"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lila Kedrova"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agnes Moorehead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edith Evans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladys Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grayson Hall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Zorba the Greek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Days in May"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Americanization of Emily"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Night of the Iguana"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unsinkable Molly Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What a Way to Go!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Zorba the Greek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fate Is the Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Americanization of Emily"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Night of the Iguana"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cheyenne Autumn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unsinkable Molly Brown"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Night of the Iguana"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A House Is Not a Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kisses for My President"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Visit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unsinkable Molly Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What a Way to Go!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Cukor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Cacoyannis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Glenville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Stevenson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kubrick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "World Without Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Days in November"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Over There, 1914-18"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Finest Hours"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nine from Little Rock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "140 Days Under the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breaking the Habit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children Without"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eskimo Artist: Kenojuak"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Goldfinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lively Set"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "7 Faces of Dr. Lao"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Father Goose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Yesterday, Today and Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raven's End"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sallah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Umbrellas of Cherbourg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woman in the Dunes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dear Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin and the 7 Hoods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Where Love Has Gone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Hard Day's Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin and the 7 Hoods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unsinkable Molly Brown"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Substantially Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hush...Hush, Sweet Charlotte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fall of the Roman Empire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pink Panther"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zorba the Greek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Pink Phink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christmas Cracker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Here's Nudnik"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Avoid Friendship"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Casals Conducts: 1964"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Help! My Snowman's Burning Down"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Legend of Jimmy Blue Eyes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Father Goose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unsinkable Molly Brown"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Becket"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Fair Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zorba the Greek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Father Goose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Hard Day's Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Potato, Two Potato"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Man from Rio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Organizer"
+            ]
+         }
+      ]
+   }
+]

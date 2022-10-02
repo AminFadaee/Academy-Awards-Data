@@ -1,0 +1,836 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Extremely Loud & Incredibly Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Midnight in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moneyball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Descendants"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Help"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tree of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jean Dujardin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brad Pitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Demi\u00e1n Bichir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Oldman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Clooney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rooney Mara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viola Davis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Christopher Plummer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jonah Hill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenneth Branagh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Max von Sydow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nick Nolte"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Octavia Spencer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "B\u00e9r\u00e9nice Bejo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Janet McTeer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Chastain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melissa McCarthy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Michel Hazanavicius"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alexander Payne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terrence Malick"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Midnight in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Separation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridesmaids"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Margin Call"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Artist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Descendants"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moneyball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ides of March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tinker Tailor Soldier Spy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Girl with the Dragon Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tree of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Deathly Hallows: Part 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Midnight in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Girl with the Dragon Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moneyball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Descendants"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anonymous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Eyre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "W.E."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Muppets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Adventures of Tintin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tinker Tailor Soldier Spy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moneyball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Girl with the Dragon Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers: Dark of the Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Drive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Girl with the Dragon Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers: Dark of the Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Horse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Deathly Hallows: Part 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Real Steel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rise of the Planet of the Apes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers: Dark of the Moon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Fantastic Flying Books of Mr. Morris Lessmore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Morning Stroll"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boy on the Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild Life"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Shore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pentecost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raju"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Time Freak"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tuba Atlantic"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Saving Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "God Is the Bigger Elvis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Incident in New Baghdad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Barber of Birmingham: Foot Soldier of the Civil Rights Movement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tsunami and the Cherry Blossom"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Undefeated"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hell and Back Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "If a Tree Falls: A Story of the Earth Liberation Front"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paradise Lost 3: Purgatory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pina"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Separation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Footnote"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Darkness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsieur Lazhar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rundskop"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rango"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Cat in Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chico & Rita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kung Fu Panda 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Puss in Boots"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Iron Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Nobbs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Deathly Hallows: Part 2"
+            ]
+         }
+      ]
+   }
+]

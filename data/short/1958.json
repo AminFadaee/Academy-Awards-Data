@@ -1,0 +1,672 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alec Guinness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Franciosa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Quinn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Laughton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Red Buttons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Kennedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Russ Tamblyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sessue Hayakawa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vittorio De Sica"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joanne Woodward"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna Magnani"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deborah Kerr"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth Taylor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lana Turner"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Miyoshi Umeki"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carolyn Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Varsi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elsa Lanchester"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope Lange"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sayonara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pal Joey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raintree County"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridge on the River Kwai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Affair to Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peyton Place"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sayonara"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Les Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Affair to Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pal Joey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raintree County"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joshua Logan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Robson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sidney Lumet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Albert Schweitzer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Bowery"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Torero"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Enemy Below"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spirit of St. Louis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridge on the River Kwai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gunfight at the O.K. Corral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pal Joey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sayonara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness for the Prosecution"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nights of Cabiria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mother India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nine Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Devil Strikes at Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gates of Paris"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Joker Is Wild"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Affair to Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "April Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tammy and the Bachelor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild Is the Wind"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridge on the River Kwai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Affair to Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boy on a Dolphin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Perri"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raintree County"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridge on the River Kwai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Angry Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peyton Place"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sayonara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness for the Prosecution"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Birds Anonymous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Droopy Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tabasco Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Truth About Mother Goose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trees and Jamaica Daddy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wetback Hound"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Chairy Tale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "City of Gold"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foothold on Antarctica"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Portugal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sayonara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gunfight at the O.K. Corral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pal Joey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness for the Prosecution"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridge on the River Kwai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Angry Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven Knows, Mr. Allison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peyton Place"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sayonara"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Designing Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I vitelloni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of a Thousand Faces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tin Star"
+            ]
+         }
+      ]
+   }
+]

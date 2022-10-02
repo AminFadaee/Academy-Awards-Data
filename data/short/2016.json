@@ -1,0 +1,848 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spotlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Spies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brooklyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Room"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Short"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bryan Cranston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eddie Redmayne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Matt Damon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Fassbender"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Brie Larson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charlotte Rampling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Lawrence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saoirse Ronan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mark Rylance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christian Bale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Ruffalo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sylvester Stallone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hardy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alicia Vikander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Jason Leigh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel McAdams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rooney Mara"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alejandro G. I\u00f1\u00e1rritu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam McKay"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Miller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lenny Abrahamson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom McCarthy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spotlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Spies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ex Machina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Straight Outta Compton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Big Short"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brooklyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Room"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Revenant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sicario"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hateful Eight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spotlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VII - The Force Awakens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Short"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Spies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Danish Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Danish Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The 100 Year-Old Man Who Climbed Out the Window and Disappeared"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spectre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fifty Shades of Grey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Racing Extinction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunting Ground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Youth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hateful Eight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Spies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sicario"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VII - The Force Awakens"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Spies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VII - The Force Awakens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sicario"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VII - The Force Awakens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ex Machina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mad Max: Fury Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VII - The Force Awakens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Martian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bear Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prologue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sanjay's Super Team"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "We Can't Live Without Cosmos"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "World of Tomorrow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Stutterer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alles wird gut"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ave Maria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Day One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shok"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Girl in the River: The Price of Forgiveness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Body Team 12"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chau, Beyond the Lines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claude Lanzmann: Spectres of the Shoah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Last Day of Freedom"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cartel Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Look of Silence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What Happened, Miss Simone?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winter on Fire: Ukraine's Fight for Freedom"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Son of Saul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Embrace of the Serpent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mustang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Theeb"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inside Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anomalisa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shaun the Sheep Movie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boy and the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Marnie Was There"
+            ]
+         }
+      ]
+   }
+]

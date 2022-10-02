@@ -1,0 +1,794 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Million Dollar Baby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ray"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sideways"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Aviator"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jamie Foxx"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clint Eastwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don Cheadle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Depp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hilary Swank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annette Bening"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Catalina Sandino Moreno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Imelda Staunton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Morgan Freeman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Alda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clive Owen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jamie Foxx"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thomas Haden Church"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laura Linney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Natalie Portman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie Okonedo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Virginia Madsen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Clint Eastwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alexander Payne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Leigh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Taylor Hackford"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Eternal Sunshine of the Spotless Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hotel Rwanda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Incredibles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vera Drake"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sideways"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Before Sunset"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Million Dollar Baby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Motorcycle Diaries"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Very Long Engagement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "House of Flying Daggers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Passion of the Christ"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Phantom of the Opera"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Series of Unfortunate Events"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Very Long Engagement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Phantom of the Opera"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Collateral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Million Dollar Baby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ray"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Series of Unfortunate Events"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ray"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Troy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Motorcycle Diaries"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shrek 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Chorus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Phantom of the Opera"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Polar Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Finding Neverland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Series of Unfortunate Events"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Prisoner of Azkaban"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Passion of the Christ"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Village"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ray"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spider-Man 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Aviator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Incredibles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Polar Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Incredibles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spider-Man 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Polar Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spider-Man 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Prisoner of Azkaban"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I, Robot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birthday Boy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gopher Broke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guard Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lorenzo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wasp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "7:35 in the Morning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Everything in This Country Must"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Terrorist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two Cars, One Night"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mighty Times: The Children's March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Autism Is a World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hardwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sister Rose's Passion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children of Leningradsky"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Born Into Brothels: Calcutta's Red Light Kids"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Super Size Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Story of the Weeping Camel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tupac: Resurrection"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twist of Faith"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sea Inside"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "As It Is in Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Downfall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Chorus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yesterday"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Incredibles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shark Tale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shrek 2"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Series of Unfortunate Events"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Passion of the Christ"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea Inside"
+            ]
+         }
+      ]
+   }
+]

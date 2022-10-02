@@ -1,0 +1,800 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nicolas Cage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Massimo Troisi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Dreyfuss"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sean Penn"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kevin Spacey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brad Pitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ed Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Cromwell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tim Roth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Susan Sarandon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elisabeth Shue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sharon Stone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mira Sorvino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Allen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kathleen Quinlan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mare Winningham"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Restoration"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Little Princess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard III"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Little Princess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Batman Forever"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sense and Sensibility"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shanghai Triad"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Restoration"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Monkeys"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard III"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sense and Sensibility"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mel Gibson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chris Noonan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Radford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Figgis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tim Robbins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anne Frank Remembered"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hank Aaron: Chasing the Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Small Wonders"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle Over Citizen Kane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Troublesome Creek: A Midwestern"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Survivor Remembers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jim Dine: A Self-Portrait on the Walls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Never Give Up: The 20th Century Odyssey of Herbert Zipper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Living Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shadow of Hate"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Batman Forever"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crimson Tide"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Babe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apollo 13"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crimson Tide"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Se7en"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Antonia's Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dust of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Lessons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "O Quatrilho"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Star Maker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Family"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roommates"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Postman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nixon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sense and Sensibility"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pocahontas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The American President"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unstrung Heroes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pocahontas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dead Man Walking"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don Juan DeMarco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sense and Sensibility"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Postman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Close Shave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gagarin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Runaway Brain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Chicken from Outer Space"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The End"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lieberman in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brooms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Duke of Groove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Surprises"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tuesday Morning Ride"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Batman Forever"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crimson Tide"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waterworld"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sense and Sensibility"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apollo 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leaving Las Vegas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Postman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Usual Suspects"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Braveheart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mighty Aphrodite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nixon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story"
+            ]
+         }
+      ]
+   }
+]

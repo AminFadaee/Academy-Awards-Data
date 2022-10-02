@@ -1,0 +1,867 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Parasite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ford v Ferrari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jojo Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marriage Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joaquin Phoenix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam Driver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Antonio Banderas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jonathan Pryce"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ren\u00e9e Zellweger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charlize Theron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cynthia Erivo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saoirse Ronan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scarlett Johansson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Brad Pitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joe Pesci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Laura Dern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Florence Pugh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kathy Bates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Margot Robbie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scarlett Johansson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bong Joon Ho"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quentin Tarantino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Mendes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Todd Phillips"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Parasite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Knives Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marriage Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jojo Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Two Popes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lighthouse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Andrew Buckland",
+               "Michael McCusker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Groth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jinmo Yang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Schoonmaker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Eagles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jojo Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Parasite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jojo Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bombshell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maleficent: Mistress of Evil"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marriage Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode IX - The Rise of Skywalker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rocketman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breakthrough"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frozen II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harriet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story 4"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ad Astra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ford v Ferrari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ford v Ferrari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Time in Hollywood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode IX - The Rise of Skywalker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "1917"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avengers: Endgame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode IX - The Rise of Skywalker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Irishman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lion King"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Factory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For Sama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Honeyland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Edge of Democracy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Learning to Skateboard in a Warzone (If You're a Girl)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Absence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life Overtakes Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "St. Louis Superman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walk Run Cha-Cha"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toy Story 4"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Train Your Dragon: The Hidden World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Lost My Body"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Klaus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Missing Link"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hair Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kitbull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memorable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sister"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Neighbors' Window"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Sister"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brotherhood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nefta Football Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saria"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Parasite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Corpus Christi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Honeyland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les mis\u00e9rables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pain and Glory"
+            ]
+         }
+      ]
+   }
+]

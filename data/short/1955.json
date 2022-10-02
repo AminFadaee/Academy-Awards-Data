@@ -1,0 +1,852 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bing Crosby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dan O'Herlihy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Humphrey Bogart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Mason"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Edmond O'Brien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Karl Malden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee J. Cobb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rod Steiger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Tully"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grace Kelly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audrey Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dorothy Dandridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Wyman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judy Garland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Eva Marie Saint"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claire Trevor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jan Sterling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katy Jurado"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nina Foch"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Executive Suite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Le plaisir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Country Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "20,000 Leagues Under the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brigadoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "D\u00e9sir\u00e9e"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Red Garters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Executive Suite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rogue Cop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Country Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Three Coins in the Fountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rear Window"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Brides for Seven Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Egyptian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silver Chalice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Executive Suite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiscretion of an American Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It Should Happen to You"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Earrings of Madame De..."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gate of Hell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brigadoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "D\u00e9sir\u00e9e"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There's No Business Like Show Business"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Elia Kazan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfred Hitchcock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Seaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William A. Wellman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Vanishing Prairie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Stratford Adventure"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thursday's Children"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jet Carrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rembrandt: A Self-Portrait"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "20,000 Leagues Under the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hell and High Water"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Them!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "20,000 Leagues Under the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Brides for Seven Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caine Mutiny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The High and the Mighty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Three Coins in the Fountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Slept Here"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The High and the Mighty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "White Christmas"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The High and the Mighty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Genevieve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caine Mutiny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silver Chalice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Seven Brides for Seven Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carmen Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Glenn Miller Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There's No Business Like Show Business"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Brides for Seven Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caine Mutiny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Country Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Coins in the Fountain"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "When Magoo Flew"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crazy Mixed Up Pup"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pigs Is Pigs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sandy Claws"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Touch\u00e9, Pussy Cat!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "This Mechanical Age"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strauss Fantasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The First Piano Quartette"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Time Out of War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beauty and the Bull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jet Carrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Siam"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Glenn Miller Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brigadoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rear Window"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Slept Here"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caine Mutiny"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Broken Lance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bread, Love and Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forbidden Games"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Night People"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There's No Business Like Show Business"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Country Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rear Window"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sabrina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Brides for Seven Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caine Mutiny"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Genevieve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Knock on Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Barefoot Contessa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Glenn Miller Story"
+            ]
+         }
+      ]
+   }
+]

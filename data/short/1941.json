@@ -1,0 +1,1060 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "James Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Chaplin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raymond Massey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Walter Brennan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Bassermann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Oakie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Stephenson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Gargan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ginger Rogers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Fontaine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martha Scott"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jane Darwell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara O'Neil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judith Anderson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marjorie Rambeau"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ruth Hussey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pride and Prejudice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arise, My Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arizona"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dark Command"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foreign Correspondent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lillian Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Favorite Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Son, My Son!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boys from Syracuse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea Hawk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Westerner"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Thief of Bagdad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bitter Sweet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Down Argentine Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North West Mounted Police"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Abe Lincoln in Illinois"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All This, and Heaven Too"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arise, My Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boom Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foreign Correspondent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spring Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Letter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waterloo Bridge"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Thief of Bagdad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bitter Sweet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Down Argentine Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North West Mounted Police"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Northwest Passage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Blue Bird"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfred Hitchcock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Cukor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Thief of Bagdad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boom Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Cyclops"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foreign Correspondent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Million B.C."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Swiss Family Robinson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Blue Bird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boys from Syracuse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Invisible Man Returns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea Hawk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Typhoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Women in War"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "North West Mounted Police"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grapes of Wrath"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Letter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pinocchio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arizona"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dark Command"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Favorite Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North West Mounted Police"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Million B.C."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fight for Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Dictator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House of the Seven Gables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Howards of Virginia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Letter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mark of Zorro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thief of Bagdad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waterloo Bridge"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pinocchio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Down Argentine Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hit Parade of 1941"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Music in My Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rhythm on the River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Second Chorus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spring Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strike Up the Band"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You'll Find Out"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tin Pan Alley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arise, My Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hit Parade of 1941"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Second Chorus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spring Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strike Up the Band"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea Hawk"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All This, and Heaven Too"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foreign Correspondent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kitty Foyle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grapes of Wrath"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Dictator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Letter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Philadelphia Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Milky Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Wild Hare"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Puss Gets the Boot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Quicker'n a Wink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "London Can Take It!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "More About Nostradamus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Siege"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Teddy the Rough Rider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eyes of the Navy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Service with the Colors"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Strike Up the Band"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Behind the News"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Caution"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kitty Foyle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North West Mounted Police"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spring Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grapes of Wrath"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Howards of Virginia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea Hawk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Too Many Husbands"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great McGinty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angels Over Broadway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Ehrlich's Magic Bullet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foreign Correspondent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Dictator"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Arise, My Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Comrade X"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edison, the Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Favorite Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Westerner"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Philadelphia Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kitty Foyle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebecca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grapes of Wrath"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Long Voyage Home"
+            ]
+         }
+      ]
+   }
+]

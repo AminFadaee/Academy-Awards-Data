@@ -1,0 +1,773 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Tied with Wallace Beery for The Champ (1931).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fredric March",
+                  "notes": null,
+                  "imdb_id": "nm0545298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0022835"
+               }
+            ]
+         },
+         {
+            "notes": "Tied with Fredric March for Dr. Jekyll and Mr. Hyde (1931).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wallace Beery",
+                  "notes": null,
+                  "imdb_id": "nm0000891"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Champ",
+                  "notes": null,
+                  "imdb_id": "tt0021730"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alfred Lunt",
+                  "notes": null,
+                  "imdb_id": "nm0526795"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Guardsman",
+                  "notes": null,
+                  "imdb_id": "tt0021931"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Helen Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0371040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sin of Madelon Claudet",
+                  "notes": null,
+                  "imdb_id": "tt0022386"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lynn Fontanne",
+                  "notes": null,
+                  "imdb_id": "nm0285007"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Guardsman",
+                  "notes": null,
+                  "imdb_id": "tt0021931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marie Dressler",
+                  "notes": null,
+                  "imdb_id": "nm0237597"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emma",
+                  "notes": null,
+                  "imdb_id": "tt0022854"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Transatlantic",
+                  "notes": null,
+                  "imdb_id": "tt0022500"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Wiles",
+                  "notes": null,
+                  "imdb_id": "nm0928781"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arrowsmith",
+                  "notes": null,
+                  "imdb_id": "tt0021622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "\u00c0 nous la libert\u00e9",
+                  "notes": null,
+                  "imdb_id": "tt0022599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lazare Meerson",
+                  "notes": null,
+                  "imdb_id": "nm0576226"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shanghai Express",
+                  "notes": null,
+                  "imdb_id": "tt0023458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Garmes",
+                  "notes": null,
+                  "imdb_id": "nm0005716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arrowsmith",
+                  "notes": null,
+                  "imdb_id": "tt0021622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray June",
+                  "notes": null,
+                  "imdb_id": "nm0432482"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0022835"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Struss",
+                  "notes": null,
+                  "imdb_id": "nm0835365"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frank Borzage",
+                  "notes": null,
+                  "imdb_id": "nm0097648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bad Girl",
+                  "notes": null,
+                  "imdb_id": "tt0021635"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Josef von Sternberg",
+                  "notes": null,
+                  "imdb_id": "nm0903049"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shanghai Express",
+                  "notes": null,
+                  "imdb_id": "tt0023458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Vidor",
+                  "notes": null,
+                  "imdb_id": "nm0896542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Champ",
+                  "notes": null,
+                  "imdb_id": "tt0021730"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Grand Hotel",
+                  "notes": null,
+                  "imdb_id": "tt0022958"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arrowsmith",
+                  "notes": null,
+                  "imdb_id": "tt0021622"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bad Girl",
+                  "notes": null,
+                  "imdb_id": "tt0021635"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Five Star Final",
+                  "notes": null,
+                  "imdb_id": "tt0021873"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Hour with You",
+                  "notes": null,
+                  "imdb_id": "tt0023303"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shanghai Express",
+                  "notes": null,
+                  "imdb_id": "tt0023458"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Champ",
+                  "notes": null,
+                  "imdb_id": "tt0021730"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Smiling Lieutenant",
+                  "notes": null,
+                  "imdb_id": "tt0022074"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Flowers and Trees",
+                  "notes": null,
+                  "imdb_id": "tt0022899"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's Got Me Again!",
+                  "notes": null,
+                  "imdb_id": "tt0023067"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mickey's Orphans",
+                  "notes": null,
+                  "imdb_id": "tt0022147"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Music Box",
+                  "notes": null,
+                  "imdb_id": "tt0023251"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Roach",
+                  "notes": null,
+                  "imdb_id": "nm0730018"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scratch-As-Catch-Can",
+                  "notes": null,
+                  "imdb_id": "tt0276472"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "The film was originally announced as a nominee, but before the final voting, it was disqualified and replaced by Scratch-As-Catch-Can (1931).",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stout Hearts and Willing Hands",
+                  "notes": null,
+                  "imdb_id": "tt0023517"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Loud Mouth",
+                  "notes": null,
+                  "imdb_id": "tt0023152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mack Sennett",
+                  "notes": null,
+                  "imdb_id": "nm0784407"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wrestling Swordfish",
+                  "notes": null,
+                  "imdb_id": "tt0023711"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mack Sennett",
+                  "notes": null,
+                  "imdb_id": "nm0784407"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Screen Souvenirs",
+                  "notes": null,
+                  "imdb_id": "tt0023441"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Swing High",
+                  "notes": null,
+                  "imdb_id": "tt0152771"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": "Recipient: Paramount Publix Studio Sound Department",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Paramount Publix Corporation",
+                  "notes": null,
+                  "imdb_id": "co0025751"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Metro-Goldwyn-Mayer Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Metro-Goldwyn-Mayer (MGM)",
+                  "notes": null,
+                  "imdb_id": "co0007143"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: RKO Radio Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "RKO Radio Pictures",
+                  "notes": null,
+                  "imdb_id": "co0041421"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Warner Bros.- First National Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Warner Bros.-First National Pictures",
+                  "notes": null,
+                  "imdb_id": "co0152143"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bad Girl",
+                  "notes": null,
+                  "imdb_id": "tt0021635"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edwin J. Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121667"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arrowsmith",
+                  "notes": null,
+                  "imdb_id": "tt0021622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sidney Howard",
+                  "notes": null,
+                  "imdb_id": "nm0397608"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0022835"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Percy Heath",
+                  "notes": null,
+                  "imdb_id": "nm0372698"
+               },
+               {
+                  "name": "Samuel Hoffenstein",
+                  "notes": null,
+                  "imdb_id": "nm0388755"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Champ",
+                  "notes": null,
+                  "imdb_id": "tt0021730"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances Marion",
+                  "notes": null,
+                  "imdb_id": "nm0547966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady and Gent",
+                  "notes": null,
+                  "imdb_id": "tt0023109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Grover Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428177"
+               },
+               {
+                  "name": "William Slavens McNutt",
+                  "notes": null,
+                  "imdb_id": "nm0574112"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Star Witness",
+                  "notes": null,
+                  "imdb_id": "tt0022430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lucien Hubbard",
+                  "notes": null,
+                  "imdb_id": "nm0399203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What Price Hollywood?",
+                  "notes": null,
+                  "imdb_id": "tt0023686"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adela Rogers St. Johns",
+                  "notes": null,
+                  "imdb_id": "nm0820700"
+               },
+               {
+                  "name": "Jane Murfin",
+                  "notes": null,
+                  "imdb_id": "nm0613848"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,780 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jos\u00e9 Ferrer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Louis Calhern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Holden"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Sanders"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edmund Gwenn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Erich von Stroheim"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Chandler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Jaffe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Judy Holliday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Baxter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eleanor Parker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gloria Swanson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Josephine Hull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Celeste Holm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hope Emerson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nancy Olson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Danube"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Samson and Delilah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie Get Your Gun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Destination Moon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Third Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Asphalt Jungle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Furies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Solomon's Mines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie Get Your Gun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broken Arrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samson and Delilah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Flame and the Arrow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born Yesterday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magnificent Yankee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Samson and Delilah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Forsyte Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Rose"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joseph L. Mankiewicz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol Reed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Cukor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Huston"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Titan: Story of Michelangelo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "With These Hands"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Why Korea?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steps of Age"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fight: Science Against Cancer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Destination Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samson and Delilah"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Solomon's Mines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie Get Your Gun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Third Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Captain Carey, U.S.A."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Singing Guns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Toast of New Orleans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wabash Avenue"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Sad Songs for Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samson and Delilah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Flame and the Arrow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Annie Get Your Gun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I'll Get By"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The West Point Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Little Words"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born Yesterday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Father of the Bride"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Solomon's Mines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gerald McBoing-Boing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jerry's Cousin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trouble Indemnity"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grandad of Races"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blaze Busters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wrong Way Butch"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beaver Valley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grandma Moses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Country 'Tis of Thee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Louisa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Very Own"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Panic in the Streets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bitter Rice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mystery Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gunfighter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Willie Comes Marching Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All About Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born Yesterday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broken Arrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Father of the Bride"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Asphalt Jungle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sunset Blvd."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam's Rib"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Caged"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Way Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Men"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,753 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rod Steiger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warren Beatty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Kennedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cecil Kellaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gene Hackman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Cassavetes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael J. Pollard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Bancroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audrey Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edith Evans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Faye Dunaway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Estelle Parsons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beah Richards"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol Channing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Ross"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mildred Natwick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guess Who's Coming to Dinner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Taming of the Shrew"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bonnie and Clyde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Cold Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Graduate"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bonnie and Clyde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Happiest Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Taming of the Shrew"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mike Nichols"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norman Jewison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Brooks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kramer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Anderson Platoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A King's Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Time for Burning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Festival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harvest"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Redwoods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Place to Stand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monument to the Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "See You at the Pillar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "While I Run This Race"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dirty Dozen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Heat of the Night"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tobruk"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Heat of the Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beach Red"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guess Who's Coming to Dinner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dirty Dozen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Closely Watched Trains"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bewitched Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chieko-sho"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Even Met Happy Gypsies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Live for Life"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Music Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cool Hand Luke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Far from the Madding Crowd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Cold Blood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Banning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Casino Royale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guess Who's Coming to Dinner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Valley of the Dolls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Heat of the Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bonnie and Clyde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guess Who's Coming to Dinner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Graduate"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Box"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hypoth\u00e8se Beta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What on Earth!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Place to Stand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paddle to the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sky Over Holland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stop Look and Listen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Heat of the Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Dolittle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dirty Dozen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thoroughly Modern Millie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Heat of the Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cool Hand Luke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Cold Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Graduate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ulysses"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Guess Who's Coming to Dinner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bonnie and Clyde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Divorce American Style"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War Is Over"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two for the Road"
+            ]
+         }
+      ]
+   }
+]

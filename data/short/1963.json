@@ -1,0 +1,829 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gregory Peck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burt Lancaster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marcello Mastroianni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ed Begley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Omar Sharif"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Telly Savalas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terence Stamp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor Buono"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anne Bancroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Remick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patty Duke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angela Lansbury"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Badham"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shirley Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "To Kill a Mockingbird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Wine and Roses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Period of Adjustment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Longest Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pigeon That Took Rome"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Touch of Mink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wonderful World of the Brothers Grimm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Longest Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birdman of Alcatraz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Kill a Mockingbird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two for the Seesaw"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What Ever Happened to Baby Jane?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gypsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hatari!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wonderful World of the Brothers Grimm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "What Ever Happened to Baby Jane?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Wine and Roses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Phaedra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Shot Liberty Valance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Miracle Worker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wonderful World of the Brothers Grimm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bon Voyage!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gypsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Perry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pietro Germi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Mulligan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Fox: The True Story of Adolf Hitler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alvorada - Brazil's Changing Face"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Tribute to Dylan Thomas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The John Glenn Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Road to the Wall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Longest Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Longest Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Manchurian Candidate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sundays and Cyb\u00e8le"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Electra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Four Days of Naples"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Given Word"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tlayucan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Days of Wine and Roses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tender Is the Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two for the Seesaw"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walk on the Wild Side"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score - Substantially Original",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Freud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Taras Bulba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Kill a Mockingbird"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Music Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Rose's Jumbo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gigot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gypsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wonderful World of the Brothers Grimm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Longest Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Kill a Mockingbird"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Symposium on Popular Songs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Icarus Montgolfier Wright"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Now Hear This"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Self Defense... for Cowards"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Happy Anniversary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Big City Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cadillac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cliff Dwellers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bon Voyage!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Touch of Mink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What Ever Happened to Baby Jane?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "To Kill a Mockingbird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David and Lisa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lawrence of Arabia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lolita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Miracle Worker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Divorce Italian Style"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Freud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Last Year at Marienbad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Touch of Mink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Through a Glass Darkly"
+            ]
+         }
+      ]
+   }
+]

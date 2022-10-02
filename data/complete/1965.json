@@ -1,0 +1,2506 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Rex Harrison dedicated his Oscar to \"two fair ladies\": Julie Andrews and Audrey Hepburn.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rex Harrison",
+                  "notes": null,
+                  "imdb_id": "nm0001322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Quinn",
+                  "notes": null,
+                  "imdb_id": "nm0000063"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter O'Toole",
+                  "notes": null,
+                  "imdb_id": "nm0000564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Sellers",
+                  "notes": null,
+                  "imdb_id": "nm0000634"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "notes": null,
+                  "imdb_id": "tt0057012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Burton",
+                  "notes": null,
+                  "imdb_id": "nm0000009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Peter Ustinov was not present at the awards ceremony. Jonathan Winters accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Peter Ustinov",
+                  "notes": null,
+                  "imdb_id": "nm0001811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Topkapi",
+                  "notes": null,
+                  "imdb_id": "tt0058672"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edmond O'Brien",
+                  "notes": null,
+                  "imdb_id": "nm0639529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seven Days in May",
+                  "notes": null,
+                  "imdb_id": "tt0058576"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Gielgud",
+                  "notes": null,
+                  "imdb_id": "nm0000024"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lee Tracy",
+                  "notes": null,
+                  "imdb_id": "nm0870543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Best Man",
+                  "notes": null,
+                  "imdb_id": "tt0057883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Holloway",
+                  "notes": null,
+                  "imdb_id": "nm0391361"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Julie Andrews",
+                  "notes": null,
+                  "imdb_id": "nm0000267"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne Bancroft",
+                  "notes": null,
+                  "imdb_id": "nm0000843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Pumpkin Eater",
+                  "notes": null,
+                  "imdb_id": "tt0058500"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Debbie Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0001666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kim Stanley",
+                  "notes": null,
+                  "imdb_id": "nm0822535"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seance on a Wet Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0058557"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sophia Loren",
+                  "notes": null,
+                  "imdb_id": "nm0000047"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marriage Italian Style",
+                  "notes": null,
+                  "imdb_id": "tt0058335"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lila Kedrova",
+                  "notes": null,
+                  "imdb_id": "nm0444321"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Agnes Moorehead",
+                  "notes": null,
+                  "imdb_id": "nm0001547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edith Evans",
+                  "notes": null,
+                  "imdb_id": "nm0262725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Chalk Garden",
+                  "notes": null,
+                  "imdb_id": "tt0057933"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladys Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0178066"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Grayson Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355621"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Night of the Iguana",
+                  "notes": null,
+                  "imdb_id": "tt0058404"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vasilis Fotopoulos",
+                  "notes": null,
+                  "imdb_id": "nm0288193"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Glasgow",
+                  "notes": null,
+                  "imdb_id": "nm0321881"
+               },
+               {
+                  "name": "Raphael Bretton",
+                  "notes": null,
+                  "imdb_id": "nm0107987"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seven Days in May",
+                  "notes": null,
+                  "imdb_id": "tt0058576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cary Odell",
+                  "notes": null,
+                  "imdb_id": "nm0643970"
+               },
+               {
+                  "name": "Edward G. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Americanization of Emily",
+                  "notes": null,
+                  "imdb_id": "tt0057840"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Hans Peters",
+                  "notes": null,
+                  "imdb_id": "nm0676462"
+               },
+               {
+                  "name": "Elliot Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779089"
+               },
+               {
+                  "name": "Henry Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333352"
+               },
+               {
+                  "name": "Robert R. Benton",
+                  "notes": null,
+                  "imdb_id": "nm0072960"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Night of the Iguana",
+                  "notes": null,
+                  "imdb_id": "tt0058404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen B. Grimes",
+                  "notes": null,
+                  "imdb_id": "nm0342242"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gene Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020537"
+               },
+               {
+                  "name": "Cecil Beaton",
+                  "notes": null,
+                  "imdb_id": "nm0064100"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Bryan",
+                  "notes": null,
+                  "imdb_id": "nm0116961"
+               },
+               {
+                  "name": "Maurice Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141806"
+               },
+               {
+                  "name": "Patrick McLoughlin",
+                  "notes": null,
+                  "imdb_id": "nm0572947"
+               },
+               {
+                  "name": "Robert Cartwright",
+                  "notes": null,
+                  "imdb_id": "nm0142204"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carroll Clark",
+                  "notes": null,
+                  "imdb_id": "nm0163754"
+               },
+               {
+                  "name": "William H. Tuntke",
+                  "notes": null,
+                  "imdb_id": "nm0876700"
+               },
+               {
+                  "name": "Emile Kuri",
+                  "notes": null,
+                  "imdb_id": "nm0475689"
+               },
+               {
+                  "name": "Hal Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310198"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "E. Preston Ames",
+                  "notes": null,
+                  "imdb_id": "nm0024694"
+               },
+               {
+                  "name": "Henry Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333352"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What a Way to Go!",
+                  "notes": null,
+                  "imdb_id": "tt0058743"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Martin Smith",
+                  "notes": null,
+                  "imdb_id": "nm0005584"
+               },
+               {
+                  "name": "Ted Haworth",
+                  "notes": null,
+                  "imdb_id": "nm0370385"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Stuart A. Reiss",
+                  "notes": null,
+                  "imdb_id": "nm0718524"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lassally",
+                  "notes": null,
+                  "imdb_id": "nm0007178"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fate Is the Hunter",
+                  "notes": null,
+                  "imdb_id": "tt0058091"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milton R. Krasner",
+                  "notes": null,
+                  "imdb_id": "nm0005762"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph F. Biroc",
+                  "notes": null,
+                  "imdb_id": "nm0005657"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Americanization of Emily",
+                  "notes": null,
+                  "imdb_id": "tt0057840"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip H. Lathrop",
+                  "notes": null,
+                  "imdb_id": "nm0005769"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Night of the Iguana",
+                  "notes": null,
+                  "imdb_id": "tt0058404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriel Figueroa",
+                  "notes": null,
+                  "imdb_id": "nm0004195"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Geoffrey Unsworth",
+                  "notes": null,
+                  "imdb_id": "nm0005910"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cheyenne Autumn",
+                  "notes": null,
+                  "imdb_id": "tt0057940"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William H. Clothier",
+                  "notes": null,
+                  "imdb_id": "nm0005670"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Colman",
+                  "notes": null,
+                  "imdb_id": "nm0169344"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel L. Fapp",
+                  "notes": null,
+                  "imdb_id": "nm0005701"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Night of the Iguana",
+                  "notes": null,
+                  "imdb_id": "tt0058404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A House Is Not a Home",
+                  "notes": null,
+                  "imdb_id": "tt0058209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norma Koch",
+                  "notes": null,
+                  "imdb_id": "nm0462382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kisses for My President",
+                  "notes": null,
+                  "imdb_id": "tt0058266"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shoup",
+                  "notes": null,
+                  "imdb_id": "nm0795251"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Visit",
+                  "notes": null,
+                  "imdb_id": "tt0058724"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ren\u00e9 Hubert",
+                  "notes": null,
+                  "imdb_id": "nm0399484"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cecil Beaton",
+                  "notes": null,
+                  "imdb_id": "nm0064100"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Walton",
+                  "notes": null,
+                  "imdb_id": "nm0910589"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morton Haack",
+                  "notes": null,
+                  "imdb_id": "nm0351736"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What a Way to Go!",
+                  "notes": null,
+                  "imdb_id": "tt0058743"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Moss Mabry",
+                  "notes": null,
+                  "imdb_id": "nm0531117"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "George Cukor",
+                  "notes": null,
+                  "imdb_id": "nm0002030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Cacoyannis",
+                  "notes": null,
+                  "imdb_id": "nm0128050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Glenville",
+                  "notes": null,
+                  "imdb_id": "nm0322706"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Stevenson",
+                  "notes": null,
+                  "imdb_id": "nm0829038"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "notes": null,
+                  "imdb_id": "tt0057012"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "World Without Sun",
+                  "notes": null,
+                  "imdb_id": "tt0058364"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques-Yves Cousteau",
+                  "notes": null,
+                  "imdb_id": "nm0184150"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alleman",
+                  "notes": null,
+                  "imdb_id": "tt0056819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Haanstra",
+                  "notes": null,
+                  "imdb_id": "nm0351842"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Four Days in November",
+                  "notes": null,
+                  "imdb_id": "tt0059197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mel Stuart",
+                  "notes": null,
+                  "imdb_id": "nm0835799"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Over There, 1914-18",
+                  "notes": null,
+                  "imdb_id": "tt0056797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Aurel",
+                  "notes": null,
+                  "imdb_id": "nm0042159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Finest Hours",
+                  "notes": null,
+                  "imdb_id": "tt0058099"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Levin",
+                  "notes": "(as Jack Le Vien)",
+                  "imdb_id": "nm0505617"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nine from Little Rock",
+                  "notes": null,
+                  "imdb_id": "tt0058410"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "140 Days Under the World",
+                  "notes": null,
+                  "imdb_id": "tt0057806"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Geoffrey Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779180"
+               },
+               {
+                  "name": "Oxley Hughan",
+                  "notes": null,
+                  "imdb_id": "nm0400419"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Breaking the Habit",
+                  "notes": null,
+                  "imdb_id": "tt0057898"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Jacobs",
+                  "notes": null,
+                  "imdb_id": "nm0414430"
+               },
+               {
+                  "name": "John Korty",
+                  "notes": null,
+                  "imdb_id": "nm0466793"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children Without",
+                  "notes": null,
+                  "imdb_id": "tt0057945"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eskimo Artist: Kenojuak",
+                  "notes": null,
+                  "imdb_id": "tt0058260"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Goldfinger",
+                  "notes": null,
+                  "imdb_id": "tt0058150"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Wanstall",
+                  "notes": null,
+                  "imdb_id": "nm0911232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lively Set",
+                  "notes": null,
+                  "imdb_id": "tt0058296"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Bratton",
+                  "notes": null,
+                  "imdb_id": "nm0105600"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Ellenshaw",
+                  "notes": null,
+                  "imdb_id": "nm0254002"
+               },
+               {
+                  "name": "Hamilton Luske",
+                  "notes": null,
+                  "imdb_id": "nm0527217"
+               },
+               {
+                  "name": "Eustace Lycett",
+                  "notes": null,
+                  "imdb_id": "nm0527941"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "7 Faces of Dr. Lao",
+                  "notes": null,
+                  "imdb_id": "tt0057812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Danforth",
+                  "notes": null,
+                  "imdb_id": "nm0199453"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cotton Warburton",
+                  "notes": null,
+                  "imdb_id": "nm0911307"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne V. Coates",
+                  "notes": null,
+                  "imdb_id": "nm0167613"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Father Goose",
+                  "notes": null,
+                  "imdb_id": "tt0058092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted J. Kent",
+                  "notes": null,
+                  "imdb_id": "nm0448867"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Luciano",
+                  "notes": null,
+                  "imdb_id": "nm0524597"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William H. Ziegler",
+                  "notes": null,
+                  "imdb_id": "nm0956155"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Yesterday, Today and Tomorrow",
+                  "notes": null,
+                  "imdb_id": "tt0057171"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raven's End",
+                  "notes": null,
+                  "imdb_id": "tt0057237"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Israel.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sallah",
+                  "notes": null,
+                  "imdb_id": "tt0058541"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Umbrellas of Cherbourg",
+                  "notes": null,
+                  "imdb_id": "tt0058450"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Woman in the Dunes",
+                  "notes": null,
+                  "imdb_id": "tt0058625"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Chim Chim Cher-ee\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Dear Heart\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dear Heart",
+                  "notes": null,
+                  "imdb_id": "tt0057999"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000049"
+               },
+               {
+                  "name": "Jay Livingston",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0515254"
+               },
+               {
+                  "name": "Ray Evans",
+                  "notes": null,
+                  "imdb_id": "nm0263143"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Hush...Hush, Sweet Charlotte\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank De Vol",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006030"
+               },
+               {
+                  "name": "Mack David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202988"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"My Kind of Town\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin and the 7 Hoods",
+                  "notes": null,
+                  "imdb_id": "tt0058529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Where Love Has Gone\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Where Love Has Gone",
+                  "notes": null,
+                  "imdb_id": "tt0058745"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Hard Day's Night",
+                  "notes": null,
+                  "imdb_id": "tt0058182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Kostal",
+                  "notes": null,
+                  "imdb_id": "nm0467348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin and the 7 Hoods",
+                  "notes": null,
+                  "imdb_id": "tt0058529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nelson Riddle",
+                  "notes": null,
+                  "imdb_id": "nm0725765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Armbruster",
+                  "notes": null,
+                  "imdb_id": "nm0035372"
+               },
+               {
+                  "name": "Leo Arnaud",
+                  "notes": null,
+                  "imdb_id": "nm0036069"
+               },
+               {
+                  "name": "Jack Elliott",
+                  "notes": null,
+                  "imdb_id": "nm0254477"
+               },
+               {
+                  "name": "Jack Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0369948"
+               },
+               {
+                  "name": "Calvin Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413330"
+               },
+               {
+                  "name": "Leo Shuken",
+                  "notes": null,
+                  "imdb_id": "nm0795640"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Substantially Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laurence Rosenthal",
+                  "notes": null,
+                  "imdb_id": "nm0002304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hush...Hush, Sweet Charlotte",
+                  "notes": null,
+                  "imdb_id": "tt0058213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank De Vol",
+                  "notes": null,
+                  "imdb_id": "nm0006030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fall of the Roman Empire",
+                  "notes": null,
+                  "imdb_id": "tt0058085"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pink Panther",
+                  "notes": null,
+                  "imdb_id": "tt0057413"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": null,
+                  "imdb_id": "nm0000049"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack L. Warner",
+                  "notes": null,
+                  "imdb_id": "nm0912491"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal B. Wallis",
+                  "notes": null,
+                  "imdb_id": "nm0909259"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "notes": null,
+                  "imdb_id": "tt0057012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               },
+               {
+                  "name": "Bill Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909556"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Cacoyannis",
+                  "notes": null,
+                  "imdb_id": "nm0128050"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Pink Phink",
+                  "notes": null,
+                  "imdb_id": "tt0058472"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David H. DePatie",
+                  "notes": null,
+                  "imdb_id": "nm0220039"
+               },
+               {
+                  "name": "Friz Freleng",
+                  "notes": null,
+                  "imdb_id": "nm0293989"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Christmas Cracker",
+                  "notes": null,
+                  "imdb_id": "tt0055849"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Here's Nudnik",
+                  "notes": null,
+                  "imdb_id": "tt0058416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William L. Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0811581"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Avoid Friendship",
+                  "notes": null,
+                  "imdb_id": "tt0058211"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William L. Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0811581"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Casals Conducts: 1964",
+                  "notes": null,
+                  "imdb_id": "tt0057922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Schreiber",
+                  "notes": null,
+                  "imdb_id": "nm0775233"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Help! My Snowman's Burning Down",
+                  "notes": null,
+                  "imdb_id": "tt0058189"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carson Davidson",
+                  "notes": null,
+                  "imdb_id": "nm0203262"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Legend of Jimmy Blue Eyes",
+                  "notes": null,
+                  "imdb_id": "tt0058288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Clouse",
+                  "notes": null,
+                  "imdb_id": "nm0167195"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Groves",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0344060"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Cox",
+                  "notes": "(Shepperton SSD)",
+                  "imdb_id": "nm0185090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Father Goose",
+                  "notes": null,
+                  "imdb_id": "tt0058092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Waldon O. Watson",
+                  "notes": "(Universal City SSD)",
+                  "imdb_id": "nm0910592"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert O. Cook",
+                  "notes": "(Walt Disney SSD)",
+                  "imdb_id": "nm0177256"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unsinkable Molly Brown",
+                  "notes": null,
+                  "imdb_id": "tt0058708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Milton",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0590665"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Becket",
+                  "notes": null,
+                  "imdb_id": "tt0057877"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Anhalt",
+                  "notes": null,
+                  "imdb_id": "nm0030019"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                  "notes": null,
+                  "imdb_id": "tt0057012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               },
+               {
+                  "name": "Peter George",
+                  "notes": null,
+                  "imdb_id": "nm0313570"
+               },
+               {
+                  "name": "Terry Southern",
+                  "notes": null,
+                  "imdb_id": "nm0816143"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Poppins",
+                  "notes": null,
+                  "imdb_id": "tt0058331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909556"
+               },
+               {
+                  "name": "Don DaGradi",
+                  "notes": null,
+                  "imdb_id": "nm0196119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Fair Lady",
+                  "notes": null,
+                  "imdb_id": "tt0058385"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Jay Lerner",
+                  "notes": null,
+                  "imdb_id": "nm0503585"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Zorba the Greek",
+                  "notes": null,
+                  "imdb_id": "tt0057831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Cacoyannis",
+                  "notes": null,
+                  "imdb_id": "nm0128050"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Father Goose",
+                  "notes": null,
+                  "imdb_id": "tt0058092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "S.H. Barnett",
+                  "notes": "(story)",
+                  "imdb_id": "nm0055975"
+               },
+               {
+                  "name": "Peter Stone",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0832099"
+               },
+               {
+                  "name": "Frank Tarloff",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0850514"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Hard Day's Night",
+                  "notes": null,
+                  "imdb_id": "tt0058182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alun Owen",
+                  "notes": null,
+                  "imdb_id": "nm0654079"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Potato, Two Potato",
+                  "notes": null,
+                  "imdb_id": "tt0058429"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orville H. Hampton",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0359034"
+               },
+               {
+                  "name": "Raphael Hayes",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0371193"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Man from Rio",
+                  "notes": null,
+                  "imdb_id": "tt0058203"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Paul Rappeneau",
+                  "notes": null,
+                  "imdb_id": "nm0710919"
+               },
+               {
+                  "name": "Ariane Mnouchkine",
+                  "notes": null,
+                  "imdb_id": "nm0594892"
+               },
+               {
+                  "name": "Daniel Boulanger",
+                  "notes": null,
+                  "imdb_id": "nm0099429"
+               },
+               {
+                  "name": "Philippe de Broca",
+                  "notes": null,
+                  "imdb_id": "nm0003606"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Organizer",
+                  "notes": null,
+                  "imdb_id": "tt0056945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Agenore Incrocci",
+                  "notes": null,
+                  "imdb_id": "nm0408488"
+               },
+               {
+                  "name": "Furio Scarpelli",
+                  "notes": null,
+                  "imdb_id": "nm0769249"
+               },
+               {
+                  "name": "Mario Monicelli",
+                  "notes": null,
+                  "imdb_id": "nm0598102"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2779 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": "Gisaengchung (2019) became the first foreign language film to win Best Picture.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kwak Sin-ae",
+                  "notes": null,
+                  "imdb_id": "nm10113618"
+               },
+               {
+                  "name": "Bong Joon Ho",
+                  "notes": null,
+                  "imdb_id": "nm0094435"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Mendes",
+                  "notes": null,
+                  "imdb_id": "nm0005222"
+               },
+               {
+                  "name": "Pippa Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365208"
+               },
+               {
+                  "name": "Jayne-Ann Tenggren",
+                  "notes": null,
+                  "imdb_id": "nm0854991"
+               },
+               {
+                  "name": "Callum McDougall",
+                  "notes": null,
+                  "imdb_id": "nm0568223"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ford v Ferrari",
+                  "notes": null,
+                  "imdb_id": "tt1950186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Chernin",
+                  "notes": null,
+                  "imdb_id": "nm1858656"
+               },
+               {
+                  "name": "Jenno Topping",
+                  "notes": null,
+                  "imdb_id": "nm0867768"
+               },
+               {
+                  "name": "James Mangold",
+                  "notes": null,
+                  "imdb_id": "nm0003506"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carthew Neal",
+                  "notes": null,
+                  "imdb_id": "nm2868859"
+               },
+               {
+                  "name": "Taika Waititi",
+                  "notes": null,
+                  "imdb_id": "nm0169806"
+               },
+               {
+                  "name": "Chelsea Winstanley",
+                  "notes": null,
+                  "imdb_id": "nm4438615"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Todd Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680846"
+               },
+               {
+                  "name": "Bradley Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177896"
+               },
+               {
+                  "name": "Emma Tillinger Koskoff",
+                  "notes": null,
+                  "imdb_id": "nm0863374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Amy Pascal",
+                  "notes": null,
+                  "imdb_id": "nm1166871"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Noah Baumbach",
+                  "notes": null,
+                  "imdb_id": "nm0000876"
+               },
+               {
+                  "name": "David Heyman",
+                  "notes": null,
+                  "imdb_id": "nm0382268"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Heyman",
+                  "notes": null,
+                  "imdb_id": "nm0382268"
+               },
+               {
+                  "name": "Shannon McIntosh",
+                  "notes": null,
+                  "imdb_id": "nm0570690"
+               },
+               {
+                  "name": "Quentin Tarantino",
+                  "notes": null,
+                  "imdb_id": "nm0000233"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               },
+               {
+                  "name": "Robert De Niro",
+                  "notes": null,
+                  "imdb_id": "nm0000134"
+               },
+               {
+                  "name": "Jane Rosenthal",
+                  "notes": null,
+                  "imdb_id": "nm0742772"
+               },
+               {
+                  "name": "Emma Tillinger Koskoff",
+                  "notes": null,
+                  "imdb_id": "nm0863374"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joaquin Phoenix",
+                  "notes": null,
+                  "imdb_id": "nm0001618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adam Driver",
+                  "notes": null,
+                  "imdb_id": "nm3485845"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Antonio Banderas",
+                  "notes": null,
+                  "imdb_id": "nm0000104"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pain and Glory",
+                  "notes": null,
+                  "imdb_id": "tt8291806"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jonathan Pryce",
+                  "notes": null,
+                  "imdb_id": "nm0000596"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Two Popes",
+                  "notes": null,
+                  "imdb_id": "tt8404614"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leonardo DiCaprio",
+                  "notes": null,
+                  "imdb_id": "nm0000138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ren\u00e9e Zellweger",
+                  "notes": null,
+                  "imdb_id": "nm0000250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judy",
+                  "notes": null,
+                  "imdb_id": "tt7549996"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charlize Theron",
+                  "notes": null,
+                  "imdb_id": "nm0000234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bombshell",
+                  "notes": null,
+                  "imdb_id": "tt6394270"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cynthia Erivo",
+                  "notes": null,
+                  "imdb_id": "nm7248827"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harriet",
+                  "notes": null,
+                  "imdb_id": "tt4648786"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saoirse Ronan",
+                  "notes": null,
+                  "imdb_id": "nm1519680"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scarlett Johansson",
+                  "notes": null,
+                  "imdb_id": "nm0424060"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Brad Pitt",
+                  "notes": null,
+                  "imdb_id": "nm0000093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0000164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Two Popes",
+                  "notes": null,
+                  "imdb_id": "tt8404614"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joe Pesci",
+                  "notes": null,
+                  "imdb_id": "nm0000582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Hanks",
+                  "notes": null,
+                  "imdb_id": "nm0000158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Beautiful Day in the Neighborhood",
+                  "notes": null,
+                  "imdb_id": "tt3224458"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Laura Dern",
+                  "notes": null,
+                  "imdb_id": "nm0000368"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Florence Pugh",
+                  "notes": null,
+                  "imdb_id": "nm6073955"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kathy Bates",
+                  "notes": null,
+                  "imdb_id": "nm0000870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Jewell",
+                  "notes": null,
+                  "imdb_id": "tt3513548"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Margot Robbie",
+                  "notes": null,
+                  "imdb_id": "nm3053338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bombshell",
+                  "notes": null,
+                  "imdb_id": "tt6394270"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scarlett Johansson",
+                  "notes": null,
+                  "imdb_id": "nm0424060"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bong Joon Ho",
+                  "notes": null,
+                  "imdb_id": "nm0094435"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quentin Tarantino",
+                  "notes": null,
+                  "imdb_id": "nm0000233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sam Mendes",
+                  "notes": null,
+                  "imdb_id": "nm0005222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Todd Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bong Joon Ho",
+                  "notes": null,
+                  "imdb_id": "nm0094435"
+               },
+               {
+                  "name": "Han Jin-won",
+                  "notes": null,
+                  "imdb_id": "nm8243301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Mendes",
+                  "notes": null,
+                  "imdb_id": "nm0005222"
+               },
+               {
+                  "name": "Krysty Wilson-Cairns",
+                  "notes": null,
+                  "imdb_id": "nm4880670"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Knives Out",
+                  "notes": null,
+                  "imdb_id": "tt8946378"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rian Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426059"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Noah Baumbach",
+                  "notes": null,
+                  "imdb_id": "nm0000876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quentin Tarantino",
+                  "notes": null,
+                  "imdb_id": "nm0000233"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Taika Waititi",
+                  "notes": null,
+                  "imdb_id": "nm0169806"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Todd Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680846"
+               },
+               {
+                  "name": "Scott Silver",
+                  "notes": null,
+                  "imdb_id": "nm0798788"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Greta Gerwig",
+                  "notes": null,
+                  "imdb_id": "nm1950086"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Zaillian",
+                  "notes": null,
+                  "imdb_id": "nm0001873"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Two Popes",
+                  "notes": null,
+                  "imdb_id": "tt8404614"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony McCarten",
+                  "notes": null,
+                  "imdb_id": "nm0565026"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Sher",
+                  "notes": null,
+                  "imdb_id": "nm0003394"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rodrigo Prieto",
+                  "notes": null,
+                  "imdb_id": "nm0006509"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lighthouse",
+                  "notes": null,
+                  "imdb_id": "tt7984734"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jarin Blaschke",
+                  "notes": null,
+                  "imdb_id": "nm1144916"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Andrew Buckland",
+                  "notes": null,
+                  "imdb_id": "nm0118202"
+               },
+               {
+                  "name": "Michael McCusker",
+                  "notes": null,
+                  "imdb_id": "nm0567331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ford v Ferrari",
+                  "notes": null,
+                  "imdb_id": "tt1950186"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeff Groth",
+                  "notes": null,
+                  "imdb_id": "nm0343846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jinmo Yang",
+                  "notes": null,
+                  "imdb_id": "nm2185967"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma Schoonmaker",
+                  "notes": null,
+                  "imdb_id": "nm0774817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Eagles",
+                  "notes": null,
+                  "imdb_id": "nm2305414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Ling",
+                  "notes": null,
+                  "imdb_id": "nm0512686"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": null,
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": null,
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Lee Sandales",
+                  "notes": null,
+                  "imdb_id": "nm0761227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ra Vincent",
+                  "notes": null,
+                  "imdb_id": "nm1308151"
+               },
+               {
+                  "name": "Nora Sopkov\u00e1",
+                  "notes": null,
+                  "imdb_id": "nm4196495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Ha-jun",
+                  "notes": null,
+                  "imdb_id": "nm4342766"
+               },
+               {
+                  "name": "Won-woo Cho",
+                  "notes": null,
+                  "imdb_id": "nm6657856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Shaw",
+                  "notes": null,
+                  "imdb_id": "nm0004052"
+               },
+               {
+                  "name": "Regina Graves",
+                  "notes": null,
+                  "imdb_id": "nm0336340"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacqueline Durran",
+                  "notes": null,
+                  "imdb_id": "nm0244330"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jojo Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt2584384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mayes C. Rubeo",
+                  "notes": null,
+                  "imdb_id": "nm0747946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0108775"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arianne Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Peterson",
+                  "notes": null,
+                  "imdb_id": "nm1044613"
+               },
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bombshell",
+                  "notes": null,
+                  "imdb_id": "tt6394270"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kazu Hiro",
+                  "notes": null,
+                  "imdb_id": "nm0875308"
+               },
+               {
+                  "name": "Anne Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604479"
+               },
+               {
+                  "name": "Vivian Baker",
+                  "notes": null,
+                  "imdb_id": "nm0049004"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Naomi Donne",
+                  "notes": null,
+                  "imdb_id": "nm0232644"
+               },
+               {
+                  "name": "Tristan Versluis",
+                  "notes": null,
+                  "imdb_id": "nm1033448"
+               },
+               {
+                  "name": "Rebecca Cole",
+                  "notes": null,
+                  "imdb_id": "nm1226541"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicki Ledermann",
+                  "notes": null,
+                  "imdb_id": "nm0496525"
+               },
+               {
+                  "name": "Kay Georgiou",
+                  "notes": null,
+                  "imdb_id": "nm0313789"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judy",
+                  "notes": null,
+                  "imdb_id": "tt7549996"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeremy Woodhead",
+                  "notes": null,
+                  "imdb_id": "nm0940291"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maleficent: Mistress of Evil",
+                  "notes": null,
+                  "imdb_id": "tt4777008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Gooch",
+                  "notes": null,
+                  "imdb_id": "nm0328655"
+               },
+               {
+                  "name": "Arjen Tuiten",
+                  "notes": null,
+                  "imdb_id": "nm1115465"
+               },
+               {
+                  "name": "David White",
+                  "notes": null,
+                  "imdb_id": "nm0924675"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hildur Gu\u00f0nad\u00f3ttir",
+                  "notes": null,
+                  "imdb_id": "nm3723390"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt3281548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Desplat",
+                  "notes": null,
+                  "imdb_id": "nm0006035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marriage Story",
+                  "notes": null,
+                  "imdb_id": "tt7653254"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IX - The Rise of Skywalker",
+                  "notes": null,
+                  "imdb_id": "tt2527338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "notes": "For song \"I'm Gonna Love Me Again\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rocketman",
+                  "notes": null,
+                  "imdb_id": "tt2066051"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elton John",
+                  "notes": null,
+                  "imdb_id": "nm0005056"
+               },
+               {
+                  "name": "Bernie Taupin",
+                  "notes": null,
+                  "imdb_id": "nm0005479"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"I'm Standing With You\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Breakthrough",
+                  "notes": null,
+                  "imdb_id": "tt7083526"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Into the Unknown\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frozen II",
+                  "notes": null,
+                  "imdb_id": "tt4520988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kristen Anderson-Lopez",
+                  "notes": null,
+                  "imdb_id": "nm2844448"
+               },
+               {
+                  "name": "Robert Lopez",
+                  "notes": null,
+                  "imdb_id": "nm0520188"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Stand Up\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harriet",
+                  "notes": null,
+                  "imdb_id": "tt4648786"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cynthia Erivo",
+                  "notes": null,
+                  "imdb_id": "nm7248827"
+               },
+               {
+                  "name": "Joshuah Brian Campbell",
+                  "notes": null,
+                  "imdb_id": "nm11140804"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"I Can't Let You Throw Yourself Away\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toy Story 4",
+                  "notes": null,
+                  "imdb_id": "tt1979376"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852837"
+               },
+               {
+                  "name": "Stuart Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0934184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ad Astra",
+                  "notes": null,
+                  "imdb_id": "tt2935510"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Mark Ulano",
+                  "notes": null,
+                  "imdb_id": "nm0880360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ford v Ferrari",
+                  "notes": null,
+                  "imdb_id": "tt1950186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557338"
+               },
+               {
+                  "name": "David Giammarco",
+                  "notes": null,
+                  "imdb_id": "nm0316102"
+               },
+               {
+                  "name": "Steven Morrow",
+                  "notes": null,
+                  "imdb_id": "nm0607551"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Ozanich",
+                  "notes": null,
+                  "imdb_id": "nm0654696"
+               },
+               {
+                  "name": "Dean A. Zupancic",
+                  "notes": null,
+                  "imdb_id": "nm0958711"
+               },
+               {
+                  "name": "Tod A. Maitland",
+                  "notes": null,
+                  "imdb_id": "nm0537972"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Christian P. Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591441"
+               },
+               {
+                  "name": "Mark Ulano",
+                  "notes": null,
+                  "imdb_id": "nm0880360"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ford v Ferrari",
+                  "notes": null,
+                  "imdb_id": "tt1950186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Sylvester",
+                  "notes": null,
+                  "imdb_id": "nm0843219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Tarney",
+                  "notes": null,
+                  "imdb_id": "nm0850549"
+               },
+               {
+                  "name": "Rachael Tate",
+                  "notes": null,
+                  "imdb_id": "nm2655291"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joker",
+                  "notes": null,
+                  "imdb_id": "tt7286456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Robert Murray",
+                  "notes": null,
+                  "imdb_id": "nm0614812"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Once Upon a Time in Hollywood",
+                  "notes": null,
+                  "imdb_id": "tt7131622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wylie Stateman",
+                  "notes": null,
+                  "imdb_id": "nm0823758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IX - The Rise of Skywalker",
+                  "notes": null,
+                  "imdb_id": "tt2527338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew Wood",
+                  "notes": null,
+                  "imdb_id": "nm0003214"
+               },
+               {
+                  "name": "David Acord",
+                  "notes": null,
+                  "imdb_id": "nm0004198"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "1917",
+                  "notes": null,
+                  "imdb_id": "tt8579674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guillaume Rocheron",
+                  "notes": null,
+                  "imdb_id": "nm1806981"
+               },
+               {
+                  "name": "Greg Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124935"
+               },
+               {
+                  "name": "Dominic Tuohy",
+                  "notes": null,
+                  "imdb_id": "nm0876716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Avengers: Endgame",
+                  "notes": null,
+                  "imdb_id": "tt4154796"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan DeLeeuw",
+                  "notes": null,
+                  "imdb_id": "nm0216699"
+               },
+               {
+                  "name": "Russell Earl",
+                  "notes": null,
+                  "imdb_id": "nm0247270"
+               },
+               {
+                  "name": "Matt Aitken",
+                  "notes": null,
+                  "imdb_id": "nm0014884"
+               },
+               {
+                  "name": "Daniel Sudick",
+                  "notes": null,
+                  "imdb_id": "nm0837203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IX - The Rise of Skywalker",
+                  "notes": null,
+                  "imdb_id": "tt2527338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neal Scanlan",
+                  "notes": null,
+                  "imdb_id": "nm0768943"
+               },
+               {
+                  "name": "Patrick Tubach",
+                  "notes": null,
+                  "imdb_id": "nm0875604"
+               },
+               {
+                  "name": "Dominic Tuohy",
+                  "notes": null,
+                  "imdb_id": "nm0876716"
+               },
+               {
+                  "name": "Roger Guyett",
+                  "notes": null,
+                  "imdb_id": "nm0004361"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Irishman",
+                  "notes": null,
+                  "imdb_id": "tt1302006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pablo Helman",
+                  "notes": null,
+                  "imdb_id": "nm0375666"
+               },
+               {
+                  "name": "Leandro Estebecorena",
+                  "notes": null,
+                  "imdb_id": "nm1739145"
+               },
+               {
+                  "name": "Nelson Sepulveda",
+                  "notes": null,
+                  "imdb_id": "nm0784700"
+               },
+               {
+                  "name": "Stephane Grabli",
+                  "notes": null,
+                  "imdb_id": "nm3148163"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lion King",
+                  "notes": null,
+                  "imdb_id": "tt6105098"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Legato",
+                  "notes": null,
+                  "imdb_id": "nm0499215"
+               },
+               {
+                  "name": "Adam Valdez",
+                  "notes": null,
+                  "imdb_id": "nm0883628"
+               },
+               {
+                  "name": "Andrew R. Jones",
+                  "notes": null,
+                  "imdb_id": "nm1002475"
+               },
+               {
+                  "name": "Elliot Newman",
+                  "notes": null,
+                  "imdb_id": "nm1806961"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Factory",
+                  "notes": null,
+                  "imdb_id": "tt9351980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Bognar",
+                  "notes": null,
+                  "imdb_id": "nm0091840"
+               },
+               {
+                  "name": "Julia Reichert",
+                  "notes": null,
+                  "imdb_id": "nm0717064"
+               },
+               {
+                  "name": "Jeff Reichert",
+                  "notes": null,
+                  "imdb_id": "nm1630563"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Sama",
+                  "notes": null,
+                  "imdb_id": "tt9617456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Waad Al-Kateab",
+                  "notes": null,
+                  "imdb_id": "nm10408302"
+               },
+               {
+                  "name": "Edward Watts",
+                  "notes": null,
+                  "imdb_id": "nm3117666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Honeyland",
+                  "notes": null,
+                  "imdb_id": "tt8991268"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ljubomir Stefanov",
+                  "notes": null,
+                  "imdb_id": "nm10118100"
+               },
+               {
+                  "name": "Tamara Kotevska",
+                  "notes": null,
+                  "imdb_id": "nm9393813"
+               },
+               {
+                  "name": "Atanas Georgiev",
+                  "notes": null,
+                  "imdb_id": "nm1389493"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cave",
+                  "notes": null,
+                  "imdb_id": "tt7178226"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Feras Fayyad",
+                  "notes": null,
+                  "imdb_id": "nm5926047"
+               },
+               {
+                  "name": "Kirstine Barfod",
+                  "notes": null,
+                  "imdb_id": "nm3450798"
+               },
+               {
+                  "name": "Sigrid Dyekj\u00e6r",
+                  "notes": null,
+                  "imdb_id": "nm1410710"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Edge of Democracy",
+                  "notes": null,
+                  "imdb_id": "tt6016744"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Petra Costa",
+                  "notes": null,
+                  "imdb_id": "nm3525467"
+               },
+               {
+                  "name": "Joanna Natasegara",
+                  "notes": null,
+                  "imdb_id": "nm3319085"
+               },
+               {
+                  "name": "Shane Boris",
+                  "notes": null,
+                  "imdb_id": "nm3312530"
+               },
+               {
+                  "name": "Tiago Pavan",
+                  "notes": null,
+                  "imdb_id": "nm6682792"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Learning to Skateboard in a Warzone (If You're a Girl)",
+                  "notes": null,
+                  "imdb_id": "tt10397932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carol Dysinger",
+                  "notes": null,
+                  "imdb_id": "nm0246009"
+               },
+               {
+                  "name": "Elena Andreicheva",
+                  "notes": null,
+                  "imdb_id": "nm5073726"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In the Absence",
+                  "notes": null,
+                  "imdb_id": "tt9464764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seung-jun Yi",
+                  "notes": null,
+                  "imdb_id": "nm3508453"
+               },
+               {
+                  "name": "Gary Byung-Seok Kam",
+                  "notes": null,
+                  "imdb_id": "nm4351697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life Overtakes Me",
+                  "notes": null,
+                  "imdb_id": "tt9204606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kristine Samuelson",
+                  "notes": null,
+                  "imdb_id": "nm0760552"
+               },
+               {
+                  "name": "John Haptas",
+                  "notes": null,
+                  "imdb_id": "nm0361635"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "St. Louis Superman",
+                  "notes": null,
+                  "imdb_id": "tt10009148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sami Khan",
+                  "notes": null,
+                  "imdb_id": "nm3172182"
+               },
+               {
+                  "name": "Smriti Mundhra",
+                  "notes": null,
+                  "imdb_id": "nm0612731"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walk Run Cha-Cha",
+                  "notes": null,
+                  "imdb_id": "tt10182854"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laura Nix",
+                  "notes": null,
+                  "imdb_id": "nm0633177"
+               },
+               {
+                  "name": "Colette Sandstedt",
+                  "notes": null,
+                  "imdb_id": "nm1586984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Toy Story 4",
+                  "notes": null,
+                  "imdb_id": "tt1979376"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Josh Cooley",
+                  "notes": null,
+                  "imdb_id": "nm2155757"
+               },
+               {
+                  "name": "Mark Nielsen",
+                  "notes": null,
+                  "imdb_id": "nm0630923"
+               },
+               {
+                  "name": "Jonas Rivera",
+                  "notes": null,
+                  "imdb_id": "nm0729304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Train Your Dragon: The Hidden World",
+                  "notes": null,
+                  "imdb_id": "tt2386490"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean DeBlois",
+                  "notes": null,
+                  "imdb_id": "nm0213450"
+               },
+               {
+                  "name": "Bradford Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0506977"
+               },
+               {
+                  "name": "Bonnie Arnold",
+                  "notes": null,
+                  "imdb_id": "nm0036366"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Lost My Body",
+                  "notes": null,
+                  "imdb_id": "tt9806192"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "J\u00e9r\u00e9my Clapin",
+                  "notes": null,
+                  "imdb_id": "nm3021346"
+               },
+               {
+                  "name": "Marc Du Pontavice",
+                  "notes": null,
+                  "imdb_id": "nm0238941"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Klaus",
+                  "notes": null,
+                  "imdb_id": "tt4729430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergio Pablos",
+                  "notes": null,
+                  "imdb_id": "nm0655053"
+               },
+               {
+                  "name": "Jinko Gotoh",
+                  "notes": null,
+                  "imdb_id": "nm1380146"
+               },
+               {
+                  "name": "Marisa Roman",
+                  "notes": null,
+                  "imdb_id": "nm9282610"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Missing Link",
+                  "notes": null,
+                  "imdb_id": "tt6348138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Butler",
+                  "notes": null,
+                  "imdb_id": "nm2752098"
+               },
+               {
+                  "name": "Arianne Sutner",
+                  "notes": null,
+                  "imdb_id": "nm1750312"
+               },
+               {
+                  "name": "Travis Knight",
+                  "notes": null,
+                  "imdb_id": "nm1325899"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hair Love",
+                  "notes": null,
+                  "imdb_id": "tt7129636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew A. Cherry",
+                  "notes": null,
+                  "imdb_id": "nm1525794"
+               },
+               {
+                  "name": "Karen Rupert Toliver",
+                  "notes": null,
+                  "imdb_id": "nm2702123"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daughter",
+                  "notes": null,
+                  "imdb_id": "tt10923134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daria Kashcheeva",
+                  "notes": null,
+                  "imdb_id": "nm9032521"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kitbull",
+                  "notes": null,
+                  "imdb_id": "tt9536832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rosana Sullivan",
+                  "notes": null,
+                  "imdb_id": "nm3300040"
+               },
+               {
+                  "name": "Kathryn Hendrickson",
+                  "notes": null,
+                  "imdb_id": "nm4144523"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Memorable",
+                  "notes": null,
+                  "imdb_id": "tt10499942"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Collet",
+                  "notes": null,
+                  "imdb_id": "nm1170249"
+               },
+               {
+                  "name": "Jean-Fran\u00e7ois Le Corre",
+                  "notes": null,
+                  "imdb_id": "nm1803332"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sister",
+                  "notes": null,
+                  "imdb_id": "tt9032798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Siqi Song",
+                  "notes": null,
+                  "imdb_id": "nm5465317"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Neighbors' Window",
+                  "notes": null,
+                  "imdb_id": "tt8163822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marshall Curry",
+                  "notes": null,
+                  "imdb_id": "nm1903582"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Sister",
+                  "notes": null,
+                  "imdb_id": "tt8767544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Delphine Girard",
+                  "notes": null,
+                  "imdb_id": "nm5407860"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brotherhood",
+                  "notes": null,
+                  "imdb_id": "tt8906678"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Meryam Joobeur",
+                  "notes": null,
+                  "imdb_id": "nm5084972"
+               },
+               {
+                  "name": "Maria Gracia Turgeon",
+                  "notes": null,
+                  "imdb_id": "nm5637080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nefta Football Club",
+                  "notes": null,
+                  "imdb_id": "tt8551848"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Yves Piat",
+                  "notes": null,
+                  "imdb_id": "nm1166989"
+               },
+               {
+                  "name": "Damien Megherbi",
+                  "notes": null,
+                  "imdb_id": "nm6628142"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saria",
+                  "notes": null,
+                  "imdb_id": "tt11421246"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bryan Buckley",
+                  "notes": null,
+                  "imdb_id": "nm1519252"
+               },
+               {
+                  "name": "Matt Lefebvre",
+                  "notes": null,
+                  "imdb_id": "nm4119897"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "nominations": [
+         {
+            "notes": "South Korea",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Parasite",
+                  "notes": null,
+                  "imdb_id": "tt6751668"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Corpus Christi",
+                  "notes": null,
+                  "imdb_id": "tt8649186"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "North Macedonia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Honeyland",
+                  "notes": null,
+                  "imdb_id": "tt8991268"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les mis\u00e9rables",
+                  "notes": null,
+                  "imdb_id": "tt10199590"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pain and Glory",
+                  "notes": null,
+                  "imdb_id": "tt8291806"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   }
+]

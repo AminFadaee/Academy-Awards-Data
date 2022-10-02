@@ -1,0 +1,748 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Sellers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roy Scheider"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Melvyn Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frederic Forrest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Justin Henry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey Rooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sally Field"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Midler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jill Clayburgh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marsha Mason"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Barrie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Candice Bergen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mariel Hemingway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek: The Motion Picture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The China Syndrome"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1941"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kramer vs. Kramer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Hole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agatha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butch and Sundance: The Early Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La Cage aux folles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Europeans"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Benton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bob Fosse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Francis Ford Coppola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Yates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "\u00c9douard Molinaro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Best Boy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Generation on the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Going the Distance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killing Ground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War at Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Paul Robeson: Tribute to an Artist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dae"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Koryo Celadon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nails"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Remember Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1941"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonraker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek: The Motion Picture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Hole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kramer vs. Kramer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Stallion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Tin Drum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Simple Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mama Turns 100"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Maids of Wilko"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Forget Venice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Little Romance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "10"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek: The Motion Picture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Amityville Horror"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Champ"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Norma Rae"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "10"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ice Castles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Muppet Movie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Promise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breaking Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Muppet Movie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kramer vs. Kramer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breaking Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Rae"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Every Child"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dream Doll"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's So Nice to Have a Wolf Around the House"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Board and Care"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bravery in the Field"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oh Brother, My Brother"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Solly's Diner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Solar Film"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1941"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meteor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Electric Horseman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kramer vs. Kramer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Little Romance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypse Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La Cage aux folles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Rae"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Breaking Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All That Jazz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "And Justice for All"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Manhattan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The China Syndrome"
+            ]
+         }
+      ]
+   }
+]

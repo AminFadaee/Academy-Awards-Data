@@ -1,0 +1,1947 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Alec Guinness was not present at the awards ceremony. Jean Simmons accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alec Guinness",
+                  "notes": null,
+                  "imdb_id": "nm0000027"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Franciosa",
+                  "notes": null,
+                  "imdb_id": "nm0290047"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Hatful of Rain",
+                  "notes": null,
+                  "imdb_id": "tt0050487"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Quinn",
+                  "notes": null,
+                  "imdb_id": "nm0000063"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wild Is the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0051193"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Laughton",
+                  "notes": null,
+                  "imdb_id": "nm0001452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marlon Brando",
+                  "notes": null,
+                  "imdb_id": "nm0000008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Red Buttons",
+                  "notes": null,
+                  "imdb_id": "nm0000999"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0447913"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Russ Tamblyn",
+                  "notes": null,
+                  "imdb_id": "nm0848560"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sessue Hayakawa",
+                  "notes": null,
+                  "imdb_id": "nm0370564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vittorio De Sica",
+                  "notes": null,
+                  "imdb_id": "nm0001120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Farewell to Arms",
+                  "notes": null,
+                  "imdb_id": "tt0050379"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joanne Woodward",
+                  "notes": null,
+                  "imdb_id": "nm0940946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Three Faces of Eve",
+                  "notes": null,
+                  "imdb_id": "tt0051077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anna Magnani",
+                  "notes": null,
+                  "imdb_id": "nm0536167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wild Is the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0051193"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Deborah Kerr",
+                  "notes": null,
+                  "imdb_id": "nm0000039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Heaven Knows, Mr. Allison",
+                  "notes": null,
+                  "imdb_id": "tt0050490"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0000072"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Raintree County",
+                  "notes": null,
+                  "imdb_id": "tt0050882"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lana Turner",
+                  "notes": null,
+                  "imdb_id": "nm0001805"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Miyoshi Umeki",
+                  "notes": null,
+                  "imdb_id": "nm0880855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carolyn Jones",
+                  "notes": null,
+                  "imdb_id": "nm0427700"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bachelor Party",
+                  "notes": null,
+                  "imdb_id": "tt0050156"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Varsi",
+                  "notes": null,
+                  "imdb_id": "nm0890215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elsa Lanchester",
+                  "notes": null,
+                  "imdb_id": "nm0006471"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hope Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Haworth",
+                  "notes": null,
+                  "imdb_id": "nm0370385"
+               },
+               {
+                  "name": "Robert Priestley",
+                  "notes": null,
+                  "imdb_id": "nm0697369"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Face",
+                  "notes": null,
+                  "imdb_id": "tt0050419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les Girls",
+                  "notes": null,
+                  "imdb_id": "tt0050631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Horning",
+                  "notes": null,
+                  "imdb_id": "nm0395178"
+               },
+               {
+                  "name": "Gene Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020537"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Richard Pefferle",
+                  "notes": null,
+                  "imdb_id": "nm0670385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pal Joey",
+                  "notes": null,
+                  "imdb_id": "tt0050815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Holscher",
+                  "notes": null,
+                  "imdb_id": "nm0392269"
+               },
+               {
+                  "name": "William Kiernan",
+                  "notes": null,
+                  "imdb_id": "nm0452599"
+               },
+               {
+                  "name": "Louis Diage",
+                  "notes": null,
+                  "imdb_id": "nm0224448"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raintree County",
+                  "notes": null,
+                  "imdb_id": "tt0050882"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Horning",
+                  "notes": null,
+                  "imdb_id": "nm0395178"
+               },
+               {
+                  "name": "Urie McCleary",
+                  "notes": null,
+                  "imdb_id": "nm0565720"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Hildyard",
+                  "notes": null,
+                  "imdb_id": "nm0005742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Affair to Remember",
+                  "notes": null,
+                  "imdb_id": "tt0050105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milton R. Krasner",
+                  "notes": null,
+                  "imdb_id": "nm0005762"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Face",
+                  "notes": null,
+                  "imdb_id": "tt0050419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray June",
+                  "notes": null,
+                  "imdb_id": "nm0432482"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William C. Mellor",
+                  "notes": null,
+                  "imdb_id": "nm0005794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ellsworth Fredericks",
+                  "notes": null,
+                  "imdb_id": "nm0005712"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Les Girls",
+                  "notes": null,
+                  "imdb_id": "tt0050631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orry-Kelly",
+                  "notes": null,
+                  "imdb_id": "nm0650673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Affair to Remember",
+                  "notes": null,
+                  "imdb_id": "tt0050105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Face",
+                  "notes": null,
+                  "imdb_id": "tt0050419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Hubert de Givenchy",
+                  "notes": null,
+                  "imdb_id": "nm0321436"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pal Joey",
+                  "notes": null,
+                  "imdb_id": "tt0050815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Louis",
+                  "notes": null,
+                  "imdb_id": "nm0521872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raintree County",
+                  "notes": null,
+                  "imdb_id": "tt0050882"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Plunkett",
+                  "notes": null,
+                  "imdb_id": "nm0687703"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "David Lean",
+                  "notes": null,
+                  "imdb_id": "nm0000180"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joshua Logan",
+                  "notes": null,
+                  "imdb_id": "nm0517597"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mark Robson",
+                  "notes": null,
+                  "imdb_id": "nm0733476"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sidney Lumet",
+                  "notes": null,
+                  "imdb_id": "nm0001486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "12 Angry Men",
+                  "notes": null,
+                  "imdb_id": "tt0050083"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Albert Schweitzer",
+                  "notes": null,
+                  "imdb_id": "tt0050109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Hill",
+                  "notes": null,
+                  "imdb_id": "nm0384377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Bowery",
+                  "notes": null,
+                  "imdb_id": "tt0050800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Rogosin",
+                  "notes": null,
+                  "imdb_id": "nm0737369"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Torero",
+                  "notes": null,
+                  "imdb_id": "tt0051099"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manuel Barbachano Ponce",
+                  "notes": null,
+                  "imdb_id": "nm0053168"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Enemy Below",
+                  "notes": null,
+                  "imdb_id": "tt0050356"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Rossi",
+                  "notes": null,
+                  "imdb_id": "nm0744346"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Spirit of St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0051003"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Lichtenfield",
+                  "notes": null,
+                  "imdb_id": "nm0509020"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": "Peter Taylor was not present at the awards ceremony. William A. Lyon accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852999"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gunfight at the O.K. Corral",
+                  "notes": null,
+                  "imdb_id": "tt0050468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Low",
+                  "notes": null,
+                  "imdb_id": "nm0522848"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pal Joey",
+                  "notes": null,
+                  "imdb_id": "tt0050815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Viola Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm0493072"
+               },
+               {
+                  "name": "Jerome Thoms",
+                  "notes": null,
+                  "imdb_id": "nm0860870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur P. Schmidt",
+                  "notes": null,
+                  "imdb_id": "nm0772834"
+               },
+               {
+                  "name": "Philip W. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027294"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Mandell",
+                  "notes": null,
+                  "imdb_id": "nm0541721"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nights of Cabiria",
+                  "notes": null,
+                  "imdb_id": "tt0050783"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "India.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mother India",
+                  "notes": null,
+                  "imdb_id": "tt0050188"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Norway.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nine Lives",
+                  "notes": null,
+                  "imdb_id": "tt0050762"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Devil Strikes at Night",
+                  "notes": null,
+                  "imdb_id": "tt0050746"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gates of Paris",
+                  "notes": null,
+                  "imdb_id": "tt0050850"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"All the Way\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Joker Is Wild",
+                  "notes": null,
+                  "imdb_id": "tt0050569"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"An Affair to Remember\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Affair to Remember",
+                  "notes": null,
+                  "imdb_id": "tt0050105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Harold Adamson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0011488"
+               },
+               {
+                  "name": "Leo McCarey",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0564970"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"April Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "April Love",
+                  "notes": null,
+                  "imdb_id": "tt0050135"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sammy Fain",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006066"
+               },
+               {
+                  "name": "Paul Francis Webster",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0916990"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Tammy\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tammy and the Bachelor",
+                  "notes": null,
+                  "imdb_id": "tt0051051"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Evans",
+                  "notes": null,
+                  "imdb_id": "nm0263143"
+               },
+               {
+                  "name": "Jay Livingston",
+                  "notes": null,
+                  "imdb_id": "nm0515254"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Wild Is the Wind\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wild Is the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0051193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006323"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring",
+      "nominations": [
+         {
+            "notes": "Malcolm Arnold was not present at the ceremony. Morris Stoloff accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Malcolm Arnold",
+                  "notes": null,
+                  "imdb_id": "nm0002185"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Affair to Remember",
+                  "notes": null,
+                  "imdb_id": "tt0050105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugo Friedhofer",
+                  "notes": null,
+                  "imdb_id": "nm0006087"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boy on a Dolphin",
+                  "notes": null,
+                  "imdb_id": "tt0050208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugo Friedhofer",
+                  "notes": null,
+                  "imdb_id": "nm0006087"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Perri",
+                  "notes": null,
+                  "imdb_id": "tt0050837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul J. Smith",
+                  "notes": null,
+                  "imdb_id": "nm1345229"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raintree County",
+                  "notes": null,
+                  "imdb_id": "tt0050882"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Spiegel",
+                  "notes": null,
+                  "imdb_id": "nm0818545"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12 Angry Men",
+                  "notes": null,
+                  "imdb_id": "tt0050083"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000020"
+               },
+               {
+                  "name": "Reginald Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741627"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Wald",
+                  "notes": null,
+                  "imdb_id": "nm0907003"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goetz",
+                  "notes": null,
+                  "imdb_id": "nm0324544"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Hornblow Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0394967"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Birds Anonymous",
+                  "notes": null,
+                  "imdb_id": "tt0050194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Selzer",
+                  "notes": null,
+                  "imdb_id": "nm0783666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Droopy Knight",
+                  "notes": null,
+                  "imdb_id": "tt0050802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Hanna",
+                  "notes": null,
+                  "imdb_id": "nm0360253"
+               },
+               {
+                  "name": "Joseph Barbera",
+                  "notes": null,
+                  "imdb_id": "nm0053484"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tabasco Road",
+                  "notes": null,
+                  "imdb_id": "tt0051044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Selzer",
+                  "notes": null,
+                  "imdb_id": "nm0783666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Truth About Mother Goose",
+                  "notes": null,
+                  "imdb_id": "tt0051115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trees and Jamaica Daddy",
+                  "notes": null,
+                  "imdb_id": "tt0051108"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Wetback Hound",
+                  "notes": null,
+                  "imdb_id": "tt0051187"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Larry Lansburgh",
+                  "notes": null,
+                  "imdb_id": "nm0487047"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Chairy Tale",
+                  "notes": null,
+                  "imdb_id": "tt0050534"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman McLaren",
+                  "notes": null,
+                  "imdb_id": "nm0572235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "City of Gold",
+                  "notes": null,
+                  "imdb_id": "tt0050255"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Daly",
+                  "notes": null,
+                  "imdb_id": "nm0198514"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foothold on Antarctica",
+                  "notes": null,
+                  "imdb_id": "tt0050403"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Carr",
+                  "notes": null,
+                  "imdb_id": "nm0139729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Portugal",
+                  "notes": null,
+                  "imdb_id": "tt0050851"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Sharpsteen",
+                  "notes": null,
+                  "imdb_id": "nm0789313"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Groves",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0344060"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gunfight at the O.K. Corral",
+                  "notes": null,
+                  "imdb_id": "tt0050468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Dutton",
+                  "notes": "(Paramount SSD)",
+                  "imdb_id": "nm0244931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les Girls",
+                  "notes": null,
+                  "imdb_id": "tt0050631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wesley C. Miller",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0589506"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pal Joey",
+                  "notes": null,
+                  "imdb_id": "tt0050815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Witness for the Prosecution",
+                  "notes": null,
+                  "imdb_id": "tt0051201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": "Carl Foreman and Michael Wilson were blacklisted at the time and received no screen credit. They were posthumously awarded Oscars in 1984. Pierre Boulle was not present at the awards ceremony. Kim Novak accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Bridge on the River Kwai",
+                  "notes": null,
+                  "imdb_id": "tt0050212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pierre Boulle",
+                  "notes": null,
+                  "imdb_id": "nm0099541"
+               },
+               {
+                  "name": "Carl Foreman",
+                  "notes": null,
+                  "imdb_id": "nm0286025"
+               },
+               {
+                  "name": "Michael Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933858"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12 Angry Men",
+                  "notes": null,
+                  "imdb_id": "tt0050083"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reginald Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741627"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heaven Knows, Mr. Allison",
+                  "notes": null,
+                  "imdb_id": "tt0050490"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Lee Mahin",
+                  "notes": null,
+                  "imdb_id": "nm0536941"
+               },
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peyton Place",
+                  "notes": null,
+                  "imdb_id": "tt0050839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Michael Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0371088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sayonara",
+                  "notes": null,
+                  "imdb_id": "tt0050933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Osborn",
+                  "notes": null,
+                  "imdb_id": "nm0651585"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Designing Woman",
+                  "notes": null,
+                  "imdb_id": "tt0050306"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Wells",
+                  "notes": null,
+                  "imdb_id": "nm0920216"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Face",
+                  "notes": null,
+                  "imdb_id": "tt0050419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Gershe",
+                  "notes": null,
+                  "imdb_id": "nm0314826"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I vitelloni",
+                  "notes": null,
+                  "imdb_id": "tt0046521"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Federico Fellini",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0000019"
+               },
+               {
+                  "name": "Ennio Flaiano",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0280919"
+               },
+               {
+                  "name": "Tullio Pinelli",
+                  "notes": "(story)",
+                  "imdb_id": "nm0684083"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Man of a Thousand Faces",
+                  "notes": null,
+                  "imdb_id": "tt0050681"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Wheelwright",
+                  "notes": "(story)",
+                  "imdb_id": "nm0924000"
+               },
+               {
+                  "name": "R. Wright Campbell",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0132790"
+               },
+               {
+                  "name": "Ivan Goff",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0324578"
+               },
+               {
+                  "name": "Ben Roberts",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0730850"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tin Star",
+                  "notes": null,
+                  "imdb_id": "tt0051087"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barney Slater",
+                  "notes": "(story)",
+                  "imdb_id": "nm0805340"
+               },
+               {
+                  "name": "Joel Kane",
+                  "notes": "(story)",
+                  "imdb_id": "nm0437352"
+               },
+               {
+                  "name": "Dudley Nichols",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0629580"
+               }
+            ]
+         }
+      ]
+   }
+]

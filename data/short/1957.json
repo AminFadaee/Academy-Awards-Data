@@ -1,0 +1,887 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Yul Brynner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Dean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kirk Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rock Hudson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Quinn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Perkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don Murray"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey Rooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Stack"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ingrid Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carroll Baker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deborah Kerr"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nancy Kelly"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dorothy Malone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eileen Heckart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mercedes McCambridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mildred Dunnock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patty McCormack"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Somebody Up There Likes Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Samurai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Teenage Rebel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Proud and Profane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Solid Gold Cadillac"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lust for Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Somebody Up There Likes Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Baby Doll"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stagecoach to Fury"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bad Seed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Harder They Fall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Eddy Duchin Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War and Peace"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Solid Gold Cadillac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Samurai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Teenage Rebel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Power and the Prize"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Proud and Profane"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War and Peace"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Stevens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Vidor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Anderson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Lang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Silent World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Naked Eye"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Where Mountains Float"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The True Story of the Civil War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A City Decides"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Wave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House Without a Name"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magical World of Disney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forbidden Planet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Somebody Up There Likes Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Brave One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gervaise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Qivitoq"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Burmese Harp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Captain from K\u00f6penick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Man Who Knew Too Much"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Friendly Persuasion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Society"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Written on the Wind"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anastasia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Between Heaven and Hell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rainmaker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Society"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meet Me in Las Vegas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Best Things in Life Are Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Eddy Duchin Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Friendly Persuasion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Magoo's Puddle Jumper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gerald McBoing! Boing! on Planet Moo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jaywalker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crashing the Water Barrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Never Forget a Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Time Stood Still"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bespoke Overcoat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cow Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samoa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Wave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King and I"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Friendly Persuasion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Brave One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Eddy Duchin Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ten Commandments"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Best Screenplay - Adapted",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Around the World in 80 Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Baby Doll"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Friendly Persuasion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lust for Life"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Best Screenplay - Original",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Red Balloon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bold and the Brave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ladykillers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Road"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Brave One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Society"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Eddy Duchin Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Proud and the Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Umberto D."
+            ]
+         }
+      ]
+   }
+]

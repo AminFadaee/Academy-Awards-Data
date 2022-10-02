@@ -1,0 +1,806 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Matt Damon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robin Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burt Reynolds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greg Kinnear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Forster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Helen Hunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helena Bonham Carter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Christie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kim Basinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gloria Stuart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Cusack"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julianne Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minnie Driver"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gattaca"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kundun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Men in Black"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amistad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kundun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wings of the Dove"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amistad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kundun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oscar and Lucinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wings of the Dove"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "James Cameron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atom Egoyan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Curtis Hanson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gus Van Sant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Cattaneo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Long Way Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "4 Little Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ayn Rand: A Sense of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Colors Straight Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waco: The Rules of Engagement"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Story of Healing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alaska: Spirit of the Wild"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amazon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Family Video Diaries: Daughter of the Bride"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Still Kicking: The Fabulous Palm Springs Follies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Face/Off"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fifth Element"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Starship Troopers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lost World: Jurassic Park"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Air Force One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "As Good as It Gets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Will Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Character"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beyond Silence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Days in September"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Secrets of the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thief"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Men in Black"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mrs. Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Titanic"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amistad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Will Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kundun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Full Monty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anastasia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "As Good as It Gets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Men in Black"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Best Friend's Wedding"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anastasia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Con Air"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Will Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hercules"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "As Good as It Gets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Will Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Full Monty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Geri's Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Famous Fred"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mermaid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Redux Riding Hood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Old Lady and the Pigeons"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Visas and Virtue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dance Lexie Dance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's Good to Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Skal vi v\u00e6re k\u00e6rester?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wolfgang"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Air Force One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Con Air"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "L.A. Confidential"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Donnie Brasco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sweet Hereafter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wings of the Dove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wag the Dog"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Good Will Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "As Good as It Gets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boogie Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deconstructing Harry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Full Monty"
+            ]
+         }
+      ]
+   }
+]

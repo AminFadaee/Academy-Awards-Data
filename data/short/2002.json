@@ -1,0 +1,776 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Beautiful Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gosford Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Bedroom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Russell Crowe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sean Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Wilkinson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Will Smith"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Halle Berry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicole Kidman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ren\u00e9e Zellweger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sissy Spacek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jim Broadbent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben Kingsley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethan Hawke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ian McKellen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jon Voight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jennifer Connelly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helen Mirren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maggie Smith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marisa Tomei"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ron Howard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lynch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ridley Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Altman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gosford Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Am\u00e9lie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memento"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monster's Ball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Royal Tenenbaums"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Beautiful Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghost World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Bedroom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shrek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "No Man's Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Am\u00e9lie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lagaan: Once Upon a Time in India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Son of the Bride"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Am\u00e9lie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Hawk Down"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Wasn't There"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Am\u00e9lie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gosford Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Sorcerer's Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gosford Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Sorcerer's Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Affair of the Necklace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Hawk Down"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Am\u00e9lie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pearl Harbor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pearl Harbor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsters, Inc."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Hawk Down"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Beautiful Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memento"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A.I. Artificial Intelligence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pearl Harbor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Beautiful Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Monsters, Inc."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate & Leopold"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pearl Harbor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanilla Sky"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Fellowship of the Ring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Beautiful Mind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A.I. Artificial Intelligence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Sorcerer's Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsters, Inc."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "For the Birds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fifty Percent Grey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Give Up Yer Aul Sins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strange Invaders"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stubble Trouble"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Accountant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Man Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Copy Shop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregor's Greatest Invention"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Speed for Thespians"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thoth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Artists and Orphans: A True Drama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sing!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Murder on a Sunday Morning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children Underground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "LaLee's Kin: The Legacy of Cotton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Promises"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Photographer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shrek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jimmy Neutron: Boy Genius"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsters, Inc."
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2405 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dustin Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000163"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "And Justice for All",
+                  "notes": null,
+                  "imdb_id": "tt0078718"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Lemmon",
+                  "notes": null,
+                  "imdb_id": "nm0000493"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The China Syndrome",
+                  "notes": null,
+                  "imdb_id": "tt0078966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Sellers",
+                  "notes": null,
+                  "imdb_id": "nm0000634"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Being There",
+                  "notes": null,
+                  "imdb_id": "tt0078841"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Roy Scheider",
+                  "notes": null,
+                  "imdb_id": "nm0001702"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Melvyn Douglas was not present at the awards ceremony. Co-presenter Liza Minnelli accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Melvyn Douglas",
+                  "notes": null,
+                  "imdb_id": "nm0002048"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Being There",
+                  "notes": null,
+                  "imdb_id": "tt0078841"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frederic Forrest",
+                  "notes": null,
+                  "imdb_id": "nm0002078"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Rose",
+                  "notes": null,
+                  "imdb_id": "tt0079826"
+               }
+            ]
+         },
+         {
+            "notes": "At age 8 years, 10 months and 20 days, Henry is (to date) the youngest nominee for any competitive honor in Academy Award history.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Justin Henry",
+                  "notes": null,
+                  "imdb_id": "nm0377888"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mickey Rooney",
+                  "notes": null,
+                  "imdb_id": "nm0001682"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Black Stallion",
+                  "notes": null,
+                  "imdb_id": "tt0078872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Duvall",
+                  "notes": null,
+                  "imdb_id": "nm0000380"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sally Field",
+                  "notes": null,
+                  "imdb_id": "nm0000398"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norma Rae",
+                  "notes": null,
+                  "imdb_id": "tt0079638"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Midler",
+                  "notes": null,
+                  "imdb_id": "nm0000541"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Rose",
+                  "notes": null,
+                  "imdb_id": "tt0079826"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The China Syndrome",
+                  "notes": null,
+                  "imdb_id": "tt0078966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jill Clayburgh",
+                  "notes": null,
+                  "imdb_id": "nm0001049"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Starting Over",
+                  "notes": null,
+                  "imdb_id": "tt0079948"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marsha Mason",
+                  "notes": null,
+                  "imdb_id": "nm0556850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chapter Two",
+                  "notes": null,
+                  "imdb_id": "tt0078952"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Barrie",
+                  "notes": null,
+                  "imdb_id": "nm0057363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Breaking Away",
+                  "notes": null,
+                  "imdb_id": "tt0078902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Candice Bergen",
+                  "notes": null,
+                  "imdb_id": "nm0000298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Starting Over",
+                  "notes": null,
+                  "imdb_id": "tt0079948"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Alexander",
+                  "notes": null,
+                  "imdb_id": "nm0000737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mariel Hemingway",
+                  "notes": null,
+                  "imdb_id": "nm0000446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manhattan",
+                  "notes": null,
+                  "imdb_id": "tt0079522"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Rosenberg",
+                  "notes": null,
+                  "imdb_id": "nm0742303"
+               },
+               {
+                  "name": "Tony Walton",
+                  "notes": null,
+                  "imdb_id": "nm0910589"
+               },
+               {
+                  "name": "Edward Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0829357"
+               },
+               {
+                  "name": "Gary J. Brink",
+                  "notes": null,
+                  "imdb_id": "nm0109549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alien",
+                  "notes": null,
+                  "imdb_id": "tt0078748"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Seymour",
+                  "notes": null,
+                  "imdb_id": "nm0786854"
+               },
+               {
+                  "name": "Leslie Dilley",
+                  "notes": null,
+                  "imdb_id": "nm0226896"
+               },
+               {
+                  "name": "Roger Christian",
+                  "notes": null,
+                  "imdb_id": "nm0002337"
+               },
+               {
+                  "name": "Ian Whittaker",
+                  "notes": null,
+                  "imdb_id": "nm0926434"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Tavoularis",
+                  "notes": null,
+                  "imdb_id": "nm0851790"
+               },
+               {
+                  "name": "Angelo P. Graham",
+                  "notes": null,
+                  "imdb_id": "nm0333908"
+               },
+               {
+                  "name": "George R. Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625388"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek: The Motion Picture",
+                  "notes": null,
+                  "imdb_id": "tt0079945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Michelson",
+                  "notes": null,
+                  "imdb_id": "nm0585118"
+               },
+               {
+                  "name": "Joseph R. Jennings",
+                  "notes": null,
+                  "imdb_id": "nm0421187"
+               },
+               {
+                  "name": "Leon Harris",
+                  "notes": null,
+                  "imdb_id": "nm0364994"
+               },
+               {
+                  "name": "John Vallone",
+                  "notes": null,
+                  "imdb_id": "nm0885200"
+               },
+               {
+                  "name": "Linda DeScenna",
+                  "notes": null,
+                  "imdb_id": "nm0220984"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The China Syndrome",
+                  "notes": null,
+                  "imdb_id": "tt0078966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Jenkins",
+                  "notes": null,
+                  "imdb_id": "nm0420846"
+               },
+               {
+                  "name": "Arthur Jeph Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662057"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vittorio Storaro",
+                  "notes": null,
+                  "imdb_id": "nm0005886"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1941",
+                  "notes": null,
+                  "imdb_id": "tt0078723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Fraker",
+                  "notes": null,
+                  "imdb_id": "nm0005710"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Giuseppe Rotunno",
+                  "notes": null,
+                  "imdb_id": "nm0005850"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "N\u00e9stor Almendros",
+                  "notes": null,
+                  "imdb_id": "nm0000743"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Black Hole",
+                  "notes": null,
+                  "imdb_id": "tt0078869"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank V. Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680402"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Wolsky",
+                  "notes": null,
+                  "imdb_id": "nm0938717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Agatha",
+                  "notes": null,
+                  "imdb_id": "tt0078736"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shirley Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Butch and Sundance: The Early Days",
+                  "notes": null,
+                  "imdb_id": "tt0078919"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Ware Theiss",
+                  "notes": null,
+                  "imdb_id": "nm0857377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La Cage aux folles",
+                  "notes": null,
+                  "imdb_id": "tt0077288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Piero Tosi",
+                  "notes": null,
+                  "imdb_id": "nm0869200"
+               },
+               {
+                  "name": "Ambra Danon",
+                  "notes": null,
+                  "imdb_id": "nm0200464"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Europeans",
+                  "notes": null,
+                  "imdb_id": "tt0079123"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judy Moorcroft",
+                  "notes": null,
+                  "imdb_id": "nm0600844"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Robert Benton",
+                  "notes": null,
+                  "imdb_id": "nm0000914"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bob Fosse",
+                  "notes": null,
+                  "imdb_id": "nm0002080"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Francis Ford Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0000338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Yates",
+                  "notes": null,
+                  "imdb_id": "nm0946811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Breaking Away",
+                  "notes": null,
+                  "imdb_id": "tt0078902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "\u00c9douard Molinaro",
+                  "notes": null,
+                  "imdb_id": "nm0596850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "La Cage aux folles",
+                  "notes": null,
+                  "imdb_id": "tt0077288"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Best Boy",
+                  "notes": null,
+                  "imdb_id": "tt0078850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ira Wohl",
+                  "notes": null,
+                  "imdb_id": "nm0937390"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Generation on the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0079201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Vassar",
+                  "notes": null,
+                  "imdb_id": "nm0890774"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Going the Distance",
+                  "notes": null,
+                  "imdb_id": "tt0079220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Cowan",
+                  "notes": null,
+                  "imdb_id": "nm0184612"
+               },
+               {
+                  "name": "Jacques Bobet",
+                  "notes": null,
+                  "imdb_id": "nm0090369"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Killing Ground",
+                  "notes": null,
+                  "imdb_id": "tt0079402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Singer",
+                  "notes": null,
+                  "imdb_id": "nm0802049"
+               },
+               {
+                  "name": "Tom Priestley",
+                  "notes": null,
+                  "imdb_id": "nm0697373"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The War at Home",
+                  "notes": null,
+                  "imdb_id": "tt0080118"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glenn Silber",
+                  "notes": null,
+                  "imdb_id": "nm0797838"
+               },
+               {
+                  "name": "Barry Alexander Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113084"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Paul Robeson: Tribute to an Artist",
+                  "notes": null,
+                  "imdb_id": "tt0079704"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul J. Turell",
+                  "notes": null,
+                  "imdb_id": "nm0877020"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dae",
+                  "notes": null,
+                  "imdb_id": "tt0079022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Risto Teofilovski",
+                  "notes": null,
+                  "imdb_id": "nm0855258"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Koryo Celadon",
+                  "notes": null,
+                  "imdb_id": "tt0079414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald A. Connolly",
+                  "notes": null,
+                  "imdb_id": "nm0175278"
+               },
+               {
+                  "name": "James R. Messenger",
+                  "notes": null,
+                  "imdb_id": "nm0582032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nails",
+                  "notes": null,
+                  "imdb_id": "tt0079608"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phillip Borsos",
+                  "notes": null,
+                  "imdb_id": "nm0097491"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Remember Me",
+                  "notes": null,
+                  "imdb_id": "tt0079791"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Young",
+                  "notes": null,
+                  "imdb_id": "nm0949484"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alien",
+                  "notes": null,
+                  "imdb_id": "tt0078748"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "H.R. Giger",
+                  "notes": null,
+                  "imdb_id": "nm0317592"
+               },
+               {
+                  "name": "Carlo Rambaldi",
+                  "notes": null,
+                  "imdb_id": "nm0708058"
+               },
+               {
+                  "name": "Brian Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0424644"
+               },
+               {
+                  "name": "Nick Allder",
+                  "notes": null,
+                  "imdb_id": "nm0020158"
+               },
+               {
+                  "name": "Dennis Ayling",
+                  "notes": null,
+                  "imdb_id": "nm0043861"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1941",
+                  "notes": null,
+                  "imdb_id": "tt0078723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Fraker",
+                  "notes": null,
+                  "imdb_id": "nm0005710"
+               },
+               {
+                  "name": "A.D. Flowers",
+                  "notes": null,
+                  "imdb_id": "nm0283166"
+               },
+               {
+                  "name": "Gregory Jein",
+                  "notes": null,
+                  "imdb_id": "nm0420474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moonraker",
+                  "notes": null,
+                  "imdb_id": "tt0079574"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Derek Meddings",
+                  "notes": null,
+                  "imdb_id": "nm0575439"
+               },
+               {
+                  "name": "Paul Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933946"
+               },
+               {
+                  "name": "John Evans",
+                  "notes": null,
+                  "imdb_id": "nm0262906"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek: The Motion Picture",
+                  "notes": null,
+                  "imdb_id": "tt0079945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Trumbull",
+                  "notes": null,
+                  "imdb_id": "nm0874320"
+               },
+               {
+                  "name": "John Dykstra",
+                  "notes": null,
+                  "imdb_id": "nm0004375"
+               },
+               {
+                  "name": "Richard Yuricich",
+                  "notes": null,
+                  "imdb_id": "nm0951047"
+               },
+               {
+                  "name": "Robert Swarthe",
+                  "notes": null,
+                  "imdb_id": "nm0841931"
+               },
+               {
+                  "name": "David K. Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0829308"
+               },
+               {
+                  "name": "Grant McCune",
+                  "notes": null,
+                  "imdb_id": "nm0567263"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Black Hole",
+                  "notes": null,
+                  "imdb_id": "tt0078869"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Ellenshaw",
+                  "notes": null,
+                  "imdb_id": "nm0254002"
+               },
+               {
+                  "name": "Art Cruickshank",
+                  "notes": null,
+                  "imdb_id": "nm0189973"
+               },
+               {
+                  "name": "Eustace Lycett",
+                  "notes": null,
+                  "imdb_id": "nm0527941"
+               },
+               {
+                  "name": "Danny Lee",
+                  "notes": null,
+                  "imdb_id": "nm0497098"
+               },
+               {
+                  "name": "Harrison Ellenshaw",
+                  "notes": null,
+                  "imdb_id": "nm0254001"
+               },
+               {
+                  "name": "Joe Hale",
+                  "notes": null,
+                  "imdb_id": "nm0354940"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Heim",
+                  "notes": null,
+                  "imdb_id": "nm0374189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Marks",
+                  "notes": null,
+                  "imdb_id": "nm0548943"
+               },
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               },
+               {
+                  "name": "Gerald B. Greenberg",
+                  "notes": null,
+                  "imdb_id": "nm0338513"
+               },
+               {
+                  "name": "Lisa Fruchtman",
+                  "notes": null,
+                  "imdb_id": "nm0296636"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerald B. Greenberg",
+                  "notes": null,
+                  "imdb_id": "nm0338513"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Black Stallion",
+                  "notes": null,
+                  "imdb_id": "tt0078872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Dalva",
+                  "notes": null,
+                  "imdb_id": "nm0198395"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rose",
+                  "notes": null,
+                  "imdb_id": "tt0079826"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Wolfe",
+                  "notes": null,
+                  "imdb_id": "nm0938130"
+               },
+               {
+                  "name": "Carroll Timothy O'Meara",
+                  "notes": null,
+                  "imdb_id": "nm0641839"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "West Germany",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Tin Drum",
+                  "notes": null,
+                  "imdb_id": "tt0078875"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Simple Story",
+                  "notes": null,
+                  "imdb_id": "tt0075975"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mama Turns 100",
+                  "notes": null,
+                  "imdb_id": "tt0079517"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Maids of Wilko",
+                  "notes": null,
+                  "imdb_id": "tt0079696"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "To Forget Venice",
+                  "notes": null,
+                  "imdb_id": "tt0079054"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Little Romance",
+                  "notes": null,
+                  "imdb_id": "tt0079477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Georges Delerue",
+                  "notes": null,
+                  "imdb_id": "nm0000016"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "10",
+                  "notes": null,
+                  "imdb_id": "tt0078721"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": null,
+                  "imdb_id": "nm0000049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek: The Motion Picture",
+                  "notes": null,
+                  "imdb_id": "tt0079945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Amityville Horror",
+                  "notes": null,
+                  "imdb_id": "tt0078767"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lalo Schifrin",
+                  "notes": null,
+                  "imdb_id": "nm0006277"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Champ",
+                  "notes": null,
+                  "imdb_id": "tt0078950"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Grusin",
+                  "notes": null,
+                  "imdb_id": "nm0006115"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"It Goes Like It Goes\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Norma Rae",
+                  "notes": null,
+                  "imdb_id": "tt0079638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Shire",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006288"
+               },
+               {
+                  "name": "Norman Gimbel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0319757"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Song from 10 (It's Easy to Say)\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "10",
+                  "notes": null,
+                  "imdb_id": "tt0078721"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000049"
+               },
+               {
+                  "name": "Robert Wells",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0920398"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Theme from Ice Castles (Through the Eyes of Love)\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ice Castles",
+                  "notes": null,
+                  "imdb_id": "tt0077716"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006121"
+               },
+               {
+                  "name": "Carole Bayer Sager",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004728"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Rainbow Connection\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Muppet Movie",
+                  "notes": null,
+                  "imdb_id": "tt0079588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931437"
+               },
+               {
+                  "name": "Kenny Ascher",
+                  "notes": null,
+                  "imdb_id": "nm0038502"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Theme from The Promise (I'll Never Say 'Goodbye')\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Promise",
+                  "notes": null,
+                  "imdb_id": "tt0079756"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Shire",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006288"
+               },
+               {
+                  "name": "Alan Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0074732"
+               },
+               {
+                  "name": "Marilyn Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004750"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Burns",
+                  "notes": null,
+                  "imdb_id": "nm0005985"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Breaking Away",
+                  "notes": null,
+                  "imdb_id": "tt0078902"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patrick Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Muppet Movie",
+                  "notes": null,
+                  "imdb_id": "tt0079588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931437"
+               },
+               {
+                  "name": "Kenny Ascher",
+                  "notes": null,
+                  "imdb_id": "nm0038502"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley R. Jaffe",
+                  "notes": null,
+                  "imdb_id": "nm0415494"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Alan Aurthur",
+                  "notes": null,
+                  "imdb_id": "nm0015899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Francis Ford Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0000338"
+               },
+               {
+                  "name": "Fred Roos",
+                  "notes": null,
+                  "imdb_id": "nm0740407"
+               },
+               {
+                  "name": "Gray Frederickson",
+                  "notes": null,
+                  "imdb_id": "nm0292875"
+               },
+               {
+                  "name": "Tom Sternberg",
+                  "notes": null,
+                  "imdb_id": "nm0827923"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Breaking Away",
+                  "notes": null,
+                  "imdb_id": "tt0078902"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Yates",
+                  "notes": null,
+                  "imdb_id": "nm0946811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norma Rae",
+                  "notes": null,
+                  "imdb_id": "tt0079638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tamara Asseyev",
+                  "notes": null,
+                  "imdb_id": "nm0039834"
+               },
+               {
+                  "name": "Alexandra Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741228"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Every Child",
+                  "notes": null,
+                  "imdb_id": "tt0079126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Derek Lamb",
+                  "notes": null,
+                  "imdb_id": "nm0482943"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dream Doll",
+                  "notes": null,
+                  "imdb_id": "tt0079079"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Godfrey",
+                  "notes": null,
+                  "imdb_id": "nm0323962"
+               },
+               {
+                  "name": "Zlatko Grgic",
+                  "notes": null,
+                  "imdb_id": "nm0340767"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's So Nice to Have a Wolf Around the House",
+                  "notes": null,
+                  "imdb_id": "tt0079354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Fierlinger",
+                  "notes": null,
+                  "imdb_id": "nm0276414"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Board and Care",
+                  "notes": null,
+                  "imdb_id": "tt0078885"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sarah Pillsbury",
+                  "notes": null,
+                  "imdb_id": "nm0683579"
+               },
+               {
+                  "name": "Ron Ellis",
+                  "notes": null,
+                  "imdb_id": "nm0255070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bravery in the Field",
+                  "notes": null,
+                  "imdb_id": "tt0078900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roman Kroitor",
+                  "notes": null,
+                  "imdb_id": "nm0471993"
+               },
+               {
+                  "name": "Stefan Wodoslawsky",
+                  "notes": null,
+                  "imdb_id": "nm0937304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oh Brother, My Brother",
+                  "notes": null,
+                  "imdb_id": "tt0079656"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carol Lowell",
+                  "notes": null,
+                  "imdb_id": "nm0523082"
+               },
+               {
+                  "name": "Ross Lowell",
+                  "notes": null,
+                  "imdb_id": "nm0523112"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Solly's Diner",
+                  "notes": null,
+                  "imdb_id": "tt0079923"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Mathias",
+                  "notes": null,
+                  "imdb_id": "nm0558760"
+               },
+               {
+                  "name": "Jay Zuckerman",
+                  "notes": null,
+                  "imdb_id": "nm0958426"
+               },
+               {
+                  "name": "Larry Hankin",
+                  "notes": null,
+                  "imdb_id": "nm0359969"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Solar Film",
+                  "notes": null,
+                  "imdb_id": "tt0083104"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul Bass",
+                  "notes": null,
+                  "imdb_id": "nm0000866"
+               },
+               {
+                  "name": "Michael Britton",
+                  "notes": null,
+                  "imdb_id": "nm0110212"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               },
+               {
+                  "name": "Mark Berger",
+                  "notes": null,
+                  "imdb_id": "nm0074281"
+               },
+               {
+                  "name": "Richard Beggs",
+                  "notes": null,
+                  "imdb_id": "nm0066740"
+               },
+               {
+                  "name": "Nathan Boxer",
+                  "notes": null,
+                  "imdb_id": "nm0101537"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1941",
+                  "notes": null,
+                  "imdb_id": "tt0078723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Knudson",
+                  "notes": null,
+                  "imdb_id": "nm0461702"
+               },
+               {
+                  "name": "Robert Glass",
+                  "notes": null,
+                  "imdb_id": "nm0321915"
+               },
+               {
+                  "name": "Don MacDougall",
+                  "notes": null,
+                  "imdb_id": "nm0532013"
+               },
+               {
+                  "name": "Gene S. Cantamessa",
+                  "notes": null,
+                  "imdb_id": "nm0134481"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meteor",
+                  "notes": null,
+                  "imdb_id": "tt0079550"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William L. McCaughey",
+                  "notes": null,
+                  "imdb_id": "nm0565477"
+               },
+               {
+                  "name": "Aaron Rochin",
+                  "notes": null,
+                  "imdb_id": "nm0734099"
+               },
+               {
+                  "name": "Michael J. Kohut",
+                  "notes": null,
+                  "imdb_id": "nm0463489"
+               },
+               {
+                  "name": "Jack Solomon",
+                  "notes": null,
+                  "imdb_id": "nm0813349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Electric Horseman",
+                  "notes": null,
+                  "imdb_id": "tt0079100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Piantadosi",
+                  "notes": null,
+                  "imdb_id": "nm0681250"
+               },
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Al Overton Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0653929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rose",
+                  "notes": null,
+                  "imdb_id": "tt0079826"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Theodore Soderberg",
+                  "notes": null,
+                  "imdb_id": "nm0812029"
+               },
+               {
+                  "name": "Douglas O. Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930491"
+               },
+               {
+                  "name": "Paul Wells",
+                  "notes": null,
+                  "imdb_id": "nm0920372"
+               },
+               {
+                  "name": "James E. Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916137"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kramer vs. Kramer",
+                  "notes": null,
+                  "imdb_id": "tt0079417"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Benton",
+                  "notes": null,
+                  "imdb_id": "nm0000914"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Little Romance",
+                  "notes": null,
+                  "imdb_id": "tt0079477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allan Burns",
+                  "notes": null,
+                  "imdb_id": "nm0122560"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Apocalypse Now",
+                  "notes": null,
+                  "imdb_id": "tt0078788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Milius",
+                  "notes": null,
+                  "imdb_id": "nm0587518"
+               },
+               {
+                  "name": "Francis Ford Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0000338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La Cage aux folles",
+                  "notes": null,
+                  "imdb_id": "tt0077288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Francis Veber",
+                  "notes": null,
+                  "imdb_id": "nm0891554"
+               },
+               {
+                  "name": "\u00c9douard Molinaro",
+                  "notes": null,
+                  "imdb_id": "nm0596850"
+               },
+               {
+                  "name": "Marcello Danon",
+                  "notes": null,
+                  "imdb_id": "nm0200473"
+               },
+               {
+                  "name": "Jean Poiret",
+                  "notes": null,
+                  "imdb_id": "nm0688497"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norma Rae",
+                  "notes": null,
+                  "imdb_id": "tt0079638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irving Ravetch",
+                  "notes": null,
+                  "imdb_id": "nm0712419"
+               },
+               {
+                  "name": "Harriet Frank Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0290809"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Breaking Away",
+                  "notes": null,
+                  "imdb_id": "tt0078902"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Tesich",
+                  "notes": null,
+                  "imdb_id": "nm0856270"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All That Jazz",
+                  "notes": null,
+                  "imdb_id": "tt0078754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Alan Aurthur",
+                  "notes": null,
+                  "imdb_id": "nm0015899"
+               },
+               {
+                  "name": "Bob Fosse",
+                  "notes": null,
+                  "imdb_id": "nm0002080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "And Justice for All",
+                  "notes": null,
+                  "imdb_id": "tt0078718"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Valerie Curtin",
+                  "notes": null,
+                  "imdb_id": "nm0193224"
+               },
+               {
+                  "name": "Barry Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0001469"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Manhattan",
+                  "notes": null,
+                  "imdb_id": "tt0079522"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               },
+               {
+                  "name": "Marshall Brickman",
+                  "notes": null,
+                  "imdb_id": "nm0108613"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The China Syndrome",
+                  "notes": null,
+                  "imdb_id": "tt0078966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Gray",
+                  "notes": null,
+                  "imdb_id": "nm0336831"
+               },
+               {
+                  "name": "T.S. Cook",
+                  "notes": null,
+                  "imdb_id": "nm0177304"
+               },
+               {
+                  "name": "James Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0108745"
+               }
+            ]
+         }
+      ]
+   }
+]

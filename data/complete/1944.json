@@ -1,0 +1,3239 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Paul Lukas",
+                  "notes": null,
+                  "imdb_id": "nm0510134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Watch on the Rhine",
+                  "notes": null,
+                  "imdb_id": "tt0036515"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gary Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0000011"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Humphrey Bogart",
+                  "notes": null,
+                  "imdb_id": "nm0000007"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mickey Rooney",
+                  "notes": null,
+                  "imdb_id": "nm0001682"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Human Comedy",
+                  "notes": null,
+                  "imdb_id": "tt0036022"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walter Pidgeon",
+                  "notes": null,
+                  "imdb_id": "nm0682074"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charles Coburn",
+                  "notes": null,
+                  "imdb_id": "nm0002013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Akim Tamiroff",
+                  "notes": null,
+                  "imdb_id": "nm0848667"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Bickford",
+                  "notes": null,
+                  "imdb_id": "nm0001948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Claude Rains",
+                  "notes": null,
+                  "imdb_id": "nm0001647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "J. Carrol Naish",
+                  "notes": null,
+                  "imdb_id": "nm0619798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sahara",
+                  "notes": null,
+                  "imdb_id": "tt0036323"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jennifer Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greer Garson",
+                  "notes": null,
+                  "imdb_id": "nm0002093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ingrid Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0000006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jean Arthur",
+                  "notes": null,
+                  "imdb_id": "nm0000795"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Fontaine",
+                  "notes": null,
+                  "imdb_id": "nm0000021"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Constant Nymph",
+                  "notes": null,
+                  "imdb_id": "tt0035751"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Katina Paxinou",
+                  "notes": null,
+                  "imdb_id": "nm0668093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne Revere",
+                  "notes": null,
+                  "imdb_id": "nm0720843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladys Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0178066"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lucile Watson",
+                  "notes": null,
+                  "imdb_id": "nm0914778"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Watch on the Rhine",
+                  "notes": null,
+                  "imdb_id": "tt0036515"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paulette Goddard",
+                  "notes": null,
+                  "imdb_id": "nm0002104"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "So Proudly We Hail!",
+                  "notes": null,
+                  "imdb_id": "tt0036367"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Basevi",
+                  "notes": null,
+                  "imdb_id": "nm0059730"
+               },
+               {
+                  "name": "William S. Darling",
+                  "notes": null,
+                  "imdb_id": "nm0201419"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Five Graves to Cairo",
+                  "notes": null,
+                  "imdb_id": "tt0035884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Ernst Fegt\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0270404"
+               },
+               {
+                  "name": "Bertram C. Granger",
+                  "notes": null,
+                  "imdb_id": "nm0335032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Flight for Freedom",
+                  "notes": null,
+                  "imdb_id": "tt0035888"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert S. D'Agostino",
+                  "notes": null,
+                  "imdb_id": "nm0194875"
+               },
+               {
+                  "name": "Carroll Clark",
+                  "notes": null,
+                  "imdb_id": "nm0163754"
+               },
+               {
+                  "name": "Darrell Silvera",
+                  "notes": null,
+                  "imdb_id": "nm0798822"
+               },
+               {
+                  "name": "Harley Miller",
+                  "notes": null,
+                  "imdb_id": "nm0588442"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mission to Moscow",
+                  "notes": null,
+                  "imdb_id": "tt0036166"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl Jules Weyl",
+                  "notes": null,
+                  "imdb_id": "nm0923380"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Perry Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm0272572"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0036261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "John B. Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329129"
+               },
+               {
+                  "name": "Russell A. Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310199"
+               },
+               {
+                  "name": "Ira Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916129"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Haldane Douglas",
+                  "notes": null,
+                  "imdb_id": "nm0235070"
+               },
+               {
+                  "name": "Bertram C. Granger",
+                  "notes": null,
+                  "imdb_id": "nm0335032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gang's All Here",
+                  "notes": null,
+                  "imdb_id": "tt0035916"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Basevi",
+                  "notes": null,
+                  "imdb_id": "nm0059730"
+               },
+               {
+                  "name": "Joseph C. Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942532"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "This Is the Army",
+                  "notes": null,
+                  "imdb_id": "tt0036430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hughes",
+                  "notes": null,
+                  "imdb_id": "nm0002770"
+               },
+               {
+                  "name": "John Koenig",
+                  "notes": null,
+                  "imdb_id": "nm0462829"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thousands Cheer",
+                  "notes": null,
+                  "imdb_id": "tt0036432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Daniel B. Cathcart",
+                  "notes": null,
+                  "imdb_id": "nm0146100"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Jacques Mersereau",
+                  "notes": null,
+                  "imdb_id": "nm0581494"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur C. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0587926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Air Force",
+                  "notes": null,
+                  "imdb_id": "tt0035616"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Wong Howe",
+                  "notes": null,
+                  "imdb_id": "nm0002146"
+               },
+               {
+                  "name": "Elmer Dyer",
+                  "notes": null,
+                  "imdb_id": "nm0005693"
+               },
+               {
+                  "name": "Charles A. Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0550806"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Edeson",
+                  "notes": null,
+                  "imdb_id": "nm0249186"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Corvette K-225",
+                  "notes": null,
+                  "imdb_id": "tt0035757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Gaudio",
+                  "notes": null,
+                  "imdb_id": "nm0309974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Five Graves to Cairo",
+                  "notes": null,
+                  "imdb_id": "tt0035884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John F. Seitz",
+                  "notes": null,
+                  "imdb_id": "nm0005870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Ruttenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005853"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sahara",
+                  "notes": null,
+                  "imdb_id": "tt0036323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolph Mat\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0005789"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So Proudly We Hail!",
+                  "notes": null,
+                  "imdb_id": "tt0036367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Human Comedy",
+                  "notes": null,
+                  "imdb_id": "tt0036022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Wong Howe",
+                  "notes": null,
+                  "imdb_id": "nm0002146"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0036261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Mohr",
+                  "notes": null,
+                  "imdb_id": "nm0005803"
+               },
+               {
+                  "name": "W. Howard Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heaven Can Wait",
+                  "notes": null,
+                  "imdb_id": "tt0035979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Cronjager",
+                  "notes": null,
+                  "imdb_id": "nm0005676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hello Frisco, Hello",
+                  "notes": null,
+                  "imdb_id": "tt0035982"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles G. Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164690"
+               },
+               {
+                  "name": "Allen M. Davey",
+                  "notes": null,
+                  "imdb_id": "nm0202695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lassie Come Home",
+                  "notes": null,
+                  "imdb_id": "tt0036098"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809079"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thousands Cheer",
+                  "notes": null,
+                  "imdb_id": "tt0036432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Michael Curtiz",
+                  "notes": null,
+                  "imdb_id": "nm0002031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clarence Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Human Comedy",
+                  "notes": null,
+                  "imdb_id": "tt0036022"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ernst Lubitsch",
+                  "notes": null,
+                  "imdb_id": "nm0523932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Heaven Can Wait",
+                  "notes": null,
+                  "imdb_id": "tt0035979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry King",
+                  "notes": null,
+                  "imdb_id": "nm0454771"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Desert Victory",
+                  "notes": null,
+                  "imdb_id": "tt0035796"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Baptism of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0035662"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Report from the Aleutians",
+                  "notes": null,
+                  "imdb_id": "tt0036301"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Battle of Russia",
+                  "notes": null,
+                  "imdb_id": "tt0036629"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "War Department Report",
+                  "notes": null,
+                  "imdb_id": "tt0036512"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "December 7th",
+                  "notes": null,
+                  "imdb_id": "tt0035790"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "From the 'This is America' series",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children of Mars",
+                  "notes": null,
+                  "imdb_id": "tt0035734"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Plan for Destruction",
+                  "notes": null,
+                  "imdb_id": "tt0036268"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Swedes in America",
+                  "notes": null,
+                  "imdb_id": "tt0036405"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "To the People of the United States",
+                  "notes": null,
+                  "imdb_id": "tt0036445"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tomorrow We Fly",
+                  "notes": null,
+                  "imdb_id": "tt0036448"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Youth in Crisis",
+                  "notes": null,
+                  "imdb_id": "tt0036555"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crash Dive",
+                  "notes": null,
+                  "imdb_id": "tt0035763"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Sersen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0785731"
+               },
+               {
+                  "name": "Roger Heman Sr.",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0002703"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Air Force",
+                  "notes": null,
+                  "imdb_id": "tt0035616"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans F. Koenekamp",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0462800"
+               },
+               {
+                  "name": "Rex Wimpy",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0934502"
+               },
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bombardier",
+                  "notes": null,
+                  "imdb_id": "tt0035689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vernon L. Walker",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0908289"
+               },
+               {
+                  "name": "James G. Stewart",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0829468"
+               },
+               {
+                  "name": "Roy Granville",
+                  "notes": null,
+                  "imdb_id": "nm0335763"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So Proudly We Hail!",
+                  "notes": null,
+                  "imdb_id": "tt0036367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               },
+               {
+                  "name": "George Dutton",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0244931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stand by for Action",
+                  "notes": null,
+                  "imdb_id": "tt0036386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Arnold Gillespie",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0318901"
+               },
+               {
+                  "name": "Donald Jahraus",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0415760"
+               },
+               {
+                  "name": "Michael Steinore",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0826207"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clarence Slifer",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0805822"
+               },
+               {
+                  "name": "Ray Binger",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0082915"
+               },
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Air Force",
+                  "notes": null,
+                  "imdb_id": "tt0035616"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Amy",
+                  "notes": null,
+                  "imdb_id": "nm0025497"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Marks",
+                  "notes": null,
+                  "imdb_id": "nm0548929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Five Graves to Cairo",
+                  "notes": null,
+                  "imdb_id": "tt0035884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Doane Harrison",
+                  "notes": null,
+                  "imdb_id": "nm0365561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sherman Todd",
+                  "notes": null,
+                  "imdb_id": "nm0865285"
+               },
+               {
+                  "name": "John F. Link Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0512854"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara McLean",
+                  "notes": null,
+                  "imdb_id": "nm0572492"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"You'll Never Know\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hello Frisco, Hello",
+                  "notes": null,
+                  "imdb_id": "tt0035982"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Happiness Is a Thing Called Joe\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cabin in the Sky",
+                  "notes": null,
+                  "imdb_id": "tt0035703"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "E.Y. Harburg",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0361971"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Say a Prayer for the Boys Over There\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hers to Hold",
+                  "notes": null,
+                  "imdb_id": "tt0035993"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy McHugh",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006192"
+               },
+               {
+                  "name": "Herb Magidson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0536054"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Change of Heart\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hit Parade of 1943",
+                  "notes": null,
+                  "imdb_id": "tt0035727"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jule Styne",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006312"
+               },
+               {
+                  "name": "Harold Adamson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0011488"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Saludos Amigos\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saludos Amigos",
+                  "notes": null,
+                  "imdb_id": "tt0036326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Wolcott",
+                  "notes": "(music)",
+                  "imdb_id": "nm0937592"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"You'd Be So Nice to Come Home to\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Something to Shout About",
+                  "notes": null,
+                  "imdb_id": "tt0036375"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cole Porter",
+                  "notes": null,
+                  "imdb_id": "nm0006234"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"We Mustn't Say Good Bye\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stage Door Canteen",
+                  "notes": null,
+                  "imdb_id": "tt0036384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James V. Monaco",
+                  "notes": "(music)",
+                  "imdb_id": "nm0597444"
+               },
+               {
+                  "name": "Al Dubin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006048"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"That Old Black Magic\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Spangled Rhythm",
+                  "notes": null,
+                  "imdb_id": "tt0035379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"They're Either Too Young or Too Old\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thank Your Lucky Stars",
+                  "notes": null,
+                  "imdb_id": "tt0036422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Schwartz",
+                  "notes": "(music)",
+                  "imdb_id": "nm0777150"
+               },
+               {
+                  "name": "Frank Loesser",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004230"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"My Shining Hour\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sky's the Limit",
+                  "notes": null,
+                  "imdb_id": "tt0036363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Commandos Strike at Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0035746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Gruenberg",
+                  "notes": null,
+                  "imdb_id": "nm0344402"
+               },
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hangmen Also Die!",
+                  "notes": null,
+                  "imdb_id": "tt0035966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hanns Eisler",
+                  "notes": null,
+                  "imdb_id": "nm0006058"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hi Diddle Diddle",
+                  "notes": null,
+                  "imdb_id": "tt0035996"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phil Boutelje",
+                  "notes": null,
+                  "imdb_id": "nm0100287"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Old Oklahoma",
+                  "notes": null,
+                  "imdb_id": "tt0036038"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Come Lately",
+                  "notes": null,
+                  "imdb_id": "tt0036057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leigh Harline",
+                  "notes": null,
+                  "imdb_id": "nm0363316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady of Burlesque",
+                  "notes": null,
+                  "imdb_id": "tt0036094"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486075"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Stothart",
+                  "notes": null,
+                  "imdb_id": "nm0006307"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Amazing Mrs. Holliday",
+                  "notes": null,
+                  "imdb_id": "tt0035631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans J. Salter",
+                  "notes": null,
+                  "imdb_id": "nm0006270"
+               },
+               {
+                  "name": "Frank Skinner",
+                  "notes": null,
+                  "imdb_id": "nm0804244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fallen Sparrow",
+                  "notes": null,
+                  "imdb_id": "tt0035860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C. Bakaleinikoff",
+                  "notes": null,
+                  "imdb_id": "nm0005954"
+               },
+               {
+                  "name": "Roy Webb",
+                  "notes": null,
+                  "imdb_id": "nm0002202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Kansan",
+                  "notes": null,
+                  "imdb_id": "tt0036065"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerard Carbonara",
+                  "notes": null,
+                  "imdb_id": "nm0005993"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Moon and Sixpence",
+                  "notes": null,
+                  "imdb_id": "tt0035078"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Copland",
+                  "notes": null,
+                  "imdb_id": "nm0178716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Victory Through Air Power",
+                  "notes": null,
+                  "imdb_id": "tt0036497"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward H. Plumb",
+                  "notes": null,
+                  "imdb_id": "nm0687570"
+               },
+               {
+                  "name": "Paul J. Smith",
+                  "notes": null,
+                  "imdb_id": "nm1345229"
+               },
+               {
+                  "name": "Oliver Wallace",
+                  "notes": null,
+                  "imdb_id": "nm0006337"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "This Is the Army",
+                  "notes": null,
+                  "imdb_id": "tt0036430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Coney Island",
+                  "notes": null,
+                  "imdb_id": "tt0035749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hit Parade of 1943",
+                  "notes": null,
+                  "imdb_id": "tt0035727"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0036261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Ward",
+                  "notes": null,
+                  "imdb_id": "nm0911518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saludos Amigos",
+                  "notes": null,
+                  "imdb_id": "tt0036326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward H. Plumb",
+                  "notes": null,
+                  "imdb_id": "nm0687570"
+               },
+               {
+                  "name": "Paul J. Smith",
+                  "notes": null,
+                  "imdb_id": "nm1345229"
+               },
+               {
+                  "name": "Charles Wolcott",
+                  "notes": null,
+                  "imdb_id": "nm0937592"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Something to Shout About",
+                  "notes": null,
+                  "imdb_id": "tt0036375"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stage Door Canteen",
+                  "notes": null,
+                  "imdb_id": "tt0036384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Rich",
+                  "notes": null,
+                  "imdb_id": "nm0723648"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Spangled Rhythm",
+                  "notes": null,
+                  "imdb_id": "tt0035379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Emmett Dolan",
+                  "notes": null,
+                  "imdb_id": "nm0006040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sky's the Limit",
+                  "notes": null,
+                  "imdb_id": "tt0036363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leigh Harline",
+                  "notes": null,
+                  "imdb_id": "nm0363316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thousands Cheer",
+                  "notes": null,
+                  "imdb_id": "tt0036432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Stothart",
+                  "notes": null,
+                  "imdb_id": "nm0006307"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For Whom the Bell Tolls",
+                  "notes": null,
+                  "imdb_id": "tt0035896"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heaven Can Wait",
+                  "notes": null,
+                  "imdb_id": "tt0035979"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Which We Serve",
+                  "notes": null,
+                  "imdb_id": "tt0034891"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Human Comedy",
+                  "notes": null,
+                  "imdb_id": "tt0036022"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Ox-Bow Incident",
+                  "notes": null,
+                  "imdb_id": "tt0036244"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Watch on the Rhine",
+                  "notes": null,
+                  "imdb_id": "tt0036515"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mouse at War",
+                  "notes": null,
+                  "imdb_id": "tt0036547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greetings Bait",
+                  "notes": null,
+                  "imdb_id": "tt0035954"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Imagination",
+                  "notes": null,
+                  "imdb_id": "tt0036035"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Fleischer",
+                  "notes": null,
+                  "imdb_id": "nm0281487"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reason and Emotion",
+                  "notes": null,
+                  "imdb_id": "tt0036294"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The 500 Hats of Bartholomew Cubbins",
+                  "notes": null,
+                  "imdb_id": "tt0035602"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Pal",
+                  "notes": null,
+                  "imdb_id": "nm0657162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dizzy Acrobat",
+                  "notes": null,
+                  "imdb_id": "tt0035812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lantz",
+                  "notes": null,
+                  "imdb_id": "nm0487237"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Amphibious Fighters",
+                  "notes": null,
+                  "imdb_id": "tt0035634"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Grantland Rice",
+                  "notes": null,
+                  "imdb_id": "nm0723435"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cavalcade of Dance",
+                  "notes": null,
+                  "imdb_id": "tt0035724"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Champions Carry on",
+                  "notes": null,
+                  "imdb_id": "tt0035725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund Reek",
+                  "notes": null,
+                  "imdb_id": "nm0715833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Screen Snapshots Series 23, No. 1: Hollywood in Uniform",
+                  "notes": null,
+                  "imdb_id": "tt0036008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Staub",
+                  "notes": null,
+                  "imdb_id": "nm0823864"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seeing Hands",
+                  "notes": null,
+                  "imdb_id": "tt0036340"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Heavenly Music",
+                  "notes": null,
+                  "imdb_id": "tt0035981"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Bresler",
+                  "notes": null,
+                  "imdb_id": "nm0107724"
+               },
+               {
+                  "name": "Sam Coslow",
+                  "notes": null,
+                  "imdb_id": "nm0181885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Letter to a Hero",
+                  "notes": null,
+                  "imdb_id": "tt0036107"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederic Ullman Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0880485"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mardi Gras",
+                  "notes": null,
+                  "imdb_id": "tt0036141"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter MacEwen",
+                  "notes": null,
+                  "imdb_id": "nm0532173"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Women at War",
+                  "notes": null,
+                  "imdb_id": "tt0036544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "This Land Is Mine",
+                  "notes": null,
+                  "imdb_id": "tt0036431"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Dunn",
+                  "notes": "(RKO Radio SSD)",
+                  "imdb_id": "nm0242772"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hangmen Also Die!",
+                  "notes": null,
+                  "imdb_id": "tt0035966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Whitney",
+                  "notes": "(Sound Service Inc.)",
+                  "imdb_id": "nm0926303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Old Oklahoma",
+                  "notes": null,
+                  "imdb_id": "tt0036038"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel J. Bloomberg",
+                  "notes": "(Republic SSD)",
+                  "imdb_id": "nm0089253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Curie",
+                  "notes": null,
+                  "imdb_id": "tt0036126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0036261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(Universal SSD)",
+                  "imdb_id": "nm0113094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Riding High",
+                  "notes": null,
+                  "imdb_id": "tt0036313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Loren L. Ryder",
+                  "notes": "(Paramount SSD)",
+                  "imdb_id": "nm0753122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sahara",
+                  "notes": null,
+                  "imdb_id": "tt0036323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saludos Amigos",
+                  "notes": null,
+                  "imdb_id": "tt0036326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C.O. Slyfield",
+                  "notes": "(Walt Disney SSD)",
+                  "imdb_id": "nm0806351"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So This Is Washington",
+                  "notes": null,
+                  "imdb_id": "tt0036368"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James L. Fields",
+                  "notes": "(RCA Sound)",
+                  "imdb_id": "nm0276264"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "This Is the Army",
+                  "notes": null,
+                  "imdb_id": "tt0036430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Princess O'Rourke",
+                  "notes": null,
+                  "imdb_id": "tt0036277"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Krasna",
+                  "notes": null,
+                  "imdb_id": "nm0469915"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Air Force",
+                  "notes": null,
+                  "imdb_id": "tt0035616"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dudley Nichols",
+                  "notes": null,
+                  "imdb_id": "nm0629580"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Which We Serve",
+                  "notes": null,
+                  "imdb_id": "tt0034891"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "No\u00ebl Coward",
+                  "notes": null,
+                  "imdb_id": "nm0002021"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So Proudly We Hail!",
+                  "notes": null,
+                  "imdb_id": "tt0036367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allan Scott",
+                  "notes": null,
+                  "imdb_id": "nm0778818"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The North Star",
+                  "notes": null,
+                  "imdb_id": "tt0036217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lillian Hellman",
+                  "notes": null,
+                  "imdb_id": "nm0375484"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Human Comedy",
+                  "notes": null,
+                  "imdb_id": "tt0036022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Saroyan",
+                  "notes": null,
+                  "imdb_id": "nm0765490"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Action in the North Atlantic",
+                  "notes": null,
+                  "imdb_id": "tt0035608"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guy Gilpatric",
+                  "notes": null,
+                  "imdb_id": "nm0319626"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Destination Tokyo",
+                  "notes": null,
+                  "imdb_id": "tt0035799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Fisher",
+                  "notes": null,
+                  "imdb_id": "nm0279795"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shadow of a Doubt",
+                  "notes": null,
+                  "imdb_id": "tt0036342"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon McDonell",
+                  "notes": null,
+                  "imdb_id": "nm0568060"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Ross",
+                  "notes": null,
+                  "imdb_id": "nm0743407"
+               },
+               {
+                  "name": "Robert Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751417"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Casablanca",
+                  "notes": null,
+                  "imdb_id": "tt0034583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julius J. Epstein",
+                  "notes": null,
+                  "imdb_id": "nm0258493"
+               },
+               {
+                  "name": "Philip G. Epstein",
+                  "notes": null,
+                  "imdb_id": "nm0258525"
+               },
+               {
+                  "name": "Howard Koch",
+                  "notes": null,
+                  "imdb_id": "nm0462321"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Holy Matrimony",
+                  "notes": null,
+                  "imdb_id": "tt0036009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nunnally Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425913"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The More the Merrier",
+                  "notes": null,
+                  "imdb_id": "tt0036172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Flournoy",
+                  "notes": null,
+                  "imdb_id": "nm0283133"
+               },
+               {
+                  "name": "Lewis R. Foster",
+                  "notes": null,
+                  "imdb_id": "nm0287931"
+               },
+               {
+                  "name": "Frank Ross",
+                  "notes": null,
+                  "imdb_id": "nm0743407"
+               },
+               {
+                  "name": "Robert Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Song of Bernadette",
+                  "notes": null,
+                  "imdb_id": "tt0036377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Seaton",
+                  "notes": null,
+                  "imdb_id": "nm0780833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Watch on the Rhine",
+                  "notes": null,
+                  "imdb_id": "tt0036515"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dashiell Hammett",
+                  "notes": null,
+                  "imdb_id": "nm0358591"
+               }
+            ]
+         }
+      ]
+   }
+]

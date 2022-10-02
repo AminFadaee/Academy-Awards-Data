@@ -1,0 +1,858 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ernest Borgnine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Sinatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Cagney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Dean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Kennedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur O'Connell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joe Mantell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sal Mineo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anna Magnani"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eleanor Parker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Hayward"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jo Van Fleet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Betsy Blair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marisa Pavan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Natalie Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peggy Lee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackboard Jungle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I'll Cry Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man with the Golden Arm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Picnic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daddy Long Legs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guys and Dolls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Catch a Thief"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackboard Jungle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I'll Cry Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Queen Bee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "To Catch a Thief"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Man Called Peter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guys and Dolls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oklahoma!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "I'll Cry Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Queen Bee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pickwick Papers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ugetsu"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guys and Dolls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interrupted Melody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Virgin Queen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Catch a Thief"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Delbert Mann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elia Kazan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Sturges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joshua Logan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Unconquered"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cr\u00e8vecoeur"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Men Against the Arctic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of Gettysburg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Face of Lincoln"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bridges at Toko-Ri"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dam Busters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rains of Ranchipur"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Picnic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackboard Jungle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oklahoma!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bridges at Toko-Ri"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daddy Long Legs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Me or Leave Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tender Trap"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unchained"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Battle Cry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Picnic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man with the Golden Arm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oklahoma!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daddy Long Legs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guys and Dolls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's Always Fair Weather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Me or Leave Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Picnic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rose Tattoo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Speedy Gonzales"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Will to Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Hunting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Legend of Rockabye Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Survival City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "3rd Ave. El"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gadgets Galore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Kisses"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Face of Lincoln"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "24 Hour Alert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Twelfth Day..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Switzerland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of Gettysburg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oklahoma!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Is a Many-Splendored Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Me or Leave Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Not as a Stranger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love Me or Leave Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rebel Without a Cause"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strategic Air Command"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private War of Major Benson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sheep Has Five Legs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bad Day at Black Rock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackboard Jungle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "East of Eden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Me or Leave Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Interrupted Melody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's Always Fair Weather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsieur Hulot's Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Court-Martial of Billy Mitchell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Seven Little Foys"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,312 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lionel Barrymore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adolphe Menjou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fredric March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackie Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Dix"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marie Dressler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ann Harding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene Dunne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlene Dietrich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Shearer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cimarron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Just Imagine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morocco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Svengali"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whoopee!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tabu: A Story of the South Seas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cimarron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morocco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Svengali"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Right to Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Norman Taurog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clarence Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Josef von Sternberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lewis Milestone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wesley Ruggles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cimarron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "East Lynne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Skippy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Front Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trader Horn"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Paramount Publix Corporation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Metro-Goldwyn-Mayer (MGM)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RKO Radio Pictures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samuel Goldwyn Sound Department",
+               "United Artists"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cimarron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Skippy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Criminal Code"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dawn Patrol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Smart Money"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Doorway to Hell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Public Enemy"
+            ]
+         }
+      ]
+   }
+]

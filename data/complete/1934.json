@@ -1,0 +1,1024 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Charles Laughton was not present at the awards ceremony. Fellow nominee Leslie Howard accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charles Laughton",
+                  "notes": null,
+                  "imdb_id": "nm0001452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Private Life of Henry VIII",
+                  "notes": null,
+                  "imdb_id": "tt0024473"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leslie Howard",
+                  "notes": null,
+                  "imdb_id": "nm0001366"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Berkeley Square",
+                  "notes": null,
+                  "imdb_id": "tt0023794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Muni",
+                  "notes": null,
+                  "imdb_id": "nm0612847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Am a Fugitive from a Chain Gang",
+                  "notes": null,
+                  "imdb_id": "tt0023042"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Katharine Hepburn was not present at the awards ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morning Glory",
+                  "notes": null,
+                  "imdb_id": "tt0024353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diana Wynyard",
+                  "notes": null,
+                  "imdb_id": "nm0944087"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cavalcade",
+                  "notes": null,
+                  "imdb_id": "tt0023876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "May Robson",
+                  "notes": null,
+                  "imdb_id": "nm0733480"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lady for a Day",
+                  "notes": null,
+                  "imdb_id": "tt0024240"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cavalcade",
+                  "notes": null,
+                  "imdb_id": "tt0023876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William S. Darling",
+                  "notes": null,
+                  "imdb_id": "nm0201419"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Farewell to Arms",
+                  "notes": null,
+                  "imdb_id": "tt0022879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Roland Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027380"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Ladies Meet",
+                  "notes": null,
+                  "imdb_id": "tt0024763"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charles Barton",
+                  "notes": "(Paramount)",
+                  "imdb_id": "nm0059106"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charles Dorian",
+                  "notes": "(M-G-M)",
+                  "imdb_id": "nm0233648"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dewey Starkey",
+                  "notes": "(RKO Radio)",
+                  "imdb_id": "nm0823315"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fred Fox",
+                  "notes": "(UA)",
+                  "imdb_id": "nm0288995"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": "(Warner Bros.)",
+                  "imdb_id": "nm0391121"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Scott R. Beal",
+                  "notes": "(Universal)",
+                  "imdb_id": "nm0063634"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "William Tummel",
+                  "notes": "(Fox)",
+                  "imdb_id": "nm0876537"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Alleborn",
+                  "notes": "(Warner Bros.)",
+                  "imdb_id": "nm0020168"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Jacobson",
+                  "notes": "(Paramount)",
+                  "imdb_id": "nm0414797"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ben Silvey",
+                  "notes": "(UA)",
+                  "imdb_id": "nm0799185"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward Killy",
+                  "notes": "(RKO Radio)",
+                  "imdb_id": "nm0453245"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frank Shaw",
+                  "notes": "(Warner Bros.)",
+                  "imdb_id": "nm0789719"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Waters",
+                  "notes": "(M-G-M)",
+                  "imdb_id": "nm0914112"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joseph A. McDonough",
+                  "notes": "(Universal)",
+                  "imdb_id": "nm0568156"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Orville O. Dull",
+                  "notes": "(M-G-M)",
+                  "imdb_id": "nm0241338"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Percy Ikerd",
+                  "notes": "(Fox)",
+                  "imdb_id": "nm0407503"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sid Brod",
+                  "notes": "(Paramount)",
+                  "imdb_id": "nm0110762"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William J. Reiter",
+                  "notes": "(Universal)",
+                  "imdb_id": "nm0718614"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Farewell to Arms",
+                  "notes": null,
+                  "imdb_id": "tt0022879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reunion in Vienna",
+                  "notes": null,
+                  "imdb_id": "tt0024496"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sign of the Cross",
+                  "notes": null,
+                  "imdb_id": "tt0023470"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Struss",
+                  "notes": null,
+                  "imdb_id": "nm0835365"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frank Lloyd",
+                  "notes": null,
+                  "imdb_id": "nm0515979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cavalcade",
+                  "notes": null,
+                  "imdb_id": "tt0023876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frank Capra",
+                  "notes": null,
+                  "imdb_id": "nm0001008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lady for a Day",
+                  "notes": null,
+                  "imdb_id": "tt0024240"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Cukor",
+                  "notes": null,
+                  "imdb_id": "nm0002030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0024264"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cavalcade",
+                  "notes": null,
+                  "imdb_id": "tt0023876"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "42nd Street",
+                  "notes": null,
+                  "imdb_id": "tt0024034"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Farewell to Arms",
+                  "notes": null,
+                  "imdb_id": "tt0022879"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Am a Fugitive from a Chain Gang",
+                  "notes": null,
+                  "imdb_id": "tt0023042"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady for a Day",
+                  "notes": null,
+                  "imdb_id": "tt0024240"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0024264"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "She Done Him Wrong",
+                  "notes": null,
+                  "imdb_id": "tt0024548"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Smilin' Through",
+                  "notes": null,
+                  "imdb_id": "tt0023488"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "State Fair",
+                  "notes": null,
+                  "imdb_id": "tt0024610"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Private Life of Henry VIII",
+                  "notes": null,
+                  "imdb_id": "tt0024473"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Three Little Pigs",
+                  "notes": null,
+                  "imdb_id": "tt0024660"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Building a Building",
+                  "notes": null,
+                  "imdb_id": "tt0023854"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Merry Old Soul",
+                  "notes": null,
+                  "imdb_id": "tt0142655"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lantz",
+                  "notes": null,
+                  "imdb_id": "nm0487237"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "So This Is Harris",
+                  "notes": null,
+                  "imdb_id": "tt0024580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lou Brock",
+                  "notes": null,
+                  "imdb_id": "nm0110607"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Preferred List",
+                  "notes": null,
+                  "imdb_id": "tt0024467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lou Brock",
+                  "notes": null,
+                  "imdb_id": "nm0110607"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mister Mugg",
+                  "notes": null,
+                  "imdb_id": "tt0024342"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Doane",
+                  "notes": null,
+                  "imdb_id": "nm0229553"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Krakatoa",
+                  "notes": null,
+                  "imdb_id": "tt0024231"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Rock",
+                  "notes": null,
+                  "imdb_id": "nm0734169"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Menu",
+                  "notes": null,
+                  "imdb_id": "tt0024327"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea",
+                  "notes": null,
+                  "imdb_id": "tt0023443"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Farewell to Arms",
+                  "notes": null,
+                  "imdb_id": "tt0022879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Hansen",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0360630"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "42nd Street",
+                  "notes": null,
+                  "imdb_id": "tt0024034"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gold Diggers of 1933",
+                  "notes": null,
+                  "imdb_id": "tt0024069"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Am a Fugitive from a Chain Gang",
+                  "notes": null,
+                  "imdb_id": "tt0023042"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0024264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Heerman",
+                  "notes": null,
+                  "imdb_id": "nm0373511"
+               },
+               {
+                  "name": "Sarah Y. Mason",
+                  "notes": null,
+                  "imdb_id": "nm0556945"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady for a Day",
+                  "notes": null,
+                  "imdb_id": "tt0024240"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Riskin",
+                  "notes": null,
+                  "imdb_id": "nm0728307"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "State Fair",
+                  "notes": null,
+                  "imdb_id": "tt0024610"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Green",
+                  "notes": null,
+                  "imdb_id": "nm0338233"
+               },
+               {
+                  "name": "Sonya Levien",
+                  "notes": null,
+                  "imdb_id": "nm0397022"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "One Way Passage",
+                  "notes": null,
+                  "imdb_id": "tt0023305"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Lord",
+                  "notes": null,
+                  "imdb_id": "nm0520501"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rasputin and the Empress",
+                  "notes": null,
+                  "imdb_id": "tt0023374"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles MacArthur",
+                  "notes": null,
+                  "imdb_id": "nm0531269"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prizefighter and the Lady",
+                  "notes": null,
+                  "imdb_id": "tt0024475"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances Marion",
+                  "notes": null,
+                  "imdb_id": "nm0547966"
+               }
+            ]
+         }
+      ]
+   }
+]

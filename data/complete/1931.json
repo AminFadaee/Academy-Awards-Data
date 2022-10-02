@@ -1,0 +1,830 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lionel Barrymore",
+                  "notes": null,
+                  "imdb_id": "nm0000859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Free Soul",
+                  "notes": null,
+                  "imdb_id": "tt0021885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adolphe Menjou",
+                  "notes": null,
+                  "imdb_id": "nm0579663"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Front Page",
+                  "notes": null,
+                  "imdb_id": "tt0021890"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fredric March",
+                  "notes": null,
+                  "imdb_id": "nm0545298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Royal Family of Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0021322"
+               }
+            ]
+         },
+         {
+            "notes": "At age 9 years and 20 days, Cooper is (to date) the youngest ever nominee for the Academy Award for Best Actor.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jackie Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0178114"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skippy",
+                  "notes": null,
+                  "imdb_id": "tt0022397"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Dix",
+                  "notes": null,
+                  "imdb_id": "nm0228715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Marie Dressler",
+                  "notes": null,
+                  "imdb_id": "nm0237597"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Min and Bill",
+                  "notes": null,
+                  "imdb_id": "tt0021148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ann Harding",
+                  "notes": null,
+                  "imdb_id": "nm0362267"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Holiday",
+                  "notes": null,
+                  "imdb_id": "tt0020985"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Irene Dunne",
+                  "notes": null,
+                  "imdb_id": "nm0002050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marlene Dietrich",
+                  "notes": null,
+                  "imdb_id": "nm0000017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morocco",
+                  "notes": null,
+                  "imdb_id": "tt0021156"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norma Shearer",
+                  "notes": null,
+                  "imdb_id": "nm0790454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Free Soul",
+                  "notes": null,
+                  "imdb_id": "tt0021885"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max R\u00e9e",
+                  "notes": null,
+                  "imdb_id": "nm0753663"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Just Imagine",
+                  "notes": null,
+                  "imdb_id": "tt0021016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Goosson",
+                  "notes": null,
+                  "imdb_id": "nm0329684"
+               },
+               {
+                  "name": "Ralph Hammeras",
+                  "notes": null,
+                  "imdb_id": "nm0358518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morocco",
+                  "notes": null,
+                  "imdb_id": "tt0021156"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Svengali",
+                  "notes": null,
+                  "imdb_id": "tt0022454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anton Grot",
+                  "notes": null,
+                  "imdb_id": "nm0343819"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Whoopee!",
+                  "notes": null,
+                  "imdb_id": "tt0021549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tabu: A Story of the South Seas",
+                  "notes": null,
+                  "imdb_id": "tt0022458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Floyd Crosby",
+                  "notes": null,
+                  "imdb_id": "nm0005677"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Cronjager",
+                  "notes": null,
+                  "imdb_id": "nm0005676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morocco",
+                  "notes": null,
+                  "imdb_id": "tt0021156"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Garmes",
+                  "notes": null,
+                  "imdb_id": "nm0005716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Svengali",
+                  "notes": null,
+                  "imdb_id": "tt0022454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barney McGill",
+                  "notes": null,
+                  "imdb_id": "nm0569222"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Right to Love",
+                  "notes": null,
+                  "imdb_id": "tt0021301"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Norman Taurog",
+                  "notes": null,
+                  "imdb_id": "nm0851537"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skippy",
+                  "notes": null,
+                  "imdb_id": "tt0022397"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clarence Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Free Soul",
+                  "notes": null,
+                  "imdb_id": "tt0021885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Josef von Sternberg",
+                  "notes": null,
+                  "imdb_id": "nm0903049"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morocco",
+                  "notes": null,
+                  "imdb_id": "tt0021156"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lewis Milestone",
+                  "notes": null,
+                  "imdb_id": "nm0587277"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Front Page",
+                  "notes": null,
+                  "imdb_id": "tt0021890"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wesley Ruggles",
+                  "notes": null,
+                  "imdb_id": "nm0749484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "East Lynne",
+                  "notes": null,
+                  "imdb_id": "tt0021826"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skippy",
+                  "notes": null,
+                  "imdb_id": "tt0022397"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Front Page",
+                  "notes": null,
+                  "imdb_id": "tt0021890"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trader Horn",
+                  "notes": null,
+                  "imdb_id": "tt0022495"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": "Recipient: Paramount Publix Studio Sound Department",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Paramount Publix Corporation",
+                  "notes": null,
+                  "imdb_id": "co0025751"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Metro-Goldwyn-Mayer Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Metro-Goldwyn-Mayer (MGM)",
+                  "notes": null,
+                  "imdb_id": "co0007143"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: RKO Radio Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "RKO Radio Pictures",
+                  "notes": null,
+                  "imdb_id": "co0041421"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Samuel Goldwyn-United Artists Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samuel Goldwyn Sound Department",
+                  "notes": null,
+                  "imdb_id": "co0007899"
+               },
+               {
+                  "name": "United Artists",
+                  "notes": null,
+                  "imdb_id": "co0026841"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0021746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Estabrook",
+                  "notes": null,
+                  "imdb_id": "nm0261455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Holiday",
+                  "notes": null,
+                  "imdb_id": "tt0020985"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Horace Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413590"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Caesar",
+                  "notes": null,
+                  "imdb_id": "tt0021079"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Francis Edward Faragoh",
+                  "notes": null,
+                  "imdb_id": "nm0267020"
+               },
+               {
+                  "name": "Robert N. Lee",
+                  "notes": null,
+                  "imdb_id": "nm0498133"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skippy",
+                  "notes": null,
+                  "imdb_id": "tt0022397"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph L. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0000581"
+               },
+               {
+                  "name": "Sam Mintz",
+                  "notes": null,
+                  "imdb_id": "nm0591791"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Criminal Code",
+                  "notes": null,
+                  "imdb_id": "tt0021770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seton I. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0589316"
+               },
+               {
+                  "name": "Fred Niblo Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0629240"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Dawn Patrol",
+                  "notes": null,
+                  "imdb_id": "tt0020815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Monk Saunders",
+                  "notes": null,
+                  "imdb_id": "nm0766850"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laughter",
+                  "notes": null,
+                  "imdb_id": "tt0021053"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry d'Abbadie d'Arrast",
+                  "notes": null,
+                  "imdb_id": "nm0195496"
+               },
+               {
+                  "name": "Douglas Z. Doty",
+                  "notes": null,
+                  "imdb_id": "nm0234608"
+               },
+               {
+                  "name": "Donald Ogden Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0829330"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Smart Money",
+                  "notes": null,
+                  "imdb_id": "tt0022403"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lucien Hubbard",
+                  "notes": null,
+                  "imdb_id": "nm0399203"
+               },
+               {
+                  "name": "Joseph Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Doorway to Hell",
+                  "notes": null,
+                  "imdb_id": "tt0020836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rowland Brown",
+                  "notes": null,
+                  "imdb_id": "nm0114602"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Public Enemy",
+                  "notes": null,
+                  "imdb_id": "tt0022286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Bright",
+                  "notes": null,
+                  "imdb_id": "nm0109148"
+               },
+               {
+                  "name": "Kubec Glasmon",
+                  "notes": null,
+                  "imdb_id": "nm0321891"
+               }
+            ]
+         }
+      ]
+   }
+]

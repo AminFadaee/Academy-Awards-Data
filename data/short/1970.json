@@ -1,0 +1,730 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Wayne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jon Voight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gig Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Quayle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elliott Gould"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rupert Crosse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Maggie Smith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Genevi\u00e8ve Bujold"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jean Simmons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Liza Minnelli"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Goldie Hawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Catherine Burns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dyan Cannon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susannah York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sylvia Miles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gaily, Gaily"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sweet Charity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shoot Horses, Don't They?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bob & Carol & Ted & Alice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marooned"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gaily, Gaily"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sweet Charity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shoot Horses, Don't They?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Schlesinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Costa-Gavras"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Roy Hill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sydney Pollack"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Before the Mountain Was Moved"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Year of the Pig"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Olympics in Mexico"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wolf Men"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Czechoslovakia 1918-1968"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Impression of John Steinbeck: Writer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jenny Is a Good Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leo Beuerman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic Machines"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marooned"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Krakatoa: East of Java"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Z"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Midnight Cowboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Secret of Santa Vittoria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shoot Horses, Don't They?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Z"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adalen 31"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Night at Maud's"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of Neretva"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Brothers Karamazov"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Reivers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Secret of Santa Vittoria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wild Bunch"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Happy Ending"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prime of Miss Jean Brodie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sterile Cuckoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Mr. Chips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paint Your Wagon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sweet Charity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shoot Horses, Don't They?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Midnight Cowboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Z"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "It's Tough to Be a Bird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Men and Demons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walking"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Magic Machines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "People Soup"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hello, Dolly!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gaily, Gaily"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marooned"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Midnight Cowboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne of the Thousand Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodbye, Columbus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Shoot Horses, Don't They?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Z"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Butch Cassidy and the Sundance Kid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bob & Carol & Ted & Alice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Easy Rider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Damned"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wild Bunch"
+            ]
+         }
+      ]
+   }
+]

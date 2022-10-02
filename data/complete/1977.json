@@ -1,0 +1,2115 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Nomination and award were posthumous. Finch became the first posthumous winner in an acting category. His widow Eletha Finch and screenwriter Paddy Chayefsky accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Peter Finch",
+                  "notes": null,
+                  "imdb_id": "nm0002075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Giancarlo Giannini",
+                  "notes": null,
+                  "imdb_id": "nm0316284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seven Beauties",
+                  "notes": null,
+                  "imdb_id": "tt0075040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert De Niro",
+                  "notes": null,
+                  "imdb_id": "nm0000134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Taxi Driver",
+                  "notes": null,
+                  "imdb_id": "tt0075314"
+               }
+            ]
+         },
+         {
+            "notes": "Sylvester Stallone becomes the third person to be nominated for both acting and writing in the same year, following Charles Chaplin for The Great Dictator (1940) and Orson Welles for Citizen Kane (1941).",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sylvester Stallone",
+                  "notes": null,
+                  "imdb_id": "nm0000230"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Holden",
+                  "notes": null,
+                  "imdb_id": "nm0000034"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jason Robards",
+                  "notes": null,
+                  "imdb_id": "nm0001673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burgess Meredith",
+                  "notes": null,
+                  "imdb_id": "nm0580565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burt Young",
+                  "notes": null,
+                  "imdb_id": "nm0949350"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marathon Man",
+                  "notes": null,
+                  "imdb_id": "tt0074860"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ned Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000885"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Faye Dunaway",
+                  "notes": null,
+                  "imdb_id": "nm0001159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Liv Ullmann",
+                  "notes": null,
+                  "imdb_id": "nm0880521"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Face to Face",
+                  "notes": null,
+                  "imdb_id": "tt0074147"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marie-Christine Barrault",
+                  "notes": null,
+                  "imdb_id": "nm0056763"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cousin cousine",
+                  "notes": null,
+                  "imdb_id": "tt0072826"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sissy Spacek",
+                  "notes": null,
+                  "imdb_id": "nm0000651"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carrie",
+                  "notes": null,
+                  "imdb_id": "tt0074285"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Talia Shire",
+                  "notes": null,
+                  "imdb_id": "nm0001735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Beatrice Straight",
+                  "notes": null,
+                  "imdb_id": "nm0833152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Alexander",
+                  "notes": null,
+                  "imdb_id": "nm0000737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jodie Foster",
+                  "notes": null,
+                  "imdb_id": "nm0000149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Taxi Driver",
+                  "notes": null,
+                  "imdb_id": "tt0075314"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lee Grant",
+                  "notes": null,
+                  "imdb_id": "nm0335519"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Voyage of the Damned",
+                  "notes": null,
+                  "imdb_id": "tt0075406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Piper Laurie",
+                  "notes": null,
+                  "imdb_id": "nm0001453"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carrie",
+                  "notes": null,
+                  "imdb_id": "tt0074285"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Jenkins",
+                  "notes": null,
+                  "imdb_id": "nm0420846"
+               },
+               {
+                  "name": "George Gaines",
+                  "notes": null,
+                  "imdb_id": "nm0301321"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Logan's Run",
+                  "notes": null,
+                  "imdb_id": "tt0074812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dale Hennesy",
+                  "notes": null,
+                  "imdb_id": "nm0377322"
+               },
+               {
+                  "name": "Robert De Vestel",
+                  "notes": null,
+                  "imdb_id": "nm0212113"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Incredible Sarah",
+                  "notes": null,
+                  "imdb_id": "tt0074678"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779089"
+               },
+               {
+                  "name": "Norman Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0721888"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Tycoon",
+                  "notes": null,
+                  "imdb_id": "tt0074777"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gene Callahan",
+                  "notes": null,
+                  "imdb_id": "nm0130194"
+               },
+               {
+                  "name": "Jack T. Collis",
+                  "notes": null,
+                  "imdb_id": "nm0172795"
+               },
+               {
+                  "name": "Jerry Wunderlich",
+                  "notes": null,
+                  "imdb_id": "nm0943332"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shootist",
+                  "notes": null,
+                  "imdb_id": "tt0075213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert F. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102327"
+               },
+               {
+                  "name": "Arthur Jeph Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662057"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Haskell Wexler",
+                  "notes": null,
+                  "imdb_id": "nm0005549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Star Is Born",
+                  "notes": null,
+                  "imdb_id": "tt0075265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Kong",
+                  "notes": null,
+                  "imdb_id": "tt0074751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard H. Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459660"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Logan's Run",
+                  "notes": null,
+                  "imdb_id": "tt0074812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Laszlo",
+                  "notes": null,
+                  "imdb_id": "nm0005768"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Roizman",
+                  "notes": null,
+                  "imdb_id": "nm0005845"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": "Danilo Donati was not present at the awards ceremony. Presenter Tamara Dobson accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fellini's Casanova",
+                  "notes": null,
+                  "imdb_id": "tt0074291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danilo Donati",
+                  "notes": null,
+                  "imdb_id": "nm0232219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Ware Theiss",
+                  "notes": null,
+                  "imdb_id": "nm0857377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Incredible Sarah",
+                  "notes": null,
+                  "imdb_id": "tt0074678"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Mendleson",
+                  "notes": null,
+                  "imdb_id": "nm0579162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Passover Plot",
+                  "notes": null,
+                  "imdb_id": "tt0075043"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary Wills",
+                  "notes": null,
+                  "imdb_id": "nm0932683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Seven-Per-Cent Solution",
+                  "notes": null,
+                  "imdb_id": "tt0075194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Barrett",
+                  "notes": null,
+                  "imdb_id": "nm0057049"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John G. Avildsen",
+                  "notes": null,
+                  "imdb_id": "nm0000814"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alan J. Pakula",
+                  "notes": null,
+                  "imdb_id": "nm0001587"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ingmar Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0000005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Face to Face",
+                  "notes": null,
+                  "imdb_id": "tt0074147"
+               }
+            ]
+         },
+         {
+            "notes": "Lina Wertm\u00fcller becomes the first woman to be nominated for Best Director.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lina Wertm\u00fcller",
+                  "notes": null,
+                  "imdb_id": "nm0921631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seven Beauties",
+                  "notes": null,
+                  "imdb_id": "tt0075040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sidney Lumet",
+                  "notes": null,
+                  "imdb_id": "nm0001486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Harlan County U.S.A.",
+                  "notes": null,
+                  "imdb_id": "tt0074605"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Kopple",
+                  "notes": null,
+                  "imdb_id": "nm0465932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hollywood on Trial",
+                  "notes": null,
+                  "imdb_id": "tt0074635"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James C. Gutman",
+                  "notes": null,
+                  "imdb_id": "nm0349634"
+               },
+               {
+                  "name": "David Helpern",
+                  "notes": null,
+                  "imdb_id": "nm0375809"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Off the Edge",
+                  "notes": null,
+                  "imdb_id": "tt0074997"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Firth",
+                  "notes": null,
+                  "imdb_id": "nm0278751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "People of the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0075052"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Howarth",
+                  "notes": null,
+                  "imdb_id": "nm0397700"
+               },
+               {
+                  "name": "David Koff",
+                  "notes": null,
+                  "imdb_id": "nm0463007"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Volcano: An Inquiry Into the Life and Death of Malcolm Lowry",
+                  "notes": null,
+                  "imdb_id": "tt0070889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Brittain",
+                  "notes": null,
+                  "imdb_id": "nm0110086"
+               },
+               {
+                  "name": "Robert A. Duncan",
+                  "notes": null,
+                  "imdb_id": "nm0242086"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Number Our Days",
+                  "notes": null,
+                  "imdb_id": "tt0074987"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lynne Littman",
+                  "notes": null,
+                  "imdb_id": "nm0003313"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Shoeshine",
+                  "notes": null,
+                  "imdb_id": "tt0074134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sparky Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338928"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blackwood",
+                  "notes": null,
+                  "imdb_id": "tt0074215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Ianzelo",
+                  "notes": null,
+                  "imdb_id": "nm0406349"
+               },
+               {
+                  "name": "Andy Thomson",
+                  "notes": null,
+                  "imdb_id": "nm0859851"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The End of the Road",
+                  "notes": null,
+                  "imdb_id": "tt0074482"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Armstrong",
+                  "notes": null,
+                  "imdb_id": "nm0035761"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Universe",
+                  "notes": null,
+                  "imdb_id": "tt0075373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lester Novros",
+                  "notes": null,
+                  "imdb_id": "nm0637279"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Halsey",
+                  "notes": null,
+                  "imdb_id": "nm0357041"
+               },
+               {
+                  "name": "Scott Conrad",
+                  "notes": null,
+                  "imdb_id": "nm0175722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Wolfe",
+                  "notes": null,
+                  "imdb_id": "nm0938130"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert C. Jones",
+                  "notes": null,
+                  "imdb_id": "nm0002717"
+               },
+               {
+                  "name": "Pembroke J. Herring",
+                  "notes": null,
+                  "imdb_id": "nm0380670"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Heim",
+                  "notes": null,
+                  "imdb_id": "nm0374189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Two-Minute Warning",
+                  "notes": null,
+                  "imdb_id": "tt0075359"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eve Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628085"
+               },
+               {
+                  "name": "Walter Hannemann",
+                  "notes": null,
+                  "imdb_id": "nm0360385"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Ivory Coast",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Black and White in Color",
+                  "notes": null,
+                  "imdb_id": "tt0074972"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cousin cousine",
+                  "notes": null,
+                  "imdb_id": "tt0072826"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "East Germany",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jacob the Liar",
+                  "notes": null,
+                  "imdb_id": "tt0071688"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Noce i dnie",
+                  "notes": null,
+                  "imdb_id": "tt0073460"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seven Beauties",
+                  "notes": null,
+                  "imdb_id": "tt0075040"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Omen",
+                  "notes": null,
+                  "imdb_id": "tt0075005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": "Posthumously.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Obsession",
+                  "notes": null,
+                  "imdb_id": "tt0074991"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "nm0002136"
+               }
+            ]
+         },
+         {
+            "notes": "Posthumously.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Taxi Driver",
+                  "notes": null,
+                  "imdb_id": "tt0075314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "nm0002136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Outlaw Josey Wales",
+                  "notes": null,
+                  "imdb_id": "tt0075029"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Fielding",
+                  "notes": null,
+                  "imdb_id": "nm0006076"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Voyage of the Damned",
+                  "notes": null,
+                  "imdb_id": "tt0075406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lalo Schifrin",
+                  "notes": null,
+                  "imdb_id": "nm0006277"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Evergreen (Love Theme from A Star Is Born)\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Star Is Born",
+                  "notes": null,
+                  "imdb_id": "tt0075265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbra Streisand",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000659"
+               },
+               {
+                  "name": "Paul Williams",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0931437"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A World that Never Was\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Half a House",
+                  "notes": null,
+                  "imdb_id": "tt0074601"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sammy Fain",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006066"
+               },
+               {
+                  "name": "Paul Francis Webster",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0916990"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Gonna Fly Now\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Conti",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006015"
+               },
+               {
+                  "name": "Carol Connors",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0175486"
+               },
+               {
+                  "name": "Ayn Robbins",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0730291"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Ave Satani\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Omen",
+                  "notes": null,
+                  "imdb_id": "tt0075005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Come to Me\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pink Panther Strikes Again",
+                  "notes": null,
+                  "imdb_id": "tt0075066"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000049"
+               },
+               {
+                  "name": "Don Black",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0085246"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Rosenman",
+                  "notes": null,
+                  "imdb_id": "nm0006260"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Star Is Born",
+                  "notes": null,
+                  "imdb_id": "tt0075265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Kellaway",
+                  "notes": null,
+                  "imdb_id": "nm0445524"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bugsy Malone",
+                  "notes": null,
+                  "imdb_id": "tt0074256"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931437"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Winkler",
+                  "notes": null,
+                  "imdb_id": "nm0005563"
+               },
+               {
+                  "name": "Robert Chartoff",
+                  "notes": null,
+                  "imdb_id": "nm0153590"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Coblenz",
+                  "notes": null,
+                  "imdb_id": "nm0003144"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert F. Blumofe",
+                  "notes": null,
+                  "imdb_id": "nm0089868"
+               },
+               {
+                  "name": "Harold Leventhal",
+                  "notes": null,
+                  "imdb_id": "nm0505294"
+               }
+            ]
+         },
+         {
+            "notes": "'Network' becomes the second film to win three awards for acting, following A Streetcar Named Desire (1951).",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Gottfried",
+                  "notes": null,
+                  "imdb_id": "nm0331907"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Taxi Driver",
+                  "notes": null,
+                  "imdb_id": "tt0075314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680635"
+               },
+               {
+                  "name": "Julia Phillips",
+                  "notes": null,
+                  "imdb_id": "nm0680539"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Leisure",
+                  "notes": null,
+                  "imdb_id": "tt0074787"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suzanne Baker",
+                  "notes": null,
+                  "imdb_id": "nm0048952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Labyrinth",
+                  "notes": null,
+                  "imdb_id": "tt0074386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manfredo Manfredi",
+                  "notes": null,
+                  "imdb_id": "nm0542061"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Street",
+                  "notes": null,
+                  "imdb_id": "tt0075273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caroline Leaf",
+                  "notes": null,
+                  "imdb_id": "nm0494937"
+               },
+               {
+                  "name": "Guy Glover",
+                  "notes": null,
+                  "imdb_id": "nm0323123"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Region of Ice",
+                  "notes": null,
+                  "imdb_id": "tt0074675"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andre R. Guttfreund",
+                  "notes": null,
+                  "imdb_id": "nm0349722"
+               },
+               {
+                  "name": "Peter Werner",
+                  "notes": null,
+                  "imdb_id": "nm0921464"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kudzu",
+                  "notes": null,
+                  "imdb_id": "tt0074765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marjie Short",
+                  "notes": "(as Marjorie Anne Short)",
+                  "imdb_id": "nm0795083"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nightlife",
+                  "notes": null,
+                  "imdb_id": "tt0074966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Claire Wilbur",
+                  "notes": null,
+                  "imdb_id": "nm0928106"
+               },
+               {
+                  "name": "Robin Lehman",
+                  "notes": null,
+                  "imdb_id": "nm0499651"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Number One",
+                  "notes": null,
+                  "imdb_id": "tt0074986"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dyan Cannon",
+                  "notes": null,
+                  "imdb_id": "nm0001007"
+               },
+               {
+                  "name": "Vince Cannon",
+                  "notes": null,
+                  "imdb_id": "nm0134278"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Morning Spider",
+                  "notes": null,
+                  "imdb_id": "tt0074919"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julian Chagrin",
+                  "notes": null,
+                  "imdb_id": "nm0149615"
+               },
+               {
+                  "name": "Claude Chagrin",
+                  "notes": null,
+                  "imdb_id": "nm0149613"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Piantadosi",
+                  "notes": null,
+                  "imdb_id": "nm0681250"
+               },
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Rick Alexander",
+                  "notes": "(as Dick Alexander)",
+                  "imdb_id": "nm1219804"
+               },
+               {
+                  "name": "James E. Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916137"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Star Is Born",
+                  "notes": null,
+                  "imdb_id": "tt0075265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Knudson",
+                  "notes": null,
+                  "imdb_id": "nm0461702"
+               },
+               {
+                  "name": "Dan Wallin",
+                  "notes": null,
+                  "imdb_id": "nm0909163"
+               },
+               {
+                  "name": "Robert Glass",
+                  "notes": null,
+                  "imdb_id": "nm0321915"
+               },
+               {
+                  "name": "Tom Overton",
+                  "notes": null,
+                  "imdb_id": "nm0653966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Kong",
+                  "notes": null,
+                  "imdb_id": "tt0074751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry W. Tetrick",
+                  "notes": null,
+                  "imdb_id": "nm0856555"
+               },
+               {
+                  "name": "William L. McCaughey",
+                  "notes": null,
+                  "imdb_id": "nm0565477"
+               },
+               {
+                  "name": "Aaron Rochin",
+                  "notes": null,
+                  "imdb_id": "nm0734099"
+               },
+               {
+                  "name": "Jack Solomon",
+                  "notes": null,
+                  "imdb_id": "nm0813349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry W. Tetrick",
+                  "notes": null,
+                  "imdb_id": "nm0856555"
+               },
+               {
+                  "name": "William L. McCaughey",
+                  "notes": null,
+                  "imdb_id": "nm0565477"
+               },
+               {
+                  "name": "Lyle J. Burbridge",
+                  "notes": null,
+                  "imdb_id": "nm0120769"
+               },
+               {
+                  "name": "Bud Alper",
+                  "notes": null,
+                  "imdb_id": "nm0022356"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Silver Streak",
+                  "notes": null,
+                  "imdb_id": "tt0075223"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Douglas O. Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930491"
+               },
+               {
+                  "name": "Richard Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878889"
+               },
+               {
+                  "name": "Harold M. Etherington",
+                  "notes": null,
+                  "imdb_id": "nm0262065"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All the President's Men",
+                  "notes": null,
+                  "imdb_id": "tt0074119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0001279"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bound for Glory",
+                  "notes": null,
+                  "imdb_id": "tt0074235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Getchell",
+                  "notes": null,
+                  "imdb_id": "nm0315205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fellini's Casanova",
+                  "notes": null,
+                  "imdb_id": "tt0074291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Federico Fellini",
+                  "notes": null,
+                  "imdb_id": "nm0000019"
+               },
+               {
+                  "name": "Bernardino Zapponi",
+                  "notes": null,
+                  "imdb_id": "nm0953301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Seven-Per-Cent Solution",
+                  "notes": null,
+                  "imdb_id": "tt0075194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Meyer",
+                  "notes": null,
+                  "imdb_id": "nm0583292"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Voyage of the Damned",
+                  "notes": null,
+                  "imdb_id": "tt0075406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Shagan",
+                  "notes": null,
+                  "imdb_id": "nm0787399"
+               },
+               {
+                  "name": "David Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124878"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Network",
+                  "notes": null,
+                  "imdb_id": "tt0074958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paddy Chayefsky",
+                  "notes": null,
+                  "imdb_id": "nm0154665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cousin cousine",
+                  "notes": null,
+                  "imdb_id": "tt0072826"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Charles Tacchella",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0006621"
+               },
+               {
+                  "name": "Dani\u00e8le Thompson",
+                  "notes": "(adaptation)",
+                  "imdb_id": "nm0860019"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rocky",
+                  "notes": null,
+                  "imdb_id": "tt0075148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sylvester Stallone",
+                  "notes": null,
+                  "imdb_id": "nm0000230"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seven Beauties",
+                  "notes": null,
+                  "imdb_id": "tt0075040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lina Wertm\u00fcller",
+                  "notes": null,
+                  "imdb_id": "nm0921631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Front",
+                  "notes": null,
+                  "imdb_id": "tt0074554"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Bernstein",
+                  "notes": null,
+                  "imdb_id": "nm0077159"
+               }
+            ]
+         }
+      ]
+   }
+]

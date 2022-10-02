@@ -1,0 +1,747 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nick Nolte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warren Beatty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Palance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben Kingsley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harvey Keitel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Lerner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tommy Lee Jones"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jodie Foster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Midler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geena Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laura Dern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Sarandon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mercedes Ruehl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Ladd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Tandy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juliette Lewis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Nelligan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barton Fink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hook"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fisher King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Tides"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Tides"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma & Louise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barton Fink"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hook"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madame Bovary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Addams Family"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jonathan Demme"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barry Levinson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Singleton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oliver Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ridley Scott"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Shadow of the Stars"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Death on the Job"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doing Time: Life Inside the Big House"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild by Law"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Little Vicious"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birdnesters of Thailand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memorial: Letters from American Soldiers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mark of the Maker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Backdraft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek VI: The Undiscovered Country"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Backdraft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hook"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Commitments"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silence of the Lambs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma & Louise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mediterraneo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Nature"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raise the Red Lantern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Elementary School"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ox"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hook"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek VI: The Undiscovered Country"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fisher King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Tides"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hook"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Hood: Prince of Thieves"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Silence of the Lambs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Tides"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Manipulation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackfly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strings"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Session Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birch Street Gym"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Last Breeze of Summer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terminator 2: Judgment Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Backdraft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beauty and the Beast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silence of the Lambs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Silence of the Lambs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Europa Europa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fried Green Tomatoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "JFK"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Tides"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thelma & Louise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boyz n the Hood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bugsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grand Canyon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fisher King"
+            ]
+         }
+      ]
+   }
+]

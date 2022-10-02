@@ -1,0 +1,730 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George C. Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Earl Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melvyn Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ryan O'Neal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Mills"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chief Dan George"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gene Hackman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Marley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard S. Castellano"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Glenda Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ali MacGraw"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carrie Snodgress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sarah Miles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Helen Hayes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Karen Black"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Grant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maureen Stapleton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sally Kellerman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scrooge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Molly Maguires"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tora! Tora! Tora!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ryan's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tora! Tora! Tora!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Women in Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cromwell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darling Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scrooge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hawaiians"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Franklin J. Schaffner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Hiller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Federico Fellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ken Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Altman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Woodstock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chariots of the Gods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Johnson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King: A Filmed Record... Montgomery to Memphis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Say Goodbye"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Interviews with My Lai Veterans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Long Way from Nowhere"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oisin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gifts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Time Is Running Out"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tora! Tora! Tora!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "MASH"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tora! Tora! Tora!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woodstock"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Investigation of a Citizen Above Suspicion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hoa Binh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peace Over the Fields"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tristana"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Love Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cromwell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunflower"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lovers and Other Strangers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darling Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pieces of Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scrooge"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Let It Be"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Boy Named Charlie Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darling Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scrooge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Baby Maker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Five Easy Pieces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "MASH"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Is It Always Right to Be Right?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Further Adventures of Uncle Sam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shepherd"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Resurrection of Broncho Billy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shut Up... I'm Crying"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sticky My Fingers... Fleet My Feet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ryan's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tora! Tora! Tora!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woodstock"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "MASH"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Never Sang for My Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lovers and Other Strangers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Women in Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Five Easy Pieces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Night at Maud's"
+            ]
+         }
+      ]
+   }
+]

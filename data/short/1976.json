@@ -1,0 +1,719 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Whitmore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maximilian Schell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Matthau"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Burns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brad Dourif"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burgess Meredith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chris Sarandon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Warden"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Louise Fletcher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ann-Margret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol Kane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenda Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Isabelle Adjani"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lee Grant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brenda Vaccaro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lily Tomlin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ronee Blakley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sylvia Miles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shampoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hindenburg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Would Be King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sunshine Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Flew Over the Cuckoo's Nest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Day of the Locust"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hindenburg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Four Musketeers: Milady's Revenge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic Flute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Would Be King"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Milos Forman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Federico Fellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Altman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sidney Lumet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kubrick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Man Who Skied Down Everest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fighting for Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The California Reich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Incredible Machine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Other Half of the Sky: A China Memoir"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The End of the Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur and Lillie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Millions of Years Ahead of Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Probes in Space"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whistling Smith"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jaws"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dog Day Afternoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Flew Over the Cuckoo's Nest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Would Be King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Days of the Condor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dersu Uzala"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brothel No. 8"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Letters from Marusia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scent of a Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Promised Land"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jaws"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birds Do It, Bees Do It"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bite the Bullet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Flew Over the Cuckoo's Nest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wind and the Lion"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nashville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mahogany"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Other Side of the Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whiffs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tommy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Flew Over the Cuckoo's Nest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dog Day Afternoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jaws"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nashville"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Great (Isambard Kingdom Brunel)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kick Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monsieur Pointu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sisyphus"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Angel and Big Joe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Day in the Life of Bonnie Consolo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Conquest of Light"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dawn Flight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doubletalk"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jaws"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bite the Bullet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Funny Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hindenburg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wind and the Lion"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dog Day Afternoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "And Now My Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lies My Father Told Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shampoo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Adapted From Other Material",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Flew Over the Cuckoo's Nest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barry Lyndon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scent of a Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Would Be King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sunshine Boys"
+            ]
+         }
+      ]
+   }
+]

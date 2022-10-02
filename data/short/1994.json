@@ -1,0 +1,759 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daniel Day-Lewis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Fishburne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Liam Neeson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tommy Lee Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Malkovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pete Postlethwaite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Fiennes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Holly Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angela Bassett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Debra Winger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stockard Channing"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anna Paquin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holly Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosie Perez"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winona Ryder"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Addams Family Values"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Orlando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Age of Innocence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Remains of the Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Farewell My Concubine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Searching for Bobby Fischer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Piano"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Age of Innocence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Orlando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Piano"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Remains of the Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Ivory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Campion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jim Sheridan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Altman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "I Am a Promise: The Children of Stanton Elementary School"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Fate: Life and Death in a Sicilian Family"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For Better or for Worse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Broadcast Tapes of Dr. Peter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War Room"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Defending Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blood Ties: The Life and Work of Sally Mann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chicks in White Satin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jurassic Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cliffhanger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jurassic Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cliffhanger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nightmare Before Christmas"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Line of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Name of the Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Piano"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Belle Epoque"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Farewell My Concubine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hedd Wyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Scent of Green Papaya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wedding Banquet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mrs. Doubtfire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philadelphia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Schindler's List"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Age of Innocence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Firm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Remains of the Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Philadelphia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beethoven's 2nd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philadelphia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poetic Justice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleepless in Seattle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Name of the Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Piano"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Remains of the Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wrong Trousers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blindscape"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Small Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mighty River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Village"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Rider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Down on the Waterfront"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Partners"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dutch Master"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Screw"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jurassic Park"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cliffhanger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geronimo: An American Legend"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fugitive"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Schindler's List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Name of the Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shadowlands"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Age of Innocence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Remains of the Day"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Piano"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Line of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philadelphia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleepless in Seattle"
+            ]
+         }
+      ]
+   }
+]

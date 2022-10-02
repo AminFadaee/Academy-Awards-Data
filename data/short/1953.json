@@ -1,0 +1,864 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gary Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alec Guinness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jos\u00e9 Ferrer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kirk Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Quinn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Hunnicutt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Palance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor McLaglen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shirley Booth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Crawford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Hayward"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gloria Grahame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Colette Marchand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jean Hagen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terry Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bad and the Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carrie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Cousin Rachel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rashomon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Zapata!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moulin Rouge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Merry Widow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snows of Kilimanjaro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bad and the Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Cousin Rachel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Navajo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sudden Fear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Sky"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Quiet Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ivanhoe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Million Dollar Mermaid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snows of Kilimanjaro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bad and the Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Affair in Trinidad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carrie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Cousin Rachel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sudden Fear"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moulin Rouge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Show on Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Merry Widow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "With a Song in My Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cecil B. DeMille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joseph L. Mankiewicz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sea Around Us"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Navajo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hoaxters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Neighbours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Devil Take Us"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Epeira Diadema"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man Alive!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Plymouth Adventure"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "High Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come Back, Little Sheba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flat Top"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Show on Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "High Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Because You're Mine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Just for You"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Son of Paleface"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "High Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ivanhoe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Miracle of Our Lady of Fatima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thief"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Zapata!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "With a Song in My Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Singin' in the Rain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jazz Singer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Medium"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Greatest Show on Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ivanhoe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moulin Rouge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Johann Mouse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Johnny Jet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madeline"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pink and Blue Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Romance of Transportation in Canada"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Light in the Window"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Athletes of the Saddle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Desert Killer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Neighbours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Royal Scotland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Water Birds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bridge of Time"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Devil Take Us"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thar She Blows!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sound Barrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hans Christian Andersen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Promoter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "With a Song in My Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Greatest Show on Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Son John"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Narrow Margin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of St. Louis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sniper"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bad and the Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "5 Fingers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Noon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man in the White Suit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lavender Hill Mob"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pat and Mike"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Atomic City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sound Barrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Zapata!"
+            ]
+         }
+      ]
+   }
+]

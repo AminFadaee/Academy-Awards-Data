@@ -1,0 +1,876 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Holden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burt Lancaster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Montgomery Clift"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Sinatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brandon De Wilde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eddie Albert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Palance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Strauss"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Audrey Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ava Gardner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deborah Kerr"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leslie Caron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maggie McNamara"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Donna Reed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grace Kelly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marjorie Rambeau"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julius Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Luther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The President's Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Titanic"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Robe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Knights of the Round Table"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Story of Three Loves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Bess"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julius Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Luther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Four Poster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the Brothers Were Valiant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beneath the 12-Mile Reef"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Robe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dream Wife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Actress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The President's Lady"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Robe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Call Me Madam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Marry a Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Band Wagon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Bess"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Walters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Stevens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Living Desert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Queen Is Crowned"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conquest of Everest"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Alaskan Eskimo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operation Blue Jay"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Living City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Word"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "They Planted a Stone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crazylegs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Moon Is Blue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Calamity Jane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Miss Sadie Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Small Town Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caddy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Moon Is Blue"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Above and Beyond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julius Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Is Cinerama"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Call Me Madam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Calamity Jane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kiss Me Kate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The 5,000 Fingers of Dr. T."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Band Wagon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julius Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Robe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toot, Whistle, Plunk and Boom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christopher Crumpet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "From A to Z-Z-Z-Z"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rugged Bear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tell-Tale Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Overture to The Merry Wives of Windsor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christ Among the Primitives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Herring Hunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joy of Living"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wee Water Wonders"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bear Country"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben and Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Return to Glennascaul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vesuvius Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winter Paradise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Calamity Jane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Knights of the Round Table"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mississippi Gambler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Above and Beyond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hondo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Fugitive"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Captain's Paradise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "From Here to Eternity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lili"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cruel Sea"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Titanic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Take the High Ground!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Band Wagon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Desert Rats"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Naked Spur"
+            ]
+         }
+      ]
+   }
+]

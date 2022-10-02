@@ -1,0 +1,708 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jon Voight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Busey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warren Beatty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Christopher Walken"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bruce Dern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Warden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Hurt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Farnsworth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ingrid Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jill Clayburgh"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Maggie Smith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dyan Cannon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maureen Stapleton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Penelope Milford"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Heaven Can Wait"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "California Suite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interiors"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Brink's Job"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wiz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Days of Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven Can Wait"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Same Time, Next Year"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Deer Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wiz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Death on the Nile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Caravans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Swarm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wiz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Michael Cimino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Parker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hal Ashby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warren Beatty",
+               "Buck Henry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Scared Straight!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mysterious Castles of Clay"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Raoni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lovers' Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "With Babies and Banners: Story of the Women's Emergency Brigade"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Flight of the Gossamer Condor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Encounter with Faces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodnight Miss Ann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Squires of San Quentin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Divided Trail: A Native American Odyssey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Deer Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coming Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Midnight Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Superman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boys from Brazil"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Get Out Your Handkerchiefs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Belyy Bim Chernoe ukho"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Magyarok"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Glass Cell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Italia!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Midnight Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven Can Wait"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Superman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boys from Brazil"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thank God It's Friday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foul Play"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grease"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Same Time, Next Year"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic of Lassie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Buddy Holly Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pretty Baby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wiz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Deer Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Unmarried Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coming Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven Can Wait"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Midnight Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Special Delivery"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oh My Darling ..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rip Van Winkle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Teenage Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Different Approach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mandy's Grandmother"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strange Fruit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Deer Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Superman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Buddy Holly Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Midnight Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bloodbrothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "California Suite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven Can Wait"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Same Time, Next Year"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Coming Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Unmarried Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Autumn Sonata"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interiors"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Deer Hunter"
+            ]
+         }
+      ]
+   }
+]

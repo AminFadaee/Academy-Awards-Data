@@ -1,0 +1,2464 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dustin Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000163"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wag the Dog",
+                  "notes": null,
+                  "imdb_id": "tt0120885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Matt Damon",
+                  "notes": null,
+                  "imdb_id": "nm0000354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0001228"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ulee's Gold",
+                  "notes": null,
+                  "imdb_id": "tt0120402"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Duvall",
+                  "notes": null,
+                  "imdb_id": "nm0000380"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Apostle",
+                  "notes": null,
+                  "imdb_id": "tt0118632"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Robin Williams",
+                  "notes": null,
+                  "imdb_id": "nm0000245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0000164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Amistad",
+                  "notes": null,
+                  "imdb_id": "tt0118607"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burt Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0000608"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boogie Nights",
+                  "notes": null,
+                  "imdb_id": "tt0118749"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greg Kinnear",
+                  "notes": null,
+                  "imdb_id": "nm0001427"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Forster",
+                  "notes": null,
+                  "imdb_id": "nm0001233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jackie Brown",
+                  "notes": null,
+                  "imdb_id": "tt0119396"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Helen Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0000166"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Helena Bonham Carter",
+                  "notes": null,
+                  "imdb_id": "nm0000307"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Wings of the Dove",
+                  "notes": null,
+                  "imdb_id": "tt0120520"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judi Dench",
+                  "notes": null,
+                  "imdb_id": "nm0001132"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mrs. Brown",
+                  "notes": null,
+                  "imdb_id": "tt0119280"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Christie",
+                  "notes": null,
+                  "imdb_id": "nm0001046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Afterglow",
+                  "notes": null,
+                  "imdb_id": "tt0118566"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate Winslet",
+                  "notes": null,
+                  "imdb_id": "nm0000701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kim Basinger",
+                  "notes": null,
+                  "imdb_id": "nm0000107"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gloria Stuart",
+                  "notes": null,
+                  "imdb_id": "nm0001784"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Cusack",
+                  "notes": null,
+                  "imdb_id": "nm0000349"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In & Out",
+                  "notes": null,
+                  "imdb_id": "tt0119360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julianne Moore",
+                  "notes": null,
+                  "imdb_id": "nm0000194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boogie Nights",
+                  "notes": null,
+                  "imdb_id": "tt0118749"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minnie Driver",
+                  "notes": null,
+                  "imdb_id": "nm0000378"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Lamont",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0483682"
+               },
+               {
+                  "name": "Michael Ford",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0285785"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gattaca",
+                  "notes": null,
+                  "imdb_id": "tt0119177"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jan Roelfs",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0736360"
+               },
+               {
+                  "name": "Nancy Nye",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0638577"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kundun",
+                  "notes": null,
+                  "imdb_id": "tt0119485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeannine Oppewall",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0649223"
+               },
+               {
+                  "name": "Jay Hart",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0366345"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Men in Black",
+                  "notes": null,
+                  "imdb_id": "tt0119654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bo Welch",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0919514"
+               },
+               {
+                  "name": "Cheryl Carasik",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0135974"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Carpenter",
+                  "notes": null,
+                  "imdb_id": "nm0005665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amistad",
+                  "notes": null,
+                  "imdb_id": "tt0118607"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janusz Kaminski",
+                  "notes": null,
+                  "imdb_id": "nm0001405"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kundun",
+                  "notes": null,
+                  "imdb_id": "tt0119485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Spinotti",
+                  "notes": null,
+                  "imdb_id": "nm0005883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wings of the Dove",
+                  "notes": null,
+                  "imdb_id": "tt0120520"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eduardo Serra",
+                  "notes": null,
+                  "imdb_id": "nm0785381"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Deborah Lynn Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779045"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amistad",
+                  "notes": null,
+                  "imdb_id": "tt0118607"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth E. Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kundun",
+                  "notes": null,
+                  "imdb_id": "tt0119485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": null,
+                  "imdb_id": "nm0274721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oscar and Lucinda",
+                  "notes": null,
+                  "imdb_id": "tt0119843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janet Patterson",
+                  "notes": null,
+                  "imdb_id": "nm0666253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wings of the Dove",
+                  "notes": null,
+                  "imdb_id": "tt0120520"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "James Cameron",
+                  "notes": null,
+                  "imdb_id": "nm0000116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atom Egoyan",
+                  "notes": null,
+                  "imdb_id": "nm0000382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sweet Hereafter",
+                  "notes": null,
+                  "imdb_id": "tt0120255"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Curtis Hanson",
+                  "notes": null,
+                  "imdb_id": "nm0000436"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gus Van Sant",
+                  "notes": null,
+                  "imdb_id": "nm0001814"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Cattaneo",
+                  "notes": null,
+                  "imdb_id": "nm0146341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Full Monty",
+                  "notes": null,
+                  "imdb_id": "tt0119164"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Long Way Home",
+                  "notes": null,
+                  "imdb_id": "tt0119561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hier",
+                  "notes": null,
+                  "imdb_id": "nm0383178"
+               },
+               {
+                  "name": "Richard Trank",
+                  "notes": null,
+                  "imdb_id": "nm0870979"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "4 Little Girls",
+                  "notes": null,
+                  "imdb_id": "tt0118540"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Spike Lee",
+                  "notes": null,
+                  "imdb_id": "nm0000490"
+               },
+               {
+                  "name": "Sam Pollard",
+                  "notes": null,
+                  "imdb_id": "nm0689498"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ayn Rand: A Sense of Life",
+                  "notes": null,
+                  "imdb_id": "tt0118662"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Paxton",
+                  "notes": null,
+                  "imdb_id": "nm0668132"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Colors Straight Up",
+                  "notes": null,
+                  "imdb_id": "tt0126249"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mich\u00e8le Ohayon",
+                  "notes": null,
+                  "imdb_id": "nm0644977"
+               },
+               {
+                  "name": "Julia Schachter",
+                  "notes": null,
+                  "imdb_id": "nm0769519"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Waco: The Rules of Engagement",
+                  "notes": null,
+                  "imdb_id": "tt0120472"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Gazecki",
+                  "notes": null,
+                  "imdb_id": "nm0311086"
+               },
+               {
+                  "name": "Dan Gifford",
+                  "notes": null,
+                  "imdb_id": "nm0317516"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Story of Healing",
+                  "notes": null,
+                  "imdb_id": "tt0141858"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donna Dewey",
+                  "notes": null,
+                  "imdb_id": "nm0223123"
+               },
+               {
+                  "name": "Carol Pasternak",
+                  "notes": null,
+                  "imdb_id": "nm0664986"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alaska: Spirit of the Wild",
+                  "notes": null,
+                  "imdb_id": "tt0130445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Casey",
+                  "notes": null,
+                  "imdb_id": "nm0143426"
+               },
+               {
+                  "name": "Paul Novros",
+                  "notes": null,
+                  "imdb_id": "nm0637280"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amazon",
+                  "notes": null,
+                  "imdb_id": "tt0140803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kieth Merrill",
+                  "notes": null,
+                  "imdb_id": "nm0581303"
+               },
+               {
+                  "name": "Jonathan Stern",
+                  "notes": null,
+                  "imdb_id": "nm0827747"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Family Video Diaries: Daughter of the Bride",
+                  "notes": null,
+                  "imdb_id": "tt0129918"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terri Randall",
+                  "notes": null,
+                  "imdb_id": "nm0709697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Still Kicking: The Fabulous Palm Springs Follies",
+                  "notes": null,
+                  "imdb_id": "tt0141856"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mel Damski",
+                  "notes": null,
+                  "imdb_id": "nm0198991"
+               },
+               {
+                  "name": "Andrea Blaugrund Nevins",
+                  "notes": null,
+                  "imdb_id": "nm0087895"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Bellfort",
+                  "notes": null,
+                  "imdb_id": "nm0068938"
+               },
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Face/Off",
+                  "notes": null,
+                  "imdb_id": "tt0119094"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark P. Stoeckinger",
+                  "notes": null,
+                  "imdb_id": "nm0831057"
+               },
+               {
+                  "name": "Per Hallberg",
+                  "notes": null,
+                  "imdb_id": "nm0356319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fifth Element",
+                  "notes": null,
+                  "imdb_id": "tt0119116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark A. Mangini",
+                  "notes": null,
+                  "imdb_id": "nm0005625"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Legato",
+                  "notes": null,
+                  "imdb_id": "nm0499215"
+               },
+               {
+                  "name": "Mark A. Lasoff",
+                  "notes": null,
+                  "imdb_id": "nm0489747"
+               },
+               {
+                  "name": "Thomas L. Fisher",
+                  "notes": null,
+                  "imdb_id": "nm0279812"
+               },
+               {
+                  "name": "Michael Kanfer",
+                  "notes": null,
+                  "imdb_id": "nm0437604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Starship Troopers",
+                  "notes": null,
+                  "imdb_id": "tt0120201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phil Tippett",
+                  "notes": null,
+                  "imdb_id": "nm0864138"
+               },
+               {
+                  "name": "Scott E. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027423"
+               },
+               {
+                  "name": "Alec Gillis",
+                  "notes": null,
+                  "imdb_id": "nm0319266"
+               },
+               {
+                  "name": "John Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724624"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lost World: Jurassic Park",
+                  "notes": null,
+                  "imdb_id": "tt0119567"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               },
+               {
+                  "name": "Randal M. Dutra",
+                  "notes": null,
+                  "imdb_id": "nm0244833"
+               },
+               {
+                  "name": "Michael Lantieri",
+                  "notes": null,
+                  "imdb_id": "nm0487177"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad Buff IV",
+                  "notes": null,
+                  "imdb_id": "nm0119322"
+               },
+               {
+                  "name": "James Cameron",
+                  "notes": null,
+                  "imdb_id": "nm0000116"
+               },
+               {
+                  "name": "Richard A. Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Air Force One",
+                  "notes": null,
+                  "imdb_id": "tt0118571"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Francis-Bruce",
+                  "notes": null,
+                  "imdb_id": "nm0290358"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Marks",
+                  "notes": null,
+                  "imdb_id": "nm0548943"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pietro Scalia",
+                  "notes": null,
+                  "imdb_id": "nm0768817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Honess",
+                  "notes": null,
+                  "imdb_id": "nm0392000"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "The Netherlands.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Character",
+                  "notes": null,
+                  "imdb_id": "tt0119448"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beyond Silence",
+                  "notes": null,
+                  "imdb_id": "tt0116692"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Brazil.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Four Days in September",
+                  "notes": null,
+                  "imdb_id": "tt0119815"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Secrets of the Heart",
+                  "notes": null,
+                  "imdb_id": "tt0120090"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Russia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thief",
+                  "notes": null,
+                  "imdb_id": "tt0124207"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Men in Black",
+                  "notes": null,
+                  "imdb_id": "tt0119654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "David LeRoy Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0026600"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mrs. Brown",
+                  "notes": null,
+                  "imdb_id": "tt0119280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lisa Westcott",
+                  "notes": null,
+                  "imdb_id": "nm0922509"
+               },
+               {
+                  "name": "Veronica McAleer",
+                  "notes": null,
+                  "imdb_id": "nm0106494"
+               },
+               {
+                  "name": "Beverley Binda",
+                  "notes": null,
+                  "imdb_id": "nm0082762"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tina Earnshaw",
+                  "notes": null,
+                  "imdb_id": "nm0247444"
+               },
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               },
+               {
+                  "name": "Simon Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0860717"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Horner",
+                  "notes": null,
+                  "imdb_id": "nm0000035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amistad",
+                  "notes": null,
+                  "imdb_id": "tt0118607"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny Elfman",
+                  "notes": null,
+                  "imdb_id": "nm0000384"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kundun",
+                  "notes": null,
+                  "imdb_id": "tt0119485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Glass",
+                  "notes": null,
+                  "imdb_id": "nm0001275"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Full Monty",
+                  "notes": null,
+                  "imdb_id": "tt0119164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne Dudley",
+                  "notes": null,
+                  "imdb_id": "nm0006050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anastasia",
+                  "notes": null,
+                  "imdb_id": "tt0118617"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Flaherty",
+                  "notes": null,
+                  "imdb_id": "nm0280906"
+               },
+               {
+                  "name": "Lynn Ahrens",
+                  "notes": null,
+                  "imdb_id": "nm0014326"
+               },
+               {
+                  "name": "David Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Men in Black",
+                  "notes": null,
+                  "imdb_id": "tt0119654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny Elfman",
+                  "notes": null,
+                  "imdb_id": "nm0000384"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Best Friend's Wedding",
+                  "notes": null,
+                  "imdb_id": "tt0119738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"My Heart Will Go On\", performed by C\u00e9line Dion.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Horner",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000035"
+               },
+               {
+                  "name": "Will Jennings",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0421263"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Journey To The Past\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anastasia",
+                  "notes": null,
+                  "imdb_id": "tt0118617"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Flaherty",
+                  "notes": "(music)",
+                  "imdb_id": "nm0280906"
+               },
+               {
+                  "name": "Lynn Ahrens",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0014326"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"How Do I Live\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Con Air",
+                  "notes": null,
+                  "imdb_id": "tt0118880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Miss Misery\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliott Smith",
+                  "notes": null,
+                  "imdb_id": "nm0808129"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Go The Distance\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hercules",
+                  "notes": null,
+                  "imdb_id": "tt0119282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "David Zippel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0957138"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Cameron",
+                  "notes": null,
+                  "imdb_id": "nm0000116"
+               },
+               {
+                  "name": "Jon Landau",
+                  "notes": null,
+                  "imdb_id": "nm0484457"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James L. Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0000985"
+               },
+               {
+                  "name": "Bridget Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0424660"
+               },
+               {
+                  "name": "Kristi Zea",
+                  "notes": null,
+                  "imdb_id": "nm0954034"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Bender",
+                  "notes": null,
+                  "imdb_id": "nm0004744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arnon Milchan",
+                  "notes": null,
+                  "imdb_id": "nm0586969"
+               },
+               {
+                  "name": "Curtis Hanson",
+                  "notes": null,
+                  "imdb_id": "nm0000436"
+               },
+               {
+                  "name": "Michael G. Nathanson",
+                  "notes": null,
+                  "imdb_id": "nm0622296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Full Monty",
+                  "notes": null,
+                  "imdb_id": "tt0119164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Uberto Pasolini",
+                  "notes": null,
+                  "imdb_id": "nm0664667"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Geri's Game",
+                  "notes": null,
+                  "imdb_id": "tt0131409"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jan Pinkava",
+                  "notes": null,
+                  "imdb_id": "nm0684342"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Famous Fred",
+                  "notes": null,
+                  "imdb_id": "tt0141005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joanna Quinn",
+                  "notes": null,
+                  "imdb_id": "nm0703885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mermaid",
+                  "notes": null,
+                  "imdb_id": "tt0130860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aleksandr Petrov",
+                  "notes": null,
+                  "imdb_id": "nm0678154"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Redux Riding Hood",
+                  "notes": null,
+                  "imdb_id": "tt0141560"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan O'Shannon",
+                  "notes": null,
+                  "imdb_id": "nm0642591"
+               },
+               {
+                  "name": "Steve Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601696"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Old Lady and the Pigeons",
+                  "notes": null,
+                  "imdb_id": "tt0127710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sylvain Chomet",
+                  "notes": null,
+                  "imdb_id": "nm0158984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Visas and Virtue",
+                  "notes": null,
+                  "imdb_id": "tt0141963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Tashima",
+                  "notes": null,
+                  "imdb_id": "nm0850875"
+               },
+               {
+                  "name": "Chris Donahue",
+                  "notes": null,
+                  "imdb_id": "nm0231934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dance Lexie Dance",
+                  "notes": null,
+                  "imdb_id": "tt0140934"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pearse Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601734"
+               },
+               {
+                  "name": "Tim Loane",
+                  "notes": null,
+                  "imdb_id": "nm0516385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's Good to Talk",
+                  "notes": null,
+                  "imdb_id": "tt0141401"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Goldby",
+                  "notes": null,
+                  "imdb_id": "nm0325368"
+               },
+               {
+                  "name": "Barney Reisz",
+                  "notes": null,
+                  "imdb_id": "nm0718553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skal vi v\u00e6re k\u00e6rester?",
+                  "notes": null,
+                  "imdb_id": "tt0141868"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Birger Larsen",
+                  "notes": null,
+                  "imdb_id": "nm0488715"
+               },
+               {
+                  "name": "Thomas Lydholm",
+                  "notes": null,
+                  "imdb_id": "nm0527980"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wolfgang",
+                  "notes": null,
+                  "imdb_id": "tt0141995"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kim Magnusson",
+                  "notes": null,
+                  "imdb_id": "nm0536385"
+               },
+               {
+                  "name": "Anders Thomas Jensen",
+                  "notes": null,
+                  "imdb_id": "nm0421314"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Titanic",
+                  "notes": null,
+                  "imdb_id": "tt0120338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Gary Summers",
+                  "notes": null,
+                  "imdb_id": "nm0838707"
+               },
+               {
+                  "name": "Mark Ulano",
+                  "notes": null,
+                  "imdb_id": "nm0880360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Air Force One",
+                  "notes": null,
+                  "imdb_id": "tt0118571"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557338"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Doug Hemphill",
+                  "notes": null,
+                  "imdb_id": "nm0376153"
+               },
+               {
+                  "name": "Keith A. Wester",
+                  "notes": null,
+                  "imdb_id": "nm0199492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Con Air",
+                  "notes": null,
+                  "imdb_id": "tt0118880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Art Rochester",
+                  "notes": null,
+                  "imdb_id": "nm0734053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Contact",
+                  "notes": null,
+                  "imdb_id": "tt0118884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Dennis S. Sands",
+                  "notes": null,
+                  "imdb_id": "nm0762304"
+               },
+               {
+                  "name": "William B. Kaplan",
+                  "notes": null,
+                  "imdb_id": "nm0438202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Kirk Francis",
+                  "notes": null,
+                  "imdb_id": "nm0290220"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "L.A. Confidential",
+                  "notes": null,
+                  "imdb_id": "tt0119488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Helgeland",
+                  "notes": null,
+                  "imdb_id": "nm0001338"
+               },
+               {
+                  "name": "Curtis Hanson",
+                  "notes": null,
+                  "imdb_id": "nm0000436"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Donnie Brasco",
+                  "notes": null,
+                  "imdb_id": "tt0119008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Attanasio",
+                  "notes": null,
+                  "imdb_id": "nm0001921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sweet Hereafter",
+                  "notes": null,
+                  "imdb_id": "tt0120255"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Atom Egoyan",
+                  "notes": null,
+                  "imdb_id": "nm0000382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wings of the Dove",
+                  "notes": null,
+                  "imdb_id": "tt0120520"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hossein Amini",
+                  "notes": null,
+                  "imdb_id": "nm0024925"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wag the Dog",
+                  "notes": null,
+                  "imdb_id": "tt0120885"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hilary Henkin",
+                  "notes": null,
+                  "imdb_id": "nm0377088"
+               },
+               {
+                  "name": "David Mamet",
+                  "notes": null,
+                  "imdb_id": "nm0000519"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Good Will Hunting",
+                  "notes": null,
+                  "imdb_id": "tt0119217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matt Damon",
+                  "notes": null,
+                  "imdb_id": "nm0000354"
+               },
+               {
+                  "name": "Ben Affleck",
+                  "notes": null,
+                  "imdb_id": "nm0000255"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "As Good as It Gets",
+                  "notes": null,
+                  "imdb_id": "tt0119822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Andrus",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0029125"
+               },
+               {
+                  "name": "James L. Brooks",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0000985"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boogie Nights",
+                  "notes": null,
+                  "imdb_id": "tt0118749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Deconstructing Harry",
+                  "notes": null,
+                  "imdb_id": "tt0118954"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Full Monty",
+                  "notes": null,
+                  "imdb_id": "tt0119164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Simon Beaufoy",
+                  "notes": null,
+                  "imdb_id": "nm0064479"
+               }
+            ]
+         }
+      ]
+   }
+]

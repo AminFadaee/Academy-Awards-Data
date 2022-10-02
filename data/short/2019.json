@@ -1,0 +1,848 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Green Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "BlacKkKlansman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bohemian Rhapsody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rami Malek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bradley Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christian Bale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viggo Mortensen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Willem Dafoe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Olivia Colman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady Gaga"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melissa McCarthy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yalitza Aparicio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mahershala Ali"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam Driver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard E. Grant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Elliott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Rockwell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Regina King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marina de Tavira"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel Weisz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alfonso Cuar\u00f3n"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam McKay"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pawel Pawlikowski"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spike Lee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yorgos Lanthimos"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Green Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Reformed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "BlacKkKlansman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Can You Ever Forgive Me?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "If Beale Street Could Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ballad of Buster Scruggs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Never Look Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bohemian Rhapsody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "BlacKkKlansman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins Returns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins Returns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Queen of Scots"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ballad of Buster Scruggs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Favourite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Vice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Border"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Queen of Scots"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "BlacKkKlansman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "If Beale Street Could Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Isle of Dogs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins Returns"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Poppins Returns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RBG"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ballad of Buster Scruggs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bohemian Rhapsody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roma"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bohemian Rhapsody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Quiet Place"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Panther"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roma"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "First Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avengers: Infinity War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christopher Robin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ready Player One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Solo: A Star Wars Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Free Solo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hale County This Morning, This Evening"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minding the Gap"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Fathers and Sons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RBG"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Period. End of Sentence."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Night at the Garden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Sheep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "End Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lifeboat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spider-Man: Into the Spider-Verse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Incredibles 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Isle of Dogs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mirai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Breaks the Internet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bao"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Animal Behaviour"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Late Afternoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Small Step"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Weekends"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Skin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Detainment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fauve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marguerite"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Capernaum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Never Look Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shoplifters"
+            ]
+         }
+      ]
+   }
+]

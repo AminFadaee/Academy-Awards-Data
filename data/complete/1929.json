@@ -1,0 +1,670 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Emil Jannings received his award early due to the fact that he was going home to Europe before the ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Emil Jannings",
+                  "notes": null,
+                  "imdb_id": "nm0417837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Command",
+                  "notes": null,
+                  "imdb_id": "tt0019071"
+               },
+               {
+                  "name": "The Way of All Flesh",
+                  "notes": null,
+                  "imdb_id": "tt0019553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Barthelmess",
+                  "notes": null,
+                  "imdb_id": "nm0001932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Patent Leather Kid",
+                  "notes": null,
+                  "imdb_id": "tt0018253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Barthelmess",
+                  "notes": null,
+                  "imdb_id": "nm0001932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Noose",
+                  "notes": null,
+                  "imdb_id": "tt0019217"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Janet Gaynor",
+                  "notes": null,
+                  "imdb_id": "nm0310980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "7th Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0018379"
+               },
+               {
+                  "name": "Street Angel",
+                  "notes": null,
+                  "imdb_id": "tt0019429"
+               },
+               {
+                  "name": "Sunrise",
+                  "notes": null,
+                  "imdb_id": "tt0018455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gloria Swanson",
+                  "notes": null,
+                  "imdb_id": "nm0841797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sadie Thompson",
+                  "notes": null,
+                  "imdb_id": "tt0019344"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louise Dresser",
+                  "notes": null,
+                  "imdb_id": "nm0237571"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Ship Comes In",
+                  "notes": null,
+                  "imdb_id": "tt0018389"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tempest",
+                  "notes": null,
+                  "imdb_id": "tt0019451"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Cameron Menzies",
+                  "notes": null,
+                  "imdb_id": "nm0580017"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Dove",
+                  "notes": null,
+                  "imdb_id": "tt0017822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Cameron Menzies",
+                  "notes": null,
+                  "imdb_id": "nm0580017"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "7th Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0018379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Oliver",
+                  "notes": null,
+                  "imdb_id": "nm0646856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunrise",
+                  "notes": null,
+                  "imdb_id": "tt0018455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rochus Gliese",
+                  "notes": null,
+                  "imdb_id": "nm0322843"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sunrise",
+                  "notes": null,
+                  "imdb_id": "tt0018455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Rosher",
+                  "notes": null,
+                  "imdb_id": "nm0003546"
+               },
+               {
+                  "name": "Karl Struss",
+                  "notes": null,
+                  "imdb_id": "nm0835365"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sadie Thompson",
+                  "notes": null,
+                  "imdb_id": "tt0019344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Devil Dancer",
+                  "notes": null,
+                  "imdb_id": "tt0017806"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magic Flame",
+                  "notes": null,
+                  "imdb_id": "tt0018129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055604"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director, Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lewis Milestone",
+                  "notes": null,
+                  "imdb_id": "nm0587277"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Two Arabian Knights",
+                  "notes": null,
+                  "imdb_id": "tt0018515"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ted Wilde",
+                  "notes": null,
+                  "imdb_id": "nm0928514"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Speedy",
+                  "notes": null,
+                  "imdb_id": "tt0019412"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director, Dramatic Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frank Borzage",
+                  "notes": null,
+                  "imdb_id": "nm0097648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "7th Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0018379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Herbert Brenon",
+                  "notes": null,
+                  "imdb_id": "nm0107543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sorrell and Son",
+                  "notes": null,
+                  "imdb_id": "tt0018429"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Vidor",
+                  "notes": null,
+                  "imdb_id": "nm0896542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Crowd",
+                  "notes": null,
+                  "imdb_id": "tt0018806"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Engineering Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wings",
+                  "notes": null,
+                  "imdb_id": "tt0018578"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Pomeroy",
+                  "notes": null,
+                  "imdb_id": "nm0690120"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nugent Slaughter",
+                  "notes": null,
+                  "imdb_id": "nm0805521"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ralph Hammeras",
+                  "notes": null,
+                  "imdb_id": "nm0358518"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Picture, Production",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wings",
+                  "notes": null,
+                  "imdb_id": "tt0018578"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "7th Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0018379"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Racket",
+                  "notes": null,
+                  "imdb_id": "tt0019304"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Picture, Unique and Artistic Production",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sunrise",
+                  "notes": null,
+                  "imdb_id": "tt0018455"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chang: A Drama of the Wilderness",
+                  "notes": null,
+                  "imdb_id": "tt0017743"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crowd",
+                  "notes": null,
+                  "imdb_id": "tt0018806"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "7th Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0018379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Benjamin Glazer",
+                  "notes": null,
+                  "imdb_id": "nm0322227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glorious Betsy",
+                  "notes": null,
+                  "imdb_id": "tt0018945"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Coldeway",
+                  "notes": null,
+                  "imdb_id": "nm0170401"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Jazz Singer",
+                  "notes": null,
+                  "imdb_id": "tt0018037"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred A. Cohn",
+                  "notes": null,
+                  "imdb_id": "nm0169879"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Underworld",
+                  "notes": null,
+                  "imdb_id": "tt0018526"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Hecht",
+                  "notes": null,
+                  "imdb_id": "nm0372942"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Command",
+                  "notes": null,
+                  "imdb_id": "tt0019071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lajos Bir\u00f3",
+                  "notes": null,
+                  "imdb_id": "nm0083742"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Title Writing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joseph Farnham",
+                  "notes": null,
+                  "imdb_id": "nm0267868"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Marion Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0547938"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Private Life of Helen of Troy",
+                  "notes": null,
+                  "imdb_id": "tt0017979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerald C. Duffy",
+                  "notes": null,
+                  "imdb_id": "nm0240534"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,711 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fredric March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregory Peck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Larry Parks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Harold Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Coburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claude Rains"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clifton Webb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Demarest"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Olivia de Havilland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Celia Johnson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Wyman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosalind Russell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anne Baxter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethel Barrymore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flora Robson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gale Sondergaard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lillian Gish"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anna and the King of Siam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kitty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Razor's Edge"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Yearling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Caesar and Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry V"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anna and the King of Siam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Green Years"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Yearling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jolson Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Wyler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clarence Brown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Capra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Siodmak"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Seeds of Destiny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atomic Power"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life at the Zoo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paramount News Issue #37"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Traffic with the Devil"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Blithe Spirit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Stolen Life"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Best Years of Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Wonderful Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jolson Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Yearling"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Harvey Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blue Skies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Canyon Passage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Centennial Summer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dolly Sisters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Best Years of Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna and the King of Siam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry V"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Humoresque"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Jolson Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blue Skies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Centennial Summer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Night and Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Harvey Girls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Best Years of Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry V"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Wonderful Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Razor's Edge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Yearling"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Cat Concerto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Henry and the Inky-Poo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Musical Moments from Chopin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Squatter's Rights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walky Talky Hawky"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Facing Your Danger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dive-Hi Champs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Golden Horses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Smart as a Fox"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sure Cures"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Boy and His Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "College Queen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hiss and Yell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Luckiest Guy in the World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Jolson Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Wonderful Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Best Years of Our Lives"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Seventh Veil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Paradise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Notorious"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Utopia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Blue Dahlia"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Vacation from Marriage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Mirror"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Strange Love of Martha Ivers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Stranger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Each His Own"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Best Years of Our Lives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna and the King of Siam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brief Encounter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rome, Open City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killers"
+            ]
+         }
+      ]
+   }
+]

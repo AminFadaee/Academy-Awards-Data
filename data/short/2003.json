@@ -1,0 +1,794 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pianist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Adrien Brody"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daniel Day-Lewis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Caine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicolas Cage"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nicole Kidman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Lane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julianne Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ren\u00e9e Zellweger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Salma Hayek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chris Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christopher Walken"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ed Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John C. Reilly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Catherine Zeta-Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julianne Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kathy Bates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Queen Latifah"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roman Polanski"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pedro Almod\u00f3var"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rob Marshall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stephen Daldry"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Talk to Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Far from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Big Fat Greek Wedding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Y tu mam\u00e1 tambi\u00e9n"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Pianist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "About a Boy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adaptation."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hours"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nowhere in Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hero"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Crime of Padre Amaro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Without a Past"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zus & zo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Road to Perdition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Far from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pianist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Perdition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pianist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Perdition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spider-Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minority Report"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Perdition"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pianist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Time Machine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "8 Mile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gangs of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wild Thornberrys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Catch Me If You Can"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Far from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Perdition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hours"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Chubbchubbs!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike's New Car"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mount Head"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rocks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cathedral"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "This Charming Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gridlock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I'll Wait for the Next One..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Flynton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Twin Towers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mighty Times: The Legacy of Rosa Parks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Collector of Bedford Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Why Can't We Be a Family Again?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bowling for Columbine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daughter from Danang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prisoner of Paradise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spellbound"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winged Migration"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spirited Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ice Age"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lilo & Stitch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spirit: Stallion of the Cimarron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Treasure Planet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Two Towers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spider-Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode II - Attack of the Clones"
+            ]
+         }
+      ]
+   }
+]

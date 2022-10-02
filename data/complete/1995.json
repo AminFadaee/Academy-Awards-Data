@@ -1,0 +1,2379 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tom Hanks",
+                  "notes": null,
+                  "imdb_id": "nm0000158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Travolta",
+                  "notes": null,
+                  "imdb_id": "nm0000237"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morgan Freeman",
+                  "notes": null,
+                  "imdb_id": "nm0000151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nigel Hawthorne",
+                  "notes": null,
+                  "imdb_id": "nm0001329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Madness of King George",
+                  "notes": null,
+                  "imdb_id": "tt0110428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nobody's Fool",
+                  "notes": null,
+                  "imdb_id": "tt0110684"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Martin Landau",
+                  "notes": null,
+                  "imdb_id": "nm0001445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ed Wood",
+                  "notes": null,
+                  "imdb_id": "tt0109707"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chazz Palminteri",
+                  "notes": null,
+                  "imdb_id": "nm0001590"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gary Sinise",
+                  "notes": null,
+                  "imdb_id": "nm0000641"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Scofield",
+                  "notes": null,
+                  "imdb_id": "nm0006890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quiz Show",
+                  "notes": null,
+                  "imdb_id": "tt0110932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samuel L. Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0000168"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jessica Lange",
+                  "notes": null,
+                  "imdb_id": "nm0001448"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Blue Sky",
+                  "notes": null,
+                  "imdb_id": "tt0109306"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jodie Foster",
+                  "notes": null,
+                  "imdb_id": "nm0000149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nell",
+                  "notes": null,
+                  "imdb_id": "tt0110638"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Miranda Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0001669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom & Viv",
+                  "notes": null,
+                  "imdb_id": "tt0111454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Sarandon",
+                  "notes": null,
+                  "imdb_id": "nm0000215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Client",
+                  "notes": null,
+                  "imdb_id": "tt0109446"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Winona Ryder",
+                  "notes": null,
+                  "imdb_id": "nm0000213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0110367"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dianne Wiest",
+                  "notes": null,
+                  "imdb_id": "nm0001848"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Helen Mirren",
+                  "notes": null,
+                  "imdb_id": "nm0000545"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Madness of King George",
+                  "notes": null,
+                  "imdb_id": "tt0110428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jennifer Tilly",
+                  "notes": null,
+                  "imdb_id": "nm0000236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rosemary Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365281"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom & Viv",
+                  "notes": null,
+                  "imdb_id": "tt0111454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Uma Thurman",
+                  "notes": null,
+                  "imdb_id": "nm0000235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Madness of King George",
+                  "notes": null,
+                  "imdb_id": "tt0110428"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Adam",
+                  "notes": null,
+                  "imdb_id": "nm0010553"
+               },
+               {
+                  "name": "Carolyn Scott",
+                  "notes": null,
+                  "imdb_id": "nm0778942"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Santo Loquasto",
+                  "notes": null,
+                  "imdb_id": "nm0520288"
+               },
+               {
+                  "name": "Susan Bode",
+                  "notes": null,
+                  "imdb_id": "nm0090833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141437"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": null,
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interview with the Vampire: The Vampire Chronicles",
+                  "notes": null,
+                  "imdb_id": "tt0110148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": null,
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": null,
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Legends of the Fall",
+                  "notes": null,
+                  "imdb_id": "tt0110322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lilly Kilvert",
+                  "notes": null,
+                  "imdb_id": "nm0453344"
+               },
+               {
+                  "name": "Dorree Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177991"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Legends of the Fall",
+                  "notes": null,
+                  "imdb_id": "tt0110322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Toll",
+                  "notes": null,
+                  "imdb_id": "nm0001799"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Burgess",
+                  "notes": null,
+                  "imdb_id": "nm0121281"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Colors: Red",
+                  "notes": null,
+                  "imdb_id": "tt0111495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Piotr Sobocinski",
+                  "notes": null,
+                  "imdb_id": "nm0811834"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wyatt Earp",
+                  "notes": null,
+                  "imdb_id": "tt0111756"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Roizman",
+                  "notes": null,
+                  "imdb_id": "nm0005845"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Adventures of Priscilla, Queen of the Desert",
+                  "notes": null,
+                  "imdb_id": "tt0109045"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lizzy Gardiner",
+                  "notes": null,
+                  "imdb_id": "nm0306773"
+               },
+               {
+                  "name": "Tim Chappel",
+                  "notes": null,
+                  "imdb_id": "nm0152579"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Kurland",
+                  "notes": null,
+                  "imdb_id": "nm0475794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0110367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maverick",
+                  "notes": null,
+                  "imdb_id": "tt0110478"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "April Ferry",
+                  "notes": null,
+                  "imdb_id": "nm0275067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Queen Margot",
+                  "notes": null,
+                  "imdb_id": "tt0110963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moidele Bickel",
+                  "notes": null,
+                  "imdb_id": "nm0081001"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Robert Zemeckis",
+                  "notes": null,
+                  "imdb_id": "nm0000709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Krzysztof Kieslowski",
+                  "notes": null,
+                  "imdb_id": "nm0001425"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Three Colors: Red",
+                  "notes": null,
+                  "imdb_id": "tt0111495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quentin Tarantino",
+                  "notes": null,
+                  "imdb_id": "nm0000233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Redford",
+                  "notes": null,
+                  "imdb_id": "nm0000602"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quiz Show",
+                  "notes": null,
+                  "imdb_id": "tt0110932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Maya Lin: A Strong Clear Vision",
+                  "notes": null,
+                  "imdb_id": "tt0110480"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freida Lee Mock",
+                  "notes": null,
+                  "imdb_id": "nm0595131"
+               },
+               {
+                  "name": "Terry Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761739"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Great Day in Harlem",
+                  "notes": null,
+                  "imdb_id": "tt0109934"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Bach",
+                  "notes": null,
+                  "imdb_id": "nm0045321"
+               }
+            ]
+         },
+         {
+            "notes": "For episode D-Day Remembered (1994)",
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Experience",
+                  "notes": null,
+                  "imdb_id": "tt0094416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Complaints of a Dutiful Daughter",
+                  "notes": null,
+                  "imdb_id": "tt0109465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Deborah Hoffmann",
+                  "notes": null,
+                  "imdb_id": "nm0389161"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Freedom on My Mind",
+                  "notes": null,
+                  "imdb_id": "tt0109839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Connie Field",
+                  "notes": null,
+                  "imdb_id": "nm0275908"
+               },
+               {
+                  "name": "Marilyn Mulford",
+                  "notes": null,
+                  "imdb_id": "nm0611796"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Time for Justice",
+                  "notes": null,
+                  "imdb_id": "tt0111436"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "89 mm od Europy",
+                  "notes": null,
+                  "imdb_id": "tt0109023"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcel Lozinski",
+                  "notes": null,
+                  "imdb_id": "nm0523656"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blues Highway",
+                  "notes": null,
+                  "imdb_id": "tt0109308"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vince DiPersio",
+                  "notes": null,
+                  "imdb_id": "nm0228122"
+               },
+               {
+                  "name": "Bill Guttentag",
+                  "notes": null,
+                  "imdb_id": "nm0349702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "School of the Americas Assassins",
+                  "notes": null,
+                  "imdb_id": "tt0111088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richter",
+                  "notes": null,
+                  "imdb_id": "nm0724905"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Straight from the Heart",
+                  "notes": null,
+                  "imdb_id": "tt0111295"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dee Mosbacher",
+                  "notes": null,
+                  "imdb_id": "nm0608224"
+               },
+               {
+                  "name": "Frances Reid",
+                  "notes": null,
+                  "imdb_id": "nm0717266"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Speed",
+                  "notes": null,
+                  "imdb_id": "tt0111257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Hunter Flick",
+                  "notes": null,
+                  "imdb_id": "nm0282276"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clear and Present Danger",
+                  "notes": null,
+                  "imdb_id": "tt0109444"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Stambler",
+                  "notes": null,
+                  "imdb_id": "nm0821801"
+               },
+               {
+                  "name": "John Leveque",
+                  "notes": null,
+                  "imdb_id": "nm0505311"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gloria S. Borders",
+                  "notes": null,
+                  "imdb_id": "nm0096187"
+               },
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "George Murphy",
+                  "notes": null,
+                  "imdb_id": "nm0614279"
+               },
+               {
+                  "name": "Stephen Rosenbaum",
+                  "notes": null,
+                  "imdb_id": "nm0742155"
+               },
+               {
+                  "name": "Allen Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355292"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mask",
+                  "notes": null,
+                  "imdb_id": "tt0110475"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Squires",
+                  "notes": null,
+                  "imdb_id": "nm0820140"
+               },
+               {
+                  "name": "Steve 'Spaz' Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931727"
+               },
+               {
+                  "name": "Tom Bertino",
+                  "notes": null,
+                  "imdb_id": "nm0078129"
+               },
+               {
+                  "name": "Jon Farhat",
+                  "notes": null,
+                  "imdb_id": "nm0267331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Lies",
+                  "notes": null,
+                  "imdb_id": "tt0111503"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Bruno",
+                  "notes": null,
+                  "imdb_id": "nm0116497"
+               },
+               {
+                  "name": "Thomas L. Fisher",
+                  "notes": null,
+                  "imdb_id": "nm0279812"
+               },
+               {
+                  "name": "Jacques Stroweis",
+                  "notes": null,
+                  "imdb_id": "nm0835215"
+               },
+               {
+                  "name": "Pat McClung",
+                  "notes": null,
+                  "imdb_id": "nm0565957"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Schmidt",
+                  "notes": null,
+                  "imdb_id": "nm0772831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hoop Dreams",
+                  "notes": null,
+                  "imdb_id": "tt0110057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederick Marx",
+                  "notes": null,
+                  "imdb_id": "nm0555610"
+               },
+               {
+                  "name": "Steve James",
+                  "notes": null,
+                  "imdb_id": "nm0416945"
+               },
+               {
+                  "name": "William Haugse",
+                  "notes": null,
+                  "imdb_id": "nm0369368"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sally Menke",
+                  "notes": null,
+                  "imdb_id": "nm0579673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Speed",
+                  "notes": null,
+                  "imdb_id": "tt0111257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942510"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Francis-Bruce",
+                  "notes": null,
+                  "imdb_id": "nm0290358"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Russia.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Burnt by the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0111579"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Macedonia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Before the Rain",
+                  "notes": null,
+                  "imdb_id": "tt0110882"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Taiwan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eat Drink Man Woman",
+                  "notes": null,
+                  "imdb_id": "tt0111797"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Belgium.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Farinelli",
+                  "notes": null,
+                  "imdb_id": "tt0109771"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Cuba.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strawberry & Chocolate",
+                  "notes": null,
+                  "imdb_id": "tt0106966"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ed Wood",
+                  "notes": null,
+                  "imdb_id": "tt0109707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Yolanda Toussieng",
+                  "notes": null,
+                  "imdb_id": "nm0869758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel C. Striepeke",
+                  "notes": null,
+                  "imdb_id": "nm0834475"
+               },
+               {
+                  "name": "Hallie D'Amore",
+                  "notes": null,
+                  "imdb_id": "nm0195180"
+               },
+               {
+                  "name": "Judith A. Cory",
+                  "notes": null,
+                  "imdb_id": "nm0181677"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Shelley's Frankenstein",
+                  "notes": null,
+                  "imdb_id": "tt0109836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662173"
+               },
+               {
+                  "name": "Paul Engelen",
+                  "notes": null,
+                  "imdb_id": "nm0257204"
+               },
+               {
+                  "name": "Carol Hemming",
+                  "notes": null,
+                  "imdb_id": "nm0376080"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lion King",
+                  "notes": null,
+                  "imdb_id": "tt0110357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Silvestri",
+                  "notes": null,
+                  "imdb_id": "nm0006293"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interview with the Vampire: The Vampire Chronicles",
+                  "notes": null,
+                  "imdb_id": "tt0110148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Goldenthal",
+                  "notes": null,
+                  "imdb_id": "nm0006106"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Women",
+                  "notes": null,
+                  "imdb_id": "tt0110367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Can You Feel the Love Tonight\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lion King",
+                  "notes": null,
+                  "imdb_id": "tt0110357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elton John",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005056"
+               },
+               {
+                  "name": "Tim Rice",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005358"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Look What Love Has Done\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Junior",
+                  "notes": null,
+                  "imdb_id": "tt0110216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carole Bayer Sager",
+                  "notes": null,
+                  "imdb_id": "nm0004728"
+               },
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               },
+               {
+                  "name": "James Ingram",
+                  "notes": null,
+                  "imdb_id": "nm0408986"
+               },
+               {
+                  "name": "Patty Smyth",
+                  "notes": null,
+                  "imdb_id": "nm0810796"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Hakuna Matata\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lion King",
+                  "notes": null,
+                  "imdb_id": "tt0110357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elton John",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005056"
+               },
+               {
+                  "name": "Tim Rice",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005358"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Circle of Life\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lion King",
+                  "notes": null,
+                  "imdb_id": "tt0110357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elton John",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005056"
+               },
+               {
+                  "name": "Tim Rice",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005358"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Make Up Your Mind\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Paper",
+                  "notes": null,
+                  "imdb_id": "tt0110771"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendy Finerman",
+                  "notes": null,
+                  "imdb_id": "nm0277704"
+               },
+               {
+                  "name": "Steve Starkey",
+                  "notes": null,
+                  "imdb_id": "nm0823330"
+               },
+               {
+                  "name": "Steve Tisch",
+                  "notes": null,
+                  "imdb_id": "nm0005494"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Four Weddings and a Funeral",
+                  "notes": null,
+                  "imdb_id": "tt0109831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Duncan Kenworthy",
+                  "notes": null,
+                  "imdb_id": "nm0448953"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Bender",
+                  "notes": null,
+                  "imdb_id": "nm0004744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quiz Show",
+                  "notes": null,
+                  "imdb_id": "tt0110932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Jacobs",
+                  "notes": null,
+                  "imdb_id": "nm0414551"
+               },
+               {
+                  "name": "Julian Krainin",
+                  "notes": null,
+                  "imdb_id": "nm0469313"
+               },
+               {
+                  "name": "Michael Nozik",
+                  "notes": null,
+                  "imdb_id": "nm0637602"
+               },
+               {
+                  "name": "Robert Redford",
+                  "notes": null,
+                  "imdb_id": "nm0000602"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Niki Marvin",
+                  "notes": null,
+                  "imdb_id": "nm0555550"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bob's Birthday",
+                  "notes": null,
+                  "imdb_id": "tt0106446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alison Snowden",
+                  "notes": null,
+                  "imdb_id": "nm0811345"
+               },
+               {
+                  "name": "David Fine",
+                  "notes": null,
+                  "imdb_id": "nm0277599"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Story",
+                  "notes": null,
+                  "imdb_id": "tt0109270"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Watts",
+                  "notes": null,
+                  "imdb_id": "nm0915243"
+               },
+               {
+                  "name": "David Stoten",
+                  "notes": null,
+                  "imdb_id": "nm0832770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Janitor",
+                  "notes": null,
+                  "imdb_id": "tt0110183"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vanessa Schwartz",
+                  "notes": null,
+                  "imdb_id": "nm0777474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Monk and the Fish",
+                  "notes": null,
+                  "imdb_id": "tt0110547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Dudok de Wit",
+                  "notes": null,
+                  "imdb_id": "nm0240196"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Triangle",
+                  "notes": null,
+                  "imdb_id": "tt0111489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erica Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": "Tied with Trevor (1994).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Franz Kafka's It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0106961"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Capaldi",
+                  "notes": null,
+                  "imdb_id": "nm0134922"
+               },
+               {
+                  "name": "Ruth Kenley-Letts",
+                  "notes": null,
+                  "imdb_id": "nm0447807"
+               }
+            ]
+         },
+         {
+            "notes": "Tied with Franz Kafka's It's a Wonderful Life (1993).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Trevor",
+                  "notes": null,
+                  "imdb_id": "tt0111486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peggy Rajski",
+                  "notes": null,
+                  "imdb_id": "nm0707475"
+               },
+               {
+                  "name": "Randy Stone",
+                  "notes": null,
+                  "imdb_id": "nm0832114"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kangaroo Court",
+                  "notes": null,
+                  "imdb_id": "tt0110239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sean Astin",
+                  "notes": null,
+                  "imdb_id": "nm0000276"
+               },
+               {
+                  "name": "Christine Astin",
+                  "notes": null,
+                  "imdb_id": "nm0040013"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Hope",
+                  "notes": null,
+                  "imdb_id": "tt0110726"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "JoBeth Williams",
+                  "notes": null,
+                  "imdb_id": "nm0001851"
+               },
+               {
+                  "name": "Michele McGuire",
+                  "notes": null,
+                  "imdb_id": "nm0570266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Syrup",
+                  "notes": null,
+                  "imdb_id": "tt0111338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Unwin",
+                  "notes": null,
+                  "imdb_id": "nm0881391"
+               },
+               {
+                  "name": "Nick Vivian",
+                  "notes": null,
+                  "imdb_id": "nm0900327"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Speed",
+                  "notes": null,
+                  "imdb_id": "tt0111257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Steve Maslow",
+                  "notes": null,
+                  "imdb_id": "nm0556541"
+               },
+               {
+                  "name": "Bob Beemer",
+                  "notes": null,
+                  "imdb_id": "nm0066446"
+               },
+               {
+                  "name": "David Macmillan",
+                  "notes": null,
+                  "imdb_id": "nm0533997"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clear and Present Danger",
+                  "notes": null,
+                  "imdb_id": "tt0109444"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Michael Herbick",
+                  "notes": null,
+                  "imdb_id": "nm0378655"
+               },
+               {
+                  "name": "Frank A. Monta\u00f1o",
+                  "notes": null,
+                  "imdb_id": "nm0599057"
+               },
+               {
+                  "name": "Art Rochester",
+                  "notes": null,
+                  "imdb_id": "nm0734053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Dennis S. Sands",
+                  "notes": null,
+                  "imdb_id": "nm0762304"
+               },
+               {
+                  "name": "William B. Kaplan",
+                  "notes": null,
+                  "imdb_id": "nm0438202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Legends of the Fall",
+                  "notes": null,
+                  "imdb_id": "tt0110322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557338"
+               },
+               {
+                  "name": "David E. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132372"
+               },
+               {
+                  "name": "Chris David",
+                  "notes": null,
+                  "imdb_id": "nm0202845"
+               },
+               {
+                  "name": "Douglas Ganton",
+                  "notes": null,
+                  "imdb_id": "nm0304618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert J. Litt",
+                  "notes": null,
+                  "imdb_id": "nm0514448"
+               },
+               {
+                  "name": "Elliot Tyson",
+                  "notes": null,
+                  "imdb_id": "nm0006525"
+               },
+               {
+                  "name": "Michael Herbick",
+                  "notes": null,
+                  "imdb_id": "nm0378655"
+               },
+               {
+                  "name": "Willie D. Burton",
+                  "notes": null,
+                  "imdb_id": "nm0123770"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Forrest Gump",
+                  "notes": null,
+                  "imdb_id": "tt0109830"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nobody's Fool",
+                  "notes": null,
+                  "imdb_id": "tt0110684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Benton",
+                  "notes": null,
+                  "imdb_id": "nm0000914"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quiz Show",
+                  "notes": null,
+                  "imdb_id": "tt0110932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Attanasio",
+                  "notes": null,
+                  "imdb_id": "nm0001921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Madness of King George",
+                  "notes": null,
+                  "imdb_id": "tt0110428"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Bennett",
+                  "notes": null,
+                  "imdb_id": "nm0003141"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shawshank Redemption",
+                  "notes": null,
+                  "imdb_id": "tt0111161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Darabont",
+                  "notes": null,
+                  "imdb_id": "nm0001104"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pulp Fiction",
+                  "notes": null,
+                  "imdb_id": "tt0110912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quentin Tarantino",
+                  "notes": null,
+                  "imdb_id": "nm0000233"
+               },
+               {
+                  "name": "Roger Avary",
+                  "notes": null,
+                  "imdb_id": "nm0000812"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bullets Over Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0109348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               },
+               {
+                  "name": "Douglas McGrath",
+                  "notes": null,
+                  "imdb_id": "nm0569790"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Four Weddings and a Funeral",
+                  "notes": null,
+                  "imdb_id": "tt0109831"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Curtis",
+                  "notes": null,
+                  "imdb_id": "nm0193485"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Heavenly Creatures",
+                  "notes": null,
+                  "imdb_id": "tt0110005"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               },
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Colors: Red",
+                  "notes": null,
+                  "imdb_id": "tt0111495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Krzysztof Piesiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0682830"
+               },
+               {
+                  "name": "Krzysztof Kieslowski",
+                  "notes": null,
+                  "imdb_id": "nm0001425"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,439 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Charles Laughton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leslie Howard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Muni"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diana Wynyard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "May Robson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cavalcade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Farewell to Arms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Ladies Meet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Charles Barton"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Charles Dorian"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Dewey Starkey"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Fred Fox"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Gordon Hollingshead"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Scott R. Beal"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "William Tummel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Alleborn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Jacobson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben Silvey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Killy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Shaw"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Waters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joseph A. McDonough"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Orville O. Dull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Percy Ikerd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sid Brod"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William J. Reiter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Farewell to Arms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reunion in Vienna"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sign of the Cross"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Lloyd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Capra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Cukor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cavalcade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "42nd Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Farewell to Arms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Am a Fugitive from a Chain Gang"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady for a Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "She Done Him Wrong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Smilin' Through"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "State Fair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Life of Henry VIII"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Three Little Pigs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Building a Building"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Merry Old Soul"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "So This Is Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Preferred List"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Mugg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Krakatoa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Menu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sea"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Farewell to Arms"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "42nd Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gold Diggers of 1933"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Am a Fugitive from a Chain Gang"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady for a Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "State Fair"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Way Passage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rasputin and the Empress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prizefighter and the Lady"
+            ]
+         }
+      ]
+   }
+]

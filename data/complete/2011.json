@@ -1,0 +1,2692 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Iain Canning",
+                  "notes": null,
+                  "imdb_id": "nm2096617"
+               },
+               {
+                  "name": "Emile Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792431"
+               },
+               {
+                  "name": "Gareth Unwin",
+                  "notes": null,
+                  "imdb_id": "nm1060902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Colson",
+                  "notes": null,
+                  "imdb_id": "nm1384503"
+               },
+               {
+                  "name": "Danny Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0000965"
+               },
+               {
+                  "name": "John Smithson",
+                  "notes": null,
+                  "imdb_id": "nm0810478"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Swan",
+                  "notes": null,
+                  "imdb_id": "tt0947798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Medavoy",
+                  "notes": null,
+                  "imdb_id": "nm0005219"
+               },
+               {
+                  "name": "Brian Oliver",
+                  "notes": null,
+                  "imdb_id": "nm1003922"
+               },
+               {
+                  "name": "Scott Franklin",
+                  "notes": null,
+                  "imdb_id": "nm0291542"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Nolan",
+                  "notes": null,
+                  "imdb_id": "nm0634240"
+               },
+               {
+                  "name": "Emma Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858799"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Hoberman",
+                  "notes": null,
+                  "imdb_id": "nm0387674"
+               },
+               {
+                  "name": "Todd Lieberman",
+                  "notes": null,
+                  "imdb_id": "nm0509414"
+               },
+               {
+                  "name": "Mark Wahlberg",
+                  "notes": null,
+                  "imdb_id": "nm0000242"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Kids Are All Right",
+                  "notes": null,
+                  "imdb_id": "tt0842926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Gilbert",
+                  "notes": null,
+                  "imdb_id": "nm1344784"
+               },
+               {
+                  "name": "Jeffrey Kusama-Hinte",
+                  "notes": null,
+                  "imdb_id": "nm0506664"
+               },
+               {
+                  "name": "Celine Rattray",
+                  "notes": null,
+                  "imdb_id": "nm1488027"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               },
+               {
+                  "name": "Dana Brunetti",
+                  "notes": null,
+                  "imdb_id": "nm0116232"
+               },
+               {
+                  "name": "Michael De Luca",
+                  "notes": null,
+                  "imdb_id": "nm0006894"
+               },
+               {
+                  "name": "Ce\u00e1n Chaffin",
+                  "notes": null,
+                  "imdb_id": "nm0149556"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toy Story 3",
+                  "notes": null,
+                  "imdb_id": "tt0435761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darla K. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0026565"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               },
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Winter's Bone",
+                  "notes": null,
+                  "imdb_id": "tt1399683"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne Rosellini",
+                  "notes": null,
+                  "imdb_id": "nm1367893"
+               },
+               {
+                  "name": "Alix Madigan",
+                  "notes": null,
+                  "imdb_id": "nm0534893"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Colin Firth",
+                  "notes": null,
+                  "imdb_id": "nm0000147"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Franco",
+                  "notes": null,
+                  "imdb_id": "nm0290556"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Javier Bardem",
+                  "notes": null,
+                  "imdb_id": "nm0000849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Biutiful",
+                  "notes": null,
+                  "imdb_id": "tt1164999"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeff Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0000313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jesse Eisenberg",
+                  "notes": null,
+                  "imdb_id": "nm0251986"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Natalie Portman",
+                  "notes": null,
+                  "imdb_id": "nm0000204"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Black Swan",
+                  "notes": null,
+                  "imdb_id": "tt0947798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annette Bening",
+                  "notes": null,
+                  "imdb_id": "nm0000906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Kids Are All Right",
+                  "notes": null,
+                  "imdb_id": "tt0842926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jennifer Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm2225369"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Winter's Bone",
+                  "notes": null,
+                  "imdb_id": "tt1399683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michelle Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Blue Valentine",
+                  "notes": null,
+                  "imdb_id": "tt1120985"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicole Kidman",
+                  "notes": null,
+                  "imdb_id": "nm0000173"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rabbit Hole",
+                  "notes": null,
+                  "imdb_id": "tt0935075"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Christian Bale",
+                  "notes": null,
+                  "imdb_id": "nm0000288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Geoffrey Rush",
+                  "notes": null,
+                  "imdb_id": "nm0001691"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeremy Renner",
+                  "notes": null,
+                  "imdb_id": "nm0719637"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Town",
+                  "notes": null,
+                  "imdb_id": "tt0840361"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Hawkes",
+                  "notes": null,
+                  "imdb_id": "nm0370035"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Winter's Bone",
+                  "notes": null,
+                  "imdb_id": "tt1399683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mark Ruffalo",
+                  "notes": null,
+                  "imdb_id": "nm0749263"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Kids Are All Right",
+                  "notes": null,
+                  "imdb_id": "tt0842926"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Melissa Leo",
+                  "notes": null,
+                  "imdb_id": "nm0502425"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amy Adams",
+                  "notes": null,
+                  "imdb_id": "nm0010736"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hailee Steinfeld",
+                  "notes": null,
+                  "imdb_id": "nm2794962"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Helena Bonham Carter",
+                  "notes": null,
+                  "imdb_id": "nm0000307"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jacki Weaver",
+                  "notes": null,
+                  "imdb_id": "nm0915865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Animal Kingdom",
+                  "notes": null,
+                  "imdb_id": "tt1313092"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tom Hooper",
+                  "notes": null,
+                  "imdb_id": "nm0393799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Darren Aronofsky",
+                  "notes": null,
+                  "imdb_id": "nm0004716"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Black Swan",
+                  "notes": null,
+                  "imdb_id": "tt0947798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Fincher",
+                  "notes": null,
+                  "imdb_id": "nm0000399"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David O. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751102"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Seidler",
+                  "notes": null,
+                  "imdb_id": "nm0782436"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Another Year",
+                  "notes": null,
+                  "imdb_id": "tt1431181"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Nolan",
+                  "notes": null,
+                  "imdb_id": "nm0634240"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Silver",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0798788"
+               },
+               {
+                  "name": "Paul Tamasy",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0848496"
+               },
+               {
+                  "name": "Eric Johnson",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm2053216"
+               },
+               {
+                  "name": "Keith Dorrington",
+                  "notes": "(story)",
+                  "imdb_id": "nm2565612"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Kids Are All Right",
+                  "notes": null,
+                  "imdb_id": "tt0842926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lisa Cholodenko",
+                  "notes": null,
+                  "imdb_id": "nm0158966"
+               },
+               {
+                  "name": "Stuart Blumberg",
+                  "notes": null,
+                  "imdb_id": "nm0089742"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Sorkin",
+                  "notes": null,
+                  "imdb_id": "nm0815070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0000965"
+               },
+               {
+                  "name": "Simon Beaufoy",
+                  "notes": null,
+                  "imdb_id": "nm0064479"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toy Story 3",
+                  "notes": null,
+                  "imdb_id": "tt0435761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Arndt",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm1578335"
+               },
+               {
+                  "name": "John Lasseter",
+                  "notes": "(story)",
+                  "imdb_id": "nm0005124"
+               },
+               {
+                  "name": "Andrew Stanton",
+                  "notes": "(story)",
+                  "imdb_id": "nm0004056"
+               },
+               {
+                  "name": "Lee Unkrich",
+                  "notes": "(story)",
+                  "imdb_id": "nm0881279"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               },
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Winter's Bone",
+                  "notes": null,
+                  "imdb_id": "tt1399683"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Debra Granik",
+                  "notes": null,
+                  "imdb_id": "nm0335138"
+               },
+               {
+                  "name": "Anne Rosellini",
+                  "notes": null,
+                  "imdb_id": "nm1367893"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wally Pfister",
+                  "notes": null,
+                  "imdb_id": "nm0002892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Swan",
+                  "notes": null,
+                  "imdb_id": "tt0947798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew Libatique",
+                  "notes": null,
+                  "imdb_id": "nm0508732"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny Cohen",
+                  "notes": null,
+                  "imdb_id": "nm0169299"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeff Cronenweth",
+                  "notes": null,
+                  "imdb_id": "nm0188729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alice in Wonderland",
+                  "notes": null,
+                  "imdb_id": "tt1014759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Stromberg",
+                  "notes": "(production designer)",
+                  "imdb_id": "nm0834902"
+               },
+               {
+                  "name": "Karen O'Hara",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0641286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Deathly Hallows: Part 1",
+                  "notes": null,
+                  "imdb_id": "tt0926084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Craig",
+                  "notes": "(production designer)",
+                  "imdb_id": "nm0186023"
+               },
+               {
+                  "name": "Stephenie McMillan",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0573328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guy Hendrix Dyas",
+                  "notes": "(production designer)",
+                  "imdb_id": "nm0245596"
+               },
+               {
+                  "name": "Larry Dias",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0224878"
+               },
+               {
+                  "name": "Douglas A. Mowat",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0610245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eve Stewart",
+                  "notes": "(production designer)",
+                  "imdb_id": "nm0829378"
+               },
+               {
+                  "name": "Judy Farr",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0268035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jess Gonchor",
+                  "notes": "(production designer)",
+                  "imdb_id": "nm0327211"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kirk Baxter",
+                  "notes": null,
+                  "imdb_id": "nm0062775"
+               },
+               {
+                  "name": "Angus Wall",
+                  "notes": null,
+                  "imdb_id": "nm0908370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Harris",
+                  "notes": null,
+                  "imdb_id": "nm1154184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Swan",
+                  "notes": null,
+                  "imdb_id": "tt0947798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Weisblum",
+                  "notes": null,
+                  "imdb_id": "nm0918733"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fighter",
+                  "notes": null,
+                  "imdb_id": "tt0964517"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pamela Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552862"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tariq Anwar",
+                  "notes": null,
+                  "imdb_id": "nm0031697"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alice in Wonderland",
+                  "notes": null,
+                  "imdb_id": "tt1014759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Am Love",
+                  "notes": null,
+                  "imdb_id": "tt1226236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Antonella Cannarozzi",
+                  "notes": null,
+                  "imdb_id": "nm0134050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jenny Beavan",
+                  "notes": null,
+                  "imdb_id": "nm0064746"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tempest",
+                  "notes": null,
+                  "imdb_id": "tt1274300"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary Zophres",
+                  "notes": null,
+                  "imdb_id": "nm0957861"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"We Belong Together\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Toy Story 3",
+                  "notes": null,
+                  "imdb_id": "tt0435761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"If I Rise\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A.R. Rahman",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006246"
+               },
+               {
+                  "name": "Dido",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0225824"
+               },
+               {
+                  "name": "Roland 'Rollo' Armstrong",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm1926821"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Coming Home\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Country Strong",
+                  "notes": null,
+                  "imdb_id": "tt1555064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Douglas",
+                  "notes": null,
+                  "imdb_id": "nm2762412"
+               },
+               {
+                  "name": "Troy Verges",
+                  "notes": null,
+                  "imdb_id": "nm1525422"
+               },
+               {
+                  "name": "Hillary Lindsey",
+                  "notes": null,
+                  "imdb_id": "nm4269992"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I See the Light\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tangled",
+                  "notes": null,
+                  "imdb_id": "tt0398286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Glenn Slater",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm1637698"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Trent Reznor",
+                  "notes": null,
+                  "imdb_id": "nm0722153"
+               },
+               {
+                  "name": "Atticus Ross",
+                  "notes": null,
+                  "imdb_id": "nm1589604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "127 Hours",
+                  "notes": null,
+                  "imdb_id": "tt1542344"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A.R. Rahman",
+                  "notes": null,
+                  "imdb_id": "nm0006246"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Train Your Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0892769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694173"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Desplat",
+                  "notes": null,
+                  "imdb_id": "nm0006035"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lora Hirschberg",
+                  "notes": null,
+                  "imdb_id": "nm0386567"
+               },
+               {
+                  "name": "Gary A. Rizzo",
+                  "notes": null,
+                  "imdb_id": "nm0729886"
+               },
+               {
+                  "name": "Ed Novick",
+                  "notes": null,
+                  "imdb_id": "nm0637085"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Salt",
+                  "notes": null,
+                  "imdb_id": "tt0944835"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey J. Haboush",
+                  "notes": null,
+                  "imdb_id": "nm0352300"
+               },
+               {
+                  "name": "William Sarokin",
+                  "notes": null,
+                  "imdb_id": "nm0765458"
+               },
+               {
+                  "name": "Scott Millan",
+                  "notes": null,
+                  "imdb_id": "nm0586793"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The King's Speech",
+                  "notes": null,
+                  "imdb_id": "tt1504320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Hamblin",
+                  "notes": null,
+                  "imdb_id": "nm0357413"
+               },
+               {
+                  "name": "Martin Jensen",
+                  "notes": null,
+                  "imdb_id": "nm1259646"
+               },
+               {
+                  "name": "John Midgley",
+                  "notes": null,
+                  "imdb_id": "nm0585611"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Social Network",
+                  "notes": null,
+                  "imdb_id": "tt1285016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ren Klyce",
+                  "notes": null,
+                  "imdb_id": "nm0460274"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Mark Weingarten",
+                  "notes": null,
+                  "imdb_id": "nm0918319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               },
+               {
+                  "name": "Craig Berkey",
+                  "notes": null,
+                  "imdb_id": "nm0075389"
+               },
+               {
+                  "name": "Greg Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650088"
+               },
+               {
+                  "name": "Peter F. Kurland",
+                  "notes": null,
+                  "imdb_id": "nm0004212"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard King",
+                  "notes": null,
+                  "imdb_id": "nm0455185"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "TRON: Legacy",
+                  "notes": null,
+                  "imdb_id": "tt1104001"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gwendolyn Yates Whittle",
+                  "notes": null,
+                  "imdb_id": "nm0946705"
+               },
+               {
+                  "name": "Addison Teague",
+                  "notes": null,
+                  "imdb_id": "nm0853529"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toy Story 3",
+                  "notes": null,
+                  "imdb_id": "tt0435761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Myers",
+                  "notes": null,
+                  "imdb_id": "nm0616878"
+               },
+               {
+                  "name": "Michael Silvers",
+                  "notes": null,
+                  "imdb_id": "nm0799011"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt1403865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               },
+               {
+                  "name": "Craig Berkey",
+                  "notes": null,
+                  "imdb_id": "nm0075389"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unstoppable",
+                  "notes": null,
+                  "imdb_id": "tt0477080"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark P. Stoeckinger",
+                  "notes": null,
+                  "imdb_id": "nm0831057"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Inception",
+                  "notes": null,
+                  "imdb_id": "tt1375666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Corbould",
+                  "notes": null,
+                  "imdb_id": "nm0179269"
+               },
+               {
+                  "name": "Andrew Lockley",
+                  "notes": null,
+                  "imdb_id": "nm0516916"
+               },
+               {
+                  "name": "Pete Bebb",
+                  "notes": null,
+                  "imdb_id": "nm0064825"
+               },
+               {
+                  "name": "Paul J. Franklin",
+                  "notes": null,
+                  "imdb_id": "nm0291518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alice in Wonderland",
+                  "notes": null,
+                  "imdb_id": "tt1014759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "David Schaub",
+                  "notes": null,
+                  "imdb_id": "nm0770258"
+               },
+               {
+                  "name": "Carey Villegas",
+                  "notes": null,
+                  "imdb_id": "nm0898211"
+               },
+               {
+                  "name": "Sean Phillips",
+                  "notes": null,
+                  "imdb_id": "nm1237052"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Deathly Hallows: Part 1",
+                  "notes": null,
+                  "imdb_id": "tt0926084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121888"
+               },
+               {
+                  "name": "John Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724624"
+               },
+               {
+                  "name": "Christian Manz",
+                  "notes": null,
+                  "imdb_id": "nm1114640"
+               },
+               {
+                  "name": "Nicolas Aithadi",
+                  "notes": null,
+                  "imdb_id": "nm1212365"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hereafter",
+                  "notes": null,
+                  "imdb_id": "tt1212419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Owens",
+                  "notes": null,
+                  "imdb_id": "nm0654424"
+               },
+               {
+                  "name": "Bryan Grill",
+                  "notes": null,
+                  "imdb_id": "nm0341985"
+               },
+               {
+                  "name": "Stephan Trojansky",
+                  "notes": null,
+                  "imdb_id": "nm1176756"
+               },
+               {
+                  "name": "Joe Farrell",
+                  "notes": null,
+                  "imdb_id": "nm1062239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Iron Man 2",
+                  "notes": null,
+                  "imdb_id": "tt1228705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janek Sirrs",
+                  "notes": null,
+                  "imdb_id": "nm0802938"
+               },
+               {
+                  "name": "Ben Snow",
+                  "notes": null,
+                  "imdb_id": "nm0811240"
+               },
+               {
+                  "name": "Ged Wright",
+                  "notes": null,
+                  "imdb_id": "nm2261997"
+               },
+               {
+                  "name": "Daniel Sudick",
+                  "notes": null,
+                  "imdb_id": "nm0837203"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lost Thing",
+                  "notes": null,
+                  "imdb_id": "tt1669698"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shaun Tan",
+                  "notes": null,
+                  "imdb_id": "nm1316810"
+               },
+               {
+                  "name": "Andrew Ruhemann",
+                  "notes": null,
+                  "imdb_id": "nm0749509"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Day & Night",
+                  "notes": null,
+                  "imdb_id": "tt1620446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Teddy Newton",
+                  "notes": null,
+                  "imdb_id": "nm0628599"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Let's Pollute",
+                  "notes": null,
+                  "imdb_id": "tt1470652"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Geefwee Boedoe",
+                  "notes": null,
+                  "imdb_id": "nm0091161"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madagascar, a Journey Diary",
+                  "notes": null,
+                  "imdb_id": "tt1590114"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bastien Dubois",
+                  "notes": null,
+                  "imdb_id": "nm3777126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gruffalo",
+                  "notes": null,
+                  "imdb_id": "tt1461418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jakob Schuh",
+                  "notes": null,
+                  "imdb_id": "nm2104164"
+               },
+               {
+                  "name": "Max Lang",
+                  "notes": null,
+                  "imdb_id": "nm3495071"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "God of Love",
+                  "notes": null,
+                  "imdb_id": "tt1631323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Luke Matheny",
+                  "notes": null,
+                  "imdb_id": "nm1487468"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Na Wewe",
+                  "notes": null,
+                  "imdb_id": "tt1764508"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ivan Goldschmidt",
+                  "notes": null,
+                  "imdb_id": "nm0326006"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Confession",
+                  "notes": null,
+                  "imdb_id": "tt1687903"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tanel Toom",
+                  "notes": null,
+                  "imdb_id": "nm1823803"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crush",
+                  "notes": null,
+                  "imdb_id": "tt1509756"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Creagh",
+                  "notes": null,
+                  "imdb_id": "nm1739260"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wish 143",
+                  "notes": null,
+                  "imdb_id": "tt1518330"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ian Barnes",
+                  "notes": null,
+                  "imdb_id": "nm1357838"
+               },
+               {
+                  "name": "Samantha Waite",
+                  "notes": null,
+                  "imdb_id": "nm1639314"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Strangers No More",
+                  "notes": null,
+                  "imdb_id": "tt1754549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karen Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329139"
+               },
+               {
+                  "name": "Kirk Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Killing in the Name",
+                  "notes": null,
+                  "imdb_id": "tt1684897"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jed Rothstein",
+                  "notes": null,
+                  "imdb_id": "nm1160206"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Poster Girl",
+                  "notes": null,
+                  "imdb_id": "tt1505384"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mitchell Block",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0088753"
+               },
+               {
+                  "name": "Sara Nesson",
+                  "notes": "(director)",
+                  "imdb_id": "nm3257331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sun Come Up",
+                  "notes": null,
+                  "imdb_id": "tt1621975"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jennifer Redfearn",
+                  "notes": null,
+                  "imdb_id": "nm2503646"
+               },
+               {
+                  "name": "Tim Metzger",
+                  "notes": null,
+                  "imdb_id": "nm0582758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Warriors of Qiugang",
+                  "notes": null,
+                  "imdb_id": "tt1744887"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruby Yang",
+                  "notes": null,
+                  "imdb_id": "nm0002548"
+               },
+               {
+                  "name": "Thomas Lennon",
+                  "notes": null,
+                  "imdb_id": "nm0502072"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Inside Job",
+                  "notes": null,
+                  "imdb_id": "tt1645089"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm2480587"
+               },
+               {
+                  "name": "Audrey Marrs",
+                  "notes": null,
+                  "imdb_id": "nm2513737"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Exit Through the Gift Shop",
+                  "notes": null,
+                  "imdb_id": "tt1587707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Banksy",
+                  "notes": null,
+                  "imdb_id": "nm2612991"
+               },
+               {
+                  "name": "Jaimie D'Cruz",
+                  "notes": null,
+                  "imdb_id": "nm3261008"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "GasLand",
+                  "notes": null,
+                  "imdb_id": "tt1558250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Josh Fox",
+                  "notes": null,
+                  "imdb_id": "nm1068198"
+               },
+               {
+                  "name": "Trish Adlesic",
+                  "notes": null,
+                  "imdb_id": "nm0012267"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Restrepo",
+                  "notes": null,
+                  "imdb_id": "tt1559549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Hetherington",
+                  "notes": null,
+                  "imdb_id": "nm1770672"
+               },
+               {
+                  "name": "Sebastian Junger",
+                  "notes": null,
+                  "imdb_id": "nm0432631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Waste Land",
+                  "notes": null,
+                  "imdb_id": "tt1268204"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lucy Walker",
+                  "notes": null,
+                  "imdb_id": "nm1013671"
+               },
+               {
+                  "name": "Angus Aynsley",
+                  "notes": null,
+                  "imdb_id": "nm2376154"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "notes": "Denmark.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "In a Better World",
+                  "notes": null,
+                  "imdb_id": "tt1340107"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mexico.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Biutiful",
+                  "notes": null,
+                  "imdb_id": "tt1164999"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Greece.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dogtooth",
+                  "notes": null,
+                  "imdb_id": "tt1379182"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Canada.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Incendies",
+                  "notes": null,
+                  "imdb_id": "tt1255953"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Algeria.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Outside the Law",
+                  "notes": null,
+                  "imdb_id": "tt1229381"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Toy Story 3",
+                  "notes": null,
+                  "imdb_id": "tt0435761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Unkrich",
+                  "notes": null,
+                  "imdb_id": "nm0881279"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Train Your Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0892769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean DeBlois",
+                  "notes": null,
+                  "imdb_id": "nm0213450"
+               },
+               {
+                  "name": "Chris Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761498"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Illusionist",
+                  "notes": null,
+                  "imdb_id": "tt0775489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sylvain Chomet",
+                  "notes": null,
+                  "imdb_id": "nm0158984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Wolfman",
+                  "notes": null,
+                  "imdb_id": "tt0780653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "Dave Elsey",
+                  "notes": null,
+                  "imdb_id": "nm0255642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barney's Version",
+                  "notes": null,
+                  "imdb_id": "tt1423894"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adrien Morot",
+                  "notes": null,
+                  "imdb_id": "nm0606110"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Way Back",
+                  "notes": null,
+                  "imdb_id": "tt1023114"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edouard F. Henriques",
+                  "notes": null,
+                  "imdb_id": "nm0377667"
+               },
+               {
+                  "name": "Greg Funk",
+                  "notes": null,
+                  "imdb_id": "nm0298727"
+               },
+               {
+                  "name": "Yolanda Toussieng",
+                  "notes": null,
+                  "imdb_id": "nm0869758"
+               }
+            ]
+         }
+      ]
+   }
+]

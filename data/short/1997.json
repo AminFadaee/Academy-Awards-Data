@@ -1,0 +1,800 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Geoffrey Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Bob Thornton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Fiennes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Cruise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Harrelson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cuba Gooding Jr."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Armin Mueller-Stahl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Norton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Woods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William H. Macy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frances McDormand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brenda Blethyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Keaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emily Watson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kristin Scott Thomas"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Juliette Binoche"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Hershey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Allen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lauren Bacall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marianne Jean-Baptiste"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romeo + Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Birdcage"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fargo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fly Away Home"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Collins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angels and Insects"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Portrait of a Lady"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Minghella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joel Coen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Leigh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Milos Forman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scott Hicks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "When We Were Kings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mandela"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Suzanne Farrell: Elusive Muse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tell the Truth and Run: George Seldes and the American Press"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Line King: The Al Hirschfeld Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Breathing Lessons: The Life and Work of Mark O'Brien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Essay on Matisse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cosmic Voyage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Special Effects: Anything Can Happen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wild Bunch: An Album in Montage"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Ghost and the Darkness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daylight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eraser"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Independence Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "DragonHeart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twister"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fargo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jerry Maguire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kolya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Chef in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prisoner of the Mountains"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ridicule"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Other Side of Sunday"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Nutty Professor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghosts of Mississippi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek: First Contact"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Collins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleepers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Emma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James and the Giant Peach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The First Wives Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunchback of Notre Dame"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Preacher's Wife"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Evita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Fine Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Thing You Do!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mirror Has Two Faces"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up Close & Personal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fargo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jerry Maguire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Secrets & Lies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Quest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Canhead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La Salla"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wat's Pig"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dear Diary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "De tripas, coraz\u00f3n"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ernst & Lyset"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Linked"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Senza parole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Independence Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twister"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sling Blade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Crucible"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The English Patient"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trainspotting"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fargo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jerry Maguire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lone Star"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Secrets & Lies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shine"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,732 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Paul Muni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Powell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Walter Brennan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Akim Tamiroff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Basil Rathbone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mischa Auer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stuart Erwin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Luise Rainer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carole Lombard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladys George"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene Dunne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Shearer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gale Sondergaard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice Brady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beulah Bondi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bonita Granville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maria Ouspenskaya"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dodsworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Adverse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lloyd's of London"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romeo and Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Ziegfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magnificent Brute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winterset"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Sullivan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clem Beauchamp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eric Stacey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joseph M. Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William H. Cannon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Adverse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The General Died at Dawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gorgeous Hussy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Dance Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Ziegfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born to Dance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cain and Mabel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dancing Pirate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gold Diggers of 1937"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One in a Million"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Swing Time"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Capra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregory La Cava"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Z. Leonard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "W.S. Van Dyke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Adverse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Tale of Two Cities"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come and Get It"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lloyd's of London"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Ziegfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Theodora Goes Wild"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Swing Time"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born to Dance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pennies from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sing, Baby, Sing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Suzy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trail of the Lonesome Pine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Adverse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Charge of the Light Brigade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Garden of Allah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The General Died at Dawn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winterset"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Ziegfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Tale of Two Cities"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anthony Adverse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dodsworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Libeled Lady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Deeds Goes to Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romeo and Juliet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "San Francisco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Story of Louis Pasteur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Smart Girls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Country Cousin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Popeye the Sailor Meets Sindbad the Sailor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Old Mill Pond"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Give Me Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La Fiesta de Santa Barbara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Popular Science"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bored of Education"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moscow Moods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wanted -- A Master"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Public Pays"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Double or Nothing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dummy Ache"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "San Francisco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Banjo on My Knee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dodsworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "General Spanky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Deeds Goes to Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Girl from Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Charge of the Light Brigade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Texas Rangers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Smart Girls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Story of Louis Pasteur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fury"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "San Francisco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Ziegfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Smart Girls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Story of Louis Pasteur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "After the Thin Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dodsworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Deeds Goes to Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Man Godfrey"
+            ]
+         }
+      ]
+   }
+]

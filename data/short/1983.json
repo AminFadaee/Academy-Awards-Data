@@ -1,0 +1,776 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben Kingsley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Louis Gossett Jr."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Durning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Mason"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Lithgow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Preston"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Debra Winger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Andrews"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sissy Spacek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kim Stanley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lesley Ann Warren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Teri Garr"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blade Runner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La traviata"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor/Victoria"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie's Choice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La traviata"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie's Choice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "TRON"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor/Victoria"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Richard Attenborough"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sidney Lumet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sydney Pollack"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wolfgang Petersen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Fifth Estate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Portrait of Giselle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "After the Axe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben's Mill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Our Water"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "If You Love This Planet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gods of Metal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Klan: A Legacy of Hate in America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Live or Let Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Traveling Hopefully"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poltergeist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blade Runner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poltergeist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Officer and a Gentleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Volver a empezar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alsino and the Condor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coup de torchon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Private Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Flight of the Eagle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Quest for Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gandhi"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Officer and a Gentleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poltergeist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie's Choice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An Officer and a Gentleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Best Friends"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rocky III"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yes, Giorgio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Victor/Victoria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One from the Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Missing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Verdict"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tango"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Cognito"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snowman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Shocking Accident"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ballet Robotique"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Split Cherry Tree"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sredni Vashtar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silence"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "TRON"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Missing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie's Choice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Verdict"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor/Victoria"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gandhi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Officer and a Gentleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "E.T. the Extra-Terrestrial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tootsie"
+            ]
+         }
+      ]
+   }
+]

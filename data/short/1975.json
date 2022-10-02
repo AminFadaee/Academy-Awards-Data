@@ -1,0 +1,725 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Art Carney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Finney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fred Astaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Strasberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael V. Gazzo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diahann Carroll"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Faye Dunaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gena Rowlands"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Valerie Perrine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ingrid Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Ladd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madeline Kahn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Talia Shire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Valentina Cortese"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather Part II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Earthquake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Island at the Top of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Earthquake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lenny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murder on the Orient Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Gatsby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Daisy Miller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murder on the Orient Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather Part II"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Francis Ford Coppola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bob Fosse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fran\u00e7ois Truffaut"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Cassavetes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roman Polanski"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hearts and Minds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Antonia: A Portrait of the Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The 81st Blow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Challenge... A Tribute to Modern Art"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wild and the Brave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Don't"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "City Out of Wilderness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Exploratorium"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Muir's High Sierra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Naked Yoga"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blazing Saddles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Earthquake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Longest Yard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "I Remember"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cat's Play"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lacombe, Lucien"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Deluge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Truce"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather Part II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murder on the Orient Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shanks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Benji"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blazing Saddles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gold"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Prince"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Gatsby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Phantom of the Paradise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Prince"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather Part II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lenny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conversation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Closed Mondays"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hunger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Family That Dwelt Apart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Voyage to Next"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winnie the Pooh and Tigger Too"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One-Eyed Men Are Kings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Climb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Planet Ocean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Concert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Violin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Earthquake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conversation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Towering Inferno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Frankenstein"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chinatown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice Doesn't Live Here Anymore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Day for Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry and Tonto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conversation"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Adapted From Other Material",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather Part II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lenny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murder on the Orient Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Apprenticeship of Duddy Kravitz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Frankenstein"
+            ]
+         }
+      ]
+   }
+]

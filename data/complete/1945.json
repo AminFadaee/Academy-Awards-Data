@@ -1,0 +1,3410 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bing Crosby",
+                  "notes": null,
+                  "imdb_id": "nm0001078"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alexander Knox",
+                  "notes": null,
+                  "imdb_id": "nm0461594"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ]
+         },
+         {
+            "notes": "Fitzgerald is the only actor to have received Leading and Supporting Actor nominations for the same performance. Voting rules were altered shortly after this occurred to prevent future such instances.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barry Fitzgerald",
+                  "notes": null,
+                  "imdb_id": "nm0280178"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cary Grant",
+                  "notes": null,
+                  "imdb_id": "nm0000026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "None But the Lonely Heart",
+                  "notes": null,
+                  "imdb_id": "tt0037135"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Boyer",
+                  "notes": null,
+                  "imdb_id": "nm0000964"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Fitzgerald",
+                  "notes": null,
+                  "imdb_id": "nm0280178"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Claude Rains",
+                  "notes": null,
+                  "imdb_id": "nm0001647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mr. Skeffington",
+                  "notes": null,
+                  "imdb_id": "tt0037094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clifton Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916067"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laura",
+                  "notes": null,
+                  "imdb_id": "tt0037008"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hume Cronyn",
+                  "notes": null,
+                  "imdb_id": "nm0002025"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Seventh Cross",
+                  "notes": null,
+                  "imdb_id": "tt0037263"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monty Woolley",
+                  "notes": null,
+                  "imdb_id": "nm0941253"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ingrid Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0000006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Stanwyck",
+                  "notes": null,
+                  "imdb_id": "nm0001766"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mr. Skeffington",
+                  "notes": null,
+                  "imdb_id": "tt0037094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Claudette Colbert",
+                  "notes": null,
+                  "imdb_id": "nm0001055"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greer Garson",
+                  "notes": null,
+                  "imdb_id": "nm0002093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mrs. Parkington",
+                  "notes": null,
+                  "imdb_id": "tt0037096"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ethel Barrymore",
+                  "notes": null,
+                  "imdb_id": "nm0000856"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "None But the Lonely Heart",
+                  "notes": null,
+                  "imdb_id": "tt0037135"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Agnes Moorehead",
+                  "notes": null,
+                  "imdb_id": "nm0001547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mrs. Parkington",
+                  "notes": null,
+                  "imdb_id": "tt0037096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aline MacMahon",
+                  "notes": null,
+                  "imdb_id": "nm0533956"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dragon Seed",
+                  "notes": null,
+                  "imdb_id": "tt0036777"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Angela Lansbury",
+                  "notes": null,
+                  "imdb_id": "nm0001450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jennifer Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "William Ferrari",
+                  "notes": null,
+                  "imdb_id": "nm0274135"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Paul Huldschinsky",
+                  "notes": null,
+                  "imdb_id": "nm0401344"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Address Unknown",
+                  "notes": null,
+                  "imdb_id": "tt0036581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Banks",
+                  "notes": null,
+                  "imdb_id": "nm0052206"
+               },
+               {
+                  "name": "Walter Holscher",
+                  "notes": null,
+                  "imdb_id": "nm0392269"
+               },
+               {
+                  "name": "Joseph Kish",
+                  "notes": null,
+                  "imdb_id": "nm0457184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casanova Brown",
+                  "notes": null,
+                  "imdb_id": "tt0036699"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Perry Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm0272572"
+               },
+               {
+                  "name": "Julia Heron",
+                  "notes": null,
+                  "imdb_id": "nm0380243"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura",
+                  "notes": null,
+                  "imdb_id": "tt0037008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "Leland Fuller",
+                  "notes": null,
+                  "imdb_id": "nm0298285"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "No Time for Love",
+                  "notes": null,
+                  "imdb_id": "tt0036208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Robert Usher",
+                  "notes": null,
+                  "imdb_id": "nm0882336"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark-Lee Kirk",
+                  "notes": null,
+                  "imdb_id": "nm0456521"
+               },
+               {
+                  "name": "Victor A. Gangelin",
+                  "notes": null,
+                  "imdb_id": "nm0304322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Step Lively",
+                  "notes": null,
+                  "imdb_id": "tt0037313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert S. D'Agostino",
+                  "notes": null,
+                  "imdb_id": "nm0194875"
+               },
+               {
+                  "name": "Carroll Clark",
+                  "notes": null,
+                  "imdb_id": "nm0163754"
+               },
+               {
+                  "name": "Darrell Silvera",
+                  "notes": null,
+                  "imdb_id": "nm0798822"
+               },
+               {
+                  "name": "Claude E. Carpenter",
+                  "notes": null,
+                  "imdb_id": "nm0139304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Mark Twain",
+                  "notes": null,
+                  "imdb_id": "tt0036582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hughes",
+                  "notes": null,
+                  "imdb_id": "nm0002770"
+               },
+               {
+                  "name": "Fred M. MacLean",
+                  "notes": null,
+                  "imdb_id": "nm0533771"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wiard Ihnen",
+                  "notes": null,
+                  "imdb_id": "nm0407311"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cover Girl",
+                  "notes": null,
+                  "imdb_id": "tt0036723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Banks",
+                  "notes": null,
+                  "imdb_id": "nm0052206"
+               },
+               {
+                  "name": "Cary Odell",
+                  "notes": null,
+                  "imdb_id": "nm0643970"
+               },
+               {
+                  "name": "Fay Babcock",
+                  "notes": null,
+                  "imdb_id": "nm0044833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kismet",
+                  "notes": null,
+                  "imdb_id": "tt0036984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Daniel B. Cathcart",
+                  "notes": null,
+                  "imdb_id": "nm0146100"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Richard Pefferle",
+                  "notes": null,
+                  "imdb_id": "nm0670385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady in the Dark",
+                  "notes": null,
+                  "imdb_id": "tt0037000"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Raoul Pene Du Bois",
+                  "notes": null,
+                  "imdb_id": "nm0238845"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Climax",
+                  "notes": null,
+                  "imdb_id": "tt0036715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John B. Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329129"
+               },
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "Russell A. Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310199"
+               },
+               {
+                  "name": "Ira Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916129"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Desert Song",
+                  "notes": null,
+                  "imdb_id": "tt0036755"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Novi",
+                  "notes": null,
+                  "imdb_id": "nm0637066"
+               },
+               {
+                  "name": "Jack McConaghy",
+                  "notes": null,
+                  "imdb_id": "nm0566210"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Princess and the Pirate",
+                  "notes": null,
+                  "imdb_id": "tt0037193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernst Fegt\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0270404"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Laura",
+                  "notes": null,
+                  "imdb_id": "tt0037008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph LaShelle",
+                  "notes": null,
+                  "imdb_id": "nm0005766"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John F. Seitz",
+                  "notes": null,
+                  "imdb_id": "nm0005870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dragon Seed",
+                  "notes": null,
+                  "imdb_id": "tt0036777"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sidney Wagner",
+                  "notes": null,
+                  "imdb_id": "nm0906109"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Ruttenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005853"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Lindon",
+                  "notes": null,
+                  "imdb_id": "nm0512068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lifeboat",
+                  "notes": null,
+                  "imdb_id": "tt0037017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen MacWilliams",
+                  "notes": null,
+                  "imdb_id": "nm0534404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Cortez",
+                  "notes": null,
+                  "imdb_id": "nm0005673"
+               },
+               {
+                  "name": "Lee Garmes",
+                  "notes": null,
+                  "imdb_id": "nm0005716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Uninvited",
+                  "notes": null,
+                  "imdb_id": "tt0037415"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The White Cliffs of Dover",
+                  "notes": null,
+                  "imdb_id": "tt0037462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thirty Seconds Over Tokyo",
+                  "notes": null,
+                  "imdb_id": "tt0037366"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               },
+               {
+                  "name": "Harold Rosson",
+                  "notes": null,
+                  "imdb_id": "nm0005849"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cover Girl",
+                  "notes": null,
+                  "imdb_id": "tt0036723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolph Mat\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0005789"
+               },
+               {
+                  "name": "Allen M. Davey",
+                  "notes": null,
+                  "imdb_id": "nm0202695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Home in Indiana",
+                  "notes": null,
+                  "imdb_id": "tt0036926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Cronjager",
+                  "notes": null,
+                  "imdb_id": "nm0005676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kismet",
+                  "notes": null,
+                  "imdb_id": "tt0036984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Rosher",
+                  "notes": null,
+                  "imdb_id": "nm0003546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady in the Dark",
+                  "notes": null,
+                  "imdb_id": "tt0037000"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet Me in St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0037059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Leo McCarey",
+                  "notes": null,
+                  "imdb_id": "nm0564970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alfred Hitchcock",
+                  "notes": null,
+                  "imdb_id": "nm0000033"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lifeboat",
+                  "notes": null,
+                  "imdb_id": "tt0037017"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry King",
+                  "notes": null,
+                  "imdb_id": "nm0454771"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Otto Preminger",
+                  "notes": null,
+                  "imdb_id": "nm0695937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laura",
+                  "notes": null,
+                  "imdb_id": "tt0037008"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Fighting Lady",
+                  "notes": null,
+                  "imdb_id": "tt0036823"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Resisting Enemy Interrogation",
+                  "notes": null,
+                  "imdb_id": "tt0037215"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "With the Marines at Tarawa",
+                  "notes": null,
+                  "imdb_id": "tt0037468"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Nominated as \"Arturo Toscanini\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hymn of the Nations",
+                  "notes": null,
+                  "imdb_id": "tt0036023"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "New Americans",
+                  "notes": null,
+                  "imdb_id": "tt0037125"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Thirty Seconds Over Tokyo",
+                  "notes": null,
+                  "imdb_id": "tt0037366"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Arnold Gillespie",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0318901"
+               },
+               {
+                  "name": "Donald Jahraus",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0415760"
+               },
+               {
+                  "name": "Warren Newcombe",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0627766"
+               },
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Days of Glory",
+                  "notes": null,
+                  "imdb_id": "tt0036748"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vernon L. Walker",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0908289"
+               },
+               {
+                  "name": "James G. Stewart",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0829468"
+               },
+               {
+                  "name": "Roy Granville",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0335763"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Secret Command",
+                  "notes": null,
+                  "imdb_id": "tt0037253"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Allen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm1084749"
+               },
+               {
+                  "name": "Ray Cory",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0181688"
+               },
+               {
+                  "name": "Robert Wright",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0942757"
+               },
+               {
+                  "name": "Russell Malmgren",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0540260"
+               },
+               {
+                  "name": "Harry Kusnick",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0476357"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Cosgrove",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0181832"
+               },
+               {
+                  "name": "Arthur Johns",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0424284"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Mark Twain",
+                  "notes": null,
+                  "imdb_id": "tt0036582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Detlefsen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0221897"
+               },
+               {
+                  "name": "John Crouse",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0189493"
+               },
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Story of Dr. Wassell",
+                  "notes": null,
+                  "imdb_id": "tt0037316"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               },
+               {
+                  "name": "George Dutton",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0244931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Sersen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0785731"
+               },
+               {
+                  "name": "Roger Heman Sr.",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0002703"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara McLean",
+                  "notes": null,
+                  "imdb_id": "nm0572492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "LeRoy Stone",
+                  "notes": null,
+                  "imdb_id": "nm0832008"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Janie",
+                  "notes": null,
+                  "imdb_id": "tt0036970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Marks",
+                  "notes": null,
+                  "imdb_id": "nm0548929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "None But the Lonely Heart",
+                  "notes": null,
+                  "imdb_id": "tt0037135"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roland Gross",
+                  "notes": null,
+                  "imdb_id": "nm0343481"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal C. Kern",
+                  "notes": null,
+                  "imdb_id": "nm0449456"
+               },
+               {
+                  "name": "James E. Newcom",
+                  "notes": null,
+                  "imdb_id": "nm0627727"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Swinging on a Star\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Johnny Burke",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0121741"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Rio de Janeiro\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brazil",
+                  "notes": null,
+                  "imdb_id": "tt0036670"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ary Barroso",
+                  "notes": "(music)",
+                  "imdb_id": "nm0057795"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Long Ago and Far Away\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cover Girl",
+                  "notes": null,
+                  "imdb_id": "tt0036723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Kern",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006153"
+               },
+               {
+                  "name": "Ira Gershwin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0314857"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I'll Walk Alone\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Follow the Boys",
+                  "notes": null,
+                  "imdb_id": "tt0036832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jule Styne",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006312"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Couldn't Sleep a Wink Last Night\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Higher and Higher",
+                  "notes": null,
+                  "imdb_id": "tt0036919"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy McHugh",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006192"
+               },
+               {
+                  "name": "Harold Adamson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0011488"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Sweet Dreams Sweetheart\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hollywood Canteen",
+                  "notes": null,
+                  "imdb_id": "tt0036922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "M.K. Jerome",
+                  "notes": "(music)",
+                  "imdb_id": "nm0422031"
+               },
+               {
+                  "name": "Ted Koehler",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0462752"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Silver Shadows and Golden Dreams\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady, Let's Dance",
+                  "notes": null,
+                  "imdb_id": "tt0037002"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lew Pollack",
+                  "notes": "(music)",
+                  "imdb_id": "nm0689397"
+               },
+               {
+                  "name": "Charles Newman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0628036"
+               }
+            ]
+         },
+         {
+            "notes": "for the song \"The Trolley Song\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet Me in St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0037059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Blane",
+                  "notes": null,
+                  "imdb_id": "nm0087433"
+               },
+               {
+                  "name": "Hugh Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552399"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Remember Me to Carolina\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minstrel Man",
+                  "notes": null,
+                  "imdb_id": "tt0037076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Revel",
+                  "notes": "(music)",
+                  "imdb_id": "nm0720779"
+               },
+               {
+                  "name": "Paul Francis Webster",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0916990"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Too Much in Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Song of the Open Road",
+                  "notes": null,
+                  "imdb_id": "tt0037297"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Kent",
+                  "notes": "(music)",
+                  "imdb_id": "nm0448876"
+               },
+               {
+                  "name": "Kim Gannon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0304469"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I'm Making Believe\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sweet and Low-Down",
+                  "notes": null,
+                  "imdb_id": "tt0037333"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James V. Monaco",
+                  "notes": "(music)",
+                  "imdb_id": "nm0597444"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Now I Know\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Up in Arms",
+                  "notes": null,
+                  "imdb_id": "tt0037420"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "Ted Koehler",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0462752"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Address Unknown",
+                  "notes": null,
+                  "imdb_id": "tt0036581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               },
+               {
+                  "name": "Ernst Toch",
+                  "notes": null,
+                  "imdb_id": "nm0006324"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casanova Brown",
+                  "notes": null,
+                  "imdb_id": "tt0036699"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486075"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Christmas Holiday",
+                  "notes": null,
+                  "imdb_id": "tt0036711"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans J. Salter",
+                  "notes": null,
+                  "imdb_id": "nm0006270"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It Happened Tomorrow",
+                  "notes": null,
+                  "imdb_id": "tt0036962"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Stolz",
+                  "notes": null,
+                  "imdb_id": "nm0006305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack London",
+                  "notes": null,
+                  "imdb_id": "tt0036051"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Rich",
+                  "notes": null,
+                  "imdb_id": "nm0723648"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kismet",
+                  "notes": null,
+                  "imdb_id": "tt0036984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Stothart",
+                  "notes": null,
+                  "imdb_id": "nm0006307"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "None But the Lonely Heart",
+                  "notes": null,
+                  "imdb_id": "tt0037135"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C. Bakaleinikoff",
+                  "notes": null,
+                  "imdb_id": "nm0005954"
+               },
+               {
+                  "name": "Hanns Eisler",
+                  "notes": null,
+                  "imdb_id": "nm0006058"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Summer Storm",
+                  "notes": null,
+                  "imdb_id": "tt0037325"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Hajos",
+                  "notes": null,
+                  "imdb_id": "nm0354531"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Mark Twain",
+                  "notes": null,
+                  "imdb_id": "tt0036582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bridge of San Luis Rey",
+                  "notes": null,
+                  "imdb_id": "tt0036672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fighting Seabees",
+                  "notes": null,
+                  "imdb_id": "tt0036824"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               },
+               {
+                  "name": "Roy Webb",
+                  "notes": null,
+                  "imdb_id": "nm0002202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hairy Ape",
+                  "notes": null,
+                  "imdb_id": "tt0036892"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Michelet",
+                  "notes": null,
+                  "imdb_id": "nm0584965"
+               },
+               {
+                  "name": "Edward Paul",
+                  "notes": null,
+                  "imdb_id": "nm0666814"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Princess and the Pirate",
+                  "notes": null,
+                  "imdb_id": "tt0037193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Woman of the Town",
+                  "notes": null,
+                  "imdb_id": "tt0037470"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Russian Girls",
+                  "notes": null,
+                  "imdb_id": "tt0037374"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "W. Franke Harling",
+                  "notes": null,
+                  "imdb_id": "nm0006123"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Up in Mabel's Room",
+                  "notes": null,
+                  "imdb_id": "tt0037421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Paul",
+                  "notes": null,
+                  "imdb_id": "nm0666814"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Voice in the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0037438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Michelet",
+                  "notes": null,
+                  "imdb_id": "nm0584965"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cover Girl",
+                  "notes": null,
+                  "imdb_id": "tt0036723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carmen Dragon",
+                  "notes": null,
+                  "imdb_id": "nm0236740"
+               },
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brazil",
+                  "notes": null,
+                  "imdb_id": "tt0036670"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Higher and Higher",
+                  "notes": null,
+                  "imdb_id": "tt0036919"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C. Bakaleinikoff",
+                  "notes": null,
+                  "imdb_id": "nm0005954"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hollywood Canteen",
+                  "notes": null,
+                  "imdb_id": "tt0036922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Irish Eyes Are Smiling",
+                  "notes": null,
+                  "imdb_id": "tt0036961"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Knickerbocker Holiday",
+                  "notes": null,
+                  "imdb_id": "tt0036988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Werner R. Heymann",
+                  "notes": null,
+                  "imdb_id": "nm0006128"
+               },
+               {
+                  "name": "Kurt Weill",
+                  "notes": null,
+                  "imdb_id": "nm0918044"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady in the Dark",
+                  "notes": null,
+                  "imdb_id": "tt0037000"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Emmett Dolan",
+                  "notes": null,
+                  "imdb_id": "nm0006040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lady, Let's Dance",
+                  "notes": null,
+                  "imdb_id": "tt0037002"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward J. Kay",
+                  "notes": null,
+                  "imdb_id": "nm0443033"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet Me in St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0037059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Stoll",
+                  "notes": null,
+                  "imdb_id": "nm0006303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minstrel Man",
+                  "notes": null,
+                  "imdb_id": "tt0037076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo Erdody",
+                  "notes": null,
+                  "imdb_id": "nm0258775"
+               },
+               {
+                  "name": "Ferde Grof\u00e9 Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0342928"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sensations of 1945",
+                  "notes": null,
+                  "imdb_id": "tt0037258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mahlon Merrick",
+                  "notes": null,
+                  "imdb_id": "nm0581220"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Song of the Open Road",
+                  "notes": null,
+                  "imdb_id": "tt0037297"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Merry Monahans",
+                  "notes": null,
+                  "imdb_id": "tt0037070"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans J. Salter",
+                  "notes": null,
+                  "imdb_id": "nm0006270"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Up in Arms",
+                  "notes": null,
+                  "imdb_id": "tt0037420"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Forbes",
+                  "notes": null,
+                  "imdb_id": "nm0006078"
+               },
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Since You Went Away",
+                  "notes": null,
+                  "imdb_id": "tt0037280"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mouse Trouble",
+                  "notes": null,
+                  "imdb_id": "tt0037090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "And to Think That I Saw It on Mulberry Street",
+                  "notes": null,
+                  "imdb_id": "tt0036601"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Pal",
+                  "notes": null,
+                  "imdb_id": "nm0657162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dog, Cat, and Canary",
+                  "notes": null,
+                  "imdb_id": "tt0036764"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fish Fry",
+                  "notes": null,
+                  "imdb_id": "tt0036829"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lantz",
+                  "notes": null,
+                  "imdb_id": "nm0487237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Play Football",
+                  "notes": null,
+                  "imdb_id": "tt0036933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Boy Johnny",
+                  "notes": null,
+                  "imdb_id": "tt0037108"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Terry",
+                  "notes": null,
+                  "imdb_id": "nm0856056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Swooner Crooner",
+                  "notes": null,
+                  "imdb_id": "tt0037339"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Who's Who in Animal Land",
+                  "notes": null,
+                  "imdb_id": "tt0037463"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Fairbanks",
+                  "notes": null,
+                  "imdb_id": "nm0265475"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "50th Anniversary of Motion Pictures",
+                  "notes": null,
+                  "imdb_id": "tt0036576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Staub",
+                  "notes": null,
+                  "imdb_id": "nm0823864"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blue-Grass Gentlemen",
+                  "notes": null,
+                  "imdb_id": "tt0036652"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund Reek",
+                  "notes": null,
+                  "imdb_id": "nm0715833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jammin' the Blues",
+                  "notes": null,
+                  "imdb_id": "tt0036968"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Movie Pests",
+                  "notes": null,
+                  "imdb_id": "tt0037092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "I Won't Play",
+                  "notes": null,
+                  "imdb_id": "tt0036939"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bombalera",
+                  "notes": null,
+                  "imdb_id": "tt0036658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Main Street Today",
+                  "notes": null,
+                  "imdb_id": "tt0037039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Bresler",
+                  "notes": null,
+                  "imdb_id": "nm0107724"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brazil",
+                  "notes": null,
+                  "imdb_id": "tt0036670"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel J. Bloomberg",
+                  "notes": "(Republic SSD)",
+                  "imdb_id": "nm0089253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casanova Brown",
+                  "notes": null,
+                  "imdb_id": "tt0036699"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cover Girl",
+                  "notes": null,
+                  "imdb_id": "tt0036723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Loren L. Ryder",
+                  "notes": "(Paramount SSD)",
+                  "imdb_id": "nm0753122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "His Butler's Sister",
+                  "notes": null,
+                  "imdb_id": "tt0036001"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(Universal SSD)",
+                  "imdb_id": "nm0113094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hollywood Canteen",
+                  "notes": null,
+                  "imdb_id": "tt0036922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It Happened Tomorrow",
+                  "notes": null,
+                  "imdb_id": "tt0036962"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Whitney",
+                  "notes": "(Sound Services Inc.)",
+                  "imdb_id": "nm0926303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kismet",
+                  "notes": null,
+                  "imdb_id": "tt0036984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Music in Manhattan",
+                  "notes": null,
+                  "imdb_id": "tt0037105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Dunn",
+                  "notes": "(RKO Radio SSD)",
+                  "imdb_id": "nm0242772"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Voice in the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0037438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mac Dalgleish",
+                  "notes": "(RCA Sound)",
+                  "imdb_id": "nm0197907"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wilson",
+                  "notes": null,
+                  "imdb_id": "tt0037465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lamar Trotti",
+                  "notes": null,
+                  "imdb_id": "nm0873707"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hail the Conquering Hero",
+                  "notes": null,
+                  "imdb_id": "tt0036891"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Preston Sturges",
+                  "notes": null,
+                  "imdb_id": "nm0002545"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Miracle of Morgan's Creek",
+                  "notes": null,
+                  "imdb_id": "tt0037077"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Preston Sturges",
+                  "notes": null,
+                  "imdb_id": "nm0002545"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Two Girls and a Sailor",
+                  "notes": null,
+                  "imdb_id": "tt0037408"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Connell",
+                  "notes": null,
+                  "imdb_id": "nm0175028"
+               },
+               {
+                  "name": "Gladys Lehman",
+                  "notes": null,
+                  "imdb_id": "nm0499628"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wing and a Prayer",
+                  "notes": null,
+                  "imdb_id": "tt0037466"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Cady",
+                  "notes": null,
+                  "imdb_id": "nm0128332"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo McCarey",
+                  "notes": null,
+                  "imdb_id": "nm0564970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Guy Named Joe",
+                  "notes": null,
+                  "imdb_id": "tt0035959"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Boehm",
+                  "notes": null,
+                  "imdb_id": "nm0091200"
+               },
+               {
+                  "name": "Chandler Sprague",
+                  "notes": null,
+                  "imdb_id": "nm0819546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lifeboat",
+                  "notes": null,
+                  "imdb_id": "tt0037017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Steinbeck",
+                  "notes": null,
+                  "imdb_id": "nm0825705"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "None Shall Escape",
+                  "notes": null,
+                  "imdb_id": "tt0037136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Neumann",
+                  "notes": null,
+                  "imdb_id": "nm0627012"
+               },
+               {
+                  "name": "Joseph Than",
+                  "notes": null,
+                  "imdb_id": "nm0857004"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fighting Sullivans",
+                  "notes": null,
+                  "imdb_id": "tt0037323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Doherty",
+                  "notes": null,
+                  "imdb_id": "nm0230564"
+               },
+               {
+                  "name": "Jules Schermer",
+                  "notes": null,
+                  "imdb_id": "nm0771087"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Going My Way",
+                  "notes": null,
+                  "imdb_id": "tt0036872"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124918"
+               },
+               {
+                  "name": "Frank Cavett",
+                  "notes": null,
+                  "imdb_id": "nm0147119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Double Indemnity",
+                  "notes": null,
+                  "imdb_id": "tt0036775"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Raymond Chandler",
+                  "notes": null,
+                  "imdb_id": "nm0151452"
+               },
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaslight",
+                  "notes": null,
+                  "imdb_id": "tt0036855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John L. Balderston",
+                  "notes": null,
+                  "imdb_id": "nm0049721"
+               },
+               {
+                  "name": "Walter Reisch",
+                  "notes": null,
+                  "imdb_id": "nm0281556"
+               },
+               {
+                  "name": "John Van Druten",
+                  "notes": null,
+                  "imdb_id": "nm0886668"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura",
+                  "notes": null,
+                  "imdb_id": "tt0037008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Dratler",
+                  "notes": null,
+                  "imdb_id": "nm0237225"
+               },
+               {
+                  "name": "Samuel Hoffenstein",
+                  "notes": null,
+                  "imdb_id": "nm0388755"
+               },
+               {
+                  "name": "Elizabeth Reinhardt",
+                  "notes": null,
+                  "imdb_id": "nm0718101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet Me in St. Louis",
+                  "notes": null,
+                  "imdb_id": "tt0037059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irving Brecher",
+                  "notes": null,
+                  "imdb_id": "nm0106505"
+               },
+               {
+                  "name": "Fred F. Finklehoffe",
+                  "notes": null,
+                  "imdb_id": "nm0277943"
+               }
+            ]
+         }
+      ]
+   }
+]

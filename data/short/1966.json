@@ -1,0 +1,864 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lee Marvin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oskar Werner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rod Steiger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Martin Balsam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Finlay"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ian Bannen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Dunn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Courtenay"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julie Christie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth Hartman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Andrews"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samantha Eggar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Simone Signoret"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shelley Winters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joyce Redman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maggie Smith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peggy Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ruth Gordon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ship of Fools"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Patch of Blue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Rat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Slender Thread"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spy Who Came in from the Cold"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Daisy Clover"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Agony and the Ecstasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Story Ever Told"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ship of Fools"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Patch of Blue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Harm's Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Rat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morituri"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Agony and the Ecstasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Race"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Story Ever Told"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Rage to Live"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morituri"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ship of Fools"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Slender Thread"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Daisy Clover"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Agony and the Ecstasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Story Ever Told"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Wise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hiroshi Teshigahara"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Schlesinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Eleanor Roosevelt Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Let My People Go"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of the Bulge... The Brave Rifles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Forth Road Bridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Die in Madrid"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "To Be Alive!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mural on Our Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ouverture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Point of View"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yeats Country"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Race"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Von Ryan's Express"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Thunderball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Story Ever Told"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cat Ballou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Flight of the Phoenix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Race"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Shop on Main Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blood on the Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dear John"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kwaidan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marriage Italian Style"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sandpiper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cat Ballou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Race"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Umbrellas of Cherbourg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What's New Pussycat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score - Substantially Original",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Patch of Blue"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Agony and the Ecstasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Greatest Story Ever Told"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Umbrellas of Cherbourg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Thousand Clowns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cat Ballou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pleasure Seekers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Umbrellas of Cherbourg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Thousand Clowns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ship of Fools"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dot and the Line: A Romance in Lower Mathematics"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clay or the Origin of Species"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La gazza ladra"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Chicken"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fortress of Peace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Skaterdater"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Snow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Time Piece"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sound of Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shenandoah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Agony and the Ecstasy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Race"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Doctor Zhivago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Thousand Clowns"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cat Ballou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ship of Fools"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Collector"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Casanova 70"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Train"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Umbrellas of Cherbourg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2394 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Grazer",
+                  "notes": null,
+                  "imdb_id": "nm0004976"
+               },
+               {
+                  "name": "Ron Howard",
+                  "notes": null,
+                  "imdb_id": "nm0000165"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Altman",
+                  "notes": null,
+                  "imdb_id": "nm0000265"
+               },
+               {
+                  "name": "Bob Balaban",
+                  "notes": null,
+                  "imdb_id": "nm0000837"
+               },
+               {
+                  "name": "David Levy",
+                  "notes": null,
+                  "imdb_id": "nm0506379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In the Bedroom",
+                  "notes": null,
+                  "imdb_id": "tt0247425"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Graham Leader",
+                  "notes": null,
+                  "imdb_id": "nm0494910"
+               },
+               {
+                  "name": "Ross Katz",
+                  "notes": null,
+                  "imdb_id": "nm0441839"
+               },
+               {
+                  "name": "Todd Field",
+                  "notes": null,
+                  "imdb_id": "nm0276062"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Baron",
+                  "notes": null,
+                  "imdb_id": "nm0056236"
+               },
+               {
+                  "name": "Martin Brown",
+                  "notes": null,
+                  "imdb_id": "nm0114213"
+               },
+               {
+                  "name": "Baz Luhrmann",
+                  "notes": null,
+                  "imdb_id": "nm0525303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               },
+               {
+                  "name": "Barrie M. Osborne",
+                  "notes": null,
+                  "imdb_id": "nm0651614"
+               },
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Denzel Washington",
+                  "notes": null,
+                  "imdb_id": "nm0000243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Training Day",
+                  "notes": null,
+                  "imdb_id": "tt0139654"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Russell Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0000128"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sean Penn",
+                  "notes": null,
+                  "imdb_id": "nm0000576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Am Sam",
+                  "notes": null,
+                  "imdb_id": "tt0277027"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Wilkinson",
+                  "notes": null,
+                  "imdb_id": "nm0929489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Bedroom",
+                  "notes": null,
+                  "imdb_id": "tt0247425"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Will Smith",
+                  "notes": null,
+                  "imdb_id": "nm0000226"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ali",
+                  "notes": null,
+                  "imdb_id": "tt0248667"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Halle Berry became the first woman of color to win the Academy Award for Best Actress.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Halle Berry",
+                  "notes": null,
+                  "imdb_id": "nm0000932"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Monster's Ball",
+                  "notes": null,
+                  "imdb_id": "tt0285742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judi Dench",
+                  "notes": null,
+                  "imdb_id": "nm0001132"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Iris",
+                  "notes": null,
+                  "imdb_id": "tt0280778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicole Kidman",
+                  "notes": null,
+                  "imdb_id": "nm0000173"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ren\u00e9e Zellweger",
+                  "notes": null,
+                  "imdb_id": "nm0000250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bridget Jones's Diary",
+                  "notes": null,
+                  "imdb_id": "tt0243155"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sissy Spacek",
+                  "notes": null,
+                  "imdb_id": "nm0000651"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Bedroom",
+                  "notes": null,
+                  "imdb_id": "tt0247425"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jim Broadbent",
+                  "notes": null,
+                  "imdb_id": "nm0000980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Iris",
+                  "notes": null,
+                  "imdb_id": "tt0280778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ben Kingsley",
+                  "notes": null,
+                  "imdb_id": "nm0001426"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sexy Beast",
+                  "notes": null,
+                  "imdb_id": "tt0203119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ethan Hawke",
+                  "notes": null,
+                  "imdb_id": "nm0000160"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Training Day",
+                  "notes": null,
+                  "imdb_id": "tt0139654"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ian McKellen",
+                  "notes": null,
+                  "imdb_id": "nm0005212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jon Voight",
+                  "notes": null,
+                  "imdb_id": "nm0000685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ali",
+                  "notes": null,
+                  "imdb_id": "tt0248667"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jennifer Connelly",
+                  "notes": null,
+                  "imdb_id": "nm0000124"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Helen Mirren",
+                  "notes": null,
+                  "imdb_id": "nm0000545"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate Winslet",
+                  "notes": null,
+                  "imdb_id": "nm0000701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Iris",
+                  "notes": null,
+                  "imdb_id": "tt0280778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maggie Smith",
+                  "notes": null,
+                  "imdb_id": "nm0001749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marisa Tomei",
+                  "notes": null,
+                  "imdb_id": "nm0000673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Bedroom",
+                  "notes": null,
+                  "imdb_id": "tt0247425"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ron Howard",
+                  "notes": null,
+                  "imdb_id": "nm0000165"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Lynch",
+                  "notes": null,
+                  "imdb_id": "nm0000186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mulholland Drive",
+                  "notes": null,
+                  "imdb_id": "tt0166924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridley Scott",
+                  "notes": null,
+                  "imdb_id": "nm0000631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Black Hawk Down",
+                  "notes": null,
+                  "imdb_id": "tt0265086"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Altman",
+                  "notes": null,
+                  "imdb_id": "nm0000265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julian Fellowes",
+                  "notes": null,
+                  "imdb_id": "nm0271501"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Am\u00e9lie",
+                  "notes": null,
+                  "imdb_id": "tt0211915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guillaume Laurant",
+                  "notes": null,
+                  "imdb_id": "nm0491011"
+               },
+               {
+                  "name": "Jean-Pierre Jeunet",
+                  "notes": null,
+                  "imdb_id": "nm0000466"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Memento",
+                  "notes": null,
+                  "imdb_id": "tt0209144"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Nolan",
+                  "notes": null,
+                  "imdb_id": "nm0634240"
+               },
+               {
+                  "name": "Jonathan Nolan",
+                  "notes": "(story)",
+                  "imdb_id": "nm0634300"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monster's Ball",
+                  "notes": null,
+                  "imdb_id": "tt0285742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milo Addica",
+                  "notes": null,
+                  "imdb_id": "nm0995906"
+               },
+               {
+                  "name": "Will Rokos",
+                  "notes": null,
+                  "imdb_id": "nm0737993"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Royal Tenenbaums",
+                  "notes": null,
+                  "imdb_id": "tt0265666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wes Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027572"
+               },
+               {
+                  "name": "Owen Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0005562"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Akiva Goldsman",
+                  "notes": null,
+                  "imdb_id": "nm0326040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ghost World",
+                  "notes": null,
+                  "imdb_id": "tt0162346"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Clowes",
+                  "notes": null,
+                  "imdb_id": "nm0167280"
+               },
+               {
+                  "name": "Terry Zwigoff",
+                  "notes": null,
+                  "imdb_id": "nm0959062"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In the Bedroom",
+                  "notes": null,
+                  "imdb_id": "tt0247425"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Todd Field",
+                  "notes": null,
+                  "imdb_id": "nm0276062"
+               },
+               {
+                  "name": "Robert Festinger",
+                  "notes": null,
+                  "imdb_id": "nm0275284"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shrek",
+                  "notes": null,
+                  "imdb_id": "tt0126029"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Elliott",
+                  "notes": null,
+                  "imdb_id": "nm0254645"
+               },
+               {
+                  "name": "Terry Rossio",
+                  "notes": null,
+                  "imdb_id": "nm0744429"
+               },
+               {
+                  "name": "Joe Stillman",
+                  "notes": null,
+                  "imdb_id": "nm0830294"
+               },
+               {
+                  "name": "Roger S.H. Schulman",
+                  "notes": null,
+                  "imdb_id": "nm0776107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               },
+               {
+                  "name": "Philippa Boyens",
+                  "notes": null,
+                  "imdb_id": "nm0101991"
+               },
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Bosnia.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "No Man's Land",
+                  "notes": null,
+                  "imdb_id": "tt0283509"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Am\u00e9lie",
+                  "notes": null,
+                  "imdb_id": "tt0211915"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Norway.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elling",
+                  "notes": null,
+                  "imdb_id": "tt0279064"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "India.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lagaan: Once Upon a Time in India",
+                  "notes": null,
+                  "imdb_id": "tt0169102"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Argentina.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Son of the Bride",
+                  "notes": null,
+                  "imdb_id": "tt0292542"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Lesnie",
+                  "notes": null,
+                  "imdb_id": "nm0504226"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Am\u00e9lie",
+                  "notes": null,
+                  "imdb_id": "tt0211915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Delbonnel",
+                  "notes": null,
+                  "imdb_id": "nm0216632"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Hawk Down",
+                  "notes": null,
+                  "imdb_id": "tt0265086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Slawomir Idziak",
+                  "notes": null,
+                  "imdb_id": "nm0005744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald McAlpine",
+                  "notes": null,
+                  "imdb_id": "nm0005791"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Wasn't There",
+                  "notes": null,
+                  "imdb_id": "tt0243133"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catherine Martin",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0552039"
+               },
+               {
+                  "name": "Brigitte Broch",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0110488"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Am\u00e9lie",
+                  "notes": null,
+                  "imdb_id": "tt0211915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aline Bonetto",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0094355"
+               },
+               {
+                  "name": "Marie-Laure Valla",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0884831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Altman",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0022939"
+               },
+               {
+                  "name": "Anna Pinnock",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0003519"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Sorcerer's Stone",
+                  "notes": null,
+                  "imdb_id": "tt0241527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Craig",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0186023"
+               },
+               {
+                  "name": "Stephenie McMillan",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0573328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Grant Major",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0538194"
+               },
+               {
+                  "name": "Dan Hennah",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0377172"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catherine Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552039"
+               },
+               {
+                  "name": "Angus Strathie",
+                  "notes": null,
+                  "imdb_id": "nm0833572"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gosford Park",
+                  "notes": null,
+                  "imdb_id": "tt0280707"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jenny Beavan",
+                  "notes": null,
+                  "imdb_id": "nm0064746"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Sorcerer's Stone",
+                  "notes": null,
+                  "imdb_id": "tt0241527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judianna Makovsky",
+                  "notes": null,
+                  "imdb_id": "nm0538721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Affair of the Necklace",
+                  "notes": null,
+                  "imdb_id": "tt0242252"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ngila Dickson",
+                  "notes": null,
+                  "imdb_id": "nm0225699"
+               },
+               {
+                  "name": "Richard Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0853050"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Black Hawk Down",
+                  "notes": null,
+                  "imdb_id": "tt0265086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Myron Nettinga",
+                  "notes": null,
+                  "imdb_id": "nm0002383"
+               },
+               {
+                  "name": "Chris Munro",
+                  "notes": null,
+                  "imdb_id": "nm0613101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Am\u00e9lie",
+                  "notes": null,
+                  "imdb_id": "tt0211915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vincent Arnardi",
+                  "notes": null,
+                  "imdb_id": "nm0003399"
+               },
+               {
+                  "name": "Guillaume Leriche",
+                  "notes": null,
+                  "imdb_id": "nm1054914"
+               },
+               {
+                  "name": "Jean Umansky",
+                  "notes": null,
+                  "imdb_id": "nm0880796"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Roger Savage",
+                  "notes": null,
+                  "imdb_id": "nm0767373"
+               },
+               {
+                  "name": "Guntis Sics",
+                  "notes": null,
+                  "imdb_id": "nm0796456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pearl Harbor",
+                  "notes": null,
+                  "imdb_id": "tt0213149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter J. Devlin",
+                  "notes": null,
+                  "imdb_id": "nm0222818"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Gethin Creagh",
+                  "notes": null,
+                  "imdb_id": "nm0187098"
+               },
+               {
+                  "name": "Hammond Peek",
+                  "notes": null,
+                  "imdb_id": "nm0003827"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pearl Harbor",
+                  "notes": null,
+                  "imdb_id": "tt0213149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "George Watters II",
+                  "notes": null,
+                  "imdb_id": "nm0915036"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monsters, Inc.",
+                  "notes": null,
+                  "imdb_id": "tt0198781"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Michael Silvers",
+                  "notes": null,
+                  "imdb_id": "nm0799011"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Black Hawk Down",
+                  "notes": null,
+                  "imdb_id": "tt0265086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pietro Scalia",
+                  "notes": null,
+                  "imdb_id": "nm0768817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Hill",
+                  "notes": null,
+                  "imdb_id": "nm0384528"
+               },
+               {
+                  "name": "Daniel P. Hanley",
+                  "notes": null,
+                  "imdb_id": "nm0360067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Memento",
+                  "notes": null,
+                  "imdb_id": "tt0209144"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dody Dorn",
+                  "notes": null,
+                  "imdb_id": "nm0233827"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jill Bilcock",
+                  "notes": null,
+                  "imdb_id": "nm0082162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Gilbert",
+                  "notes": null,
+                  "imdb_id": "nm0003016"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Rygiel",
+                  "notes": null,
+                  "imdb_id": "nm0753277"
+               },
+               {
+                  "name": "Randall William Cook",
+                  "notes": null,
+                  "imdb_id": "nm0177241"
+               },
+               {
+                  "name": "Richard Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0853050"
+               },
+               {
+                  "name": "Mark Stetson",
+                  "notes": null,
+                  "imdb_id": "nm0828078"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A.I. Artificial Intelligence",
+                  "notes": null,
+                  "imdb_id": "tt0212720"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Scott Farrar",
+                  "notes": null,
+                  "imdb_id": "nm0268141"
+               },
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               },
+               {
+                  "name": "Michael Lantieri",
+                  "notes": null,
+                  "imdb_id": "nm0487177"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pearl Harbor",
+                  "notes": null,
+                  "imdb_id": "tt0213149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Brevig",
+                  "notes": null,
+                  "imdb_id": "nm0108094"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               },
+               {
+                  "name": "Edward Hirsh",
+                  "notes": null,
+                  "imdb_id": "nm0386644"
+               },
+               {
+                  "name": "Ben Snow",
+                  "notes": null,
+                  "imdb_id": "nm0811240"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Owen",
+                  "notes": null,
+                  "imdb_id": "nm0654232"
+               },
+               {
+                  "name": "Richard Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0853050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               },
+               {
+                  "name": "Colleen Callaghan",
+                  "notes": null,
+                  "imdb_id": "nm0130128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Moulin Rouge!",
+                  "notes": null,
+                  "imdb_id": "tt0203009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurizio Silvi",
+                  "notes": null,
+                  "imdb_id": "nm0799198"
+               },
+               {
+                  "name": "Aldo Signoretti",
+                  "notes": null,
+                  "imdb_id": "nm0797532"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"If I Didn't Have You\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Monsters, Inc.",
+                  "notes": null,
+                  "imdb_id": "tt0198781"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Until\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate & Leopold",
+                  "notes": null,
+                  "imdb_id": "tt0035423"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sting",
+                  "notes": null,
+                  "imdb_id": "nm0001776"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"There You'll Be\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pearl Harbor",
+                  "notes": null,
+                  "imdb_id": "tt0213149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"May It Be\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Enya",
+                  "notes": null,
+                  "imdb_id": "nm0258216"
+               },
+               {
+                  "name": "Nicky Ryan",
+                  "notes": null,
+                  "imdb_id": "nm1211393"
+               },
+               {
+                  "name": "Roma Ryan",
+                  "notes": null,
+                  "imdb_id": "nm0752822"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Vanilla Sky\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vanilla Sky",
+                  "notes": null,
+                  "imdb_id": "tt0259711"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul McCartney",
+                  "notes": null,
+                  "imdb_id": "nm0005200"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Fellowship of the Ring",
+                  "notes": null,
+                  "imdb_id": "tt0120737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shore",
+                  "notes": null,
+                  "imdb_id": "nm0006290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Beautiful Mind",
+                  "notes": null,
+                  "imdb_id": "tt0268978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Horner",
+                  "notes": null,
+                  "imdb_id": "nm0000035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A.I. Artificial Intelligence",
+                  "notes": null,
+                  "imdb_id": "tt0212720"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Sorcerer's Stone",
+                  "notes": null,
+                  "imdb_id": "tt0241527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monsters, Inc.",
+                  "notes": null,
+                  "imdb_id": "tt0198781"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "For the Birds",
+                  "notes": null,
+                  "imdb_id": "tt0248808"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Eggleston",
+                  "notes": null,
+                  "imdb_id": "nm0250995"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fifty Percent Grey",
+                  "notes": null,
+                  "imdb_id": "tt0303336"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruairi Robinson",
+                  "notes": null,
+                  "imdb_id": "nm1099711"
+               },
+               {
+                  "name": "Seamus Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126289"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Give Up Yer Aul Sins",
+                  "notes": null,
+                  "imdb_id": "tt0308317"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cathal Gaffney",
+                  "notes": null,
+                  "imdb_id": "nm1124614"
+               },
+               {
+                  "name": "Darragh O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm1124615"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strange Invaders",
+                  "notes": null,
+                  "imdb_id": "tt0296874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cordell Barker",
+                  "notes": null,
+                  "imdb_id": "nm0054855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stubble Trouble",
+                  "notes": null,
+                  "imdb_id": "tt0309121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph E. Merideth",
+                  "notes": null,
+                  "imdb_id": "nm1124616"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Accountant",
+                  "notes": null,
+                  "imdb_id": "tt0222675"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray McKinnon",
+                  "notes": null,
+                  "imdb_id": "nm0571964"
+               },
+               {
+                  "name": "Lisa Blount",
+                  "notes": null,
+                  "imdb_id": "nm0089408"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Man Thing",
+                  "notes": null,
+                  "imdb_id": "tt0304394"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Slawomir Fabicki",
+                  "notes": null,
+                  "imdb_id": "nm0264614"
+               },
+               {
+                  "name": "Bogumil Godfrej\u00f3w",
+                  "notes": null,
+                  "imdb_id": "nm0323950"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Copy Shop",
+                  "notes": null,
+                  "imdb_id": "tt0182014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Virgil Widrich",
+                  "notes": null,
+                  "imdb_id": "nm0927179"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gregor's Greatest Invention",
+                  "notes": null,
+                  "imdb_id": "tt0304107"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johannes Kiefer",
+                  "notes": null,
+                  "imdb_id": "nm0452374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Speed for Thespians",
+                  "notes": null,
+                  "imdb_id": "tt0269899"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kalman Apple",
+                  "notes": null,
+                  "imdb_id": "nm0032315"
+               },
+               {
+                  "name": "Shameela Bakhsh",
+                  "notes": null,
+                  "imdb_id": "nm0049075"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Thoth",
+                  "notes": null,
+                  "imdb_id": "tt0299178"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sarah Kernochan",
+                  "notes": null,
+                  "imdb_id": "nm0449576"
+               },
+               {
+                  "name": "Lynn Appelle",
+                  "notes": null,
+                  "imdb_id": "nm0032258"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Artists and Orphans: A True Drama",
+                  "notes": null,
+                  "imdb_id": "tt0289073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lianne Klapper-McNally",
+                  "notes": null,
+                  "imdb_id": "nm0458259"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sing!",
+                  "notes": null,
+                  "imdb_id": "tt0308899"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freida Lee Mock",
+                  "notes": null,
+                  "imdb_id": "nm0595131"
+               },
+               {
+                  "name": "Jessica Sanders",
+                  "notes": null,
+                  "imdb_id": "nm1124618"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Murder on a Sunday Morning",
+                  "notes": null,
+                  "imdb_id": "tt0307197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Xavier de Lestrade",
+                  "notes": null,
+                  "imdb_id": "nm0994355"
+               },
+               {
+                  "name": "Denis Poncet",
+                  "notes": null,
+                  "imdb_id": "nm1119350"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children Underground",
+                  "notes": null,
+                  "imdb_id": "tt0264476"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edet Belzberg",
+                  "notes": null,
+                  "imdb_id": "nm0069797"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "LaLee's Kin: The Legacy of Cotton",
+                  "notes": null,
+                  "imdb_id": "tt0274622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susan Froemke",
+                  "notes": null,
+                  "imdb_id": "nm0297085"
+               },
+               {
+                  "name": "Deborah Dickson",
+                  "notes": null,
+                  "imdb_id": "nm0225630"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Promises",
+                  "notes": null,
+                  "imdb_id": "tt0282864"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Justine Shapiro",
+                  "notes": null,
+                  "imdb_id": "nm0035184"
+               },
+               {
+                  "name": "B.Z. Goldberg",
+                  "notes": null,
+                  "imdb_id": "nm0325148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "War Photographer",
+                  "notes": null,
+                  "imdb_id": "tt0309061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Frei",
+                  "notes": null,
+                  "imdb_id": "nm0293726"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shrek",
+                  "notes": null,
+                  "imdb_id": "tt0126029"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aron Warner",
+                  "notes": null,
+                  "imdb_id": "nm0912403"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jimmy Neutron: Boy Genius",
+                  "notes": null,
+                  "imdb_id": "tt0268397"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John A. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204884"
+               },
+               {
+                  "name": "Steve Oedekerk",
+                  "notes": null,
+                  "imdb_id": "nm0644203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monsters, Inc.",
+                  "notes": null,
+                  "imdb_id": "tt0198781"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Docter",
+                  "notes": null,
+                  "imdb_id": "nm0230032"
+               },
+               {
+                  "name": "John Lasseter",
+                  "notes": null,
+                  "imdb_id": "nm0005124"
+               }
+            ]
+         }
+      ]
+   }
+]

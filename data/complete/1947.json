@@ -1,0 +1,1969 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Fredric March was not present at the awards ceremony. Cathy O'Donnell accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fredric March",
+                  "notes": null,
+                  "imdb_id": "nm0545298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gregory Peck",
+                  "notes": null,
+                  "imdb_id": "nm0000060"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0000071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0038650"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Larry Parks",
+                  "notes": null,
+                  "imdb_id": "nm0662972"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0036910"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Harold Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751174"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Coburn",
+                  "notes": null,
+                  "imdb_id": "nm0002013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Green Years",
+                  "notes": null,
+                  "imdb_id": "tt0038578"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Claude Rains",
+                  "notes": null,
+                  "imdb_id": "nm0001647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Notorious",
+                  "notes": null,
+                  "imdb_id": "tt0038787"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clifton Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916067"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Razor's Edge",
+                  "notes": null,
+                  "imdb_id": "tt0038873"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Demarest",
+                  "notes": null,
+                  "imdb_id": "nm0218131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Olivia de Havilland",
+                  "notes": null,
+                  "imdb_id": "nm0000014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "To Each His Own",
+                  "notes": null,
+                  "imdb_id": "tt0039040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Celia Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0424743"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brief Encounter",
+                  "notes": null,
+                  "imdb_id": "tt0037558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Wyman",
+                  "notes": null,
+                  "imdb_id": "nm0943837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jennifer Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Duel in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0038499"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rosalind Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751426"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sister Kenny",
+                  "notes": null,
+                  "imdb_id": "tt0038948"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anne Baxter",
+                  "notes": null,
+                  "imdb_id": "nm0000879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Razor's Edge",
+                  "notes": null,
+                  "imdb_id": "tt0038873"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ethel Barrymore",
+                  "notes": null,
+                  "imdb_id": "nm0000856"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Spiral Staircase",
+                  "notes": null,
+                  "imdb_id": "tt0038975"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Flora Robson",
+                  "notes": null,
+                  "imdb_id": "nm0733460"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saratoga Trunk",
+                  "notes": null,
+                  "imdb_id": "tt0038053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gale Sondergaard",
+                  "notes": null,
+                  "imdb_id": "nm0814216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anna and the King of Siam",
+                  "notes": null,
+                  "imdb_id": "tt0038303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lillian Gish",
+                  "notes": null,
+                  "imdb_id": "nm0001273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Duel in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0038499"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anna and the King of Siam",
+                  "notes": null,
+                  "imdb_id": "tt0038303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "William S. Darling",
+                  "notes": null,
+                  "imdb_id": "nm0201419"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Frank E. Hughes",
+                  "notes": null,
+                  "imdb_id": "nm0400605"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kitty",
+                  "notes": null,
+                  "imdb_id": "tt0037849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Walter H. Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878934"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Razor's Edge",
+                  "notes": null,
+                  "imdb_id": "tt0038873"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Nathan Juran",
+                  "notes": null,
+                  "imdb_id": "nm0432846"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Paul S. Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289189"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Caesar and Cleopatra",
+                  "notes": null,
+                  "imdb_id": "tt0038390"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Bryan",
+                  "notes": null,
+                  "imdb_id": "nm0116961"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0036910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Sheriff",
+                  "notes": null,
+                  "imdb_id": "nm0792293"
+               },
+               {
+                  "name": "Carmen Dillon",
+                  "notes": null,
+                  "imdb_id": "nm0226973"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anna and the King of Siam",
+                  "notes": null,
+                  "imdb_id": "tt0038303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur C. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0587926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Green Years",
+                  "notes": null,
+                  "imdb_id": "tt0038578"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George J. Folsey",
+                  "notes": null,
+                  "imdb_id": "nm0005706"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Rosher",
+                  "notes": null,
+                  "imdb_id": "nm0003546"
+               },
+               {
+                  "name": "Leonard Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809079"
+               },
+               {
+                  "name": "Arthur E. Arling",
+                  "notes": null,
+                  "imdb_id": "nm0035186"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Walker",
+                  "notes": null,
+                  "imdb_id": "nm0907900"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clarence Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Lean",
+                  "notes": null,
+                  "imdb_id": "nm0000180"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brief Encounter",
+                  "notes": null,
+                  "imdb_id": "tt0037558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frank Capra",
+                  "notes": null,
+                  "imdb_id": "nm0001008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0038650"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Siodmak",
+                  "notes": null,
+                  "imdb_id": "nm0802563"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Killers",
+                  "notes": null,
+                  "imdb_id": "tt0038669"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Seeds of Destiny",
+                  "notes": null,
+                  "imdb_id": "tt0038919"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Atomic Power",
+                  "notes": null,
+                  "imdb_id": "tt0038312"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life at the Zoo",
+                  "notes": null,
+                  "imdb_id": "tt0038690"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paramount News Issue #37",
+                  "notes": null,
+                  "imdb_id": "tt0038825"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Traffic with the Devil",
+                  "notes": null,
+                  "imdb_id": "tt0039043"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Blithe Spirit",
+                  "notes": null,
+                  "imdb_id": "tt0038363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Howard",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0397644"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Stolen Life",
+                  "notes": null,
+                  "imdb_id": "tt0038984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William C. McGann",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0568915"
+               },
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Mandell",
+                  "notes": null,
+                  "imdb_id": "nm0541721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0038650"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Hornbeck",
+                  "notes": null,
+                  "imdb_id": "nm0394962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Lyon",
+                  "notes": null,
+                  "imdb_id": "nm0528995"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Killers",
+                  "notes": null,
+                  "imdb_id": "tt0038669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Hilton",
+                  "notes": null,
+                  "imdb_id": "nm0385227"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold F. Kress",
+                  "notes": null,
+                  "imdb_id": "nm0470932"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"On the Atchison, Topeka and Santa Fe\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Harvey Girls",
+                  "notes": null,
+                  "imdb_id": "tt0038589"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"You Keep Coming Back Like a Song\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blue Skies",
+                  "notes": null,
+                  "imdb_id": "tt0038370"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irving Berlin",
+                  "notes": null,
+                  "imdb_id": "nm0000927"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Ole Buttermilk Sky\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Canyon Passage",
+                  "notes": null,
+                  "imdb_id": "tt0038395"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hoagy Carmichael",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005994"
+               },
+               {
+                  "name": "Jack Brooks",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0112032"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"All Through the Day\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Centennial Summer",
+                  "notes": null,
+                  "imdb_id": "tt0038406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Kern",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006153"
+               },
+               {
+                  "name": "Oscar Hammerstein II",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0358564"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Can't Begin to Tell You\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dolly Sisters",
+                  "notes": null,
+                  "imdb_id": "tt0037651"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James V. Monaco",
+                  "notes": "(music)",
+                  "imdb_id": "nm0597444"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugo Friedhofer",
+                  "notes": null,
+                  "imdb_id": "nm0006087"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anna and the King of Siam",
+                  "notes": null,
+                  "imdb_id": "tt0038303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "nm0002136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0036910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Walton",
+                  "notes": null,
+                  "imdb_id": "nm0006338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Humoresque",
+                  "notes": null,
+                  "imdb_id": "tt0038622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Killers",
+                  "notes": null,
+                  "imdb_id": "tt0038669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blue Skies",
+                  "notes": null,
+                  "imdb_id": "tt0038370"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Emmett Dolan",
+                  "notes": null,
+                  "imdb_id": "nm0006040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Centennial Summer",
+                  "notes": null,
+                  "imdb_id": "tt0038406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Night and Day",
+                  "notes": null,
+                  "imdb_id": "tt0038776"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Heindorf",
+                  "notes": null,
+                  "imdb_id": "nm0006127"
+               },
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Harvey Girls",
+                  "notes": null,
+                  "imdb_id": "tt0038589"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennie Hayton",
+                  "notes": null,
+                  "imdb_id": "nm0006125"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0036910"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0038650"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Razor's Edge",
+                  "notes": null,
+                  "imdb_id": "tt0038873"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Yearling",
+                  "notes": null,
+                  "imdb_id": "tt0039111"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Cat Concerto",
+                  "notes": null,
+                  "imdb_id": "tt0039251"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Henry and the Inky-Poo",
+                  "notes": null,
+                  "imdb_id": "tt0038657"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Pal",
+                  "notes": null,
+                  "imdb_id": "nm0657162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Musical Moments from Chopin",
+                  "notes": null,
+                  "imdb_id": "tt0038413"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lantz",
+                  "notes": null,
+                  "imdb_id": "nm0487237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Squatter's Rights",
+                  "notes": null,
+                  "imdb_id": "tt0038978"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walky Talky Hawky",
+                  "notes": null,
+                  "imdb_id": "tt0039093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Selzer",
+                  "notes": null,
+                  "imdb_id": "nm0783666"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Facing Your Danger",
+                  "notes": null,
+                  "imdb_id": "tt0038515"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dive-Hi Champs",
+                  "notes": null,
+                  "imdb_id": "tt0038483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Eaton",
+                  "notes": null,
+                  "imdb_id": "nm0247827"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Golden Horses",
+                  "notes": null,
+                  "imdb_id": "tt0038569"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund Reek",
+                  "notes": null,
+                  "imdb_id": "nm0715833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Smart as a Fox",
+                  "notes": null,
+                  "imdb_id": "tt0038953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sure Cures",
+                  "notes": null,
+                  "imdb_id": "tt0038998"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Boy and His Dog",
+                  "notes": null,
+                  "imdb_id": "tt0038379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "College Queen",
+                  "notes": null,
+                  "imdb_id": "tt0038421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Templeton",
+                  "notes": null,
+                  "imdb_id": "nm0854763"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hiss and Yell",
+                  "notes": null,
+                  "imdb_id": "tt0038602"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jules White",
+                  "notes": null,
+                  "imdb_id": "nm0925028"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Luckiest Guy in the World",
+                  "notes": null,
+                  "imdb_id": "tt0038708"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Bresler",
+                  "notes": null,
+                  "imdb_id": "nm0107724"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Jolson Story",
+                  "notes": null,
+                  "imdb_id": "tt0038661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It's a Wonderful Life",
+                  "notes": null,
+                  "imdb_id": "tt0038650"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Aalberg",
+                  "notes": "(RKO Radio SSD)",
+                  "imdb_id": "nm0007356"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Seventh Veil",
+                  "notes": null,
+                  "imdb_id": "tt0038924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Muriel Box",
+                  "notes": null,
+                  "imdb_id": "nm0101504"
+               },
+               {
+                  "name": "Sydney Box",
+                  "notes": null,
+                  "imdb_id": "nm0101511"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children of Paradise",
+                  "notes": null,
+                  "imdb_id": "tt0037674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques Pr\u00e9vert",
+                  "notes": null,
+                  "imdb_id": "nm0699535"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Notorious",
+                  "notes": null,
+                  "imdb_id": "tt0038787"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Hecht",
+                  "notes": null,
+                  "imdb_id": "nm0372942"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Road to Utopia",
+                  "notes": null,
+                  "imdb_id": "tt0038032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Panama",
+                  "notes": null,
+                  "imdb_id": "nm0659085"
+               },
+               {
+                  "name": "Melvin Frank",
+                  "notes": null,
+                  "imdb_id": "nm0291035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Blue Dahlia",
+                  "notes": null,
+                  "imdb_id": "tt0038369"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Raymond Chandler",
+                  "notes": null,
+                  "imdb_id": "nm0151452"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Vacation from Marriage",
+                  "notes": null,
+                  "imdb_id": "tt0037980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clemence Dane",
+                  "notes": null,
+                  "imdb_id": "nm0199304"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dark Mirror",
+                  "notes": null,
+                  "imdb_id": "tt0038455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vladimir Pozner",
+                  "notes": null,
+                  "imdb_id": "nm0694792"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Strange Love of Martha Ivers",
+                  "notes": null,
+                  "imdb_id": "tt0038988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Patrick",
+                  "notes": null,
+                  "imdb_id": "nm0665875"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Stranger",
+                  "notes": null,
+                  "imdb_id": "tt0038991"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Trivas",
+                  "notes": null,
+                  "imdb_id": "nm0873193"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "To Each His Own",
+                  "notes": null,
+                  "imdb_id": "tt0039040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Brackett",
+                  "notes": null,
+                  "imdb_id": "nm0102818"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Best Years of Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0036868"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert E. Sherwood",
+                  "notes": null,
+                  "imdb_id": "nm0792845"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anna and the King of Siam",
+                  "notes": null,
+                  "imdb_id": "tt0038303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sally Benson",
+                  "notes": null,
+                  "imdb_id": "nm0072639"
+               },
+               {
+                  "name": "Talbot Jennings",
+                  "notes": null,
+                  "imdb_id": "nm0421255"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brief Encounter",
+                  "notes": null,
+                  "imdb_id": "tt0037558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Havelock-Allan",
+                  "notes": null,
+                  "imdb_id": "nm0369743"
+               },
+               {
+                  "name": "David Lean",
+                  "notes": null,
+                  "imdb_id": "nm0000180"
+               },
+               {
+                  "name": "Ronald Neame",
+                  "notes": null,
+                  "imdb_id": "nm0623768"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rome, Open City",
+                  "notes": null,
+                  "imdb_id": "tt0038890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergio Amidei",
+                  "notes": null,
+                  "imdb_id": "nm0024847"
+               },
+               {
+                  "name": "Federico Fellini",
+                  "notes": null,
+                  "imdb_id": "nm0000019"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Killers",
+                  "notes": null,
+                  "imdb_id": "tt0038669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Veiller",
+                  "notes": null,
+                  "imdb_id": "nm0892044"
+               }
+            ]
+         }
+      ]
+   }
+]

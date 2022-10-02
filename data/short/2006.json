@@ -1,0 +1,776 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brokeback Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Capote"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Night, and Good Luck."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Munich"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Philip Seymour Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Strathairn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heath Ledger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joaquin Phoenix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terrence Howard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Reese Witherspoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charlize Theron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Felicity Huffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Keira Knightley"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Clooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jake Gyllenhaal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Matt Dillon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Giamatti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Hurt"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rachel Weisz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Catherine Keener"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frances McDormand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Williams"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ang Lee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bennett Miller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Clooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Haggis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Night, and Good Luck."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Match Point"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Syriana"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Squid and the Whale"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Brokeback Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A History of Violence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Capote"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Munich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Constant Gardener"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Batman Begins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brokeback Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Night, and Good Luck."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The New World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Night, and Good Luck."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Goblet of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pride & Prejudice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Munich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Constant Gardener"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walk the Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charlie and the Chocolate Factory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mrs. Henderson Presents"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pride & Prejudice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walk the Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hustle & Flow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transamerica"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Brokeback Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Munich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pride & Prejudice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Constant Gardener"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walk the Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memoirs of a Geisha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War of the Worlds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Moon and the Son: An Imagined Conversation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Badgered"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Man Band"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mysterious Geographic Explorations of Jasper Morello"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Six Shooter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cashback"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Time Is Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Farm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Runaway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Note of Triumph: The Golden Age of Norman Corwin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "God Sleeps in Rwanda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Death of Kevin Carter: Casualty of the Bang Bang Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mushroom Club"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "March of the Penguins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darwin's Nightmare"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enron: The Smartest Guys in the Room"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murderball"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Street Fight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tsotsi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Tell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joyeux Noel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paradise Now"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sophie Scholl: The Final Days"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wallace & Gromit: The Curse of the Were-Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Corpse Bride"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Howl's Moving Castle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode III - Revenge of the Sith"
+            ]
+         }
+      ]
+   }
+]

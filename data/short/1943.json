@@ -1,0 +1,1209 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "James Cagney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monty Woolley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ronald Colman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Pidgeon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Van Heflin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Morgan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry Travers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Bendix"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Greer Garson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosalind Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Teresa Wright"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Teresa Wright"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agnes Moorehead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladys Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "May Whitty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Peters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "This Above All"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Washington Slept Here"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Random Harvest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silver Queen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Take a Letter, Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magnificent Ambersons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shanghai Gesture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spoilers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Gal Sal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arabian Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captains of the Clouds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reap the Wild Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kings Row"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moontide"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Take a Letter, Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ten Gentlemen from West Point"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magnificent Ambersons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pied Piper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Above All"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arabian Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captains of the Clouds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reap the Wild Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To the Shores of Tripoli"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Wyler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Farrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mervyn LeRoy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Curtiz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Wood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kokoda Front Line!"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Moscow Strikes Back"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "The Battle of Midway"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Why We Fight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Ship Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Africa, Prelude to Victory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Combat Report"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Conquer by the Clock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry Browne, Farmer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Over the Borders"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Stakes in the East"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Fighting China"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's Everybody's War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Listen to Britain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Belgium"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Isles of Freedom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Gardenia Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Blabbermouth!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paramount Victory Short No. T2-2: We Refuse to Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paramount Victory Short No. T2-3: The Price of Victory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grain That Built a Hemisphere"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The New Spirit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Eagle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twenty-One Miles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winning Your Wings"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Reap the Wild Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Desperate Journey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying Tigers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Invisible Agent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One of Our Aircraft Is Missing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Navy Comes Through"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Above All"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yankee Doodle Dandy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Holiday Inn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Always in My Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babes on Broadway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bambi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying with Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hellzapoppin'"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Orchestra Wives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mayor of 44th Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You Were Never Lovelier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Youth on Parade"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Now, Voyager"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arabian Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bambi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying Tigers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Married a Witch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan of Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Klondike Fury"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Random Harvest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silver Queen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Take a Letter, Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Corsican Brothers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gold Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shanghai Gesture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Be or Not to Be"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Yankee Doodle Dandy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying with Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For Me and My Gal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holiday Inn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It Started with Eve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Doughboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Gal Sal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You Were Never Lovelier"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "49th Parallel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kings Row"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Random Harvest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magnificent Ambersons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pied Piper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wake Island"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yankee Doodle Dandy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Der Fuehrer's Face"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All Out for 'V'"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blitz Wolf"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juke Box Jamboree"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pigs in a Polka"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tulips Shall Grow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Speaking of Animals and Their Families"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Desert Wonderland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marines in the Making"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The United States Marine Band"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beyond the Line of Duty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Don't Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Is America Series No. 33-101: Private Smith of the U.S.A."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Yankee Doodle Dandy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arabian Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bambi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying Tigers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Friendly Enemies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once Upon a Honeymoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Morocco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gold Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Above All"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You Were Never Lovelier"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Woman of the Year"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One of Our Aircraft Is Missing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Road to Morocco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The War Against Mrs. Hadley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wake Island"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "49th Parallel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holiday Inn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yankee Doodle Dandy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mrs. Miniver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "49th Parallel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Random Harvest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pride of the Yankees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talk of the Town"
+            ]
+         }
+      ]
+   }
+]

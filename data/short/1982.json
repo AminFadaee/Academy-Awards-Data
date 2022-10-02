@@ -1,0 +1,712 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Henry Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burt Lancaster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dudley Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warren Beatty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Gielgud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Howard E. Rollins Jr."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ian Holm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Coco"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Keaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marsha Mason"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Sarandon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Maureen Stapleton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth McGovern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Hackett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melinda Dillon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heaven's Gate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Lieutenant's Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Reds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Excalibur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chariots of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pennies from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Lieutenant's Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Warren Beatty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugh Hudson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Louis Malle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Rydell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Genocide"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Against Wind and Tide: A Cuban Odyssey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brooklyn Bridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El Salvador: Another Vietnam"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Close Harmony"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Americas in Transition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey for Survival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "See What I Say"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Urge to Build"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dragonslayer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chariots of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Lieutenant's Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mephisto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of Iron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Muddy River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boat Is Full"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Brothers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An American Werewolf in London"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heartbeeps"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chariots of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dragonslayer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Arthur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Endless Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For Your Eyes Only"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Muppet Caper"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chariots of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atlantic City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crac"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Creation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tender Tale of Cinderella Penguin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Violet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Couples and Robbers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Winter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Raiders of the Lost Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Outland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pennies from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On Golden Pond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pennies from Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prince of the City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ragtime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Lieutenant's Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chariots of Fire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Absence of Malice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atlantic City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reds"
+            ]
+         }
+      ]
+   }
+]

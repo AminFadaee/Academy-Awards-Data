@@ -1,0 +1,2120 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rod Steiger",
+                  "notes": null,
+                  "imdb_id": "nm0001768"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dustin Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000163"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cool Hand Luke",
+                  "notes": null,
+                  "imdb_id": "tt0061512"
+               }
+            ]
+         },
+         {
+            "notes": "Posthumously.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spencer Tracy",
+                  "notes": null,
+                  "imdb_id": "nm0000075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "George Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0001421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cool Hand Luke",
+                  "notes": null,
+                  "imdb_id": "tt0061512"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cecil Kellaway",
+                  "notes": null,
+                  "imdb_id": "nm0445523"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gene Hackman",
+                  "notes": null,
+                  "imdb_id": "nm0000432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Cassavetes",
+                  "notes": null,
+                  "imdb_id": "nm0001023"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Dirty Dozen",
+                  "notes": null,
+                  "imdb_id": "tt0061578"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael J. Pollard",
+                  "notes": null,
+                  "imdb_id": "nm0689488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Katharine Hepburn was not present at the awards ceremony. George Cukor accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne Bancroft",
+                  "notes": null,
+                  "imdb_id": "nm0000843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Audrey Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wait Until Dark",
+                  "notes": null,
+                  "imdb_id": "tt0062467"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edith Evans",
+                  "notes": null,
+                  "imdb_id": "nm0262725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Whisperers",
+                  "notes": null,
+                  "imdb_id": "tt0061180"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Faye Dunaway",
+                  "notes": null,
+                  "imdb_id": "nm0001159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Estelle Parsons",
+                  "notes": null,
+                  "imdb_id": "nm0663820"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beah Richards",
+                  "notes": null,
+                  "imdb_id": "nm0723968"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carol Channing",
+                  "notes": null,
+                  "imdb_id": "nm0151919"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katharine Ross",
+                  "notes": null,
+                  "imdb_id": "nm0001684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mildred Natwick",
+                  "notes": null,
+                  "imdb_id": "nm0622450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barefoot in the Park",
+                  "notes": null,
+                  "imdb_id": "tt0061385"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0061439"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Truscott",
+                  "notes": null,
+                  "imdb_id": "nm0874405"
+               },
+               {
+                  "name": "Edward Carrere",
+                  "notes": null,
+                  "imdb_id": "nm0140264"
+               },
+               {
+                  "name": "John Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113878"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mario Chiari",
+                  "notes": null,
+                  "imdb_id": "nm0157061"
+               },
+               {
+                  "name": "Jack Martin Smith",
+                  "notes": null,
+                  "imdb_id": "nm0005584"
+               },
+               {
+                  "name": "Ed Graves",
+                  "notes": null,
+                  "imdb_id": "nm0336273"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Stuart A. Reiss",
+                  "notes": null,
+                  "imdb_id": "nm0718524"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Clatworthy",
+                  "notes": null,
+                  "imdb_id": "nm0165197"
+               },
+               {
+                  "name": "Frank Tuttle",
+                  "notes": null,
+                  "imdb_id": "nm0878339"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Taming of the Shrew",
+                  "notes": null,
+                  "imdb_id": "tt0061407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lorenzo Mongiardino",
+                  "notes": null,
+                  "imdb_id": "nm0598044"
+               },
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Elven Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916101"
+               },
+               {
+                  "name": "Giuseppe Mariani",
+                  "notes": null,
+                  "imdb_id": "nm0547077"
+               },
+               {
+                  "name": "Dario Simoni",
+                  "notes": null,
+                  "imdb_id": "nm0800618"
+               },
+               {
+                  "name": "Luigi Gervasi",
+                  "notes": null,
+                  "imdb_id": "nm0315062"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "George C. Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916112"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burnett Guffey",
+                  "notes": null,
+                  "imdb_id": "nm0346532"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0061439"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard H. Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459660"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Cold Blood",
+                  "notes": null,
+                  "imdb_id": "tt0061809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0061439"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Truscott",
+                  "notes": null,
+                  "imdb_id": "nm0874405"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Theadora Van Runkle",
+                  "notes": null,
+                  "imdb_id": "nm0887916"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Happiest Millionaire",
+                  "notes": null,
+                  "imdb_id": "tt0061749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Taming of the Shrew",
+                  "notes": null,
+                  "imdb_id": "tt0061407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               },
+               {
+                  "name": "Danilo Donati",
+                  "notes": null,
+                  "imdb_id": "nm0232219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Louis",
+                  "notes": null,
+                  "imdb_id": "nm0521872"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mike Nichols",
+                  "notes": null,
+                  "imdb_id": "nm0001566"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Penn",
+                  "notes": null,
+                  "imdb_id": "nm0671957"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norman Jewison",
+                  "notes": null,
+                  "imdb_id": "nm0422484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112218"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In Cold Blood",
+                  "notes": null,
+                  "imdb_id": "tt0061809"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Kramer",
+                  "notes": null,
+                  "imdb_id": "nm0006452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Anderson Platoon",
+                  "notes": null,
+                  "imdb_id": "tt0062244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pierre Schoendoerffer",
+                  "notes": null,
+                  "imdb_id": "nm0006954"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A King's Story",
+                  "notes": null,
+                  "imdb_id": "tt0059359"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Levin",
+                  "notes": null,
+                  "imdb_id": "nm0505617"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Time for Burning",
+                  "notes": null,
+                  "imdb_id": "tt0062372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Jersey",
+                  "notes": null,
+                  "imdb_id": "nm0422080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Festival",
+                  "notes": null,
+                  "imdb_id": "tt0061658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Murray Lerner",
+                  "notes": null,
+                  "imdb_id": "nm0503635"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harvest",
+                  "notes": null,
+                  "imdb_id": "tt0061750"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carroll Ballard",
+                  "notes": null,
+                  "imdb_id": "nm0050597"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Redwoods",
+                  "notes": null,
+                  "imdb_id": "tt0062184"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Jonathan Harris",
+                  "notes": "(producer) (as Mark Harris)",
+                  "imdb_id": "nm0365057"
+               },
+               {
+                  "name": "Trevor Greenwood",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0339401"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Place to Stand",
+                  "notes": null,
+                  "imdb_id": "tt0062131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Chapman",
+                  "notes": null,
+                  "imdb_id": "nm0152326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monument to the Dream",
+                  "notes": null,
+                  "imdb_id": "tt0061990"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "See You at the Pillar",
+                  "notes": null,
+                  "imdb_id": "tt0062246"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Fitchet",
+                  "notes": null,
+                  "imdb_id": "nm0280037"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "While I Run This Race",
+                  "notes": null,
+                  "imdb_id": "tt0062489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl V. Ragsdale",
+                  "notes": null,
+                  "imdb_id": "nm0706601"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Dirty Dozen",
+                  "notes": null,
+                  "imdb_id": "tt0061578"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Poyner",
+                  "notes": null,
+                  "imdb_id": "nm0694713"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Richard",
+                  "notes": null,
+                  "imdb_id": "nm0723821"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "L.B. Abbott",
+                  "notes": null,
+                  "imdb_id": "nm0008004"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tobruk",
+                  "notes": null,
+                  "imdb_id": "tt0062377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard A. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0026806"
+               },
+               {
+                  "name": "Albert Whitlock",
+                  "notes": null,
+                  "imdb_id": "nm0926087"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Ashby",
+                  "notes": null,
+                  "imdb_id": "nm0000797"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beach Red",
+                  "notes": null,
+                  "imdb_id": "tt0061389"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank P. Keller",
+                  "notes": null,
+                  "imdb_id": "nm0445628"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Samuel E. Beetley",
+                  "notes": null,
+                  "imdb_id": "nm0066622"
+               },
+               {
+                  "name": "Marjorie Fowler",
+                  "notes": null,
+                  "imdb_id": "nm0288761"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert C. Jones",
+                  "notes": null,
+                  "imdb_id": "nm0002717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dirty Dozen",
+                  "notes": null,
+                  "imdb_id": "tt0061578"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Luciano",
+                  "notes": null,
+                  "imdb_id": "nm0524597"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Czechoslovakia",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Closely Watched Trains",
+                  "notes": null,
+                  "imdb_id": "tt0060802"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bewitched Love",
+                  "notes": null,
+                  "imdb_id": "tt0061350"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chieko-sho",
+                  "notes": null,
+                  "imdb_id": "tt0061471"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Yugoslavia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Even Met Happy Gypsies",
+                  "notes": null,
+                  "imdb_id": "tt0062277"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Live for Life",
+                  "notes": null,
+                  "imdb_id": "tt0062452"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Music Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Bernstein",
+                  "notes": null,
+                  "imdb_id": "nm0000930"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cool Hand Luke",
+                  "notes": null,
+                  "imdb_id": "tt0061512"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lalo Schifrin",
+                  "notes": null,
+                  "imdb_id": "nm0006277"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": null,
+                  "imdb_id": "nm0108634"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Far from the Madding Crowd",
+                  "notes": null,
+                  "imdb_id": "tt0061648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Rodney Bennett",
+                  "notes": null,
+                  "imdb_id": "nm0005961"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Cold Blood",
+                  "notes": null,
+                  "imdb_id": "tt0061809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quincy Jones",
+                  "notes": null,
+                  "imdb_id": "nm0005065"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Talk to the Animals\". Leslie Bricusse was not present at the awards ceremony. 'Sammy Davis Jr.' accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": null,
+                  "imdb_id": "nm0108634"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Eyes of Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Banning",
+                  "notes": null,
+                  "imdb_id": "tt0061383"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quincy Jones",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005065"
+               },
+               {
+                  "name": "Bob Russell",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0751035"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Look of Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casino Royale",
+                  "notes": null,
+                  "imdb_id": "tt0061452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burt Bacharach",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000820"
+               },
+               {
+                  "name": "Hal David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202910"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Bare Necessities\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Jungle Book",
+                  "notes": null,
+                  "imdb_id": "tt0061852"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terry Gilkyson",
+                  "notes": null,
+                  "imdb_id": "nm0318601"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Thoroughly Modern Millie\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": null,
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": null,
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0061439"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               },
+               {
+                  "name": "Ken Darby",
+                  "notes": null,
+                  "imdb_id": "nm0006024"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               },
+               {
+                  "name": "Alexander Courage",
+                  "notes": null,
+                  "imdb_id": "nm0006021"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank De Vol",
+                  "notes": null,
+                  "imdb_id": "nm0006030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               },
+               {
+                  "name": "Joseph Gershenson",
+                  "notes": null,
+                  "imdb_id": "nm0314829"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Valley of the Dolls",
+                  "notes": null,
+                  "imdb_id": "tt0062430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Mirisch",
+                  "notes": null,
+                  "imdb_id": "nm0592387"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur P. Jacobs",
+                  "notes": null,
+                  "imdb_id": "nm0414336"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kramer",
+                  "notes": null,
+                  "imdb_id": "nm0006452"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Turman",
+                  "notes": null,
+                  "imdb_id": "nm0877274"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Box",
+                  "notes": null,
+                  "imdb_id": "tt0061421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Wolf",
+                  "notes": null,
+                  "imdb_id": "nm0937747"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hypoth\u00e8se Beta",
+                  "notes": null,
+                  "imdb_id": "tt0061798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Charles Meunier",
+                  "notes": null,
+                  "imdb_id": "nm0582839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What on Earth!",
+                  "notes": null,
+                  "imdb_id": "tt0062353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Verrall",
+                  "notes": null,
+                  "imdb_id": "nm0894826"
+               },
+               {
+                  "name": "Wolf Koenig",
+                  "notes": null,
+                  "imdb_id": "nm0462860"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place to Stand",
+                  "notes": null,
+                  "imdb_id": "tt0062131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Chapman",
+                  "notes": null,
+                  "imdb_id": "nm0152326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paddle to the Sea",
+                  "notes": null,
+                  "imdb_id": "tt0060810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julian Biggs",
+                  "notes": null,
+                  "imdb_id": "nm0081852"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sky Over Holland",
+                  "notes": null,
+                  "imdb_id": "tt0062278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Fernhout",
+                  "notes": null,
+                  "imdb_id": "nm0273142"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stop Look and Listen",
+                  "notes": null,
+                  "imdb_id": "tt0062307"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Len Janson",
+                  "notes": null,
+                  "imdb_id": "nm0418116"
+               },
+               {
+                  "name": "Chuck Menville",
+                  "notes": null,
+                  "imdb_id": "nm0579912"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": "Recipient: Samuel Goldwyn Studio Sound Department",
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Warner Bros.-Seven Arts Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0061439"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: 20th Century-Fox Studio Sound Department.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Dolittle",
+                  "notes": null,
+                  "imdb_id": "tt0061584"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Metro-Goldwyn-Mayer Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dirty Dozen",
+                  "notes": null,
+                  "imdb_id": "tt0061578"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Recipient: Universal City Studio Sound Department",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thoroughly Modern Millie",
+                  "notes": null,
+                  "imdb_id": "tt0062362"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Heat of the Night",
+                  "notes": null,
+                  "imdb_id": "tt0061811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stirling Silliphant",
+                  "notes": null,
+                  "imdb_id": "nm0798103"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cool Hand Luke",
+                  "notes": null,
+                  "imdb_id": "tt0061512"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donn Pearce",
+                  "notes": null,
+                  "imdb_id": "nm0668914"
+               },
+               {
+                  "name": "Frank Pierson",
+                  "notes": null,
+                  "imdb_id": "nm0682757"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Cold Blood",
+                  "notes": null,
+                  "imdb_id": "tt0061809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Graduate",
+                  "notes": null,
+                  "imdb_id": "tt0061722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Calder Willingham",
+                  "notes": null,
+                  "imdb_id": "nm0932229"
+               },
+               {
+                  "name": "Buck Henry",
+                  "notes": null,
+                  "imdb_id": "nm0377750"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ulysses",
+                  "notes": null,
+                  "imdb_id": "tt0062414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Strick",
+                  "notes": null,
+                  "imdb_id": "nm0834334"
+               },
+               {
+                  "name": "Fred Haines",
+                  "notes": null,
+                  "imdb_id": "nm0354247"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Guess Who's Coming to Dinner",
+                  "notes": null,
+                  "imdb_id": "tt0061735"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741740"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bonnie and Clyde",
+                  "notes": null,
+                  "imdb_id": "tt0061418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628058"
+               },
+               {
+                  "name": "Robert Benton",
+                  "notes": null,
+                  "imdb_id": "nm0000914"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Divorce American Style",
+                  "notes": null,
+                  "imdb_id": "tt0061581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Kaufman",
+                  "notes": "(story)",
+                  "imdb_id": "nm0442099"
+               },
+               {
+                  "name": "Norman Lear",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0005131"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The War Is Over",
+                  "notes": null,
+                  "imdb_id": "tt0060481"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jorge Sempr\u00fan",
+                  "notes": null,
+                  "imdb_id": "nm0783934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Two for the Road",
+                  "notes": null,
+                  "imdb_id": "tt0062407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederic Raphael",
+                  "notes": null,
+                  "imdb_id": "nm0710698"
+               }
+            ]
+         }
+      ]
+   }
+]

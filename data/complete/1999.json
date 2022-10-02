@@ -1,0 +1,2423 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Roberto Benigni",
+                  "notes": null,
+                  "imdb_id": "nm0000905"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward Norton",
+                  "notes": null,
+                  "imdb_id": "nm0001570"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American History X",
+                  "notes": null,
+                  "imdb_id": "tt0120586"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ian McKellen",
+                  "notes": null,
+                  "imdb_id": "nm0005212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gods and Monsters",
+                  "notes": null,
+                  "imdb_id": "tt0120684"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nick Nolte",
+                  "notes": null,
+                  "imdb_id": "nm0000560"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Affliction",
+                  "notes": null,
+                  "imdb_id": "tt0118564"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Hanks",
+                  "notes": null,
+                  "imdb_id": "nm0000158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "James Coburn",
+                  "notes": null,
+                  "imdb_id": "nm0000336"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Affliction",
+                  "notes": null,
+                  "imdb_id": "tt0118564"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Bob Thornton",
+                  "notes": null,
+                  "imdb_id": "nm0000671"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Simple Plan",
+                  "notes": null,
+                  "imdb_id": "tt0120324"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ed Harris",
+                  "notes": null,
+                  "imdb_id": "nm0000438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Truman Show",
+                  "notes": null,
+                  "imdb_id": "tt0120382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Geoffrey Rush",
+                  "notes": null,
+                  "imdb_id": "nm0001691"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Duvall",
+                  "notes": null,
+                  "imdb_id": "nm0000380"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Civil Action",
+                  "notes": null,
+                  "imdb_id": "tt0120633"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gwyneth Paltrow",
+                  "notes": null,
+                  "imdb_id": "nm0000569"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cate Blanchett",
+                  "notes": null,
+                  "imdb_id": "nm0000949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emily Watson",
+                  "notes": null,
+                  "imdb_id": "nm0001833"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hilary and Jackie",
+                  "notes": null,
+                  "imdb_id": "tt0150915"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fernanda Montenegro",
+                  "notes": null,
+                  "imdb_id": "nm0005244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Central Station",
+                  "notes": null,
+                  "imdb_id": "tt0140888"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One True Thing",
+                  "notes": null,
+                  "imdb_id": "tt0120776"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Judi Dench",
+                  "notes": null,
+                  "imdb_id": "nm0001132"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brenda Blethyn",
+                  "notes": null,
+                  "imdb_id": "nm0000950"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Voice",
+                  "notes": null,
+                  "imdb_id": "tt0147004"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kathy Bates",
+                  "notes": null,
+                  "imdb_id": "nm0000870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Primary Colors",
+                  "notes": null,
+                  "imdb_id": "tt0119942"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lynn Redgrave",
+                  "notes": null,
+                  "imdb_id": "nm0001655"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gods and Monsters",
+                  "notes": null,
+                  "imdb_id": "tt0120684"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rachel Griffiths",
+                  "notes": null,
+                  "imdb_id": "nm0341737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hilary and Jackie",
+                  "notes": null,
+                  "imdb_id": "tt0150915"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Childs",
+                  "notes": null,
+                  "imdb_id": "nm0157575"
+               },
+               {
+                  "name": "Jill Quertier",
+                  "notes": null,
+                  "imdb_id": "nm0703296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Myhre",
+                  "notes": null,
+                  "imdb_id": "nm0616924"
+               },
+               {
+                  "name": "Peter Howitt",
+                  "notes": null,
+                  "imdb_id": "nm0398184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pleasantville",
+                  "notes": null,
+                  "imdb_id": "tt0120789"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeannine Oppewall",
+                  "notes": null,
+                  "imdb_id": "nm0649223"
+               },
+               {
+                  "name": "Jay Hart",
+                  "notes": null,
+                  "imdb_id": "nm0366345"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas E. Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761742"
+               },
+               {
+                  "name": "Lisa Dean",
+                  "notes": null,
+                  "imdb_id": "nm0212856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What Dreams May Come",
+                  "notes": null,
+                  "imdb_id": "tt0120889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eugenio Zanetti",
+                  "notes": null,
+                  "imdb_id": "nm0952968"
+               },
+               {
+                  "name": "Cindy Carr",
+                  "notes": null,
+                  "imdb_id": "nm0139649"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janusz Kaminski",
+                  "notes": null,
+                  "imdb_id": "nm0001405"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Civil Action",
+                  "notes": null,
+                  "imdb_id": "tt0120633"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": "Remi Adefarasin became the first black person to be nominated in this category.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Remi Adefarasin",
+                  "notes": null,
+                  "imdb_id": "nm0001899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Greatrex",
+                  "notes": null,
+                  "imdb_id": "nm0337313"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Toll",
+                  "notes": null,
+                  "imdb_id": "nm0001799"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beloved",
+                  "notes": null,
+                  "imdb_id": "tt0120603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandra Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pleasantville",
+                  "notes": null,
+                  "imdb_id": "tt0120789"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judianna Makovsky",
+                  "notes": null,
+                  "imdb_id": "nm0538721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Velvet Goldmine",
+                  "notes": null,
+                  "imdb_id": "tt0120879"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Steven Spielberg",
+                  "notes": null,
+                  "imdb_id": "nm0000229"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Madden",
+                  "notes": null,
+                  "imdb_id": "nm0006960"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Weir",
+                  "notes": null,
+                  "imdb_id": "nm0001837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Truman Show",
+                  "notes": null,
+                  "imdb_id": "tt0120382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Roberto Benigni",
+                  "notes": null,
+                  "imdb_id": "nm0000905"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Terrence Malick",
+                  "notes": null,
+                  "imdb_id": "nm0000517"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Last Days",
+                  "notes": null,
+                  "imdb_id": "tt0174852"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Moll",
+                  "notes": null,
+                  "imdb_id": "nm0002224"
+               },
+               {
+                  "name": "Ken Lipper",
+                  "notes": null,
+                  "imdb_id": "nm0513601"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dancemaker",
+                  "notes": null,
+                  "imdb_id": "tt0175550"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew Diamond",
+                  "notes": null,
+                  "imdb_id": "nm0224683"
+               },
+               {
+                  "name": "Jerry Kupfer",
+                  "notes": null,
+                  "imdb_id": "nm0475465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lenny Bruce: Swear to Tell the Truth",
+                  "notes": null,
+                  "imdb_id": "tt0175844"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert B. Weide",
+                  "notes": null,
+                  "imdb_id": "nm0004332"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Regret to Inform",
+                  "notes": null,
+                  "imdb_id": "tt0181786"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Sonneborn",
+                  "notes": null,
+                  "imdb_id": "nm0814384"
+               },
+               {
+                  "name": "Janet Cole",
+                  "notes": null,
+                  "imdb_id": "nm0170584"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Farm: Angola, USA",
+                  "notes": null,
+                  "imdb_id": "tt0139193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jonathan Stack",
+                  "notes": null,
+                  "imdb_id": "nm0821033"
+               },
+               {
+                  "name": "Liz Garbus",
+                  "notes": null,
+                  "imdb_id": "nm0305017"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Personals",
+                  "notes": null,
+                  "imdb_id": "tt0176018"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Keiko Ibi",
+                  "notes": null,
+                  "imdb_id": "nm0406503"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Place in the Land",
+                  "notes": null,
+                  "imdb_id": "tt0189009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunrise Over Tiananmen Square",
+                  "notes": null,
+                  "imdb_id": "tt0189121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shui-Bo Wang",
+                  "notes": null,
+                  "imdb_id": "nm0911031"
+               },
+               {
+                  "name": "Donald McWilliams",
+                  "notes": null,
+                  "imdb_id": "nm0574806"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Armageddon",
+                  "notes": null,
+                  "imdb_id": "tt0120591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Watters II",
+                  "notes": null,
+                  "imdb_id": "nm0915036"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mask of Zorro",
+                  "notes": null,
+                  "imdb_id": "tt0120746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave McMoyler",
+                  "notes": null,
+                  "imdb_id": "nm0573393"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "What Dreams May Come",
+                  "notes": null,
+                  "imdb_id": "tt0120889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Hynek",
+                  "notes": null,
+                  "imdb_id": "nm0006699"
+               },
+               {
+                  "name": "Nicholas Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112172"
+               },
+               {
+                  "name": "Stuart Robertson",
+                  "notes": null,
+                  "imdb_id": "nm0732035"
+               },
+               {
+                  "name": "Kevin Scott Mack",
+                  "notes": null,
+                  "imdb_id": "nm0533034"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Armageddon",
+                  "notes": null,
+                  "imdb_id": "tt0120591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard R. Hoover",
+                  "notes": null,
+                  "imdb_id": "nm0393923"
+               },
+               {
+                  "name": "Pat McClung",
+                  "notes": null,
+                  "imdb_id": "nm0565957"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mighty Joe Young",
+                  "notes": null,
+                  "imdb_id": "tt0120751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "Hoyt Yeatman",
+                  "notes": null,
+                  "imdb_id": "nm0947087"
+               },
+               {
+                  "name": "Allen Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355292"
+               },
+               {
+                  "name": "Jim Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593437"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Kahn",
+                  "notes": null,
+                  "imdb_id": "nm0434883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Simona Paggi",
+                  "notes": null,
+                  "imdb_id": "nm0656455"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Out of Sight",
+                  "notes": null,
+                  "imdb_id": "tt0120780"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne V. Coates",
+                  "notes": null,
+                  "imdb_id": "nm0167613"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Gamble",
+                  "notes": null,
+                  "imdb_id": "nm0303775"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Weber",
+                  "notes": null,
+                  "imdb_id": "nm0916502"
+               },
+               {
+                  "name": "Leslie Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428655"
+               },
+               {
+                  "name": "Saar Klein",
+                  "notes": null,
+                  "imdb_id": "nm0458964"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Brazil.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Central Station",
+                  "notes": null,
+                  "imdb_id": "tt0140888"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Iran.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children of Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0118849"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Argentina.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tango",
+                  "notes": null,
+                  "imdb_id": "tt0120274"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grandfather",
+                  "notes": null,
+                  "imdb_id": "tt0176415"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jenny Shircore",
+                  "notes": null,
+                  "imdb_id": "nm0794246"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lois Burwell",
+                  "notes": null,
+                  "imdb_id": "nm0006627"
+               },
+               {
+                  "name": "Conor O'Sullivan",
+                  "notes": null,
+                  "imdb_id": "nm0642745"
+               },
+               {
+                  "name": "Daniel C. Striepeke",
+                  "notes": null,
+                  "imdb_id": "nm0834475"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lisa Westcott",
+                  "notes": null,
+                  "imdb_id": "nm0922509"
+               },
+               {
+                  "name": "Veronica McAleer",
+                  "notes": null,
+                  "imdb_id": "nm0106494"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicola Piovani",
+                  "notes": null,
+                  "imdb_id": "nm0003607"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Hirschfelder",
+                  "notes": null,
+                  "imdb_id": "nm0386595"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pleasantville",
+                  "notes": null,
+                  "imdb_id": "tt0120789"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Warbeck",
+                  "notes": null,
+                  "imdb_id": "nm0006339"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Bug's Life",
+                  "notes": null,
+                  "imdb_id": "tt0120623"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mulan",
+                  "notes": null,
+                  "imdb_id": "tt0120762"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew Wilder",
+                  "notes": "(music)",
+                  "imdb_id": "nm0928607"
+               },
+               {
+                  "name": "David Zippel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0957138"
+               },
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": "(orchestral score)",
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Patch Adams",
+                  "notes": null,
+                  "imdb_id": "tt0129290"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc Shaiman",
+                  "notes": null,
+                  "imdb_id": "nm0003299"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Egypt",
+                  "notes": null,
+                  "imdb_id": "tt0120794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": "(music/lyrics)",
+                  "imdb_id": "nm0777451"
+               },
+               {
+                  "name": "Hans Zimmer",
+                  "notes": "(orchestral score)",
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"When You Believe\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Prince of Egypt",
+                  "notes": null,
+                  "imdb_id": "tt0120794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": null,
+                  "imdb_id": "nm0777451"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Don't Want To Miss A Thing\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Armageddon",
+                  "notes": null,
+                  "imdb_id": "tt0120591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"That'll Do\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Babe: Pig in the City",
+                  "notes": null,
+                  "imdb_id": "tt0120595"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Prayer\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quest for Camelot",
+                  "notes": null,
+                  "imdb_id": "tt0120800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carole Bayer Sager",
+                  "notes": "(music/lyrics)",
+                  "imdb_id": "nm0004728"
+               },
+               {
+                  "name": "David Foster",
+                  "notes": "(music/lyrics)",
+                  "imdb_id": "nm0287757"
+               },
+               {
+                  "name": "Tony Renis",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0719554"
+               },
+               {
+                  "name": "Alberto Testa",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0856413"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A Soft Place To Fall\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Horse Whisperer",
+                  "notes": null,
+                  "imdb_id": "tt0119314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allison Moorer",
+                  "notes": null,
+                  "imdb_id": "nm0602070"
+               },
+               {
+                  "name": "Gwil Owen",
+                  "notes": null,
+                  "imdb_id": "nm1666203"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Parfitt",
+                  "notes": null,
+                  "imdb_id": "nm0661406"
+               },
+               {
+                  "name": "Donna Gigliotti",
+                  "notes": null,
+                  "imdb_id": "nm0317642"
+               },
+               {
+                  "name": "Harvey Weinstein",
+                  "notes": null,
+                  "imdb_id": "nm0005544"
+               },
+               {
+                  "name": "Edward Zwick",
+                  "notes": null,
+                  "imdb_id": "nm0001880"
+               },
+               {
+                  "name": "Marc Norman",
+                  "notes": null,
+                  "imdb_id": "nm0635565"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth",
+                  "notes": null,
+                  "imdb_id": "tt0127536"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alison Owen",
+                  "notes": null,
+                  "imdb_id": "nm0654077"
+               },
+               {
+                  "name": "Eric Fellner",
+                  "notes": null,
+                  "imdb_id": "nm0271479"
+               },
+               {
+                  "name": "Tim Bevan",
+                  "notes": null,
+                  "imdb_id": "nm0079677"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elda Ferri",
+                  "notes": null,
+                  "imdb_id": "nm0274754"
+               },
+               {
+                  "name": "Gianluigi Braschi",
+                  "notes": null,
+                  "imdb_id": "nm0105346"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Spielberg",
+                  "notes": null,
+                  "imdb_id": "nm0000229"
+               },
+               {
+                  "name": "Ian Bryce",
+                  "notes": null,
+                  "imdb_id": "nm0117290"
+               },
+               {
+                  "name": "Mark Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330428"
+               },
+               {
+                  "name": "Gary Levinsohn",
+                  "notes": null,
+                  "imdb_id": "nm0506013"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Michael Geisler",
+                  "notes": null,
+                  "imdb_id": "nm0312059"
+               },
+               {
+                  "name": "John Roberdeau",
+                  "notes": null,
+                  "imdb_id": "nm0730535"
+               },
+               {
+                  "name": "Grant Hill",
+                  "notes": null,
+                  "imdb_id": "nm0384294"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bunny",
+                  "notes": null,
+                  "imdb_id": "tt0179011"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Wedge",
+                  "notes": null,
+                  "imdb_id": "nm0917188"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jolly Roger",
+                  "notes": null,
+                  "imdb_id": "tt0188723"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Baker",
+                  "notes": null,
+                  "imdb_id": "nm0048735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "More",
+                  "notes": null,
+                  "imdb_id": "tt0188913"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Osborne",
+                  "notes": null,
+                  "imdb_id": "nm0651706"
+               },
+               {
+                  "name": "Steve Kalafer",
+                  "notes": null,
+                  "imdb_id": "nm0435470"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Canterbury Tales",
+                  "notes": null,
+                  "imdb_id": "tt0188478"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333333"
+               },
+               {
+                  "name": "Jonathan Myerson",
+                  "notes": null,
+                  "imdb_id": "nm0616902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Life Departs",
+                  "notes": null,
+                  "imdb_id": "tt0189205"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karsten Kiilerich",
+                  "notes": null,
+                  "imdb_id": "nm0478172"
+               },
+               {
+                  "name": "Stefan Fjeldmark",
+                  "notes": null,
+                  "imdb_id": "nm0280745"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Election Night",
+                  "notes": null,
+                  "imdb_id": "tt0189179"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kim Magnusson",
+                  "notes": null,
+                  "imdb_id": "nm0536385"
+               },
+               {
+                  "name": "Anders Thomas Jensen",
+                  "notes": null,
+                  "imdb_id": "nm0421314"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Culture",
+                  "notes": null,
+                  "imdb_id": "tt0188533"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Will Speck",
+                  "notes": null,
+                  "imdb_id": "nm0817447"
+               },
+               {
+                  "name": "Josh Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330347"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Holiday Romance",
+                  "notes": null,
+                  "imdb_id": "tt0188667"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Jovy",
+                  "notes": null,
+                  "imdb_id": "nm0003473"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Postcard",
+                  "notes": null,
+                  "imdb_id": "tt0188485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vivian Goffette",
+                  "notes": null,
+                  "imdb_id": "nm0324600"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Victor",
+                  "notes": null,
+                  "imdb_id": "tt0189186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Simon Sandquist",
+                  "notes": null,
+                  "imdb_id": "nm0762217"
+               },
+               {
+                  "name": "Joel Bergvall",
+                  "notes": null,
+                  "imdb_id": "nm0075150"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Gary Summers",
+                  "notes": null,
+                  "imdb_id": "nm0838707"
+               },
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Ron Judkins",
+                  "notes": null,
+                  "imdb_id": "nm0431954"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Armageddon",
+                  "notes": null,
+                  "imdb_id": "tt0120591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Keith A. Wester",
+                  "notes": null,
+                  "imdb_id": "nm0199492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robin O'Donoghue",
+                  "notes": null,
+                  "imdb_id": "nm0640877"
+               },
+               {
+                  "name": "Dominic Lester",
+                  "notes": null,
+                  "imdb_id": "nm0504438"
+               },
+               {
+                  "name": "Peter Glossop",
+                  "notes": null,
+                  "imdb_id": "nm0323049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mask of Zorro",
+                  "notes": null,
+                  "imdb_id": "tt0120746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Pud Cusack",
+                  "notes": null,
+                  "imdb_id": "nm0193650"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Paul 'Salty' Brincat",
+                  "notes": null,
+                  "imdb_id": "nm0109444"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gods and Monsters",
+                  "notes": null,
+                  "imdb_id": "tt0120684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Condon",
+                  "notes": null,
+                  "imdb_id": "nm0174374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Simple Plan",
+                  "notes": null,
+                  "imdb_id": "tt0120324"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott B. Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809895"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Out of Sight",
+                  "notes": null,
+                  "imdb_id": "tt0120780"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Frank",
+                  "notes": null,
+                  "imdb_id": "nm0291082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Primary Colors",
+                  "notes": null,
+                  "imdb_id": "tt0119942"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elaine May",
+                  "notes": null,
+                  "imdb_id": "nm0561938"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Thin Red Line",
+                  "notes": null,
+                  "imdb_id": "tt0120863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terrence Malick",
+                  "notes": null,
+                  "imdb_id": "nm0000517"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shakespeare in Love",
+                  "notes": null,
+                  "imdb_id": "tt0138097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc Norman",
+                  "notes": null,
+                  "imdb_id": "nm0635565"
+               },
+               {
+                  "name": "Tom Stoppard",
+                  "notes": null,
+                  "imdb_id": "nm0001779"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bulworth",
+                  "notes": null,
+                  "imdb_id": "tt0118798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0000886"
+               },
+               {
+                  "name": "Jeremy Pikser",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0683282"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life Is Beautiful",
+                  "notes": null,
+                  "imdb_id": "tt0118799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vincenzo Cerami",
+                  "notes": null,
+                  "imdb_id": "nm0148437"
+               },
+               {
+                  "name": "Roberto Benigni",
+                  "notes": null,
+                  "imdb_id": "nm0000905"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Private Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0120815"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Rodat",
+                  "notes": null,
+                  "imdb_id": "nm0734441"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Truman Show",
+                  "notes": null,
+                  "imdb_id": "tt0120382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Niccol",
+                  "notes": null,
+                  "imdb_id": "nm0629272"
+               }
+            ]
+         }
+      ]
+   }
+]

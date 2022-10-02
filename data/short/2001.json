@@ -1,0 +1,753 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Russell Crowe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ed Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geoffrey Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Javier Bardem"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Benicio Del Toro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Finney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joaquin Phoenix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Willem Dafoe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julia Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Allen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juliette Binoche"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laura Linney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marcia Gay Harden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frances McDormand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Walters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Hudson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the Grinch Stole Christmas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quills"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vatel"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Malena"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "O Brother, Where Art Thou?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Patriot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "102 Dalmatians"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the Grinch Stole Christmas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quills"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Steven Soderbergh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ang Lee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ridley Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stephen Daldry"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Soderbergh"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Into the Arms of Strangers: Stories of the Kindertransport"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Legacy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Long Night's Journey Into Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scottsboro: An American Tragedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sound and Fury"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Big Mama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Curtain Call"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dolphins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Tiptoe: Gentle Steps to Freedom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man on Lincoln's Nose"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hollow Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Perfect Storm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Traffic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Almost Famous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wonder Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amores perros"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Divided We Fall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Everybody's Famous!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Taste of Others"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "How the Grinch Stole Christmas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shadow of the Vampire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chocolat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Malena"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Patriot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wonder Boys"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dancer in the Dark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meet the Parents"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emperor's New Groove"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chocolat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Erin Brockovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Traffic"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Father and Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rejected"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Periwig-Maker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Quiero ser (I want to be...)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "By Courier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Day Crossing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seraglio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Uma Hist\u00f3ria de Futebol"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cast Away"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Patriot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Perfect Storm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "U-571"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "U-571"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Space Cowboys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Traffic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chocolat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crouching Tiger, Hidden Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "O Brother, Where Art Thou?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wonder Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Almost Famous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Elliot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Erin Brockovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gladiator"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You Can Count on Me"
+            ]
+         }
+      ]
+   }
+]

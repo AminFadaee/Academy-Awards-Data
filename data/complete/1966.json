@@ -1,0 +1,2526 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lee Marvin",
+                  "notes": null,
+                  "imdb_id": "nm0001511"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cat Ballou",
+                  "notes": null,
+                  "imdb_id": "tt0059017"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Othello",
+                  "notes": null,
+                  "imdb_id": "tt0059555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oskar Werner",
+                  "notes": null,
+                  "imdb_id": "nm0921459"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Burton",
+                  "notes": null,
+                  "imdb_id": "nm0000009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Spy Who Came in from the Cold",
+                  "notes": null,
+                  "imdb_id": "tt0059749"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rod Steiger",
+                  "notes": null,
+                  "imdb_id": "nm0001768"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Pawnbroker",
+                  "notes": null,
+                  "imdb_id": "tt0059575"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Martin Balsam",
+                  "notes": null,
+                  "imdb_id": "nm0000842"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Thousand Clowns",
+                  "notes": null,
+                  "imdb_id": "tt0059798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frank Finlay",
+                  "notes": null,
+                  "imdb_id": "nm0277975"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Othello",
+                  "notes": null,
+                  "imdb_id": "tt0059555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ian Bannen",
+                  "notes": null,
+                  "imdb_id": "nm0000846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Flight of the Phoenix",
+                  "notes": null,
+                  "imdb_id": "tt0059183"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Dunn",
+                  "notes": null,
+                  "imdb_id": "nm0242692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Courtenay",
+                  "notes": null,
+                  "imdb_id": "nm0183822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Julie Christie",
+                  "notes": null,
+                  "imdb_id": "nm0001046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darling",
+                  "notes": null,
+                  "imdb_id": "tt0059084"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth Hartman",
+                  "notes": null,
+                  "imdb_id": "nm0366946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Patch of Blue",
+                  "notes": null,
+                  "imdb_id": "tt0059573"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Andrews",
+                  "notes": null,
+                  "imdb_id": "nm0000267"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samantha Eggar",
+                  "notes": null,
+                  "imdb_id": "nm0002058"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Collector",
+                  "notes": null,
+                  "imdb_id": "tt0059043"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Simone Signoret",
+                  "notes": null,
+                  "imdb_id": "nm0797531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shelley Winters",
+                  "notes": null,
+                  "imdb_id": "nm0001859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Patch of Blue",
+                  "notes": null,
+                  "imdb_id": "tt0059573"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joyce Redman",
+                  "notes": null,
+                  "imdb_id": "nm0715010"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Othello",
+                  "notes": null,
+                  "imdb_id": "tt0059555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maggie Smith",
+                  "notes": null,
+                  "imdb_id": "nm0001749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Othello",
+                  "notes": null,
+                  "imdb_id": "tt0059555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peggy Wood",
+                  "notes": null,
+                  "imdb_id": "nm0939931"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ruth Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0002106"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Inside Daisy Clover",
+                  "notes": null,
+                  "imdb_id": "tt0059314"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Clatworthy",
+                  "notes": null,
+                  "imdb_id": "nm0165197"
+               },
+               {
+                  "name": "Joseph Kish",
+                  "notes": null,
+                  "imdb_id": "nm0457184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Patch of Blue",
+                  "notes": null,
+                  "imdb_id": "tt0059573"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Urie McCleary",
+                  "notes": null,
+                  "imdb_id": "nm0565720"
+               },
+               {
+                  "name": "Henry Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333352"
+               },
+               {
+                  "name": "Charles S. Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0859962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Rat",
+                  "notes": null,
+                  "imdb_id": "tt0059358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Emmet Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809757"
+               },
+               {
+                  "name": "Frank Tuttle",
+                  "notes": null,
+                  "imdb_id": "nm0878339"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Slender Thread",
+                  "notes": null,
+                  "imdb_id": "tt0059729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Jack Poplin",
+                  "notes": null,
+                  "imdb_id": "nm0691305"
+               },
+               {
+                  "name": "Robert R. Benton",
+                  "notes": null,
+                  "imdb_id": "nm0072960"
+               },
+               {
+                  "name": "Joseph Kish",
+                  "notes": null,
+                  "imdb_id": "nm0457184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Spy Who Came in from the Cold",
+                  "notes": null,
+                  "imdb_id": "tt0059749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Tambi Larsen",
+                  "notes": null,
+                  "imdb_id": "nm0488910"
+               },
+               {
+                  "name": "Edward Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0550864"
+               },
+               {
+                  "name": "Josie MacAvin",
+                  "notes": null,
+                  "imdb_id": "nm0531357"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Box",
+                  "notes": null,
+                  "imdb_id": "nm0101501"
+               },
+               {
+                  "name": "Terence Marsh",
+                  "notes": null,
+                  "imdb_id": "nm0550671"
+               },
+               {
+                  "name": "Dario Simoni",
+                  "notes": null,
+                  "imdb_id": "nm0800618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inside Daisy Clover",
+                  "notes": null,
+                  "imdb_id": "tt0059314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Clatworthy",
+                  "notes": null,
+                  "imdb_id": "nm0165197"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Agony and the Ecstasy",
+                  "notes": null,
+                  "imdb_id": "tt0058886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Jack Martin Smith",
+                  "notes": null,
+                  "imdb_id": "nm0005584"
+               },
+               {
+                  "name": "Dario Simoni",
+                  "notes": null,
+                  "imdb_id": "nm0800618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Story Ever Told",
+                  "notes": null,
+                  "imdb_id": "tt0059245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "William J. Creber",
+                  "notes": null,
+                  "imdb_id": "nm0187169"
+               },
+               {
+                  "name": "David S. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355465"
+               },
+               {
+                  "name": "Ray Moyer",
+                  "notes": null,
+                  "imdb_id": "nm0610455"
+               },
+               {
+                  "name": "Fred M. MacLean",
+                  "notes": null,
+                  "imdb_id": "nm0533771"
+               },
+               {
+                  "name": "Norman Rockett",
+                  "notes": null,
+                  "imdb_id": "nm0734070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boris Leven",
+                  "notes": null,
+                  "imdb_id": "nm0505227"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Ruby R. Levitt",
+                  "notes": null,
+                  "imdb_id": "nm0506239"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Laszlo",
+                  "notes": null,
+                  "imdb_id": "nm0005768"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Patch of Blue",
+                  "notes": null,
+                  "imdb_id": "tt0059573"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Burks",
+                  "notes": null,
+                  "imdb_id": "nm0122079"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In Harm's Way",
+                  "notes": null,
+                  "imdb_id": "tt0059309"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Loyal Griggs",
+                  "notes": null,
+                  "imdb_id": "nm0005729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King Rat",
+                  "notes": null,
+                  "imdb_id": "tt0059358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burnett Guffey",
+                  "notes": null,
+                  "imdb_id": "nm0346532"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morituri",
+                  "notes": null,
+                  "imdb_id": "tt0059470"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Young",
+                  "notes": null,
+                  "imdb_id": "nm0002875"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Agony and the Ecstasy",
+                  "notes": null,
+                  "imdb_id": "tt0058886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Race",
+                  "notes": null,
+                  "imdb_id": "tt0059243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Harlan",
+                  "notes": null,
+                  "imdb_id": "nm0005737"
+               }
+            ]
+         },
+         {
+            "notes": "William C. Mellor's nomination is posthumous, as he died from a heart attack during the film's production. Loyal Griggs was brought in finish the movie.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Story Ever Told",
+                  "notes": null,
+                  "imdb_id": "tt0059245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William C. Mellor",
+                  "notes": null,
+                  "imdb_id": "nm0005794"
+               },
+               {
+                  "name": "Loyal Griggs",
+                  "notes": null,
+                  "imdb_id": "nm0005729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted D. McCord",
+                  "notes": null,
+                  "imdb_id": "nm0005792"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Darling",
+                  "notes": null,
+                  "imdb_id": "tt0059084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julie Harris",
+                  "notes": null,
+                  "imdb_id": "nm0364916"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Rage to Live",
+                  "notes": null,
+                  "imdb_id": "tt0059630"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shoup",
+                  "notes": null,
+                  "imdb_id": "nm0795251"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morituri",
+                  "notes": null,
+                  "imdb_id": "tt0059470"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moss Mabry",
+                  "notes": null,
+                  "imdb_id": "nm0531117"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               },
+               {
+                  "name": "Jean Louis",
+                  "notes": null,
+                  "imdb_id": "nm0521872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Slender Thread",
+                  "notes": null,
+                  "imdb_id": "tt0059729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phyllis Dalton",
+                  "notes": null,
+                  "imdb_id": "nm0198335"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inside Daisy Clover",
+                  "notes": null,
+                  "imdb_id": "tt0059314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Agony and the Ecstasy",
+                  "notes": null,
+                  "imdb_id": "tt0058886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vittorio Nino Novarese",
+                  "notes": null,
+                  "imdb_id": "nm0636973"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Story Ever Told",
+                  "notes": null,
+                  "imdb_id": "tt0059245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vittorio Nino Novarese",
+                  "notes": null,
+                  "imdb_id": "nm0636973"
+               },
+               {
+                  "name": "Marjorie Best",
+                  "notes": null,
+                  "imdb_id": "nm0078968"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dorothy Jeakins",
+                  "notes": null,
+                  "imdb_id": "nm0419820"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": "Robert Wise couldn't attend the award ceremony, as he was busy filming The Sand Pebbles (1966) in Hong Kong. Best Actress nominee Julie Andrews accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Robert Wise",
+                  "notes": null,
+                  "imdb_id": "nm0936404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Lean",
+                  "notes": null,
+                  "imdb_id": "nm0000180"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hiroshi Teshigahara",
+                  "notes": null,
+                  "imdb_id": "nm0856267"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woman in the Dunes",
+                  "notes": null,
+                  "imdb_id": "tt0058625"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772259"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darling",
+                  "notes": null,
+                  "imdb_id": "tt0059084"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Collector",
+                  "notes": null,
+                  "imdb_id": "tt0059043"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Eleanor Roosevelt Story",
+                  "notes": null,
+                  "imdb_id": "tt0059145"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sidney Glazier",
+                  "notes": null,
+                  "imdb_id": "nm0322263"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Let My People Go",
+                  "notes": null,
+                  "imdb_id": "tt0857321"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marshall Flaum",
+                  "notes": null,
+                  "imdb_id": "nm0281310"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Battle of the Bulge... The Brave Rifles",
+                  "notes": null,
+                  "imdb_id": "tt0058948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laurence E. Mascott",
+                  "notes": null,
+                  "imdb_id": "nm0556226"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Forth Road Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0059193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Mills",
+                  "notes": null,
+                  "imdb_id": "nm0590149"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "To Die in Madrid",
+                  "notes": null,
+                  "imdb_id": "tt0057327"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fr\u00e9d\u00e9ric Rossif",
+                  "notes": null,
+                  "imdb_id": "nm0744364"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "To Be Alive!",
+                  "notes": null,
+                  "imdb_id": "tt0059814"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Francis Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0860136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mural on Our Street",
+                  "notes": null,
+                  "imdb_id": "tt0059483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kirk Smallman",
+                  "notes": null,
+                  "imdb_id": "nm0806577"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ouverture",
+                  "notes": null,
+                  "imdb_id": "tt0059559"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Point of View",
+                  "notes": null,
+                  "imdb_id": "tt0059609"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Yeats Country",
+                  "notes": null,
+                  "imdb_id": "tt0059926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patrick Carey",
+                  "notes": null,
+                  "imdb_id": "nm0137011"
+               },
+               {
+                  "name": "Joe Mendoza",
+                  "notes": null,
+                  "imdb_id": "nm0579297"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great Race",
+                  "notes": null,
+                  "imdb_id": "tt0059243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Treg Brown",
+                  "notes": null,
+                  "imdb_id": "nm0114830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Von Ryan's Express",
+                  "notes": null,
+                  "imdb_id": "tt0059885"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Rossi",
+                  "notes": null,
+                  "imdb_id": "nm0744346"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Thunderball",
+                  "notes": null,
+                  "imdb_id": "tt0059800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Stears",
+                  "notes": null,
+                  "imdb_id": "nm0824210"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Story Ever Told",
+                  "notes": null,
+                  "imdb_id": "tt0059245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "J. McMillan Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425262"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0722000"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cat Ballou",
+                  "notes": null,
+                  "imdb_id": "tt0059017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625224"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Savage",
+                  "notes": null,
+                  "imdb_id": "nm0767355"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Flight of the Phoenix",
+                  "notes": null,
+                  "imdb_id": "tt0059183"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Luciano",
+                  "notes": null,
+                  "imdb_id": "nm0524597"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Race",
+                  "notes": null,
+                  "imdb_id": "tt0059243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph E. Winters",
+                  "notes": null,
+                  "imdb_id": "nm0935988"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Czechoslovakia.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Shop on Main Street",
+                  "notes": null,
+                  "imdb_id": "tt0059527"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Greece.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blood on the Land",
+                  "notes": null,
+                  "imdb_id": "tt0057892"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dear John",
+                  "notes": null,
+                  "imdb_id": "tt0058281"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kwaidan",
+                  "notes": null,
+                  "imdb_id": "tt0058279"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marriage Italian Style",
+                  "notes": null,
+                  "imdb_id": "tt0058335"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"The Shadow of Your Smile\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sandpiper",
+                  "notes": null,
+                  "imdb_id": "tt0059674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Mandel",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006184"
+               },
+               {
+                  "name": "Paul Francis Webster",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0916990"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Ballad of Cat Ballou\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cat Ballou",
+                  "notes": null,
+                  "imdb_id": "tt0059017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Livingston",
+                  "notes": "(music)",
+                  "imdb_id": "nm0515256"
+               },
+               {
+                  "name": "Mack David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202988"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Sweetheart Tree\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Race",
+                  "notes": null,
+                  "imdb_id": "tt0059243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000049"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Will Wait for You\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Umbrellas of Cherbourg",
+                  "notes": null,
+                  "imdb_id": "tt0058450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006166"
+               },
+               {
+                  "name": "Jacques Demy",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0218840"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"What's New, Pussycat?\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "What's New Pussycat",
+                  "notes": null,
+                  "imdb_id": "tt0059903"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burt Bacharach",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000820"
+               },
+               {
+                  "name": "Hal David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202910"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score - Substantially Original",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurice Jarre",
+                  "notes": null,
+                  "imdb_id": "nm0003574"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Patch of Blue",
+                  "notes": null,
+                  "imdb_id": "tt0059573"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Agony and the Ecstasy",
+                  "notes": null,
+                  "imdb_id": "tt0058886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Greatest Story Ever Told",
+                  "notes": null,
+                  "imdb_id": "tt0059245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Umbrellas of Cherbourg",
+                  "notes": null,
+                  "imdb_id": "tt0058450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0006166"
+               },
+               {
+                  "name": "Jacques Demy",
+                  "notes": null,
+                  "imdb_id": "nm0218840"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Kostal",
+                  "notes": null,
+                  "imdb_id": "nm0467348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Thousand Clowns",
+                  "notes": null,
+                  "imdb_id": "tt0059798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Walker",
+                  "notes": null,
+                  "imdb_id": "nm0907692"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cat Ballou",
+                  "notes": null,
+                  "imdb_id": "tt0059017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank De Vol",
+                  "notes": null,
+                  "imdb_id": "nm0006030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pleasure Seekers",
+                  "notes": null,
+                  "imdb_id": "tt0058479"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               },
+               {
+                  "name": "Alexander Courage",
+                  "notes": null,
+                  "imdb_id": "nm0006021"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Umbrellas of Cherbourg",
+                  "notes": null,
+                  "imdb_id": "tt0058450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0006166"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "Robert Wise couldn't attend the award ceremony, as he was busy filming The Sand Pebbles (1966) in Hong Kong. Saul Chaplin, the film's associate producer, accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Wise",
+                  "notes": null,
+                  "imdb_id": "nm0936404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Thousand Clowns",
+                  "notes": null,
+                  "imdb_id": "tt0059798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Coe",
+                  "notes": null,
+                  "imdb_id": "nm0168641"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Darling",
+                  "notes": null,
+                  "imdb_id": "tt0059084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Janni",
+                  "notes": null,
+                  "imdb_id": "nm0417830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carlo Ponti",
+                  "notes": null,
+                  "imdb_id": "nm0690638"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kramer",
+                  "notes": null,
+                  "imdb_id": "nm0006452"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Dot and the Line: A Romance in Lower Mathematics",
+                  "notes": null,
+                  "imdb_id": "tt0059122"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chuck Jones",
+                  "notes": null,
+                  "imdb_id": "nm0005062"
+               },
+               {
+                  "name": "Les Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0325828"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clay or the Origin of Species",
+                  "notes": null,
+                  "imdb_id": "tt0059041"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eli Noyes",
+                  "notes": null,
+                  "imdb_id": "nm0637524"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La gazza ladra",
+                  "notes": null,
+                  "imdb_id": "tt0059214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emanuele Luzzati",
+                  "notes": null,
+                  "imdb_id": "nm0527810"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Chicken",
+                  "notes": null,
+                  "imdb_id": "tt0059613"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Claude Berri",
+                  "notes": null,
+                  "imdb_id": "nm0001945"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fortress of Peace",
+                  "notes": null,
+                  "imdb_id": "tt0059194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lothar Wolff",
+                  "notes": null,
+                  "imdb_id": "nm0937852"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skaterdater",
+                  "notes": null,
+                  "imdb_id": "tt0059725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marshall Backlar",
+                  "notes": null,
+                  "imdb_id": "nm0045677"
+               },
+               {
+                  "name": "Noel Black",
+                  "notes": null,
+                  "imdb_id": "nm0085457"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Snow",
+                  "notes": null,
+                  "imdb_id": "tt0059731"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edgar Anstey",
+                  "notes": null,
+                  "imdb_id": "nm0030693"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Time Piece",
+                  "notes": null,
+                  "imdb_id": "tt0059807"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Henson",
+                  "notes": null,
+                  "imdb_id": "nm0001345"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sound of Music",
+                  "notes": null,
+                  "imdb_id": "tt0059742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Corcoran",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0179331"
+               },
+               {
+                  "name": "Fred Hynes",
+                  "notes": "(Todd-AO SSD)",
+                  "imdb_id": "nm0405261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A.W. Watkins",
+                  "notes": "(M-G-M British SSD)",
+                  "imdb_id": "nm0914249"
+               },
+               {
+                  "name": "Franklin Milton",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0590665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shenandoah",
+                  "notes": null,
+                  "imdb_id": "tt0059711"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Waldon O. Watson",
+                  "notes": "(Universal City SSD)",
+                  "imdb_id": "nm0910592"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Agony and the Ecstasy",
+                  "notes": null,
+                  "imdb_id": "tt0058886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Corcoran",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0179331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Race",
+                  "notes": null,
+                  "imdb_id": "tt0059243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Groves",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0344060"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Doctor Zhivago",
+                  "notes": null,
+                  "imdb_id": "tt0059113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Bolt",
+                  "notes": null,
+                  "imdb_id": "nm0004122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Thousand Clowns",
+                  "notes": null,
+                  "imdb_id": "tt0059798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herb Gardner",
+                  "notes": null,
+                  "imdb_id": "nm0306949"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cat Ballou",
+                  "notes": null,
+                  "imdb_id": "tt0059017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628305"
+               },
+               {
+                  "name": "Frank Pierson",
+                  "notes": null,
+                  "imdb_id": "nm0682757"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ship of Fools",
+                  "notes": null,
+                  "imdb_id": "tt0059712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Abby Mann",
+                  "notes": null,
+                  "imdb_id": "nm0542631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Collector",
+                  "notes": null,
+                  "imdb_id": "tt0059043"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Mann",
+                  "notes": null,
+                  "imdb_id": "nm0542970"
+               },
+               {
+                  "name": "John Kohn",
+                  "notes": null,
+                  "imdb_id": "nm0463385"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Darling",
+                  "notes": null,
+                  "imdb_id": "tt0059084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederic Raphael",
+                  "notes": null,
+                  "imdb_id": "nm0710698"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Casanova 70",
+                  "notes": null,
+                  "imdb_id": "tt0059015"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Agenore Incrocci",
+                  "notes": null,
+                  "imdb_id": "nm0408488"
+               },
+               {
+                  "name": "Furio Scarpelli",
+                  "notes": null,
+                  "imdb_id": "nm0769249"
+               },
+               {
+                  "name": "Mario Monicelli",
+                  "notes": null,
+                  "imdb_id": "nm0598102"
+               },
+               {
+                  "name": "Tonino Guerra",
+                  "notes": null,
+                  "imdb_id": "nm0346096"
+               },
+               {
+                  "name": "Giorgio Salvioni",
+                  "notes": null,
+                  "imdb_id": "nm0759480"
+               },
+               {
+                  "name": "Suso Cecchi D'Amico",
+                  "notes": null,
+                  "imdb_id": "nm0147599"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Train",
+                  "notes": null,
+                  "imdb_id": "tt0059825"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Coen",
+                  "notes": null,
+                  "imdb_id": "nm0168759"
+               },
+               {
+                  "name": "Frank Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204608"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Umbrellas of Cherbourg",
+                  "notes": null,
+                  "imdb_id": "tt0058450"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques Demy",
+                  "notes": null,
+                  "imdb_id": "nm0218840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes",
+                  "notes": null,
+                  "imdb_id": "tt0059797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Davies",
+                  "notes": null,
+                  "imdb_id": "nm0203766"
+               },
+               {
+                  "name": "Ken Annakin",
+                  "notes": null,
+                  "imdb_id": "nm0002175"
+               }
+            ]
+         }
+      ]
+   }
+]

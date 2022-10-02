@@ -1,0 +1,825 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nomadland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judas and the Black Messiah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Promising Young Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sound of Metal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trial of the Chicago 7"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anthony Hopkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chadwick Boseman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Oldman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Riz Ahmed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Yeun"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frances McDormand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Andra Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carey Mulligan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanessa Kirby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viola Davis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Daniel Kaluuya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "LaKeith Stanfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leslie Odom Jr."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Raci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sacha Baron Cohen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Youn Yuh-jung"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amanda Seyfried"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maria Bakalova"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Olivia Colman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chlo\u00e9 Zhao"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Fincher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emerald Fennell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Isaac Chung"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thomas Vinterberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Promising Young Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judas and the Black Messiah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sound of Metal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trial of the Chicago 7"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Borat Subsequent Moviefilm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nomadland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Night in Miami..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Tiger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judas and the Black Messiah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "News of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nomadland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trial of the Chicago 7"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sound of Metal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nomadland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Promising Young Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Father"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trial of the Chicago 7"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ma Rainey's Black Bottom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "News of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tenet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Father"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ma Rainey's Black Bottom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mulan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pinocchio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sound of Metal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greyhound"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "News of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Soul"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ma Rainey's Black Bottom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hillbilly Elegy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pinocchio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Soul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Da 5 Bloods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Minari"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "News of the World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Judas and the Black Messiah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eurovision Song Contest: The Story of Fire Saga"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Night in Miami..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life Ahead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trial of the Chicago 7"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tenet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love and Monsters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mulan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Midnight Sky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The One and Only Ivan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Octopus Teacher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Collective"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crip Camp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mole Agent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Time"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Colette"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Concerto Is a Conversation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Love Song for Latasha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Do Not Split"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hunger Ward"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Soul"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Shaun the Sheep Movie: Farmageddon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Onward"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Over the Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WolfWalkers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "If Anything Happens I Love You"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Genius Loci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Opera"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yes-People"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Two Distant Strangers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Feeling Through"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Letter Room"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Present"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "White Eye"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Another Round"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Better Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Collective"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quo vadis, Aida?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Who Sold His Skin"
+            ]
+         }
+      ]
+   }
+]

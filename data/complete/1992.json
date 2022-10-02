@@ -1,0 +1,2282 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anthony Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0000164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nick Nolte",
+                  "notes": null,
+                  "imdb_id": "nm0000560"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert De Niro",
+                  "notes": null,
+                  "imdb_id": "nm0000134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cape Fear",
+                  "notes": null,
+                  "imdb_id": "tt0101540"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin Williams",
+                  "notes": null,
+                  "imdb_id": "nm0000245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fisher King",
+                  "notes": null,
+                  "imdb_id": "tt0101889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jack Palance",
+                  "notes": null,
+                  "imdb_id": "nm0001588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "City Slickers",
+                  "notes": null,
+                  "imdb_id": "tt0101587"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ben Kingsley",
+                  "notes": null,
+                  "imdb_id": "nm0001426"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harvey Keitel",
+                  "notes": null,
+                  "imdb_id": "nm0000172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Lerner",
+                  "notes": null,
+                  "imdb_id": "nm0503627"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barton Fink",
+                  "notes": null,
+                  "imdb_id": "tt0101410"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tommy Lee Jones",
+                  "notes": null,
+                  "imdb_id": "nm0000169"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jodie Foster",
+                  "notes": null,
+                  "imdb_id": "nm0000149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Midler",
+                  "notes": null,
+                  "imdb_id": "nm0000541"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "For the Boys",
+                  "notes": null,
+                  "imdb_id": "tt0101902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Geena Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000133"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura Dern",
+                  "notes": null,
+                  "imdb_id": "nm0000368"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rambling Rose",
+                  "notes": null,
+                  "imdb_id": "tt0102753"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Sarandon",
+                  "notes": null,
+                  "imdb_id": "nm0000215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mercedes Ruehl",
+                  "notes": null,
+                  "imdb_id": "nm0001689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fisher King",
+                  "notes": null,
+                  "imdb_id": "tt0101889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Ladd",
+                  "notes": null,
+                  "imdb_id": "nm0002663"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rambling Rose",
+                  "notes": null,
+                  "imdb_id": "tt0102753"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jessica Tandy",
+                  "notes": null,
+                  "imdb_id": "nm0001788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fried Green Tomatoes",
+                  "notes": null,
+                  "imdb_id": "tt0101921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Juliette Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0000496"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cape Fear",
+                  "notes": null,
+                  "imdb_id": "tt0101540"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate Nelligan",
+                  "notes": null,
+                  "imdb_id": "nm0625075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": null,
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": null,
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barton Fink",
+                  "notes": null,
+                  "imdb_id": "tt0101410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": null,
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": null,
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hook",
+                  "notes": null,
+                  "imdb_id": "tt0102057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Garwood",
+                  "notes": null,
+                  "imdb_id": "nm0308841"
+               },
+               {
+                  "name": "Garrett Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0507204"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fisher King",
+                  "notes": null,
+                  "imdb_id": "tt0101889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mel Bourne",
+                  "notes": null,
+                  "imdb_id": "nm0100080"
+               },
+               {
+                  "name": "Cindy Carr",
+                  "notes": null,
+                  "imdb_id": "nm0139649"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Sylbert",
+                  "notes": null,
+                  "imdb_id": "nm0843128"
+               },
+               {
+                  "name": "Caryl Heller",
+                  "notes": null,
+                  "imdb_id": "nm0375288"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allen Daviau",
+                  "notes": null,
+                  "imdb_id": "nm0005679"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Greenberg",
+                  "notes": null,
+                  "imdb_id": "nm0004229"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Goldblatt",
+                  "notes": null,
+                  "imdb_id": "nm0003552"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adrian Biddle",
+                  "notes": null,
+                  "imdb_id": "nm0000939"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Wolsky",
+                  "notes": null,
+                  "imdb_id": "nm0938717"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barton Fink",
+                  "notes": null,
+                  "imdb_id": "tt0101410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Hornung",
+                  "notes": null,
+                  "imdb_id": "nm0395224"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hook",
+                  "notes": null,
+                  "imdb_id": "tt0102057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694018"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Madame Bovary",
+                  "notes": null,
+                  "imdb_id": "tt0102368"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Corinne Jorry",
+                  "notes": null,
+                  "imdb_id": "nm0430452"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Addams Family",
+                  "notes": null,
+                  "imdb_id": "tt0101272"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth Myers",
+                  "notes": null,
+                  "imdb_id": "nm0616848"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jonathan Demme",
+                  "notes": null,
+                  "imdb_id": "nm0001129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barry Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0001469"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ]
+         },
+         {
+            "notes": "John Singleton became the youngest director and the very first African-American in cinema history ever to be nominated for the Academy Award for Best Director.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Singleton",
+                  "notes": null,
+                  "imdb_id": "nm0005436"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boyz n the Hood",
+                  "notes": null,
+                  "imdb_id": "tt0101507"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridley Scott",
+                  "notes": null,
+                  "imdb_id": "nm0000631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "In the Shadow of the Stars",
+                  "notes": null,
+                  "imdb_id": "tt0102114"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allie Light",
+                  "notes": null,
+                  "imdb_id": "nm0509921"
+               },
+               {
+                  "name": "Irving Saraf",
+                  "notes": null,
+                  "imdb_id": "nm0764770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Death on the Job",
+                  "notes": null,
+                  "imdb_id": "tt0101693"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vince DiPersio",
+                  "notes": null,
+                  "imdb_id": "nm0228122"
+               },
+               {
+                  "name": "Bill Guttentag",
+                  "notes": null,
+                  "imdb_id": "nm0349702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doing Time: Life Inside the Big House",
+                  "notes": null,
+                  "imdb_id": "tt0101749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Raymond",
+                  "notes": null,
+                  "imdb_id": "nm0713203"
+               },
+               {
+                  "name": "Susan Raymond",
+                  "notes": null,
+                  "imdb_id": "nm0713371"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Restless Conscience: Resistance to Hitler Within Germany 1933-1945",
+                  "notes": null,
+                  "imdb_id": "tt0102778"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hava Kohav Beller",
+                  "notes": null,
+                  "imdb_id": "nm0068874"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wild by Law",
+                  "notes": null,
+                  "imdb_id": "tt0103260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence R. Hott",
+                  "notes": null,
+                  "imdb_id": "nm0396248"
+               },
+               {
+                  "name": "Diane Garey",
+                  "notes": null,
+                  "imdb_id": "nm0307233"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment",
+                  "notes": null,
+                  "imdb_id": "tt0101683"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Debra Chasnoff",
+                  "notes": null,
+                  "imdb_id": "nm0153899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Little Vicious",
+                  "notes": null,
+                  "imdb_id": "tt0102320"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Immy Humes",
+                  "notes": null,
+                  "imdb_id": "nm0401795"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birdnesters of Thailand",
+                  "notes": null,
+                  "imdb_id": "tt0101457"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Valli",
+                  "notes": null,
+                  "imdb_id": "nm0885108"
+               },
+               {
+                  "name": "Alain Majani d'Inguimbert",
+                  "notes": null,
+                  "imdb_id": "nm0195751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Memorial: Letters from American Soldiers",
+                  "notes": null,
+                  "imdb_id": "tt0102430"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Couturi\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0184323"
+               },
+               {
+                  "name": "Bernard Edelman",
+                  "notes": null,
+                  "imdb_id": "nm0248975"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mark of the Maker",
+                  "notes": null,
+                  "imdb_id": "tt0102406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David McGowan",
+                  "notes": null,
+                  "imdb_id": "nm1117217"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Gloria S. Borders",
+                  "notes": null,
+                  "imdb_id": "nm0096187"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Backdraft",
+                  "notes": null,
+                  "imdb_id": "tt0101393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek VI: The Undiscovered Country",
+                  "notes": null,
+                  "imdb_id": "tt0102975"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Watters II",
+                  "notes": null,
+                  "imdb_id": "nm0915036"
+               },
+               {
+                  "name": "F. Hudson Miller",
+                  "notes": null,
+                  "imdb_id": "nm0588326"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               },
+               {
+                  "name": "Gene Warren Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0912704"
+               },
+               {
+                  "name": "Robert Skotak",
+                  "notes": null,
+                  "imdb_id": "nm0804738"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Backdraft",
+                  "notes": null,
+                  "imdb_id": "tt0101393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikael Salomon",
+                  "notes": null,
+                  "imdb_id": "nm0004121"
+               },
+               {
+                  "name": "Allen Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355292"
+               },
+               {
+                  "name": "Clay Pinney",
+                  "notes": null,
+                  "imdb_id": "nm0684439"
+               },
+               {
+                  "name": "Scott Farrar",
+                  "notes": null,
+                  "imdb_id": "nm0268141"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hook",
+                  "notes": null,
+                  "imdb_id": "tt0102057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Brevig",
+                  "notes": null,
+                  "imdb_id": "nm0108094"
+               },
+               {
+                  "name": "Harley Jessup",
+                  "notes": null,
+                  "imdb_id": "nm0422263"
+               },
+               {
+                  "name": "Mark Sullivan",
+                  "notes": null,
+                  "imdb_id": "nm0838233"
+               },
+               {
+                  "name": "Michael Lantieri",
+                  "notes": null,
+                  "imdb_id": "nm0487177"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Hutshing",
+                  "notes": null,
+                  "imdb_id": "nm0404528"
+               },
+               {
+                  "name": "Pietro Scalia",
+                  "notes": null,
+                  "imdb_id": "nm0768817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad Buff IV",
+                  "notes": null,
+                  "imdb_id": "nm0119322"
+               },
+               {
+                  "name": "Mark Goldblatt",
+                  "notes": null,
+                  "imdb_id": "nm0325358"
+               },
+               {
+                  "name": "Richard A. Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Commitments",
+                  "notes": null,
+                  "imdb_id": "tt0101605"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerry Hambling",
+                  "notes": null,
+                  "imdb_id": "nm0357421"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Craig McKay",
+                  "notes": null,
+                  "imdb_id": "nm0570947"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thom Noble",
+                  "notes": null,
+                  "imdb_id": "nm0633677"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mediterraneo",
+                  "notes": null,
+                  "imdb_id": "tt0102426"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Iceland.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Children of Nature",
+                  "notes": null,
+                  "imdb_id": "tt0101526"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Hong Kong.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Raise the Red Lantern",
+                  "notes": null,
+                  "imdb_id": "tt0101640"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Czechoslovakia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Elementary School",
+                  "notes": null,
+                  "imdb_id": "tt0102571"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Ox",
+                  "notes": null,
+                  "imdb_id": "tt0102619"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               },
+               {
+                  "name": "Jeff Dawn",
+                  "notes": null,
+                  "imdb_id": "nm0206015"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hook",
+                  "notes": null,
+                  "imdb_id": "tt0102057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christina Smith",
+                  "notes": null,
+                  "imdb_id": "nm0807702"
+               },
+               {
+                  "name": "Monty Westmore",
+                  "notes": null,
+                  "imdb_id": "nm0922881"
+               },
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek VI: The Undiscovered Country",
+                  "notes": null,
+                  "imdb_id": "tt0102975"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Mills",
+                  "notes": null,
+                  "imdb_id": "nm0590114"
+               },
+               {
+                  "name": "Ed French",
+                  "notes": null,
+                  "imdb_id": "nm0294076"
+               },
+               {
+                  "name": "Richard Snell",
+                  "notes": null,
+                  "imdb_id": "nm0811057"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": null,
+                  "imdb_id": "nm0579678"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ennio Morricone",
+                  "notes": null,
+                  "imdb_id": "nm0001553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fisher King",
+                  "notes": null,
+                  "imdb_id": "tt0101889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Fenton",
+                  "notes": null,
+                  "imdb_id": "nm0006070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Beauty and the Beast\". Howard Ashman's nomination and award were posthumous. His partner Bill Lauch accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Be Our Guest\". Howard Ashman's nomination was posthumous.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Belle\". Howard Ashman's nomination was posthumous.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"When You're Alone\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hook",
+                  "notes": null,
+                  "imdb_id": "tt0102057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002354"
+               },
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0108634"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"(Everything I Do) I Do It for You\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin Hood: Prince of Thieves",
+                  "notes": null,
+                  "imdb_id": "tt0102798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Kamen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0004383"
+               },
+               {
+                  "name": "Bryan Adams",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0001898"
+               },
+               {
+                  "name": "Mutt Lange",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0486172"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "The Silence of the Lambs (1991) became the third film in Academy history to win the \"Big Five\" Academy Awards for producing, directing, acting, and screenwriting following It Happened One Night (1934) and One Flew Over the Cuckoo's Nest (1975).",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Saxon",
+                  "notes": null,
+                  "imdb_id": "nm0768324"
+               },
+               {
+                  "name": "Kenneth Utt",
+                  "notes": null,
+                  "imdb_id": "nm0882588"
+               },
+               {
+                  "name": "Ron Bozman",
+                  "notes": null,
+                  "imdb_id": "nm0102508"
+               }
+            ]
+         },
+         {
+            "notes": "Beauty and the Beast (1991) became the very first full-length animated feature film in cinema history to be nominated for the Academy Award for Best Picture.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Hahn",
+                  "notes": null,
+                  "imdb_id": "nm0353893"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425741"
+               },
+               {
+                  "name": "Barry Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0001469"
+               },
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Kitman Ho",
+                  "notes": null,
+                  "imdb_id": "nm0457715"
+               },
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbra Streisand",
+                  "notes": null,
+                  "imdb_id": "nm0000659"
+               },
+               {
+                  "name": "Andrew S. Karsch",
+                  "notes": null,
+                  "imdb_id": "nm0440140"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Manipulation",
+                  "notes": null,
+                  "imdb_id": "tt0102392"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Greaves",
+                  "notes": null,
+                  "imdb_id": "nm0337319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blackfly",
+                  "notes": null,
+                  "imdb_id": "tt0101468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Hinton",
+                  "notes": null,
+                  "imdb_id": "nm0385975"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strings",
+                  "notes": null,
+                  "imdb_id": "tt0102997"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendy Tilby",
+                  "notes": null,
+                  "imdb_id": "nm0863195"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Session Man",
+                  "notes": null,
+                  "imdb_id": "tt0108086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Seth Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935641"
+               },
+               {
+                  "name": "Robert N. Fried",
+                  "notes": null,
+                  "imdb_id": "nm0294975"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birch Street Gym",
+                  "notes": null,
+                  "imdb_id": "tt0101456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Kessler",
+                  "notes": null,
+                  "imdb_id": "nm0450387"
+               },
+               {
+                  "name": "T.R. Conroy",
+                  "notes": null,
+                  "imdb_id": "nm0175865"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Last Breeze of Summer",
+                  "notes": null,
+                  "imdb_id": "tt0102268"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557294"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Terminator 2: Judgment Day",
+                  "notes": null,
+                  "imdb_id": "tt0103064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Gary Summers",
+                  "notes": null,
+                  "imdb_id": "nm0838707"
+               },
+               {
+                  "name": "Lee Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Backdraft",
+                  "notes": null,
+                  "imdb_id": "tt0101393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Summers",
+                  "notes": null,
+                  "imdb_id": "nm0838707"
+               },
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Glenn Williams",
+                  "notes": null,
+                  "imdb_id": "nm1491296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beauty and the Beast",
+                  "notes": null,
+                  "imdb_id": "tt0101414"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terry Porter",
+                  "notes": null,
+                  "imdb_id": "nm0692310"
+               },
+               {
+                  "name": "Mel Metcalfe",
+                  "notes": null,
+                  "imdb_id": "nm0582467"
+               },
+               {
+                  "name": "David J. Hudson",
+                  "notes": null,
+                  "imdb_id": "nm0399812"
+               },
+               {
+                  "name": "Doc Kane",
+                  "notes": null,
+                  "imdb_id": "nm0437301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Tod A. Maitland",
+                  "notes": null,
+                  "imdb_id": "nm0537972"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Fleischman",
+                  "notes": null,
+                  "imdb_id": "nm0281530"
+               },
+               {
+                  "name": "Christopher Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628039"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Silence of the Lambs",
+                  "notes": null,
+                  "imdb_id": "tt0102926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Tally",
+                  "notes": null,
+                  "imdb_id": "nm0848217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Europa Europa",
+                  "notes": null,
+                  "imdb_id": "tt0099776"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Agnieszka Holland",
+                  "notes": null,
+                  "imdb_id": "nm0002140"
+               }
+            ]
+         },
+         {
+            "notes": "Carol Sobieski's nomination was posthumous, for she died from liver disease the year before the film's release.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fried Green Tomatoes",
+                  "notes": null,
+                  "imdb_id": "tt0101921"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fannie Flagg",
+                  "notes": null,
+                  "imdb_id": "nm0280840"
+               },
+               {
+                  "name": "Carol Sobieski",
+                  "notes": null,
+                  "imdb_id": "nm0811807"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "JFK",
+                  "notes": null,
+                  "imdb_id": "tt0102138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               },
+               {
+                  "name": "Zachary Sklar",
+                  "notes": null,
+                  "imdb_id": "nm0804466"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prince of Tides",
+                  "notes": null,
+                  "imdb_id": "tt0102713"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pat Conroy",
+                  "notes": null,
+                  "imdb_id": "nm0175852"
+               },
+               {
+                  "name": "Becky Johnston",
+                  "notes": null,
+                  "imdb_id": "nm0426539"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Thelma & Louise",
+                  "notes": null,
+                  "imdb_id": "tt0103074"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Callie Khouri",
+                  "notes": null,
+                  "imdb_id": "nm0451884"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boyz n the Hood",
+                  "notes": null,
+                  "imdb_id": "tt0101507"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Singleton",
+                  "notes": null,
+                  "imdb_id": "nm0005436"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bugsy",
+                  "notes": null,
+                  "imdb_id": "tt0101516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Toback",
+                  "notes": null,
+                  "imdb_id": "nm0864812"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Grand Canyon",
+                  "notes": null,
+                  "imdb_id": "tt0101969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Kasdan",
+                  "notes": null,
+                  "imdb_id": "nm0001410"
+               },
+               {
+                  "name": "Meg Kasdan",
+                  "notes": null,
+                  "imdb_id": "nm0440462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fisher King",
+                  "notes": null,
+                  "imdb_id": "tt0101889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard LaGravenese",
+                  "notes": null,
+                  "imdb_id": "nm0481418"
+               }
+            ]
+         }
+      ]
+   }
+]

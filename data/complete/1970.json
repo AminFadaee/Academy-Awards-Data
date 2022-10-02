@@ -1,0 +1,2140 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Wayne",
+                  "notes": null,
+                  "imdb_id": "nm0000078"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt0065126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dustin Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000163"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jon Voight",
+                  "notes": null,
+                  "imdb_id": "nm0000685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter O'Toole",
+                  "notes": null,
+                  "imdb_id": "nm0000564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Goodbye, Mr. Chips",
+                  "notes": null,
+                  "imdb_id": "tt0064382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Burton",
+                  "notes": null,
+                  "imdb_id": "nm0000009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gig Young",
+                  "notes": null,
+                  "imdb_id": "nm0949574"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anthony Quayle",
+                  "notes": null,
+                  "imdb_id": "nm0703033"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elliott Gould",
+                  "notes": null,
+                  "imdb_id": "nm0001285"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob & Carol & Ted & Alice",
+                  "notes": null,
+                  "imdb_id": "tt0064100"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Easy Rider",
+                  "notes": null,
+                  "imdb_id": "tt0064276"
+               }
+            ]
+         },
+         {
+            "notes": "Rupert Crosse became the first African American to be nominated for the Academy Award for Best Supporting Actor.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rupert Crosse",
+                  "notes": null,
+                  "imdb_id": "nm0189313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Reivers",
+                  "notes": null,
+                  "imdb_id": "tt0064886"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Maggie Smith was not present at the awards ceremony. Alice Ghostley accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Maggie Smith",
+                  "notes": null,
+                  "imdb_id": "nm0001749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Prime of Miss Jean Brodie",
+                  "notes": null,
+                  "imdb_id": "tt0064840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Genevi\u00e8ve Bujold",
+                  "notes": null,
+                  "imdb_id": "nm0000991"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jean Simmons",
+                  "notes": null,
+                  "imdb_id": "nm0001739"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Happy Ending",
+                  "notes": null,
+                  "imdb_id": "tt0064405"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Liza Minnelli",
+                  "notes": null,
+                  "imdb_id": "nm0591485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sterile Cuckoo",
+                  "notes": null,
+                  "imdb_id": "tt0065037"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Goldie Hawn was not present at the awards ceremony. Raquel Welch accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Goldie Hawn",
+                  "notes": null,
+                  "imdb_id": "nm0000443"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cactus Flower",
+                  "notes": null,
+                  "imdb_id": "tt0064117"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Catherine Burns",
+                  "notes": null,
+                  "imdb_id": "nm0122610"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Last Summer",
+                  "notes": null,
+                  "imdb_id": "tt0064573"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dyan Cannon",
+                  "notes": null,
+                  "imdb_id": "nm0001007"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob & Carol & Ted & Alice",
+                  "notes": null,
+                  "imdb_id": "tt0064100"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susannah York",
+                  "notes": null,
+                  "imdb_id": "nm0948772"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sylvia Miles",
+                  "notes": null,
+                  "imdb_id": "nm0587249"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Jack Martin Smith",
+                  "notes": null,
+                  "imdb_id": "nm0005584"
+               },
+               {
+                  "name": "Herman A. Blumenthal",
+                  "notes": null,
+                  "imdb_id": "nm0089817"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               },
+               {
+                  "name": "Raphael Bretton",
+                  "notes": null,
+                  "imdb_id": "nm0107987"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurice Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141806"
+               },
+               {
+                  "name": "Lionel Couch",
+                  "notes": null,
+                  "imdb_id": "nm0183244"
+               },
+               {
+                  "name": "Patrick McLoughlin",
+                  "notes": null,
+                  "imdb_id": "nm0572947"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaily, Gaily",
+                  "notes": null,
+                  "imdb_id": "tt0064357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert F. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102327"
+               },
+               {
+                  "name": "George B. Chan",
+                  "notes": null,
+                  "imdb_id": "nm0150905"
+               },
+               {
+                  "name": "Edward G. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102231"
+               },
+               {
+                  "name": "Carl Biddiscombe",
+                  "notes": null,
+                  "imdb_id": "nm0081128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sweet Charity",
+                  "notes": null,
+                  "imdb_id": "tt0065054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "George C. Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916112"
+               },
+               {
+                  "name": "Jack D. Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Horner",
+                  "notes": null,
+                  "imdb_id": "nm0395105"
+               },
+               {
+                  "name": "Frank R. McKelvy",
+                  "notes": null,
+                  "imdb_id": "nm0571305"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Ibbetson",
+                  "notes": null,
+                  "imdb_id": "nm0406471"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bob & Carol & Ted & Alice",
+                  "notes": null,
+                  "imdb_id": "tt0064100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marooned",
+                  "notes": null,
+                  "imdb_id": "tt0064639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel L. Fapp",
+                  "notes": null,
+                  "imdb_id": "nm0005701"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaily, Gaily",
+                  "notes": null,
+                  "imdb_id": "tt0064357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Aghayan",
+                  "notes": null,
+                  "imdb_id": "nm0013036"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sweet Charity",
+                  "notes": null,
+                  "imdb_id": "tt0065054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donfeld",
+                  "notes": null,
+                  "imdb_id": "nm0232466"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": "John Schlesinger was not present at the awards ceremony. Jon Voight accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772259"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Penn",
+                  "notes": null,
+                  "imdb_id": "nm0671957"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alice's Restaurant",
+                  "notes": null,
+                  "imdb_id": "tt0064002"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Costa-Gavras",
+                  "notes": null,
+                  "imdb_id": "nm0002020"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Z",
+                  "notes": null,
+                  "imdb_id": "tt0065234"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Roy Hill",
+                  "notes": null,
+                  "imdb_id": "nm0001351"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sydney Pollack",
+                  "notes": null,
+                  "imdb_id": "nm0001628"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Love of Life",
+                  "notes": null,
+                  "imdb_id": "tt0064043"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Chevry",
+                  "notes": null,
+                  "imdb_id": "nm0156777"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Before the Mountain Was Moved",
+                  "notes": null,
+                  "imdb_id": "tt0064076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert K. Sharpe",
+                  "notes": null,
+                  "imdb_id": "nm0789264"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In the Year of the Pig",
+                  "notes": null,
+                  "imdb_id": "tt0064482"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emile de Antonio",
+                  "notes": null,
+                  "imdb_id": "nm0207108"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Olympics in Mexico",
+                  "notes": null,
+                  "imdb_id": "tt0064756"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wolf Men",
+                  "notes": null,
+                  "imdb_id": "tt0065220"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Rosten",
+                  "notes": null,
+                  "imdb_id": "nm0744575"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Czechoslovakia 1918-1968",
+                  "notes": null,
+                  "imdb_id": "tt0064200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Denis Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761522"
+               },
+               {
+                  "name": "Robert M. Fresco",
+                  "notes": null,
+                  "imdb_id": "nm0294354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Impression of John Steinbeck: Writer",
+                  "notes": null,
+                  "imdb_id": "tt0064477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Wrye",
+                  "notes": null,
+                  "imdb_id": "nm0943044"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jenny Is a Good Thing",
+                  "notes": null,
+                  "imdb_id": "tt0064511"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan Horvath",
+                  "notes": null,
+                  "imdb_id": "nm0395749"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leo Beuerman",
+                  "notes": null,
+                  "imdb_id": "tt0064581"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur H. Wolf",
+                  "notes": null,
+                  "imdb_id": "nm0937670"
+               },
+               {
+                  "name": "Russell A. Mosser",
+                  "notes": null,
+                  "imdb_id": "nm0609146"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magic Machines",
+                  "notes": null,
+                  "imdb_id": "tt0064623"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan Keller Stern",
+                  "notes": null,
+                  "imdb_id": "nm0445678"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Marooned",
+                  "notes": null,
+                  "imdb_id": "tt0064639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robie Robinson",
+                  "notes": null,
+                  "imdb_id": "nm0733045"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Krakatoa: East of Java",
+                  "notes": null,
+                  "imdb_id": "tt0064555"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eug\u00e8ne Louri\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0522123"
+               },
+               {
+                  "name": "Alex Weldon",
+                  "notes": null,
+                  "imdb_id": "nm0919708"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Z",
+                  "notes": null,
+                  "imdb_id": "tt0065234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran\u00e7oise Bonnot",
+                  "notes": null,
+                  "imdb_id": "nm0095089"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0722000"
+               }
+            ]
+         },
+         {
+            "notes": "Hugh A. Robertson becomes the first African American to be nominated for Best Film Editing.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugh A. Robertson",
+                  "notes": null,
+                  "imdb_id": "nm0731867"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Secret of Santa Vittoria",
+                  "notes": null,
+                  "imdb_id": "tt0064952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Lyon",
+                  "notes": null,
+                  "imdb_id": "nm0528995"
+               },
+               {
+                  "name": "Earle Herdan",
+                  "notes": null,
+                  "imdb_id": "nm0378804"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fredric Steinkamp",
+                  "notes": null,
+                  "imdb_id": "nm0826114"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Algeria",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Z",
+                  "notes": null,
+                  "imdb_id": "tt0065234"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adalen 31",
+                  "notes": null,
+                  "imdb_id": "tt0065261"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Night at Maud's",
+                  "notes": null,
+                  "imdb_id": "tt0064612"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Yugoslavia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Battle of Neretva",
+                  "notes": null,
+                  "imdb_id": "tt0064091"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Soviet Union",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Brothers Karamazov",
+                  "notes": null,
+                  "imdb_id": "tt0062757"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burt Bacharach",
+                  "notes": null,
+                  "imdb_id": "nm0000820"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Georges Delerue",
+                  "notes": null,
+                  "imdb_id": "nm0000016"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Reivers",
+                  "notes": null,
+                  "imdb_id": "tt0064886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Secret of Santa Vittoria",
+                  "notes": null,
+                  "imdb_id": "tt0064952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Gold",
+                  "notes": null,
+                  "imdb_id": "nm0006104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wild Bunch",
+                  "notes": null,
+                  "imdb_id": "tt0065214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Fielding",
+                  "notes": null,
+                  "imdb_id": "nm0006076"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Raindrops Keep Fallin' on My Head\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burt Bacharach",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000820"
+               },
+               {
+                  "name": "Hal David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202910"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"What Are You Doing for the Rest of Your Life?\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Happy Ending",
+                  "notes": null,
+                  "imdb_id": "tt0064405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006166"
+               },
+               {
+                  "name": "Alan Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0074732"
+               },
+               {
+                  "name": "Marilyn Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004750"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Jean\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Prime of Miss Jean Brodie",
+                  "notes": null,
+                  "imdb_id": "tt0064840"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rod McKuen",
+                  "notes": null,
+                  "imdb_id": "nm0572106"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Come Saturday Morning\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sterile Cuckoo",
+                  "notes": null,
+                  "imdb_id": "tt0065037"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Karlin",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006150"
+               },
+               {
+                  "name": "Dory Previn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0696659"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"True Grit\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "True Grit",
+                  "notes": null,
+                  "imdb_id": "tt0065126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Bernstein",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000930"
+               },
+               {
+                  "name": "Don Black",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0085246"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennie Hayton",
+                  "notes": null,
+                  "imdb_id": "nm0006125"
+               },
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goodbye, Mr. Chips",
+                  "notes": null,
+                  "imdb_id": "tt0064382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": null,
+                  "imdb_id": "nm0108634"
+               },
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paint Your Wagon",
+                  "notes": null,
+                  "imdb_id": "tt0064782"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nelson Riddle",
+                  "notes": null,
+                  "imdb_id": "nm0725765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sweet Charity",
+                  "notes": null,
+                  "imdb_id": "tt0065054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cy Coleman",
+                  "notes": null,
+                  "imdb_id": "nm0170990"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               },
+               {
+                  "name": "Albert Woodbury",
+                  "notes": null,
+                  "imdb_id": "nm0940185"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Hellman",
+                  "notes": null,
+                  "imdb_id": "nm0375477"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal B. Wallis",
+                  "notes": null,
+                  "imdb_id": "nm0909259"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Foreman",
+                  "notes": null,
+                  "imdb_id": "nm0286048"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Lehman",
+                  "notes": null,
+                  "imdb_id": "nm0499626"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Z",
+                  "notes": null,
+                  "imdb_id": "tt0065234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques Perrin",
+                  "notes": null,
+                  "imdb_id": "nm0674742"
+               },
+               {
+                  "name": "Ahmed Rachedi",
+                  "notes": null,
+                  "imdb_id": "nm0705085"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "It's Tough to Be a Bird",
+                  "notes": null,
+                  "imdb_id": "tt0064504"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ward Kimball",
+                  "notes": null,
+                  "imdb_id": "nm0453832"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Of Men and Demons",
+                  "notes": null,
+                  "imdb_id": "tt0064752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0399524"
+               },
+               {
+                  "name": "Faith Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0254454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walking",
+                  "notes": null,
+                  "imdb_id": "tt0064284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ryan Larkin",
+                  "notes": null,
+                  "imdb_id": "nm0488321"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Magic Machines",
+                  "notes": null,
+                  "imdb_id": "tt0064623"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan Keller Stern",
+                  "notes": null,
+                  "imdb_id": "nm0445678"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blake",
+                  "notes": null,
+                  "imdb_id": "tt0064094"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "People Soup",
+                  "notes": null,
+                  "imdb_id": "tt0064799"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc Merson",
+                  "notes": null,
+                  "imdb_id": "nm0581516"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hello, Dolly!",
+                  "notes": null,
+                  "imdb_id": "tt0064418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Solomon",
+                  "notes": null,
+                  "imdb_id": "nm0813349"
+               },
+               {
+                  "name": "Murray Spivack",
+                  "notes": null,
+                  "imdb_id": "nm0819203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Aldred",
+                  "notes": null,
+                  "imdb_id": "nm0017640"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Edmondson",
+                  "notes": null,
+                  "imdb_id": "nm0249553"
+               },
+               {
+                  "name": "David Dockendorf",
+                  "notes": null,
+                  "imdb_id": "nm0229990"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gaily, Gaily",
+                  "notes": null,
+                  "imdb_id": "tt0064357"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552980"
+               },
+               {
+                  "name": "Clem Portman",
+                  "notes": null,
+                  "imdb_id": "nm0692436"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marooned",
+                  "notes": null,
+                  "imdb_id": "tt0064639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Arthur Piantadosi",
+                  "notes": null,
+                  "imdb_id": "nm0681250"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Midnight Cowboy",
+                  "notes": null,
+                  "imdb_id": "tt0064665"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Waldo Salt",
+                  "notes": null,
+                  "imdb_id": "nm0759029"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne of the Thousand Days",
+                  "notes": null,
+                  "imdb_id": "tt0064030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hale",
+                  "notes": null,
+                  "imdb_id": "nm0354942"
+               },
+               {
+                  "name": "Bridget Boland",
+                  "notes": null,
+                  "imdb_id": "nm0092658"
+               },
+               {
+                  "name": "Richard Sokolove",
+                  "notes": null,
+                  "imdb_id": "nm0812501"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goodbye, Columbus",
+                  "notes": null,
+                  "imdb_id": "tt0064381"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arnold Schulman",
+                  "notes": null,
+                  "imdb_id": "nm0776068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "They Shoot Horses, Don't They?",
+                  "notes": null,
+                  "imdb_id": "tt0065088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Poe",
+                  "notes": null,
+                  "imdb_id": "nm0688117"
+               },
+               {
+                  "name": "Robert E. Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0860651"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Z",
+                  "notes": null,
+                  "imdb_id": "tt0065234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jorge Sempr\u00fan",
+                  "notes": null,
+                  "imdb_id": "nm0783934"
+               },
+               {
+                  "name": "Costa-Gavras",
+                  "notes": null,
+                  "imdb_id": "nm0002020"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "notes": "William Goldman was not present at the awards ceremony. Katharine Ross accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Butch Cassidy and the Sundance Kid",
+                  "notes": null,
+                  "imdb_id": "tt0064115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0001279"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bob & Carol & Ted & Alice",
+                  "notes": null,
+                  "imdb_id": "tt0064100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Mazursky",
+                  "notes": null,
+                  "imdb_id": "nm0005196"
+               },
+               {
+                  "name": "Larry Tucker",
+                  "notes": null,
+                  "imdb_id": "nm0875918"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Easy Rider",
+                  "notes": null,
+                  "imdb_id": "tt0064276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0001228"
+               },
+               {
+                  "name": "Dennis Hopper",
+                  "notes": null,
+                  "imdb_id": "nm0000454"
+               },
+               {
+                  "name": "Terry Southern",
+                  "notes": null,
+                  "imdb_id": "nm0816143"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Damned",
+                  "notes": null,
+                  "imdb_id": "tt0064118"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicola Badalucco",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0045938"
+               },
+               {
+                  "name": "Enrico Medioli",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0575804"
+               },
+               {
+                  "name": "Luchino Visconti",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0899581"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wild Bunch",
+                  "notes": null,
+                  "imdb_id": "tt0065214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walon Green",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0338396"
+               },
+               {
+                  "name": "Roy N. Sickner",
+                  "notes": "(story)",
+                  "imdb_id": "nm0796429"
+               },
+               {
+                  "name": "Sam Peckinpah",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0001603"
+               }
+            ]
+         }
+      ]
+   }
+]

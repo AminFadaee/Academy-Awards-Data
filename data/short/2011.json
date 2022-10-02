@@ -1,0 +1,843 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "127 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fighter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Kids Are All Right"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winter's Bone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Colin Firth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Franco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Javier Bardem"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jesse Eisenberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Natalie Portman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annette Bening"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Lawrence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicole Kidman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Christian Bale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geoffrey Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeremy Renner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Hawkes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Ruffalo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Melissa Leo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hailee Steinfeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helena Bonham Carter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jacki Weaver"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Hooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Darren Aronofsky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Fincher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David O. Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethan Coen",
+               "Joel Coen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Another Year"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fighter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Kids Are All Right"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "127 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winter's Bone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alice in Wonderland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Deathly Hallows: Part 1"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "127 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Swan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fighter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alice in Wonderland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Am Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tempest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toy Story 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "127 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Country Strong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tangled"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "127 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Train Your Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Salt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The King's Speech"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Social Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "TRON: Legacy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Grit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unstoppable"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice in Wonderland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Deathly Hallows: Part 1"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hereafter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iron Man 2"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lost Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Day & Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Let's Pollute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madagascar, a Journey Diary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gruffalo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "God of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Na Wewe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Confession"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Crush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wish 143"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Strangers No More"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Killing in the Name"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poster Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sun Come Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Warriors of Qiugang"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Inside Job"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Exit Through the Gift Shop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "GasLand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Restrepo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waste Land"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In a Better World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Biutiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dogtooth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Incendies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Outside the Law"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toy Story 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Train Your Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Illusionist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Wolfman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barney's Version"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Way Back"
+            ]
+         }
+      ]
+   }
+]

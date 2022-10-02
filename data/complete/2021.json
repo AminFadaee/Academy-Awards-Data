@@ -1,0 +1,2796 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": "Frances McDormand becomes first actress nominated for acting and producing for the same film.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances McDormand",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0000531"
+               },
+               {
+                  "name": "Peter Spears",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0817379"
+               },
+               {
+                  "name": "Mollye Asher",
+                  "notes": "(producer)",
+                  "imdb_id": "nm2571693"
+               },
+               {
+                  "name": "Dan Janvey",
+                  "notes": "(producer)",
+                  "imdb_id": "nm1885766"
+               },
+               {
+                  "name": "Chlo\u00e9 Zhao",
+                  "notes": "(producer)",
+                  "imdb_id": "nm2125482"
+               }
+            ]
+         },
+         {
+            "notes": "First All-Black producing team nominated for Best Picture",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shaka King",
+                  "notes": "(producer)",
+                  "imdb_id": "nm3489851"
+               },
+               {
+                  "name": "Charles D. King",
+                  "notes": "(producer)",
+                  "imdb_id": "nm2229798"
+               },
+               {
+                  "name": "Ryan Coogler",
+                  "notes": "(producer)",
+                  "imdb_id": "nm3363032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ce\u00e1n Chaffin",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0149556"
+               },
+               {
+                  "name": "Eric Roth",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0744839"
+               },
+               {
+                  "name": "Douglas Urbanski",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0881703"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christina Oh",
+                  "notes": "(producer)",
+                  "imdb_id": "nm3567152"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Promising Young Woman",
+                  "notes": null,
+                  "imdb_id": "tt9620292"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Browning",
+                  "notes": "(producer)",
+                  "imdb_id": "nm1878845"
+               },
+               {
+                  "name": "Ashley Fox",
+                  "notes": "(producer)",
+                  "imdb_id": "nm4516779"
+               },
+               {
+                  "name": "Emerald Fennell",
+                  "notes": "(producer)",
+                  "imdb_id": "nm2193504"
+               },
+               {
+                  "name": "Josey McNamara",
+                  "notes": "(producer)",
+                  "imdb_id": "nm3560755"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Hamelinck",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0353012"
+               },
+               {
+                  "name": "Sacha Ben Harroche",
+                  "notes": "(producer)",
+                  "imdb_id": "nm5289961"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Parfitt",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0661406"
+               },
+               {
+                  "name": "Jean-Louis Livi",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0515201"
+               },
+               {
+                  "name": "Philippe Carcassonne",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0136260"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc Platt",
+                  "notes": "(producer)",
+                  "imdb_id": "nm0686887"
+               },
+               {
+                  "name": "Stuart M. Besser",
+                  "notes": "(as Stuart Besser) (producer)",
+                  "imdb_id": "nm0078804"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Anthony Hopkins became the oldest winner at 83 years old in a competitive acting category. He was not present at the awards ceremony. Presenter Joaquin Phoenix accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anthony Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0000164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ]
+         },
+         {
+            "notes": "Posthumously.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chadwick Boseman",
+                  "notes": null,
+                  "imdb_id": "nm1569276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ma Rainey's Black Bottom",
+                  "notes": null,
+                  "imdb_id": "tt10514222"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gary Oldman",
+                  "notes": null,
+                  "imdb_id": "nm0000198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Riz Ahmed",
+                  "notes": null,
+                  "imdb_id": "nm1981893"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steven Yeun",
+                  "notes": null,
+                  "imdb_id": "nm3081796"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frances McDormand",
+                  "notes": null,
+                  "imdb_id": "nm0000531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Andra Day",
+                  "notes": null,
+                  "imdb_id": "nm7363531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The United States vs. Billie Holiday",
+                  "notes": null,
+                  "imdb_id": "tt8521718"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carey Mulligan",
+                  "notes": null,
+                  "imdb_id": "nm1659547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Promising Young Woman",
+                  "notes": null,
+                  "imdb_id": "tt9620292"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vanessa Kirby",
+                  "notes": null,
+                  "imdb_id": "nm3948952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pieces of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt11161474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Viola Davis",
+                  "notes": null,
+                  "imdb_id": "nm0205626"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ma Rainey's Black Bottom",
+                  "notes": null,
+                  "imdb_id": "tt10514222"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Daniel Kaluuya",
+                  "notes": null,
+                  "imdb_id": "nm2257207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "LaKeith Stanfield",
+                  "notes": null,
+                  "imdb_id": "nm3147751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leslie Odom Jr.",
+                  "notes": null,
+                  "imdb_id": "nm1502434"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One Night in Miami...",
+                  "notes": null,
+                  "imdb_id": "tt10612922"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Raci",
+                  "notes": null,
+                  "imdb_id": "nm0705152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sacha Baron Cohen",
+                  "notes": null,
+                  "imdb_id": "nm0056187"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Youn Yuh-jung",
+                  "notes": null,
+                  "imdb_id": "nm0950926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amanda Seyfried",
+                  "notes": null,
+                  "imdb_id": "nm1086543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glenn Close",
+                  "notes": null,
+                  "imdb_id": "nm0000335"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hillbilly Elegy",
+                  "notes": null,
+                  "imdb_id": "tt6772802"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maria Bakalova",
+                  "notes": null,
+                  "imdb_id": "nm7210025"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Borat Subsequent Moviefilm",
+                  "notes": null,
+                  "imdb_id": "tt13143964"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Olivia Colman",
+                  "notes": null,
+                  "imdb_id": "nm1469236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": "First Asian Woman nominated for Best Director",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chlo\u00e9 Zhao",
+                  "notes": null,
+                  "imdb_id": "nm2125482"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Fincher",
+                  "notes": null,
+                  "imdb_id": "nm0000399"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emerald Fennell",
+                  "notes": null,
+                  "imdb_id": "nm2193504"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Promising Young Woman",
+                  "notes": null,
+                  "imdb_id": "tt9620292"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lee Isaac Chung",
+                  "notes": null,
+                  "imdb_id": "nm1818032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thomas Vinterberg",
+                  "notes": null,
+                  "imdb_id": "nm0899121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Another Round",
+                  "notes": null,
+                  "imdb_id": "tt10288566"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Promising Young Woman",
+                  "notes": null,
+                  "imdb_id": "tt9620292"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emerald Fennell",
+                  "notes": "(written by)",
+                  "imdb_id": "nm2193504"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Will Berson",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm0077768"
+               },
+               {
+                  "name": "Shaka King",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm3489851"
+               },
+               {
+                  "name": "Kenneth Lucas",
+                  "notes": "(story by) (as Kenny Lucas)",
+                  "imdb_id": "nm3584219"
+               },
+               {
+                  "name": "Keith Lucas",
+                  "notes": "(story by)",
+                  "imdb_id": "nm5695570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Isaac Chung",
+                  "notes": "(written by)",
+                  "imdb_id": "nm1818032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darius Marder",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm2942187"
+               },
+               {
+                  "name": "Abraham Marder",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm3473150"
+               },
+               {
+                  "name": "Derek Cianfrance",
+                  "notes": "(story by)",
+                  "imdb_id": "nm0161834"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Sorkin",
+                  "notes": "(written by)",
+                  "imdb_id": "nm0815070"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Hampton",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm0358960"
+               },
+               {
+                  "name": "Florian Zeller",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm1725469"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Borat Subsequent Moviefilm",
+                  "notes": null,
+                  "imdb_id": "tt13143964"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sacha Baron Cohen",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm0056187"
+               },
+               {
+                  "name": "Anthony Hines",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm0385630"
+               },
+               {
+                  "name": "Dan Swimer",
+                  "notes": "(screenplay by/story by)",
+                  "imdb_id": "nm2255631"
+               },
+               {
+                  "name": "Peter Baynham",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm0063165"
+               },
+               {
+                  "name": "Erica Rivinoja",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm1106214"
+               },
+               {
+                  "name": "Dan Mazer",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm0563243"
+               },
+               {
+                  "name": "Jena Friedman",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm2773070"
+               },
+               {
+                  "name": "Lee Kern",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm1745272"
+               },
+               {
+                  "name": "Nina Pedrad",
+                  "notes": "(story by)",
+                  "imdb_id": "nm4988577"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chlo\u00e9 Zhao",
+                  "notes": "(written for the screen by)",
+                  "imdb_id": "nm2125482"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Night in Miami...",
+                  "notes": null,
+                  "imdb_id": "tt10612922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kemp Powers",
+                  "notes": "(screenplay by)",
+                  "imdb_id": "nm5358492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The White Tiger",
+                  "notes": null,
+                  "imdb_id": "tt6571548"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ramin Bahrani",
+                  "notes": "(written for the screen by)",
+                  "imdb_id": "nm1023919"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erik Messerschmidt",
+                  "notes": null,
+                  "imdb_id": "nm0582081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sean Bobbitt",
+                  "notes": null,
+                  "imdb_id": "nm0090312"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "News of the World",
+                  "notes": null,
+                  "imdb_id": "tt6878306"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dariusz Wolski",
+                  "notes": null,
+                  "imdb_id": "nm0003011"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joshua James Richards",
+                  "notes": null,
+                  "imdb_id": "nm4452305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phedon Papamichael",
+                  "notes": null,
+                  "imdb_id": "nm0003659"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikkel E.G. Nielsen",
+                  "notes": null,
+                  "imdb_id": "nm1182055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nomadland",
+                  "notes": null,
+                  "imdb_id": "tt9770150"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chlo\u00e9 Zhao",
+                  "notes": null,
+                  "imdb_id": "nm2125482"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Promising Young Woman",
+                  "notes": null,
+                  "imdb_id": "tt9620292"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fr\u00e9d\u00e9ric Thoraval",
+                  "notes": null,
+                  "imdb_id": "nm1754850"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Yorgos Lamprinos",
+                  "notes": null,
+                  "imdb_id": "nm2498855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Baumgarten",
+                  "notes": null,
+                  "imdb_id": "nm0062328"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Graham Burt",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0123426"
+               },
+               {
+                  "name": "Jan Pascale",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0664308"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ma Rainey's Black Bottom",
+                  "notes": null,
+                  "imdb_id": "tt10514222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Ricker",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0725475"
+               },
+               {
+                  "name": "Karen O'Hara",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0641286"
+               },
+               {
+                  "name": "Diana Stoughton",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0832839"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "News of the World",
+                  "notes": null,
+                  "imdb_id": "tt6878306"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Crank",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0186477"
+               },
+               {
+                  "name": "Elizabeth Keenan",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm1404582"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tenet",
+                  "notes": null,
+                  "imdb_id": "tt6723592"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Crowley",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0189769"
+               },
+               {
+                  "name": "Kathy Lucas",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0524205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Father",
+                  "notes": null,
+                  "imdb_id": "tt10272386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Francis",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0290286"
+               },
+               {
+                  "name": "Cathy Featherstone",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm1570850"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ma Rainey's Black Bottom",
+                  "notes": null,
+                  "imdb_id": "tt10514222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emma.",
+                  "notes": null,
+                  "imdb_id": "tt9214832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandra Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Trish Summerville",
+                  "notes": null,
+                  "imdb_id": "nm0838844"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mulan",
+                  "notes": null,
+                  "imdb_id": "tt4566758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bina Daigeler",
+                  "notes": null,
+                  "imdb_id": "nm0197257"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pinocchio",
+                  "notes": null,
+                  "imdb_id": "tt8333746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Massimo Cantini Parrini",
+                  "notes": null,
+                  "imdb_id": "nm1964768"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sound of Metal",
+                  "notes": null,
+                  "imdb_id": "tt5363618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicolas Becker",
+                  "notes": null,
+                  "imdb_id": "nm0065545"
+               },
+               {
+                  "name": "Jaime Baksht",
+                  "notes": null,
+                  "imdb_id": "nm0049254"
+               },
+               {
+                  "name": "Michelle Couttolenc",
+                  "notes": null,
+                  "imdb_id": "nm2499159"
+               },
+               {
+                  "name": "Carlos Cort\u00e9s Navarrete",
+                  "notes": "(as Carlos Cort\u00e9s)",
+                  "imdb_id": "nm3997636"
+               },
+               {
+                  "name": "Phillip Bladh",
+                  "notes": null,
+                  "imdb_id": "nm3835694"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greyhound",
+                  "notes": null,
+                  "imdb_id": "tt6048922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Warren Shaw",
+                  "notes": null,
+                  "imdb_id": "nm0790022"
+               },
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Beau Borders",
+                  "notes": null,
+                  "imdb_id": "nm0003311"
+               },
+               {
+                  "name": "David Wyman",
+                  "notes": null,
+                  "imdb_id": "nm1049027"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ren Klyce",
+                  "notes": null,
+                  "imdb_id": "nm0460274"
+               },
+               {
+                  "name": "Jeremy Molod",
+                  "notes": null,
+                  "imdb_id": "nm0597199"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               },
+               {
+                  "name": "Nathan Nance",
+                  "notes": null,
+                  "imdb_id": "nm2315737"
+               },
+               {
+                  "name": "Drew Kunin",
+                  "notes": null,
+                  "imdb_id": "nm0475168"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "News of the World",
+                  "notes": null,
+                  "imdb_id": "tt6878306"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Tarney",
+                  "notes": null,
+                  "imdb_id": "nm0850549"
+               },
+               {
+                  "name": "Mike Prestwood Smith",
+                  "notes": null,
+                  "imdb_id": "nm0696523"
+               },
+               {
+                  "name": "William Miller",
+                  "notes": null,
+                  "imdb_id": "nm7017920"
+               },
+               {
+                  "name": "John Pritchett",
+                  "notes": null,
+                  "imdb_id": "nm0698099"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Soul",
+                  "notes": null,
+                  "imdb_id": "tt2948372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ren Klyce",
+                  "notes": null,
+                  "imdb_id": "nm0460274"
+               },
+               {
+                  "name": "Coya Elliott",
+                  "notes": null,
+                  "imdb_id": "nm0254208"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ma Rainey's Black Bottom",
+                  "notes": null,
+                  "imdb_id": "tt10514222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergio Lopez-Rivera",
+                  "notes": null,
+                  "imdb_id": "nm0520236"
+               },
+               {
+                  "name": "Mia Neal",
+                  "notes": null,
+                  "imdb_id": "nm4135648"
+               },
+               {
+                  "name": "Jamika Wilson",
+                  "notes": null,
+                  "imdb_id": "nm5003080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emma.",
+                  "notes": null,
+                  "imdb_id": "tt9214832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marese Langan",
+                  "notes": null,
+                  "imdb_id": "nm0485984"
+               },
+               {
+                  "name": "Laura Allen",
+                  "notes": null,
+                  "imdb_id": "nm8526114"
+               },
+               {
+                  "name": "Claudia Stolze",
+                  "notes": null,
+                  "imdb_id": "nm0831656"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hillbilly Elegy",
+                  "notes": null,
+                  "imdb_id": "tt6772802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eryn Krueger Mekash",
+                  "notes": null,
+                  "imdb_id": "nm0472477"
+               },
+               {
+                  "name": "Matthew W. Mungle",
+                  "notes": null,
+                  "imdb_id": "nm0612817"
+               },
+               {
+                  "name": "Patricia Dehaney",
+                  "notes": null,
+                  "imdb_id": "nm0214912"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gigi Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930666"
+               },
+               {
+                  "name": "Kimberley Spiteri",
+                  "notes": null,
+                  "imdb_id": "nm0819129"
+               },
+               {
+                  "name": "Colleen LaBaff",
+                  "notes": null,
+                  "imdb_id": "nm0479295"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pinocchio",
+                  "notes": null,
+                  "imdb_id": "tt8333746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Coulier",
+                  "notes": null,
+                  "imdb_id": "nm0183418"
+               },
+               {
+                  "name": "Dalia Colli",
+                  "notes": null,
+                  "imdb_id": "nm2252273"
+               },
+               {
+                  "name": "Francesco Pegoretti",
+                  "notes": null,
+                  "imdb_id": "nm4687885"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Soul",
+                  "notes": null,
+                  "imdb_id": "tt2948372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Trent Reznor",
+                  "notes": null,
+                  "imdb_id": "nm0722153"
+               },
+               {
+                  "name": "Atticus Ross",
+                  "notes": null,
+                  "imdb_id": "nm1589604"
+               },
+               {
+                  "name": "Jon Batiste",
+                  "notes": null,
+                  "imdb_id": "nm4456022"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Da 5 Bloods",
+                  "notes": null,
+                  "imdb_id": "tt9777644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terence Blanchard",
+                  "notes": null,
+                  "imdb_id": "nm0005966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mank",
+                  "notes": null,
+                  "imdb_id": "tt10618286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Trent Reznor",
+                  "notes": null,
+                  "imdb_id": "nm0722153"
+               },
+               {
+                  "name": "Atticus Ross",
+                  "notes": null,
+                  "imdb_id": "nm1589604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minari",
+                  "notes": null,
+                  "imdb_id": "tt10633456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emile Mosseri",
+                  "notes": null,
+                  "imdb_id": "nm7888676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "News of the World",
+                  "notes": null,
+                  "imdb_id": "tt6878306"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "notes": "For song \"Fight for You\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Judas and the Black Messiah",
+                  "notes": null,
+                  "imdb_id": "tt9784798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "H.E.R.",
+                  "notes": "(music by/lyric by)",
+                  "imdb_id": "nm2878358"
+               },
+               {
+                  "name": "D'Mile",
+                  "notes": "(as Dernst Emile II) (music by)",
+                  "imdb_id": "nm6299956"
+               },
+               {
+                  "name": "Tiara Thomas",
+                  "notes": "(lyric by)",
+                  "imdb_id": "nm8454691"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Husavik\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eurovision Song Contest: The Story of Fire Saga",
+                  "notes": null,
+                  "imdb_id": "tt8580274"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Savan Kotecha",
+                  "notes": "(music and lyric by)",
+                  "imdb_id": "nm4153652"
+               },
+               {
+                  "name": "Max Grahn",
+                  "notes": "(music and lyric by)",
+                  "imdb_id": "nm12200610"
+               },
+               {
+                  "name": "Rickard G\u00f6ransson",
+                  "notes": null,
+                  "imdb_id": "nm7646386"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Speak Now\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Night in Miami...",
+                  "notes": null,
+                  "imdb_id": "tt10612922"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Odom Jr.",
+                  "notes": "(music and lyric by)",
+                  "imdb_id": "nm1502434"
+               },
+               {
+                  "name": "Sam Ashworth",
+                  "notes": "(music and lyric by)",
+                  "imdb_id": "nm3841867"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Io Si (Seen)\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Life Ahead",
+                  "notes": null,
+                  "imdb_id": "tt10627584"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": "(music by/lyric by)",
+                  "imdb_id": "nm0005534"
+               },
+               {
+                  "name": "Laura Pausini",
+                  "notes": "(lyric by)",
+                  "imdb_id": "nm1306128"
+               }
+            ]
+         },
+         {
+            "notes": "For song \"Hear My Voice\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Trial of the Chicago 7",
+                  "notes": null,
+                  "imdb_id": "tt1070874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Celeste",
+                  "notes": "(as Celeste Waite) (lyric by)",
+                  "imdb_id": "nm11203881"
+               },
+               {
+                  "name": "Daniel Pemberton",
+                  "notes": "(music by/lyric by)",
+                  "imdb_id": "nm1207404"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tenet",
+                  "notes": null,
+                  "imdb_id": "tt6723592"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Jackson",
+                  "notes": null,
+                  "imdb_id": "nm1886497"
+               },
+               {
+                  "name": "David Lee",
+                  "notes": null,
+                  "imdb_id": "nm2814296"
+               },
+               {
+                  "name": "Andrew Lockley",
+                  "notes": null,
+                  "imdb_id": "nm0516916"
+               },
+               {
+                  "name": "Scott R. Fisher",
+                  "notes": null,
+                  "imdb_id": "nm0279782"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Love and Monsters",
+                  "notes": null,
+                  "imdb_id": "tt2222042"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matt Sloan",
+                  "notes": null,
+                  "imdb_id": "nm0805992"
+               },
+               {
+                  "name": "Genevieve Camilleri",
+                  "notes": null,
+                  "imdb_id": "nm3784934"
+               },
+               {
+                  "name": "Matt Everitt",
+                  "notes": null,
+                  "imdb_id": "nm3051832"
+               },
+               {
+                  "name": "Brian Cox",
+                  "notes": null,
+                  "imdb_id": "nm0184939"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mulan",
+                  "notes": null,
+                  "imdb_id": "tt4566758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sean Andrew Faden",
+                  "notes": "(as Sean Faden)",
+                  "imdb_id": "nm0264915"
+               },
+               {
+                  "name": "Anders Langlands",
+                  "notes": null,
+                  "imdb_id": "nm1619365"
+               },
+               {
+                  "name": "Seth Maury",
+                  "notes": null,
+                  "imdb_id": "nm0561295"
+               },
+               {
+                  "name": "Steve Ingram",
+                  "notes": null,
+                  "imdb_id": "nm0409032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Midnight Sky",
+                  "notes": null,
+                  "imdb_id": "tt10539608"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matt Kasmir",
+                  "notes": "(as Matthew Kasmir)",
+                  "imdb_id": "nm0440683"
+               },
+               {
+                  "name": "Chris Lawrence",
+                  "notes": "(as Christopher Lawrence)",
+                  "imdb_id": "nm1165856"
+               },
+               {
+                  "name": "Max Solomon",
+                  "notes": null,
+                  "imdb_id": "nm1281289"
+               },
+               {
+                  "name": "David Watkins",
+                  "notes": null,
+                  "imdb_id": "nm0914247"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The One and Only Ivan",
+                  "notes": null,
+                  "imdb_id": "tt3661394"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nick Davis",
+                  "notes": null,
+                  "imdb_id": "nm0002428"
+               },
+               {
+                  "name": "Greg Fisher",
+                  "notes": null,
+                  "imdb_id": "nm1049807"
+               },
+               {
+                  "name": "Ben Jones",
+                  "notes": null,
+                  "imdb_id": "nm2932799"
+               },
+               {
+                  "name": "Santiago Colomo",
+                  "notes": "(as Santiago Colomo Martinez)",
+                  "imdb_id": "nm2979916"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Octopus Teacher",
+                  "notes": null,
+                  "imdb_id": "tt12888462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pippa Ehrlich",
+                  "notes": null,
+                  "imdb_id": "nm11813828"
+               },
+               {
+                  "name": "James Reed",
+                  "notes": null,
+                  "imdb_id": "nm1624755"
+               },
+               {
+                  "name": "Craig Foster",
+                  "notes": null,
+                  "imdb_id": "nm0287741"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Collective",
+                  "notes": null,
+                  "imdb_id": "tt10706602"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Nanau",
+                  "notes": null,
+                  "imdb_id": "nm1681049"
+               },
+               {
+                  "name": "Bianca Oana",
+                  "notes": null,
+                  "imdb_id": "nm4290702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crip Camp",
+                  "notes": null,
+                  "imdb_id": "tt8923484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicole Newnham",
+                  "notes": null,
+                  "imdb_id": "nm1011820"
+               },
+               {
+                  "name": "James Lebrecht",
+                  "notes": "(as Jim Lebrecht)",
+                  "imdb_id": "nm0495898"
+               },
+               {
+                  "name": "Sara Bolder",
+                  "notes": null,
+                  "imdb_id": "nm0092781"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mole Agent",
+                  "notes": null,
+                  "imdb_id": "tt11394298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maite Alberdi",
+                  "notes": null,
+                  "imdb_id": "nm3073146"
+               },
+               {
+                  "name": "Marcela Santibanez",
+                  "notes": "(as Marcela Santib\u00e1\u00f1ez)",
+                  "imdb_id": "nm5337246"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Time",
+                  "notes": null,
+                  "imdb_id": "tt11416746"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Garrett Bradley",
+                  "notes": null,
+                  "imdb_id": "nm3797834"
+               },
+               {
+                  "name": "Lauren Domino",
+                  "notes": null,
+                  "imdb_id": "nm6156086"
+               },
+               {
+                  "name": "Kellen Quinn",
+                  "notes": null,
+                  "imdb_id": "nm2062930"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Colette",
+                  "notes": null,
+                  "imdb_id": "tt11643154"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Giacchino",
+                  "notes": null,
+                  "imdb_id": "nm1818348"
+               },
+               {
+                  "name": "Alice Doyard",
+                  "notes": null,
+                  "imdb_id": "nm3550163"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Concerto Is a Conversation",
+                  "notes": null,
+                  "imdb_id": "tt13793326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Proudfoot",
+                  "notes": null,
+                  "imdb_id": "nm3988897"
+               },
+               {
+                  "name": "Kris Bowers",
+                  "notes": null,
+                  "imdb_id": "nm3929283"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Love Song for Latasha",
+                  "notes": null,
+                  "imdb_id": "tt8993180"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sophia Nahli Allison",
+                  "notes": null,
+                  "imdb_id": "nm7630871"
+               },
+               {
+                  "name": "Janice Duncan",
+                  "notes": null,
+                  "imdb_id": "nm5903832"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Do Not Split",
+                  "notes": null,
+                  "imdb_id": "tt11512676"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anders S\u00f8mme Hammer",
+                  "notes": null,
+                  "imdb_id": "nm4108371"
+               },
+               {
+                  "name": "Charlotte Cook",
+                  "notes": null,
+                  "imdb_id": "nm4085451"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hunger Ward",
+                  "notes": null,
+                  "imdb_id": "tt12979636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skye Fitzgerald",
+                  "notes": null,
+                  "imdb_id": "nm1148695"
+               },
+               {
+                  "name": "Michael Scheuerman",
+                  "notes": null,
+                  "imdb_id": "nm11492155"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Soul",
+                  "notes": null,
+                  "imdb_id": "tt2948372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Docter",
+                  "notes": null,
+                  "imdb_id": "nm0230032"
+               },
+               {
+                  "name": "Dana Murray",
+                  "notes": null,
+                  "imdb_id": "nm1733918"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Shaun the Sheep Movie: Farmageddon",
+                  "notes": null,
+                  "imdb_id": "tt6193408"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Phelan",
+                  "notes": null,
+                  "imdb_id": "nm4503368"
+               },
+               {
+                  "name": "Will Becher",
+                  "notes": null,
+                  "imdb_id": "nm2192511"
+               },
+               {
+                  "name": "Paul Kewley",
+                  "notes": null,
+                  "imdb_id": "nm1385754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Onward",
+                  "notes": null,
+                  "imdb_id": "tt7146812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan Scanlon",
+                  "notes": null,
+                  "imdb_id": "nm0768959"
+               },
+               {
+                  "name": "Kori Rae",
+                  "notes": null,
+                  "imdb_id": "nm0706032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Over the Moon",
+                  "notes": null,
+                  "imdb_id": "tt7488208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen Keane",
+                  "notes": null,
+                  "imdb_id": "nm0443855"
+               },
+               {
+                  "name": "Gennie Rim",
+                  "notes": null,
+                  "imdb_id": "nm2937345"
+               },
+               {
+                  "name": "Peilin Chou",
+                  "notes": null,
+                  "imdb_id": "nm1513657"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "WolfWalkers",
+                  "notes": null,
+                  "imdb_id": "tt5198068"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tomm Moore",
+                  "notes": null,
+                  "imdb_id": "nm1119079"
+               },
+               {
+                  "name": "Ross Stewart",
+                  "notes": null,
+                  "imdb_id": "nm2075487"
+               },
+               {
+                  "name": "Paul Young",
+                  "notes": null,
+                  "imdb_id": "nm2727721"
+               },
+               {
+                  "name": "St\u00e9phan Roelants",
+                  "notes": null,
+                  "imdb_id": "nm2847097"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "If Anything Happens I Love You",
+                  "notes": null,
+                  "imdb_id": "tt11768948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Will McCormack",
+                  "notes": null,
+                  "imdb_id": "nm0566489"
+               },
+               {
+                  "name": "Michael Govier",
+                  "notes": null,
+                  "imdb_id": "nm1854728"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burrow",
+                  "notes": null,
+                  "imdb_id": "tt13167288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Madeline Sharafian",
+                  "notes": null,
+                  "imdb_id": "nm6461347"
+               },
+               {
+                  "name": "Michael Capbarat",
+                  "notes": null,
+                  "imdb_id": "nm6040099"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Genius Loci",
+                  "notes": null,
+                  "imdb_id": "tt11884670"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adrien Merigeau",
+                  "notes": null,
+                  "imdb_id": "nm3352576"
+               },
+               {
+                  "name": "Amaury Ovise",
+                  "notes": null,
+                  "imdb_id": "nm3856500"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Opera",
+                  "notes": null,
+                  "imdb_id": "tt14039636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erick Oh",
+                  "notes": null,
+                  "imdb_id": "nm4014909"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Yes-People",
+                  "notes": null,
+                  "imdb_id": "tt12706728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "G\u00edsli Darri Halld\u00f3rsson",
+                  "notes": null,
+                  "imdb_id": "nm4496900"
+               },
+               {
+                  "name": "Arnar Gunnarsson",
+                  "notes": null,
+                  "imdb_id": "nm2727616"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Two Distant Strangers",
+                  "notes": null,
+                  "imdb_id": "tt13472984"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Travon Free",
+                  "notes": null,
+                  "imdb_id": "nm3579257"
+               },
+               {
+                  "name": "Martin Desmond Roe",
+                  "notes": null,
+                  "imdb_id": "nm1804553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Feeling Through",
+                  "notes": null,
+                  "imdb_id": "tt9280166"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Doug Roland",
+                  "notes": null,
+                  "imdb_id": "nm3194313"
+               },
+               {
+                  "name": "Sue Ruzenski",
+                  "notes": "(as Susan Ruzenski)",
+                  "imdb_id": "nm10801720"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Letter Room",
+                  "notes": null,
+                  "imdb_id": "tt11962160"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elvira Lind",
+                  "notes": null,
+                  "imdb_id": "nm4895825"
+               },
+               {
+                  "name": "Sofia Sondervan",
+                  "notes": null,
+                  "imdb_id": "nm1001945"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Present",
+                  "notes": null,
+                  "imdb_id": "tt11474480"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farah Nabulsi",
+                  "notes": null,
+                  "imdb_id": "nm9048529"
+               },
+               {
+                  "name": "Ossama Bawardi",
+                  "notes": null,
+                  "imdb_id": "nm3050599"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "White Eye",
+                  "notes": null,
+                  "imdb_id": "tt10538710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tomer Shushan",
+                  "notes": null,
+                  "imdb_id": "nm8781219"
+               },
+               {
+                  "name": "Shira Hochman",
+                  "notes": null,
+                  "imdb_id": "nm6735926"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best International Feature Film",
+      "nominations": [
+         {
+            "notes": "Denmark",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Another Round",
+                  "notes": null,
+                  "imdb_id": "tt10288566"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Hong Kong",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Better Days",
+                  "notes": null,
+                  "imdb_id": "tt9586294"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Romania",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Collective",
+                  "notes": null,
+                  "imdb_id": "tt10706602"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Bosnia and Herzegovina",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo vadis, Aida?",
+                  "notes": null,
+                  "imdb_id": "tt8633462"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Tunisia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Sold His Skin",
+                  "notes": null,
+                  "imdb_id": "tt10360862"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   }
+]

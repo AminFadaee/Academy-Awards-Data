@@ -1,0 +1,788 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frost/Nixon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Reader"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sean Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brad Pitt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Langella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey Rourke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Jenkins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angelina Jolie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Hathaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melissa Leo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Heath Ledger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Josh Brolin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Shannon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philip Seymour Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Downey Jr."
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pen\u00e9lope Cruz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marisa Tomei"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Taraji P. Henson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viola Davis"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Danny Boyle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Fincher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gus Van Sant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ron Howard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stephen Daldry"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frozen River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Happy-Go-Lucky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Bruges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doubt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frost/Nixon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Reader"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Changeling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Reader"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Changeling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Revolutionary Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Duchess"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frost/Nixon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Duchess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Australia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Revolutionary Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Defiance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wanted"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iron Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Slumdog Millionaire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wanted"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iron Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The House of Small Cubes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lavatory Lovestory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oktapodi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Presto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "This Way Up"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toyland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Manon on the Asphalt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "New Boy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pig"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Smile Pinki"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conscience of Nhem En"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Final Inch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Witness from the Balcony of Room 306"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Man on Wire"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Encounters at the End of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Betrayal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Garden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trouble the Water"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Departures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Revanche"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Baader Meinhof Complex"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Class"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waltz with Bashir"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "WALL\u00b7E"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bolt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kung Fu Panda"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Curious Case of Benjamin Button"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hellboy II: The Golden Army"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Knight"
+            ]
+         }
+      ]
+   }
+]

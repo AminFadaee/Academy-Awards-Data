@@ -1,0 +1,735 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Daniel Day-Lewis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenneth Branagh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morgan Freeman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Cruise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dan Aykroyd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Danny Aiello"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Landau"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jessica Tandy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Isabelle Adjani"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Pfeiffer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pauline Collins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Brenda Fricker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anjelica Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dianne Wiest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lena Olin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Batman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Abyss"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Adventures of Baron Munchausen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blaze"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Abyss"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fabulous Baker Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Henry V"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harlem Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Adventures of Baron Munchausen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Valmont"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Oliver Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jim Sheridan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenneth Branagh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Weir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Common Threads: Stories from the Quilt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adam Clayton Powell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crack USA: County Under Siege"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "For All Mankind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Super Chief: The Life and Legacy of Earl Warren"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Johnstown Flood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fine Food, Fine Pastries, Open 6 to 9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yad Vashem: Preserving the Past to Ensure the Future"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Last Crusade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Rain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lethal Weapon 2"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Abyss"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Back to the Future Part II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Adventures of Baron Munchausen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fabulous Baker Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cinema Paradiso"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Camille Claudel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jesus of Montreal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lo que le pas\u00f3 a Santiago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Memories of a Marriage"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Adventures of Baron Munchausen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Little Mermaid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Field of Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Last Crusade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fabulous Baker Boys"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Little Mermaid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chances Are"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Parenthood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shirley Valentine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Mermaid"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dead Poets Society"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Field of Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Left Foot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Balance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hill Farm"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Work Experience"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amazon Diary"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Child Eater"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Rain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Last Crusade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Abyss"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Driving Miss Daisy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Born on the Fourth of July"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enemies, A Love Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Field of Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Left Foot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dead Poets Society"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Crimes and Misdemeanors"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Do the Right Thing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sex, Lies, and Videotape"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Harry Met Sally..."
+            ]
+         }
+      ]
+   }
+]

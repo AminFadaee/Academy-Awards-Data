@@ -1,0 +1,810 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Boyer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fredric March"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Muni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Montgomery"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joseph Schildkraut"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "H.B. Warner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Bellamy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roland Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thomas Mitchell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Luise Rainer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Stanwyck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greta Garbo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene Dunne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Janet Gaynor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alice Brady"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Andrea Leeds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Shirley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claire Trevor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "May Whitty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lost Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Damsel in Distress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Conquest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dead End"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Every Day's a Holiday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Manhattan Merry-Go-Round"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Souls at Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prisoner of Zenda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vogues of 1938"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wee Willie Winkie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You're a Sweetheart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert D. Webb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles C. Coleman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eric Stacey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hal Walker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Russell Saunders"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Good Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dead End"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wings Over Honolulu"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Dance Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Damsel in Distress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Day at the Races"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ali Baba Goes to Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ready, Willing and Able"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thin Ice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Varsity Show"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Waikiki Wedding"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Leo McCarey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregory La Cava"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sidney Franklin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William A. Wellman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Dieterle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lost Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captains Courageous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Hundred Men and a Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Awful Truth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Good Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Waikiki Wedding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Artist and Models"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Dodd Takes the Air"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shall We Dance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vogues of 1938"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Hundred Men and a Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Old Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lost Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Make a Wish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maytime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Portia on Trial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quality Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Snow White and the Seven Dwarfs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Something to Sing About"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Souls at Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hurricane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prisoner of Zenda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Way Out West"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captains Courageous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dead End"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Old Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lost Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Hundred Men and a Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stage Door"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Awful Truth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Good Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Old Mill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Educated Fish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Match Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Penny Wisdom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Popular Science"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Man Without a Country"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Private Life of the Gannets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Night at the Movies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romance of Radium"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Torture Money"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deep South"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Should Wives Work?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurricane"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hitting a New High"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Old Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lost Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maytime"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Hundred Men and a Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Girl Said No"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Topper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wells Fargo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Black Legion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In Old Chicago"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Hundred Men and a Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Life of Emile Zola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captains Courageous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stage Door"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Awful Truth"
+            ]
+         }
+      ]
+   }
+]

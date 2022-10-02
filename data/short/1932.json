@@ -1,0 +1,326 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fredric March"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Wallace Beery"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfred Lunt"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Helen Hayes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lynn Fontanne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marie Dressler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Transatlantic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrowsmith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "\u00c0 nous la libert\u00e9"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shanghai Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrowsmith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Jekyll and Mr. Hyde"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Borzage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Josef von Sternberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Vidor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grand Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrowsmith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bad Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Five Star Final"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Hour with You"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shanghai Express"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Champ"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Smiling Lieutenant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Flowers and Trees"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's Got Me Again!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey's Orphans"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Music Box"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scratch-As-Catch-Can"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stout Hearts and Willing Hands"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Loud Mouth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wrestling Swordfish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Screen Souvenirs"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Swing High"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Paramount Publix Corporation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Metro-Goldwyn-Mayer (MGM)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "RKO Radio Pictures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Warner Bros.-First National Pictures"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bad Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrowsmith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dr. Jekyll and Mr. Hyde"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Champ"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady and Gent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Star Witness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What Price Hollywood?"
+            ]
+         }
+      ]
+   }
+]

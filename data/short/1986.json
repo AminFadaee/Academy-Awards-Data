@@ -1,0 +1,747 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Hurt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harrison Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Garner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jon Voight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Don Ameche"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eric Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Klaus Maria Brandauer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Loggia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Hickey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Bancroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whoopi Goldberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anjelica Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Madigan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Margaret Avery"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meg Tilly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oprah Winfrey"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brazil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ran"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murphy's Romance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ran"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ran"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prizzi's Honor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Journey of Natty Gann"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sydney Pollack"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Akira Kurosawa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hector Babenco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Weir"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Broken Rainbow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Soldiers in Hiding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mothers of the Plaza of Mayo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Statue of Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unfinished Business"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Witness to War: Dr. Charlie Clements"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Keats and His Nightingale: A Blind Date"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Making Overtures: The Story of a Community Orchestra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Courage to Care"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wizard of the Strings"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Back to the Future"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ladyhawke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rambo: First Blood Part II"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cocoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Return to Oz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Sherlock Holmes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Witness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Chorus Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prizzi's Honor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Runaway Train"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Official Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angry Harvest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Colonel Redl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Men and a Cradle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Father Was Away on Business"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mask"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Remo Williams: The Adventure Begins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agnes of God"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silverado"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "White Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Chorus Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Back to the Future"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "White Nights"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kiss of the Spider Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prizzi's Honor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Witness"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Anna & Bella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Second Class Mail"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Snit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Molly's Pilgrim"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Graffiti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rainbow War"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Chorus Line"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Back to the Future"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ladyhawke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silverado"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Out of Africa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kiss of the Spider Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prizzi's Honor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Color Purple"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Trip to Bountiful"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Witness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Back to the Future"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brazil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Official Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Purple Rose of Cairo"
+            ]
+         }
+      ]
+   }
+]

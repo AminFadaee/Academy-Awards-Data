@@ -1,0 +1,730 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gene Hackman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George C. Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Finch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Topol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walter Matthau"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben Johnson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonard Frey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Jaeckel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roy Scheider"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenda Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Janet Suzman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Christie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanessa Redgrave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cloris Leachman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ann-Margret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Margaret Leighton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nicholas and Alexandra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bedknobs and Broomsticks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fiddler on the Roof"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary, Queen of Scots"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Andromeda Strain"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fiddler on the Roof"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicholas and Alexandra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Summer of '42"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Connection"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Picture Show"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Nicholas and Alexandra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bedknobs and Broomsticks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Death in Venice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary, Queen of Scots"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What's the Matter with Helen?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Friedkin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Schlesinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norman Jewison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Bogdanovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kubrick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hellstrom Chronicle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alaska Wilderness Lake"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Any Sunday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Ra Expeditions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sorrow and the Pity"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sentinels of Silence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adventures in Perception"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Art Is..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Somebody Waiting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Numbers Start with the River"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bedknobs and Broomsticks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Dinosaurs Ruled the Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The French Connection"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Clockwork Orange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kotch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Summer of '42"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Andromeda Strain"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Garden of the Finzi-Continis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dodes'ka-den"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tchaikovsky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emigrants"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Policeman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Summer of '42"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary, Queen of Scots"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicholas and Alexandra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shaft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Straw Dogs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shaft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bedknobs and Broomsticks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bless the Beasts & Children"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kotch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sometimes a Great Notion"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Adaptation and Original Song Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fiddler on the Roof"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bedknobs and Broomsticks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tchaikovsky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boy Friend"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Willy Wonka & the Chocolate Factory"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The French Connection"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Clockwork Orange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fiddler on the Roof"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicholas and Alexandra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Picture Show"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Animated Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Crunch Bird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evolution"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Selfish Giant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sentinels of Silence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Good Morning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rehearsal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fiddler on the Roof"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diamonds Are Forever"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kotch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary, Queen of Scots"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The French Connection"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The French Connection"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Clockwork Orange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Conformist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Garden of the Finzi-Continis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Picture Show"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hospital"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Investigation of a Citizen Above Suspicion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Klute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Summer of '42"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunday Bloody Sunday"
+            ]
+         }
+      ]
+   }
+]

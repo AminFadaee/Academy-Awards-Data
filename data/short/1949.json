@@ -1,0 +1,739 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clifton Webb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dan Dailey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lew Ayres"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Montgomery Clift"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Walter Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cecil Kellaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Bickford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jos\u00e9 Ferrer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oskar Homolka"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jane Wyman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Stanwyck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ingrid Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irene Dunne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Olivia de Havilland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Claire Trevor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agnes Moorehead"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbara Bel Geddes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Corby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jean Simmons"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Red Shoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan of Arc"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Naked City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Foreign Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Remember Mama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Portrait of Jennie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joan of Arc"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Green Grass of Wyoming"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Loves of Carmen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Three Musketeers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "B.F.'s Daughter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joan of Arc"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emperor Waltz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anatole Litvak"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jean Negulesco"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Secret Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet One"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Toward Independence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heart to Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operation Vittles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Portrait of Jennie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deep Waters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Naked City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan of Arc"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Red River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Shoes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Paleface"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Casbah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romance on the High Seas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Lady in Ermine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wet Blanket Policy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Red Shoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan of Arc"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snake Pit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Easter Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romance on the High Seas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emperor Waltz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pirate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When My Baby Smiles at Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hamlet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Shoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snake Pit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Treasure of the Sierra Madre"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Little Orphan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey and the Seal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mouse Wreckers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Hoodlum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tea for Two Hundred"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rhythm of a City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annie Was a Wonder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella Horse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "So You Want to Be on the Radio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "You Can't Win"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Seal Island"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Calgary Stampede"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Going to Blazes!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samba-Mania"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Snow Capers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Snake Pit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonrise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Search"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Louisiana Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Red River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Naked City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Shoes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Treasure of the Sierra Madre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Foreign Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Belinda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Search"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Snake Pit"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2279 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Richard Dreyfuss",
+                  "notes": null,
+                  "imdb_id": "nm0000377"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Goodbye Girl",
+                  "notes": null,
+                  "imdb_id": "tt0076095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Travolta",
+                  "notes": null,
+                  "imdb_id": "nm0000237"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saturday Night Fever",
+                  "notes": null,
+                  "imdb_id": "tt0076666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marcello Mastroianni",
+                  "notes": null,
+                  "imdb_id": "nm0000052"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Special Day",
+                  "notes": null,
+                  "imdb_id": "tt0076085"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Burton",
+                  "notes": null,
+                  "imdb_id": "nm0000009"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Equus",
+                  "notes": null,
+                  "imdb_id": "tt0075995"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Annie Hall",
+                  "notes": null,
+                  "imdb_id": "tt0075686"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Jason Robards was not present at the ceremony. Presenters Maggie Smith and Michael Caine accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jason Robards",
+                  "notes": null,
+                  "imdb_id": "nm0001673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alec Guinness",
+                  "notes": null,
+                  "imdb_id": "nm0000027"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maximilian Schell",
+                  "notes": null,
+                  "imdb_id": "nm0001703"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mikhail Baryshnikov",
+                  "notes": null,
+                  "imdb_id": "nm0000864"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Firth",
+                  "notes": null,
+                  "imdb_id": "nm0278752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Equus",
+                  "notes": null,
+                  "imdb_id": "tt0075995"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Diane Keaton",
+                  "notes": null,
+                  "imdb_id": "nm0000473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Annie Hall",
+                  "notes": null,
+                  "imdb_id": "tt0075686"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anne Bancroft",
+                  "notes": null,
+                  "imdb_id": "nm0000843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marsha Mason",
+                  "notes": null,
+                  "imdb_id": "nm0556850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Goodbye Girl",
+                  "notes": null,
+                  "imdb_id": "tt0076095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shirley MacLaine",
+                  "notes": null,
+                  "imdb_id": "nm0000511"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Vanessa Redgrave",
+                  "notes": null,
+                  "imdb_id": "nm0000603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leslie Browne",
+                  "notes": null,
+                  "imdb_id": "nm0115038"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Melinda Dillon",
+                  "notes": null,
+                  "imdb_id": "nm0227039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quinn Cummings",
+                  "notes": null,
+                  "imdb_id": "nm0191944"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Goodbye Girl",
+                  "notes": null,
+                  "imdb_id": "tt0076095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tuesday Weld",
+                  "notes": null,
+                  "imdb_id": "nm0001839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Looking for Mr. Goodbar",
+                  "notes": null,
+                  "imdb_id": "tt0076327"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Barry",
+                  "notes": null,
+                  "imdb_id": "nm0058045"
+               },
+               {
+                  "name": "Norman Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0721888"
+               },
+               {
+                  "name": "Leslie Dilley",
+                  "notes": null,
+                  "imdb_id": "nm0226896"
+               },
+               {
+                  "name": "Roger Christian",
+                  "notes": null,
+                  "imdb_id": "nm0002337"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Airport '77",
+                  "notes": null,
+                  "imdb_id": "tt0075648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George C. Webb",
+                  "notes": null,
+                  "imdb_id": "nm0916112"
+               },
+               {
+                  "name": "Mickey S. Michaels",
+                  "notes": null,
+                  "imdb_id": "nm0584446"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Alves",
+                  "notes": null,
+                  "imdb_id": "nm0023469"
+               },
+               {
+                  "name": "Daniel A. Lomino",
+                  "notes": null,
+                  "imdb_id": "nm0518561"
+               },
+               {
+                  "name": "Phil Abramson",
+                  "notes": null,
+                  "imdb_id": "nm0009055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Spy Who Loved Me",
+                  "notes": null,
+                  "imdb_id": "tt0076752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Adam",
+                  "notes": null,
+                  "imdb_id": "nm0010553"
+               },
+               {
+                  "name": "Peter Lamont",
+                  "notes": null,
+                  "imdb_id": "nm0483682"
+               },
+               {
+                  "name": "Hugh Scaife",
+                  "notes": null,
+                  "imdb_id": "nm0768728"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Brenner",
+                  "notes": null,
+                  "imdb_id": "nm0107447"
+               },
+               {
+                  "name": "Marvin March",
+                  "notes": null,
+                  "imdb_id": "nm0545322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vilmos Zsigmond",
+                  "notes": null,
+                  "imdb_id": "nm0005936"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Islands in the Stream",
+                  "notes": null,
+                  "imdb_id": "tt0076211"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred J. Koenekamp",
+                  "notes": null,
+                  "imdb_id": "nm0005758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Slocombe",
+                  "notes": null,
+                  "imdb_id": "nm0005878"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Looking for Mr. Goodbar",
+                  "notes": null,
+                  "imdb_id": "tt0076327"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Fraker",
+                  "notes": null,
+                  "imdb_id": "nm0005710"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Mollo",
+                  "notes": null,
+                  "imdb_id": "nm0597087"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Little Night Music",
+                  "notes": null,
+                  "imdb_id": "tt0076319"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Florence Klotz",
+                  "notes": null,
+                  "imdb_id": "nm0460108"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Airport '77",
+                  "notes": null,
+                  "imdb_id": "tt0075648"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Burton Miller",
+                  "notes": null,
+                  "imdb_id": "nm0588018"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthea Sylbert",
+                  "notes": null,
+                  "imdb_id": "nm0843123"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Other Side of Midnight",
+                  "notes": null,
+                  "imdb_id": "tt0076507"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": "Woody Allen was not present at the awards ceremony. Co-presenter King Vidor accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Annie Hall",
+                  "notes": null,
+                  "imdb_id": "tt0075686"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Lucas",
+                  "notes": null,
+                  "imdb_id": "nm0000184"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Herbert Ross",
+                  "notes": null,
+                  "imdb_id": "nm0006889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steven Spielberg",
+                  "notes": null,
+                  "imdb_id": "nm0000229"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Who Are the DeBolts? and Where Did They Get Nineteen Kids?",
+                  "notes": null,
+                  "imdb_id": "tt0076918"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Korty",
+                  "notes": null,
+                  "imdb_id": "nm0466793"
+               },
+               {
+                  "name": "Dan McCann",
+                  "notes": null,
+                  "imdb_id": "nm0564848"
+               },
+               {
+                  "name": "Warren Lockhart",
+                  "notes": null,
+                  "imdb_id": "nm0516901"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "High Grass Circus",
+                  "notes": null,
+                  "imdb_id": "tt0076142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Brind",
+                  "notes": null,
+                  "imdb_id": "nm0109464"
+               },
+               {
+                  "name": "Torben Schioler",
+                  "notes": null,
+                  "imdb_id": "nm0771899"
+               },
+               {
+                  "name": "Tony Ianzelo",
+                  "notes": null,
+                  "imdb_id": "nm0406349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Homage to Chagall: The Colours of Love",
+                  "notes": null,
+                  "imdb_id": "tt0076151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Rasky",
+                  "notes": null,
+                  "imdb_id": "nm0711268"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Children of Theatre Street",
+                  "notes": null,
+                  "imdb_id": "tt0075839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Dornhelm",
+                  "notes": null,
+                  "imdb_id": "nm0233920"
+               },
+               {
+                  "name": "Earle Mack",
+                  "notes": null,
+                  "imdb_id": "nm0532973"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Union Maids",
+                  "notes": null,
+                  "imdb_id": "tt0075372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Klein",
+                  "notes": null,
+                  "imdb_id": "nm0458822"
+               },
+               {
+                  "name": "Julia Reichert",
+                  "notes": null,
+                  "imdb_id": "nm0717064"
+               },
+               {
+                  "name": "Miles Mogulescu",
+                  "notes": null,
+                  "imdb_id": "nm0595801"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity Is My Enemy",
+                  "notes": null,
+                  "imdb_id": "tt0076105"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John C. Joseph",
+                  "notes": null,
+                  "imdb_id": "nm0003385"
+               },
+               {
+                  "name": "Jan Stussy",
+                  "notes": null,
+                  "imdb_id": "nm0836465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Agueda Martinez: Our People, Our Country",
+                  "notes": null,
+                  "imdb_id": "tt0075645"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moctesuma Esparza",
+                  "notes": null,
+                  "imdb_id": "nm0260800"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "First Edition",
+                  "notes": null,
+                  "imdb_id": "tt0076032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Helen Whitney",
+                  "notes": null,
+                  "imdb_id": "nm0926299"
+               },
+               {
+                  "name": "DeWitt Sage",
+                  "notes": null,
+                  "imdb_id": "nm0756040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Of Time, Tombs and Treasures",
+                  "notes": null,
+                  "imdb_id": "tt0076488"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James R. Messenger",
+                  "notes": null,
+                  "imdb_id": "nm0582032"
+               },
+               {
+                  "name": "Paul Raimondi",
+                  "notes": null,
+                  "imdb_id": "nm0004048"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Shetland Experience",
+                  "notes": null,
+                  "imdb_id": "tt0076700"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330159"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Stears",
+                  "notes": null,
+                  "imdb_id": "nm0824210"
+               },
+               {
+                  "name": "John Dykstra",
+                  "notes": null,
+                  "imdb_id": "nm0004375"
+               },
+               {
+                  "name": "Richard Edlund",
+                  "notes": null,
+                  "imdb_id": "nm0249430"
+               },
+               {
+                  "name": "Grant McCune",
+                  "notes": null,
+                  "imdb_id": "nm0567263"
+               },
+               {
+                  "name": "Robert Blalack",
+                  "notes": null,
+                  "imdb_id": "nm0086879"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Arbogast",
+                  "notes": null,
+                  "imdb_id": "nm0033405"
+               },
+               {
+                  "name": "Douglas Trumbull",
+                  "notes": null,
+                  "imdb_id": "nm0874320"
+               },
+               {
+                  "name": "Matthew Yuricich",
+                  "notes": null,
+                  "imdb_id": "nm0951046"
+               },
+               {
+                  "name": "Gregory Jein",
+                  "notes": null,
+                  "imdb_id": "nm0420474"
+               },
+               {
+                  "name": "Richard Yuricich",
+                  "notes": null,
+                  "imdb_id": "nm0951047"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Hirsch",
+                  "notes": null,
+                  "imdb_id": "nm0386532"
+               },
+               {
+                  "name": "Marcia Lucas",
+                  "notes": null,
+                  "imdb_id": "nm0524235"
+               },
+               {
+                  "name": "Richard Chew",
+                  "notes": null,
+                  "imdb_id": "nm0156816"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Kahn",
+                  "notes": null,
+                  "imdb_id": "nm0434883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               },
+               {
+                  "name": "Marcel Durham",
+                  "notes": null,
+                  "imdb_id": "nm0244091"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Smokey and the Bandit",
+                  "notes": null,
+                  "imdb_id": "tt0076729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Hannemann",
+                  "notes": null,
+                  "imdb_id": "nm0360385"
+               },
+               {
+                  "name": "Angelo Ross",
+                  "notes": null,
+                  "imdb_id": "nm0743207"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0722000"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "France",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Madame Rosa",
+                  "notes": null,
+                  "imdb_id": "tt0076348"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Special Day",
+                  "notes": null,
+                  "imdb_id": "tt0076085"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Greece",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Iphigenia",
+                  "notes": null,
+                  "imdb_id": "tt0076208"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Israel",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Operation Thunderbolt",
+                  "notes": null,
+                  "imdb_id": "tt0076398"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain",
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Obscure Object of Desire",
+                  "notes": null,
+                  "imdb_id": "tt0075824"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Georges Delerue",
+                  "notes": null,
+                  "imdb_id": "nm0000016"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Message",
+                  "notes": null,
+                  "imdb_id": "tt0074896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurice Jarre",
+                  "notes": null,
+                  "imdb_id": "nm0003574"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Spy Who Loved Me",
+                  "notes": null,
+                  "imdb_id": "tt0076752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": null,
+                  "imdb_id": "nm0006121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"You Light Up My Life\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "You Light Up My Life",
+                  "notes": null,
+                  "imdb_id": "tt0076941"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112072"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Candle on the Water\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pete's Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0076538"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Al Kasha",
+                  "notes": null,
+                  "imdb_id": "nm0440517"
+               },
+               {
+                  "name": "Joel Hirschhorn",
+                  "notes": null,
+                  "imdb_id": "nm0386610"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Someone's Waiting For You\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rescuers",
+                  "notes": null,
+                  "imdb_id": "tt0076618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sammy Fain",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006066"
+               },
+               {
+                  "name": "Carol Connors",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0175486"
+               },
+               {
+                  "name": "Ayn Robbins",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0730291"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Slipper and the Rose Waltz (He Danced with Me/She Danced with Me)\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Slipper and the Rose: The Story of Cinderella",
+                  "notes": null,
+                  "imdb_id": "tt0075232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Nobody Does It Better\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Spy Who Loved Me",
+                  "notes": null,
+                  "imdb_id": "tt0076752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006121"
+               },
+               {
+                  "name": "Carole Bayer Sager",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004728"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Little Night Music",
+                  "notes": null,
+                  "imdb_id": "tt0076319"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jonathan Tunick",
+                  "notes": null,
+                  "imdb_id": "nm0876642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pete's Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0076538"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Al Kasha",
+                  "notes": null,
+                  "imdb_id": "nm0440517"
+               },
+               {
+                  "name": "Joel Hirschhorn",
+                  "notes": null,
+                  "imdb_id": "nm0386610"
+               },
+               {
+                  "name": "Irwin Kostal",
+                  "notes": null,
+                  "imdb_id": "nm0467348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Slipper and the Rose: The Story of Cinderella",
+                  "notes": null,
+                  "imdb_id": "tt0075232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               },
+               {
+                  "name": "Angela Morley",
+                  "notes": null,
+                  "imdb_id": "nm0605859"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Annie Hall",
+                  "notes": null,
+                  "imdb_id": "tt0075686"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles H. Joffe",
+                  "notes": null,
+                  "imdb_id": "nm0423618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard N. Roth",
+                  "notes": null,
+                  "imdb_id": "nm10607011"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Kurtz",
+                  "notes": null,
+                  "imdb_id": "nm0476030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Goodbye Girl",
+                  "notes": null,
+                  "imdb_id": "tt0076095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Stark",
+                  "notes": null,
+                  "imdb_id": "nm0823256"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Ross",
+                  "notes": null,
+                  "imdb_id": "nm0006889"
+               },
+               {
+                  "name": "Arthur Laurents",
+                  "notes": null,
+                  "imdb_id": "nm0491306"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sand Castle",
+                  "notes": null,
+                  "imdb_id": "tt0075847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Co Hoedeman",
+                  "notes": null,
+                  "imdb_id": "nm0388394"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Doonesbury Special",
+                  "notes": null,
+                  "imdb_id": "tt0075953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0399524"
+               },
+               {
+                  "name": "Faith Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0254454"
+               },
+               {
+                  "name": "Garry Trudeau",
+                  "notes": null,
+                  "imdb_id": "nm0874034"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jimmy the C",
+                  "notes": null,
+                  "imdb_id": "tt0076230"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Picker",
+                  "notes": null,
+                  "imdb_id": "nm0681804"
+               },
+               {
+                  "name": "Robert Grossman",
+                  "notes": null,
+                  "imdb_id": "nm0343705"
+               },
+               {
+                  "name": "Craig Whitaker",
+                  "notes": null,
+                  "imdb_id": "nm0924253"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bead Game",
+                  "notes": null,
+                  "imdb_id": "tt0075732"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ishu Patel",
+                  "notes": null,
+                  "imdb_id": "nm0665373"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "I'll Find a Way",
+                  "notes": null,
+                  "imdb_id": "tt0076173"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Beverly Shaffer",
+                  "notes": null,
+                  "imdb_id": "nm0787291"
+               },
+               {
+                  "name": "Yuki Yoshida",
+                  "notes": null,
+                  "imdb_id": "nm0948952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Floating Free",
+                  "notes": null,
+                  "imdb_id": "tt0076036"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Butts",
+                  "notes": null,
+                  "imdb_id": "nm0125442"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Notes on the Popular Arts",
+                  "notes": null,
+                  "imdb_id": "tt0076467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul Bass",
+                  "notes": null,
+                  "imdb_id": "nm0000866"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spaceborne",
+                  "notes": null,
+                  "imdb_id": "tt0076742"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Dauber",
+                  "notes": null,
+                  "imdb_id": "nm0202229"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Absent-Minded Waiter",
+                  "notes": null,
+                  "imdb_id": "tt0075626"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William E. McEuen",
+                  "notes": null,
+                  "imdb_id": "nm0568530"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": "Derek Ball was not present at the awards ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don MacDougall",
+                  "notes": null,
+                  "imdb_id": "nm0532013"
+               },
+               {
+                  "name": "Ray West",
+                  "notes": null,
+                  "imdb_id": "nm0922079"
+               },
+               {
+                  "name": "Bob Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591440"
+               },
+               {
+                  "name": "Derek Ball",
+                  "notes": null,
+                  "imdb_id": "nm0050362"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close Encounters of the Third Kind",
+                  "notes": null,
+                  "imdb_id": "tt0075860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Knudson",
+                  "notes": null,
+                  "imdb_id": "nm0461702"
+               },
+               {
+                  "name": "Robert Glass",
+                  "notes": null,
+                  "imdb_id": "nm0321915"
+               },
+               {
+                  "name": "Don MacDougall",
+                  "notes": null,
+                  "imdb_id": "nm0532013"
+               },
+               {
+                  "name": "Gene S. Cantamessa",
+                  "notes": null,
+                  "imdb_id": "nm0134481"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sorcerer",
+                  "notes": null,
+                  "imdb_id": "tt0076740"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Knudson",
+                  "notes": null,
+                  "imdb_id": "nm0461702"
+               },
+               {
+                  "name": "Robert Glass",
+                  "notes": null,
+                  "imdb_id": "nm0321915"
+               },
+               {
+                  "name": "Richard Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878889"
+               },
+               {
+                  "name": "Jean-Louis Ducarme",
+                  "notes": null,
+                  "imdb_id": "nm0239707"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Deep",
+                  "notes": null,
+                  "imdb_id": "tt0075925"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Goss",
+                  "notes": null,
+                  "imdb_id": "nm0331586"
+               },
+               {
+                  "name": "Rick Alexander",
+                  "notes": "(as Dick Alexander)",
+                  "imdb_id": "nm1219804"
+               },
+               {
+                  "name": "Tom Beckert",
+                  "notes": null,
+                  "imdb_id": "nm0065657"
+               },
+               {
+                  "name": "Robin Gregory",
+                  "notes": null,
+                  "imdb_id": "nm0339932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Theodore Soderberg",
+                  "notes": null,
+                  "imdb_id": "nm0812029"
+               },
+               {
+                  "name": "Paul Wells",
+                  "notes": null,
+                  "imdb_id": "nm0920372"
+               },
+               {
+                  "name": "Douglas O. Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930491"
+               },
+               {
+                  "name": "Jerry Jost",
+                  "notes": null,
+                  "imdb_id": "nm0422281"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Julia",
+                  "notes": null,
+                  "imdb_id": "tt0076245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alvin Sargent",
+                  "notes": null,
+                  "imdb_id": "nm0765091"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Equus",
+                  "notes": null,
+                  "imdb_id": "tt0075995"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Shaffer",
+                  "notes": null,
+                  "imdb_id": "nm0787323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Never Promised You a Rose Garden",
+                  "notes": null,
+                  "imdb_id": "tt0076172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gavin Lambert",
+                  "notes": null,
+                  "imdb_id": "nm0483149"
+               },
+               {
+                  "name": "Lewis John Carlino",
+                  "notes": null,
+                  "imdb_id": "nm0137573"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oh, God!",
+                  "notes": null,
+                  "imdb_id": "tt0076489"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Larry Gelbart",
+                  "notes": null,
+                  "imdb_id": "nm0312205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Obscure Object of Desire",
+                  "notes": null,
+                  "imdb_id": "tt0075824"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Luis Bu\u00f1uel",
+                  "notes": null,
+                  "imdb_id": "nm0000320"
+               },
+               {
+                  "name": "Jean-Claude Carri\u00e8re",
+                  "notes": null,
+                  "imdb_id": "nm0140643"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": "Woody Allen was not present at the awards ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Annie Hall",
+                  "notes": null,
+                  "imdb_id": "tt0075686"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               },
+               {
+                  "name": "Marshall Brickman",
+                  "notes": null,
+                  "imdb_id": "nm0108613"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode IV - A New Hope",
+                  "notes": null,
+                  "imdb_id": "tt0076759"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Lucas",
+                  "notes": null,
+                  "imdb_id": "nm0000184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Goodbye Girl",
+                  "notes": null,
+                  "imdb_id": "tt0076095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Late Show",
+                  "notes": null,
+                  "imdb_id": "tt0076301"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Benton",
+                  "notes": null,
+                  "imdb_id": "nm0000914"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Turning Point",
+                  "notes": null,
+                  "imdb_id": "tt0076843"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Laurents",
+                  "notes": null,
+                  "imdb_id": "nm0491306"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,801 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Clayton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Daniel Day-Lewis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Clooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Depp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tommy Lee Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viggo Mortensen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marion Cotillard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elliot Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Christie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laura Linney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Javier Bardem"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Casey Affleck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hal Holbrook"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philip Seymour Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Wilkinson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tilda Swinton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ruby Dee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saoirse Ronan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ethan Coen",
+               "Joel Coen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jason Reitman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julian Schnabel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Thomas Anderson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tony Gilroy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Juno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lars and the Real Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Clayton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ratatouille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Savages"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Away from Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diving Bell and the Butterfly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Assassination of Jesse James by the Coward Robert Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diving Bell and the Butterfly"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sweeney Todd: The Demon Barber of Fleet Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Gangster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Golden Compass"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bourne Ultimatum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Into the Wild"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diving Bell and the Butterfly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Elizabeth: The Golden Age"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Across the Universe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La Vie en Rose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sweeney Todd: The Demon Barber of Fleet Street"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Once"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "August Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enchanted"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enchanted"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enchanted"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Atonement"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "3:10 to Yuma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Clayton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ratatouille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Kite Runner"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bourne Ultimatum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "3:10 to Yuma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ratatouille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bourne Ultimatum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Country for Old Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ratatouille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "There Will Be Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Golden Compass"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: At World's End"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Peter and The Wolf"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Even Pigeons Go to Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Met the Walrus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madame Tutli-Putli"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Mozart of Pickpockets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "At Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tanghi argentini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Substitute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tonto Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Freeheld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La corona"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Salim Baba"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sari's Mother"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Taxi to the Dark Side"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No End in Sight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operation Homecoming: Writing the Wartime Experience"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sicko"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "War Dance"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Counterfeiters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beaufort"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mongol: The Rise of Genghis Khan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ratatouille"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Persepolis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Surf's Up"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La Vie en Rose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: At World's End"
+            ]
+         }
+      ]
+   }
+]

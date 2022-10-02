@@ -1,0 +1,854 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "12 Years a Slave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Hustle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Phillips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dallas Buyers Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nebraska"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philomena"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wolf of Wall Street"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Matthew McConaughey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bruce Dern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chiwetel Ejiofor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christian Bale"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sandra Bullock"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jared Leto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barkhad Abdi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bradley Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jonah Hill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Fassbender"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lupita Nyong'o"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Lawrence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "June Squibb"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sally Hawkins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alfonso Cuar\u00f3n"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alexander Payne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David O. Russell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steve McQueen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Hustle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blue Jasmine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dallas Buyers Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nebraska"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "12 Years a Slave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Before Midnight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Phillips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philomena"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wolf of Wall Street"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Llewyn Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nebraska"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prisoners"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grandmaster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Years a Slave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Hustle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Phillips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dallas Buyers Club"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Gatsby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Years a Slave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Hustle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Her"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Gatsby"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "12 Years a Slave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Hustle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grandmaster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Invisible Woman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dallas Buyers Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackass Presents: Bad Grandpa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lone Ranger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frozen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alone Yet Not Alone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Despicable Me 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mandela: Long Walk to Freedom"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Her"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Philomena"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Mr. Banks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Book Thief"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Phillips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inside Llewyn Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lone Survivor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hobbit: The Desolation of Smaug"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All Is Lost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Phillips"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lone Survivor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hobbit: The Desolation of Smaug"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iron Man 3"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek Into Darkness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hobbit: The Desolation of Smaug"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lone Ranger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mr Hublot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Feral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Get a Horse!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Possessions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Room on the Broom"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Helium"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Do I Have to Take Care of Everything?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Just Before Losing Everything"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Wasn't Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Voorman Problem"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lady in Number 6: Music Saved My Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cavedigger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Facing Fear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Karama Has No Walls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prison Terminal: The Last Days of Private Jack Hall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "20 Feet from Stardom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cutie and the Boxer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dirty Wars"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Act of Killing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Square"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Omar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Broken Circle Breakdown"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Missing Picture"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frozen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Despicable Me 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ernest & Celestine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Croods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wind Rises"
+            ]
+         }
+      ]
+   }
+]

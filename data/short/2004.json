@@ -1,0 +1,782 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lost in Translation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mystic River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sean Penn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben Kingsley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bill Murray"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Johnny Depp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jude Law"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Charlize Theron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Keaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Keisha Castle-Hughes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Naomi Watts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samantha Morton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tim Robbins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alec Baldwin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Benicio Del Toro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Djimon Hounsou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ken Watanabe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ren\u00e9e Zellweger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holly Hunter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marcia Gay Harden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patricia Clarkson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shohreh Aghdashloo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lost in Translation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dirty Pretty Things"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Nemo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Barbarian Invasions"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Splendor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "City of God"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mystic River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Barbarian Invasions"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Evil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Twilight Samurai"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twin Sisters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zelary"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "City of God"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Girl with a Pearl Earring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Girl with a Pearl Earring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Samurai"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Nemo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Samurai"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "City of God"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Mighty Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Triplets of Belleville"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Big Fish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cold Mountain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Nemo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "House of Sand and Fog"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Harvie Krumpet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boundin'"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Destino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gone Nutty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nibbles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Two Soldiers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "(A)Torzija"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Most"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Squash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Jacket"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chernobyl Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Asylum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ferry Tales"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Fog of War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Capturing the Friedmans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cuban Rafters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Architect"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Weather Underground"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Finding Nemo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brother Bear"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Triplets of Belleville"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lord of the Rings: The Return of the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Girl with a Pearl Earring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Master and Commander: The Far Side of the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seabiscuit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Samurai"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Peter Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clint Eastwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fernando Meirelles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Weir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sofia Coppola"
+            ]
+         }
+      ]
+   }
+]

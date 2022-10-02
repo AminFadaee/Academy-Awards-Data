@@ -1,0 +1,2433 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               },
+               {
+                  "name": "Albert S. Ruddy",
+                  "notes": null,
+                  "imdb_id": "nm0748665"
+               },
+               {
+                  "name": "Tom Rosenberg",
+                  "notes": null,
+                  "imdb_id": "nm0742347"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard N. Gladstein",
+                  "notes": null,
+                  "imdb_id": "nm0321621"
+               },
+               {
+                  "name": "Nellie Bellflower",
+                  "notes": null,
+                  "imdb_id": "nm0068935"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Taylor Hackford",
+                  "notes": null,
+                  "imdb_id": "nm0000431"
+               },
+               {
+                  "name": "Stuart Benjamin",
+                  "notes": null,
+                  "imdb_id": "nm0071363"
+               },
+               {
+                  "name": "Howard Baldwin",
+                  "notes": null,
+                  "imdb_id": "nm0049920"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sideways",
+                  "notes": null,
+                  "imdb_id": "tt0375063"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael London",
+                  "notes": null,
+                  "imdb_id": "nm0518757"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Mann",
+                  "notes": null,
+                  "imdb_id": "nm0000520"
+               },
+               {
+                  "name": "Graham King",
+                  "notes": null,
+                  "imdb_id": "nm0454752"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jamie Foxx",
+                  "notes": null,
+                  "imdb_id": "nm0004937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Don Cheadle",
+                  "notes": null,
+                  "imdb_id": "nm0000332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hotel Rwanda",
+                  "notes": null,
+                  "imdb_id": "tt0395169"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Depp",
+                  "notes": null,
+                  "imdb_id": "nm0000136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leonardo DiCaprio",
+                  "notes": null,
+                  "imdb_id": "nm0000138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hilary Swank",
+                  "notes": null,
+                  "imdb_id": "nm0005476"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annette Bening",
+                  "notes": null,
+                  "imdb_id": "nm0000906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Being Julia",
+                  "notes": null,
+                  "imdb_id": "tt0340012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Catalina Sandino Moreno",
+                  "notes": null,
+                  "imdb_id": "nm1503432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maria Full of Grace",
+                  "notes": null,
+                  "imdb_id": "tt0390221"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Imelda Staunton",
+                  "notes": null,
+                  "imdb_id": "nm0001767"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vera Drake",
+                  "notes": null,
+                  "imdb_id": "tt0383694"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate Winslet",
+                  "notes": null,
+                  "imdb_id": "nm0000701"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eternal Sunshine of the Spotless Mind",
+                  "notes": null,
+                  "imdb_id": "tt0338013"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Morgan Freeman",
+                  "notes": null,
+                  "imdb_id": "nm0000151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alan Alda",
+                  "notes": null,
+                  "imdb_id": "nm0000257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clive Owen",
+                  "notes": null,
+                  "imdb_id": "nm0654110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Closer",
+                  "notes": null,
+                  "imdb_id": "tt0376541"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jamie Foxx",
+                  "notes": null,
+                  "imdb_id": "nm0004937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Collateral",
+                  "notes": null,
+                  "imdb_id": "tt0369339"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thomas Haden Church",
+                  "notes": null,
+                  "imdb_id": "nm0002006"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sideways",
+                  "notes": null,
+                  "imdb_id": "tt0375063"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cate Blanchett",
+                  "notes": null,
+                  "imdb_id": "nm0000949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura Linney",
+                  "notes": null,
+                  "imdb_id": "nm0001473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kinsey",
+                  "notes": null,
+                  "imdb_id": "tt0362269"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Natalie Portman",
+                  "notes": null,
+                  "imdb_id": "nm0000204"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Closer",
+                  "notes": null,
+                  "imdb_id": "tt0376541"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sophie Okonedo",
+                  "notes": null,
+                  "imdb_id": "nm0645683"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hotel Rwanda",
+                  "notes": null,
+                  "imdb_id": "tt0395169"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Virginia Madsen",
+                  "notes": null,
+                  "imdb_id": "nm0000515"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sideways",
+                  "notes": null,
+                  "imdb_id": "tt0375063"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alexander Payne",
+                  "notes": null,
+                  "imdb_id": "nm0668247"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sideways",
+                  "notes": null,
+                  "imdb_id": "tt0375063"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vera Drake",
+                  "notes": null,
+                  "imdb_id": "tt0383694"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Taylor Hackford",
+                  "notes": null,
+                  "imdb_id": "nm0000431"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Eternal Sunshine of the Spotless Mind",
+                  "notes": null,
+                  "imdb_id": "tt0338013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charlie Kaufman",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0442109"
+               },
+               {
+                  "name": "Michel Gondry",
+                  "notes": "(story)",
+                  "imdb_id": "nm0327273"
+               },
+               {
+                  "name": "Pierre Bismuth",
+                  "notes": "(story)",
+                  "imdb_id": "nm1410028"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hotel Rwanda",
+                  "notes": null,
+                  "imdb_id": "tt0395169"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Keir Pearson",
+                  "notes": null,
+                  "imdb_id": "nm0669311"
+               },
+               {
+                  "name": "Terry George",
+                  "notes": null,
+                  "imdb_id": "nm0313623"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Logan",
+                  "notes": null,
+                  "imdb_id": "nm0517589"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Incredibles",
+                  "notes": null,
+                  "imdb_id": "tt0317705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brad Bird",
+                  "notes": null,
+                  "imdb_id": "nm0083348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vera Drake",
+                  "notes": null,
+                  "imdb_id": "tt0383694"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sideways",
+                  "notes": null,
+                  "imdb_id": "tt0375063"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Payne",
+                  "notes": null,
+                  "imdb_id": "nm0668247"
+               },
+               {
+                  "name": "Jim Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852591"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Before Sunset",
+                  "notes": null,
+                  "imdb_id": "tt0381681"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Linklater",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0000500"
+               },
+               {
+                  "name": "Julie Delpy",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0000365"
+               },
+               {
+                  "name": "Ethan Hawke",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0000160"
+               },
+               {
+                  "name": "Kim Krizan",
+                  "notes": "(story)",
+                  "imdb_id": "nm0471811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Magee",
+                  "notes": null,
+                  "imdb_id": "nm1341735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Haggis",
+                  "notes": null,
+                  "imdb_id": "nm0353673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Motorcycle Diaries",
+                  "notes": null,
+                  "imdb_id": "tt0318462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jose Rivera",
+                  "notes": null,
+                  "imdb_id": "nm1433580"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Very Long Engagement",
+                  "notes": null,
+                  "imdb_id": "tt0344510"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Delbonnel",
+                  "notes": null,
+                  "imdb_id": "nm0216632"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "House of Flying Daggers",
+                  "notes": null,
+                  "imdb_id": "tt0385004"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Xiaoding Zhao",
+                  "notes": null,
+                  "imdb_id": "nm1618536"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Passion of the Christ",
+                  "notes": null,
+                  "imdb_id": "tt0335345"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caleb Deschanel",
+                  "notes": null,
+                  "imdb_id": "nm0221042"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0293508"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Mathieson",
+                  "notes": null,
+                  "imdb_id": "nm0558822"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Series of Unfortunate Events",
+                  "notes": null,
+                  "imdb_id": "tt0339291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Heinrichs",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0374511"
+               },
+               {
+                  "name": "Cheryl Carasik",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0135974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Very Long Engagement",
+                  "notes": null,
+                  "imdb_id": "tt0344510"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aline Bonetto",
+                  "notes": null,
+                  "imdb_id": "nm0094355"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gemma Jackson",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0413541"
+               },
+               {
+                  "name": "Trisha Edwards",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0250423"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0293508"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Pratt",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0695421"
+               },
+               {
+                  "name": "Celia Bobak",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0090278"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma Schoonmaker",
+                  "notes": null,
+                  "imdb_id": "nm0774817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Collateral",
+                  "notes": null,
+                  "imdb_id": "tt0369339"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Miller",
+                  "notes": null,
+                  "imdb_id": "nm0588607"
+               },
+               {
+                  "name": "Paul Rubell",
+                  "notes": null,
+                  "imdb_id": "nm0747824"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matt Chesse",
+                  "notes": null,
+                  "imdb_id": "nm0156276"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Million Dollar Baby",
+                  "notes": null,
+                  "imdb_id": "tt0405159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Cox",
+                  "notes": null,
+                  "imdb_id": "nm0185088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Hirsch",
+                  "notes": null,
+                  "imdb_id": "nm0386532"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Series of Unfortunate Events",
+                  "notes": null,
+                  "imdb_id": "tt0339291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandra Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sharen Davis",
+                  "notes": null,
+                  "imdb_id": "nm0205446"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Troy",
+                  "notes": null,
+                  "imdb_id": "tt0332452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Ringwood",
+                  "notes": null,
+                  "imdb_id": "nm0727674"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Al Otro Lado Del R\u00edo\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Motorcycle Diaries",
+                  "notes": null,
+                  "imdb_id": "tt0318462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jorge Drexler",
+                  "notes": null,
+                  "imdb_id": "nm0237779"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Accidentally In Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shrek 2",
+                  "notes": null,
+                  "imdb_id": "tt0298148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Duritz",
+                  "notes": "(composer/lyricist)",
+                  "imdb_id": "nm0244154"
+               },
+               {
+                  "name": "Charles Gillingham",
+                  "notes": "(composer)",
+                  "imdb_id": "nm1818644"
+               },
+               {
+                  "name": "Jim Bogios",
+                  "notes": "(composer)",
+                  "imdb_id": "nm1513374"
+               },
+               {
+                  "name": "David Immergl\u00fcck",
+                  "notes": "(composer)",
+                  "imdb_id": "nm1786071"
+               },
+               {
+                  "name": "Matthew Malley",
+                  "notes": "(composer)",
+                  "imdb_id": "nm1789666"
+               },
+               {
+                  "name": "David Bryson",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0117450"
+               },
+               {
+                  "name": "Dan Vickrey",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm1786108"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Look To Your Path (Vois Sur Ton Chemin)\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Chorus",
+                  "notes": null,
+                  "imdb_id": "tt0372824"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Coulais",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0006020"
+               },
+               {
+                  "name": "Christophe Barratier",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm0056725"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Learn To Be Lonely\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Phantom of the Opera",
+                  "notes": null,
+                  "imdb_id": "tt0293508"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Lloyd Webber",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0515908"
+               },
+               {
+                  "name": "Charles Hart",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm1378865"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Believe\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Polar Express",
+                  "notes": null,
+                  "imdb_id": "tt0338348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen Ballard",
+                  "notes": null,
+                  "imdb_id": "nm0004722"
+               },
+               {
+                  "name": "Alan Silvestri",
+                  "notes": null,
+                  "imdb_id": "nm0006293"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Finding Neverland",
+                  "notes": null,
+                  "imdb_id": "tt0308644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jan A.P. Kaczmarek",
+                  "notes": null,
+                  "imdb_id": "nm0434222"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Series of Unfortunate Events",
+                  "notes": null,
+                  "imdb_id": "tt0339291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Prisoner of Azkaban",
+                  "notes": null,
+                  "imdb_id": "tt0304141"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Passion of the Christ",
+                  "notes": null,
+                  "imdb_id": "tt0335345"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Debney",
+                  "notes": null,
+                  "imdb_id": "nm0002201"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Village",
+                  "notes": null,
+                  "imdb_id": "tt0368447"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ray",
+                  "notes": null,
+                  "imdb_id": "tt0350258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Millan",
+                  "notes": null,
+                  "imdb_id": "nm0586793"
+               },
+               {
+                  "name": "Greg Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650088"
+               },
+               {
+                  "name": "Bob Beemer",
+                  "notes": null,
+                  "imdb_id": "nm0066446"
+               },
+               {
+                  "name": "Steve Cantamessa",
+                  "notes": null,
+                  "imdb_id": "nm0134483"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spider-Man 2",
+                  "notes": null,
+                  "imdb_id": "tt0316654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Jeffrey J. Haboush",
+                  "notes": null,
+                  "imdb_id": "nm0352300"
+               },
+               {
+                  "name": "Joseph Geisinger",
+                  "notes": null,
+                  "imdb_id": "nm0312032"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Aviator",
+                  "notes": null,
+                  "imdb_id": "tt0338751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Fleischman",
+                  "notes": null,
+                  "imdb_id": "nm0281530"
+               },
+               {
+                  "name": "Petur Hliddal",
+                  "notes": null,
+                  "imdb_id": "nm0387213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Incredibles",
+                  "notes": null,
+                  "imdb_id": "tt0317705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Gary A. Rizzo",
+                  "notes": null,
+                  "imdb_id": "nm0729886"
+               },
+               {
+                  "name": "Doc Kane",
+                  "notes": null,
+                  "imdb_id": "nm0437301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Polar Express",
+                  "notes": null,
+                  "imdb_id": "tt0338348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William B. Kaplan",
+                  "notes": null,
+                  "imdb_id": "nm0438202"
+               },
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Dennis S. Sands",
+                  "notes": null,
+                  "imdb_id": "nm0762304"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Incredibles",
+                  "notes": null,
+                  "imdb_id": "tt0317705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Silvers",
+                  "notes": null,
+                  "imdb_id": "nm0799011"
+               },
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spider-Man 2",
+                  "notes": null,
+                  "imdb_id": "tt0316654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul N.J. Ottosson",
+                  "notes": null,
+                  "imdb_id": "nm0653338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Polar Express",
+                  "notes": null,
+                  "imdb_id": "tt0338348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Dennis Leonard",
+                  "notes": null,
+                  "imdb_id": "nm0502607"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Spider-Man 2",
+                  "notes": null,
+                  "imdb_id": "tt0316654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Dykstra",
+                  "notes": null,
+                  "imdb_id": "nm0004375"
+               },
+               {
+                  "name": "Scott Stokdyk",
+                  "notes": null,
+                  "imdb_id": "nm0831282"
+               },
+               {
+                  "name": "Anthony LaMolinara",
+                  "notes": null,
+                  "imdb_id": "nm0483608"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harry Potter and the Prisoner of Azkaban",
+                  "notes": null,
+                  "imdb_id": "tt0304141"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121888"
+               },
+               {
+                  "name": "Roger Guyett",
+                  "notes": null,
+                  "imdb_id": "nm0004361"
+               },
+               {
+                  "name": "Bill George",
+                  "notes": null,
+                  "imdb_id": "nm0313357"
+               },
+               {
+                  "name": "John Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724624"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I, Robot",
+                  "notes": null,
+                  "imdb_id": "tt0343818"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625471"
+               },
+               {
+                  "name": "Andrew R. Jones",
+                  "notes": null,
+                  "imdb_id": "nm1002475"
+               },
+               {
+                  "name": "Erik Nash",
+                  "notes": null,
+                  "imdb_id": "nm0621716"
+               },
+               {
+                  "name": "Joe Letteri",
+                  "notes": null,
+                  "imdb_id": "nm0504784"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ryan",
+                  "notes": null,
+                  "imdb_id": "tt0414469"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Landreth",
+                  "notes": null,
+                  "imdb_id": "nm0484996"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birthday Boy",
+                  "notes": null,
+                  "imdb_id": "tt0435933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sejong Park",
+                  "notes": null,
+                  "imdb_id": "nm1818097"
+               },
+               {
+                  "name": "Andrew Gregory",
+                  "notes": null,
+                  "imdb_id": "nm1818359"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gopher Broke",
+                  "notes": null,
+                  "imdb_id": "tt0438064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeff Fowler",
+                  "notes": null,
+                  "imdb_id": "nm1733778"
+               },
+               {
+                  "name": "Tim Miller",
+                  "notes": null,
+                  "imdb_id": "nm1783265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guard Dog",
+                  "notes": null,
+                  "imdb_id": "tt0430159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Plympton",
+                  "notes": null,
+                  "imdb_id": "nm0687739"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lorenzo",
+                  "notes": null,
+                  "imdb_id": "tt0412936"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Gabriel",
+                  "notes": null,
+                  "imdb_id": "nm0300265"
+               },
+               {
+                  "name": "Baker Bloodworth",
+                  "notes": null,
+                  "imdb_id": "nm0089118"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wasp",
+                  "notes": null,
+                  "imdb_id": "tt0388534"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrea Arnold",
+                  "notes": null,
+                  "imdb_id": "nm0036349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "7:35 in the Morning",
+                  "notes": null,
+                  "imdb_id": "tt0406501"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nacho Vigalondo",
+                  "notes": null,
+                  "imdb_id": "nm1443023"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Everything in This Country Must",
+                  "notes": null,
+                  "imdb_id": "tt0443499"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary McKendry",
+                  "notes": null,
+                  "imdb_id": "nm1834213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Terrorist",
+                  "notes": null,
+                  "imdb_id": "tt0425200"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ashvin Kumar",
+                  "notes": null,
+                  "imdb_id": "nm1464392"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Two Cars, One Night",
+                  "notes": null,
+                  "imdb_id": "tt0390579"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Taika Waititi",
+                  "notes": null,
+                  "imdb_id": "nm0169806"
+               },
+               {
+                  "name": "Ainsley Gardiner",
+                  "notes": null,
+                  "imdb_id": "nm1189390"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mighty Times: The Children's March",
+                  "notes": null,
+                  "imdb_id": "tt0443587"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Hudson",
+                  "notes": null,
+                  "imdb_id": "nm2060739"
+               },
+               {
+                  "name": "Robert Houston",
+                  "notes": null,
+                  "imdb_id": "nm0396884"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Autism Is a World",
+                  "notes": null,
+                  "imdb_id": "tt0443434"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerardine Wurzburg",
+                  "notes": null,
+                  "imdb_id": "nm0943458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hardwood",
+                  "notes": null,
+                  "imdb_id": "tt0443531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erin Faith Young",
+                  "notes": null,
+                  "imdb_id": "nm1789508"
+               },
+               {
+                  "name": "Hubert Davis",
+                  "notes": null,
+                  "imdb_id": "nm1788269"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sister Rose's Passion",
+                  "notes": null,
+                  "imdb_id": "tt0420195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oren Jacoby",
+                  "notes": null,
+                  "imdb_id": "nm0415007"
+               },
+               {
+                  "name": "Steve Kalafer",
+                  "notes": null,
+                  "imdb_id": "nm0435470"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Children of Leningradsky",
+                  "notes": null,
+                  "imdb_id": "tt0442947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hanna Polak",
+                  "notes": null,
+                  "imdb_id": "nm1847721"
+               },
+               {
+                  "name": "Andrzej Celinski",
+                  "notes": null,
+                  "imdb_id": "nm1840845"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Born Into Brothels: Calcutta's Red Light Kids",
+                  "notes": null,
+                  "imdb_id": "tt0388789"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ross Kauffman",
+                  "notes": null,
+                  "imdb_id": "nm1502104"
+               },
+               {
+                  "name": "Zana Briski",
+                  "notes": null,
+                  "imdb_id": "nm1498640"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Super Size Me",
+                  "notes": null,
+                  "imdb_id": "tt0390521"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morgan Spurlock",
+                  "notes": null,
+                  "imdb_id": "nm1041597"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Story of the Weeping Camel",
+                  "notes": null,
+                  "imdb_id": "tt0373861"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Luigi Falorni",
+                  "notes": null,
+                  "imdb_id": "nm0266510"
+               },
+               {
+                  "name": "Byambasuren Davaa",
+                  "notes": null,
+                  "imdb_id": "nm1389025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tupac: Resurrection",
+                  "notes": null,
+                  "imdb_id": "tt0343121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lauren Lazin",
+                  "notes": null,
+                  "imdb_id": "nm1020749"
+               },
+               {
+                  "name": "Karolyn Ali",
+                  "notes": null,
+                  "imdb_id": "nm0019434"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Twist of Faith",
+                  "notes": null,
+                  "imdb_id": "tt0436857"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kirby Dick",
+                  "notes": null,
+                  "imdb_id": "nm0225269"
+               },
+               {
+                  "name": "Eddie Schmidt",
+                  "notes": null,
+                  "imdb_id": "nm0772907"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "notes": "Spain.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Sea Inside",
+                  "notes": null,
+                  "imdb_id": "tt0369702"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "As It Is in Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0382330"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Downfall",
+                  "notes": null,
+                  "imdb_id": "tt0363163"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Chorus",
+                  "notes": null,
+                  "imdb_id": "tt0372824"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "South Africa.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Yesterday",
+                  "notes": null,
+                  "imdb_id": "tt0419279"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Incredibles",
+                  "notes": null,
+                  "imdb_id": "tt0317705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brad Bird",
+                  "notes": null,
+                  "imdb_id": "nm0083348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shark Tale",
+                  "notes": null,
+                  "imdb_id": "tt0307453"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Damaschke",
+                  "notes": null,
+                  "imdb_id": "nm0198632"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shrek 2",
+                  "notes": null,
+                  "imdb_id": "tt0298148"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Adamson",
+                  "notes": null,
+                  "imdb_id": "nm0011470"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Series of Unfortunate Events",
+                  "notes": null,
+                  "imdb_id": "tt0339291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Valli O'Reilly",
+                  "notes": null,
+                  "imdb_id": "nm0642495"
+               },
+               {
+                  "name": "Bill Corso",
+                  "notes": null,
+                  "imdb_id": "nm0181134"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Passion of the Christ",
+                  "notes": null,
+                  "imdb_id": "tt0335345"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Keith VanderLaan",
+                  "notes": null,
+                  "imdb_id": "nm0888797"
+               },
+               {
+                  "name": "Christien Tinsley",
+                  "notes": null,
+                  "imdb_id": "nm0864051"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Inside",
+                  "notes": null,
+                  "imdb_id": "tt0369702"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jo Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020657"
+               },
+               {
+                  "name": "Manolo Garc\u00eda",
+                  "notes": null,
+                  "imdb_id": "nm0306323"
+               }
+            ]
+         }
+      ]
+   }
+]

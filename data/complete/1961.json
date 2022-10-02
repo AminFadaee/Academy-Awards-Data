@@ -1,0 +1,2397 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Burt Lancaster",
+                  "notes": null,
+                  "imdb_id": "nm0000044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Gantry",
+                  "notes": null,
+                  "imdb_id": "tt0053793"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Lemmon",
+                  "notes": null,
+                  "imdb_id": "nm0000493"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Olivier",
+                  "notes": null,
+                  "imdb_id": "nm0000059"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Entertainer",
+                  "notes": null,
+                  "imdb_id": "tt0053796"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spencer Tracy",
+                  "notes": null,
+                  "imdb_id": "nm0000075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Inherit the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0053946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trevor Howard",
+                  "notes": null,
+                  "imdb_id": "nm0002145"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Peter Ustinov",
+                  "notes": null,
+                  "imdb_id": "nm0001811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chill Wills",
+                  "notes": null,
+                  "imdb_id": "nm0932629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Kruschen",
+                  "notes": null,
+                  "imdb_id": "nm0472816"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Falk",
+                  "notes": null,
+                  "imdb_id": "nm0000393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Murder, Inc.",
+                  "notes": null,
+                  "imdb_id": "tt0054102"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sal Mineo",
+                  "notes": null,
+                  "imdb_id": "nm0000543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Exodus",
+                  "notes": null,
+                  "imdb_id": "tt0053804"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Elizabeth Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0000072"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "BUtterfield 8",
+                  "notes": null,
+                  "imdb_id": "tt0053622"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Deborah Kerr",
+                  "notes": null,
+                  "imdb_id": "nm0000039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sundowners",
+                  "notes": null,
+                  "imdb_id": "tt0054353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greer Garson",
+                  "notes": null,
+                  "imdb_id": "nm0002093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunrise at Campobello",
+                  "notes": null,
+                  "imdb_id": "tt0054354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Melina Mercouri",
+                  "notes": null,
+                  "imdb_id": "nm0580479"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Never on Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0054198"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shirley MacLaine",
+                  "notes": null,
+                  "imdb_id": "nm0000511"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shirley Jones",
+                  "notes": null,
+                  "imdb_id": "nm0429250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Gantry",
+                  "notes": null,
+                  "imdb_id": "tt0053793"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glynis Johns",
+                  "notes": null,
+                  "imdb_id": "nm0424318"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sundowners",
+                  "notes": null,
+                  "imdb_id": "tt0054353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Janet Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0001463"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Psycho",
+                  "notes": null,
+                  "imdb_id": "tt0054215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary Ure",
+                  "notes": null,
+                  "imdb_id": "nm0881829"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shirley Knight",
+                  "notes": null,
+                  "imdb_id": "nm0004309"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Dark at the Top of the Stairs",
+                  "notes": null,
+                  "imdb_id": "tt0053750"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Trauner",
+                  "notes": null,
+                  "imdb_id": "nm0871202"
+               },
+               {
+                  "name": "Edward G. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Psycho",
+                  "notes": null,
+                  "imdb_id": "tt0054215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Hurley",
+                  "notes": null,
+                  "imdb_id": "nm0403463"
+               },
+               {
+                  "name": "Robert Clatworthy",
+                  "notes": null,
+                  "imdb_id": "nm0165197"
+               },
+               {
+                  "name": "George Milo",
+                  "notes": null,
+                  "imdb_id": "nm0590434"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas N. Morahan",
+                  "notes": null,
+                  "imdb_id": "nm0598400"
+               },
+               {
+                  "name": "Lionel Couch",
+                  "notes": null,
+                  "imdb_id": "nm0183244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Facts of Life",
+                  "notes": null,
+                  "imdb_id": "tt0053810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "J. McMillan Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425262"
+               },
+               {
+                  "name": "Kenneth A. Reid",
+                  "notes": null,
+                  "imdb_id": "nm0717326"
+               },
+               {
+                  "name": "Ross Dowd",
+                  "notes": null,
+                  "imdb_id": "nm0235688"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Visit to a Small Planet",
+                  "notes": null,
+                  "imdb_id": "tt0054446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Walter H. Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878934"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Arthur Krams",
+                  "notes": null,
+                  "imdb_id": "nm0469735"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "Eric Orbom",
+                  "notes": null,
+                  "imdb_id": "nm0649417"
+               },
+               {
+                  "name": "Russell A. Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310199"
+               },
+               {
+                  "name": "Julia Heron",
+                  "notes": null,
+                  "imdb_id": "nm0380243"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0053715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Addison Hehr",
+                  "notes": null,
+                  "imdb_id": "nm0373832"
+               },
+               {
+                  "name": "Henry Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333352"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               },
+               {
+                  "name": "Otto Siegel",
+                  "notes": null,
+                  "imdb_id": "nm0796992"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "It Started in Naples",
+                  "notes": null,
+                  "imdb_id": "tt0053957"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Roland Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027380"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Arrigo Breschi",
+                  "notes": null,
+                  "imdb_id": "nm0107663"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Haworth",
+                  "notes": null,
+                  "imdb_id": "nm0370385"
+               },
+               {
+                  "name": "William Kiernan",
+                  "notes": null,
+                  "imdb_id": "nm0452599"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunrise at Campobello",
+                  "notes": null,
+                  "imdb_id": "tt0054354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Carrere",
+                  "notes": null,
+                  "imdb_id": "nm0140264"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Francis",
+                  "notes": null,
+                  "imdb_id": "nm0005711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inherit the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0053946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Laszlo",
+                  "notes": null,
+                  "imdb_id": "nm0005768"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Psycho",
+                  "notes": null,
+                  "imdb_id": "tt0054215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John L. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0005852"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph LaShelle",
+                  "notes": null,
+                  "imdb_id": "nm0005766"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Facts of Life",
+                  "notes": null,
+                  "imdb_id": "tt0053810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Metty",
+                  "notes": null,
+                  "imdb_id": "nm0005797"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "BUtterfield 8",
+                  "notes": null,
+                  "imdb_id": "tt0053622"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Ruttenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005853"
+               },
+               {
+                  "name": "Charles Harten",
+                  "notes": null,
+                  "imdb_id": "nm0366647"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Exodus",
+                  "notes": null,
+                  "imdb_id": "tt0053804"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Leavitt",
+                  "notes": null,
+                  "imdb_id": "nm0495402"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph MacDonald",
+                  "notes": null,
+                  "imdb_id": "nm0531796"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William H. Clothier",
+                  "notes": null,
+                  "imdb_id": "nm0005670"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Facts of Life",
+                  "notes": null,
+                  "imdb_id": "tt0053810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               },
+               {
+                  "name": "Edward Stevenson",
+                  "notes": null,
+                  "imdb_id": "nm0828926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Never on Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0054198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Deni Vachlioti",
+                  "notes": null,
+                  "imdb_id": "nm14019417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seven Thieves",
+                  "notes": null,
+                  "imdb_id": "tt0054295"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rise and Fall of Legs Diamond",
+                  "notes": null,
+                  "imdb_id": "tt0054243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shoup",
+                  "notes": null,
+                  "imdb_id": "nm0795251"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Virgin Spring",
+                  "notes": null,
+                  "imdb_id": "tt0053976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marik Vos-Lundh",
+                  "notes": null,
+                  "imdb_id": "nm0903623"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Valles",
+                  "notes": null,
+                  "imdb_id": "nm0885049"
+               },
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Can-Can",
+                  "notes": null,
+                  "imdb_id": "tt0053690"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Midnight Lace",
+                  "notes": null,
+                  "imdb_id": "tt0054084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene",
+                  "notes": null,
+                  "imdb_id": "nm0409898"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunrise at Campobello",
+                  "notes": null,
+                  "imdb_id": "tt0054354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marjorie Best",
+                  "notes": null,
+                  "imdb_id": "nm0078968"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alfred Hitchcock",
+                  "notes": null,
+                  "imdb_id": "nm0000033"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Psycho",
+                  "notes": null,
+                  "imdb_id": "tt0054215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sundowners",
+                  "notes": null,
+                  "imdb_id": "tt0054353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Cardiff",
+                  "notes": null,
+                  "imdb_id": "nm0002153"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jules Dassin",
+                  "notes": null,
+                  "imdb_id": "nm0202088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Never on Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0054198"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Horse with the Flying Tail",
+                  "notes": null,
+                  "imdb_id": "tt0054993"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Larry Lansburgh",
+                  "notes": null,
+                  "imdb_id": "nm0487047"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rebel in Paradise",
+                  "notes": null,
+                  "imdb_id": "tt0054235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert D. Fraser",
+                  "notes": null,
+                  "imdb_id": "nm0292224"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Giuseppina",
+                  "notes": null,
+                  "imdb_id": "tt0053866"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Hill",
+                  "notes": null,
+                  "imdb_id": "nm0384342"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beyond Silence",
+                  "notes": null,
+                  "imdb_id": "tt0053649"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "En by ved navn K\u00f8benhavn",
+                  "notes": null,
+                  "imdb_id": "tt0053685"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Grosz' Interregnum",
+                  "notes": null,
+                  "imdb_id": "tt0053858"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Carey",
+                  "notes": null,
+                  "imdb_id": "nm0136919"
+               },
+               {
+                  "name": "Altina Carey",
+                  "notes": null,
+                  "imdb_id": "nm0136896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Universe",
+                  "notes": null,
+                  "imdb_id": "tt0054429"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colin Low",
+                  "notes": null,
+                  "imdb_id": "nm0522800"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Time Machine",
+                  "notes": null,
+                  "imdb_id": "tt0054387"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gene Warren",
+                  "notes": null,
+                  "imdb_id": "nm0912840"
+               },
+               {
+                  "name": "Tim Baar",
+                  "notes": null,
+                  "imdb_id": "nm0056579"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Voyage",
+                  "notes": null,
+                  "imdb_id": "tt0054016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Augie Lohman",
+                  "notes": null,
+                  "imdb_id": "nm0517846"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Mandell",
+                  "notes": null,
+                  "imdb_id": "nm0541721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inherit the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0053946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederic Knudtson",
+                  "notes": null,
+                  "imdb_id": "nm0461772"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Viola Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm0493072"
+               },
+               {
+                  "name": "Al Clark",
+                  "notes": null,
+                  "imdb_id": "nm0163617"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm0492992"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Gilmore",
+                  "notes": null,
+                  "imdb_id": "nm0319574"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Sweden.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Virgin Spring",
+                  "notes": null,
+                  "imdb_id": "tt0053976"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kapo",
+                  "notes": null,
+                  "imdb_id": "tt0052961"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "La v\u00e9rit\u00e9",
+                  "notes": null,
+                  "imdb_id": "tt0054452"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mexico.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Macario",
+                  "notes": null,
+                  "imdb_id": "tt0054042"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Yugoslavia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Ninth Circle",
+                  "notes": null,
+                  "imdb_id": "tt0053764"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For \"Ta paidia tou Peiraia\" (\"Never on Sunday\"). Manos Hatzidakis was not present. The Academy accepted the Oscar on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Never on Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0054198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manos Hatzidakis",
+                  "notes": null,
+                  "imdb_id": "nm0006118"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Second Time Around\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "High Time",
+                  "notes": null,
+                  "imdb_id": "tt0053912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Faraway Part of Town\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006238"
+               },
+               {
+                  "name": "Dory Previn",
+                  "notes": "(lyrics) (as Dory Langdon)",
+                  "imdb_id": "nm0696659"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Green Leaves of Summer\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006323"
+               },
+               {
+                  "name": "Paul Francis Webster",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0916990"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Facts of Life\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Facts of Life",
+                  "notes": null,
+                  "imdb_id": "tt0053810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Mercer",
+                  "notes": null,
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Exodus",
+                  "notes": null,
+                  "imdb_id": "tt0053804"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Gold",
+                  "notes": null,
+                  "imdb_id": "nm0006104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elmer Gantry",
+                  "notes": null,
+                  "imdb_id": "tt0053793"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spartacus",
+                  "notes": null,
+                  "imdb_id": "tt0054331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magnificent Seven",
+                  "notes": null,
+                  "imdb_id": "tt0054047"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Bernstein",
+                  "notes": null,
+                  "imdb_id": "nm0000930"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Song Without End",
+                  "notes": null,
+                  "imdb_id": "tt0054324"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               },
+               {
+                  "name": "Harry Sukman",
+                  "notes": null,
+                  "imdb_id": "nm0006313"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bells Are Ringing",
+                  "notes": null,
+                  "imdb_id": "tt0053645"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Can-Can",
+                  "notes": null,
+                  "imdb_id": "tt0053690"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nelson Riddle",
+                  "notes": null,
+                  "imdb_id": "nm0725765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Let's Make Love",
+                  "notes": null,
+                  "imdb_id": "tt0054022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               },
+               {
+                  "name": "Earle Hagen",
+                  "notes": null,
+                  "imdb_id": "nm0006120"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elmer Gantry",
+                  "notes": null,
+                  "imdb_id": "tt0053793"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Smith",
+                  "notes": null,
+                  "imdb_id": "nm0807430"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Wald",
+                  "notes": null,
+                  "imdb_id": "nm0907003"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Wayne",
+                  "notes": null,
+                  "imdb_id": "nm0000078"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sundowners",
+                  "notes": null,
+                  "imdb_id": "tt0054353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Munro",
+                  "notes": null,
+                  "imdb_id": "tt0054100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William L. Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0811581"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goliath II",
+                  "notes": null,
+                  "imdb_id": "tt0053875"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "High Note",
+                  "notes": null,
+                  "imdb_id": "tt0053909"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mouse and Garden",
+                  "notes": null,
+                  "imdb_id": "tt0054096"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "O m\u00edsto na slunci",
+                  "notes": null,
+                  "imdb_id": "tt0054186"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frantisek Vystrcil",
+                  "notes": null,
+                  "imdb_id": "nm0904587"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Day of the Painter",
+                  "notes": null,
+                  "imdb_id": "tt0053753"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert P. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0205366"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Sport Is Born",
+                  "notes": null,
+                  "imdb_id": "tt0054335"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Winik",
+                  "notes": null,
+                  "imdb_id": "nm0935119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Islands of the Sea",
+                  "notes": null,
+                  "imdb_id": "tt0053956"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Creation of Woman",
+                  "notes": null,
+                  "imdb_id": "tt0053737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles F. Schwep",
+                  "notes": null,
+                  "imdb_id": "nm0777887"
+               },
+               {
+                  "name": "Ismail Merchant",
+                  "notes": null,
+                  "imdb_id": "nm0580337"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Alamo",
+                  "notes": null,
+                  "imdb_id": "tt0053580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0768167"
+               },
+               {
+                  "name": "Fred Hynes",
+                  "notes": "(Todd-AO SSD)",
+                  "imdb_id": "nm0405261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0053715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Milton",
+                  "notes": "(Metro-Goldwyn-Mayer SSD)",
+                  "imdb_id": "nm0590665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pepe",
+                  "notes": null,
+                  "imdb_id": "tt0054172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles J. Rice",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0723376"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunrise at Campobello",
+                  "notes": null,
+                  "imdb_id": "tt0054354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Groves",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0344060"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Elmer Gantry",
+                  "notes": null,
+                  "imdb_id": "tt0053793"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0112218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inherit the Wind",
+                  "notes": null,
+                  "imdb_id": "tt0053946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nedrick Young",
+                  "notes": null,
+                  "imdb_id": "nm0949917"
+               },
+               {
+                  "name": "Harold Jacob Smith",
+                  "notes": null,
+                  "imdb_id": "nm0808414"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sons and Lovers",
+                  "notes": null,
+                  "imdb_id": "tt0054326"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gavin Lambert",
+                  "notes": null,
+                  "imdb_id": "nm0483149"
+               },
+               {
+                  "name": "T.E.B. Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0165021"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sundowners",
+                  "notes": null,
+                  "imdb_id": "tt0054353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Isobel Lennart",
+                  "notes": null,
+                  "imdb_id": "nm0501973"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tunes of Glory",
+                  "notes": null,
+                  "imdb_id": "tt0054412"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Kennaway",
+                  "notes": null,
+                  "imdb_id": "nm0447860"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Apartment",
+                  "notes": null,
+                  "imdb_id": "tt0053604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               },
+               {
+                  "name": "I.A.L. Diamond",
+                  "notes": null,
+                  "imdb_id": "nm0224634"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hiroshima mon amour",
+                  "notes": null,
+                  "imdb_id": "tt0052893"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marguerite Duras",
+                  "notes": null,
+                  "imdb_id": "nm0243921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Never on Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0054198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jules Dassin",
+                  "notes": null,
+                  "imdb_id": "nm0202088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Angry Silence",
+                  "notes": null,
+                  "imdb_id": "tt0053602"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Gregson",
+                  "notes": "(story)",
+                  "imdb_id": "nm0339995"
+               },
+               {
+                  "name": "Michael Craig",
+                  "notes": "(story)",
+                  "imdb_id": "nm0185954"
+               },
+               {
+                  "name": "Bryan Forbes",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0285302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Facts of Life",
+                  "notes": null,
+                  "imdb_id": "tt0053810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Panama",
+                  "notes": null,
+                  "imdb_id": "nm0659085"
+               },
+               {
+                  "name": "Melvin Frank",
+                  "notes": null,
+                  "imdb_id": "nm0291035"
+               }
+            ]
+         }
+      ]
+   }
+]

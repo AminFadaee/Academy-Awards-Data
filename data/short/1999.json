@@ -1,0 +1,794 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Roberto Benigni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Norton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ian McKellen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nick Nolte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "James Coburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Bob Thornton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ed Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geoffrey Rush"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gwyneth Paltrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emily Watson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fernanda Montenegro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brenda Blethyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kathy Bates"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lynn Redgrave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel Griffiths"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pleasantville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What Dreams May Come"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Civil Action"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beloved"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pleasantville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Velvet Goldmine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Madden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Weir"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roberto Benigni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terrence Malick"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Last Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dancemaker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lenny Bruce: Swear to Tell the Truth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Regret to Inform"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Farm: Angola, USA"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Personals"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Place in the Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunrise Over Tiananmen Square"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Armageddon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mask of Zorro"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "What Dreams May Come"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Armageddon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mighty Joe Young"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life Is Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Out of Sight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Life Is Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Central Station"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tango"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grandfather"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Life Is Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pleasantville"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Bug's Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mulan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Patch Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prince of Egypt"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Prince of Egypt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Armageddon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babe: Pig in the City"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quest for Camelot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Horse Whisperer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life Is Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bunny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jolly Roger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "More"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Canterbury Tales"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When Life Departs"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Election Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Culture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holiday Romance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Postcard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Armageddon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mask of Zorro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gods and Monsters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Simple Plan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Out of Sight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Primary Colors"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Red Line"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shakespeare in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bulworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life Is Beautiful"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saving Private Ryan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Truman Show"
+            ]
+         }
+      ]
+   }
+]

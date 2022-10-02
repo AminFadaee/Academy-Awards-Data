@@ -1,0 +1,2420 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charlton Heston",
+                  "notes": null,
+                  "imdb_id": "nm0000032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Lemmon",
+                  "notes": null,
+                  "imdb_id": "nm0000493"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Stewart",
+                  "notes": null,
+                  "imdb_id": "nm0000071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laurence Harvey",
+                  "notes": null,
+                  "imdb_id": "nm0002131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Muni",
+                  "notes": null,
+                  "imdb_id": "nm0612847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Angry Man",
+                  "notes": null,
+                  "imdb_id": "tt0052990"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Hugh Griffith was not present at the awards ceremony. Director William Wyler accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hugh Griffith",
+                  "notes": null,
+                  "imdb_id": "nm0341518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640023"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ed Wynn",
+                  "notes": null,
+                  "imdb_id": "nm0943956"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George C. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0001715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Vaughn",
+                  "notes": null,
+                  "imdb_id": "nm0001816"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Young Philadelphians",
+                  "notes": null,
+                  "imdb_id": "tt0053462"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Simone Signoret",
+                  "notes": null,
+                  "imdb_id": "nm0797531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Audrey Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doris Day",
+                  "notes": null,
+                  "imdb_id": "nm0000013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pillow Talk",
+                  "notes": null,
+                  "imdb_id": "tt0053172"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elizabeth Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0000072"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suddenly, Last Summer",
+                  "notes": null,
+                  "imdb_id": "tt0053318"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suddenly, Last Summer",
+                  "notes": null,
+                  "imdb_id": "tt0053318"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shelley Winters",
+                  "notes": null,
+                  "imdb_id": "nm0001859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hermione Baddeley",
+                  "notes": null,
+                  "imdb_id": "nm0045968"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Juanita Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601428"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Imitation of Life",
+                  "notes": null,
+                  "imdb_id": "tt0052918"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Kohner",
+                  "notes": null,
+                  "imdb_id": "nm0463435"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Imitation of Life",
+                  "notes": null,
+                  "imdb_id": "tt0052918"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma Ritter",
+                  "notes": null,
+                  "imdb_id": "nm0728812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pillow Talk",
+                  "notes": null,
+                  "imdb_id": "tt0053172"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Stuart A. Reiss",
+                  "notes": null,
+                  "imdb_id": "nm0718524"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Career",
+                  "notes": null,
+                  "imdb_id": "tt0052673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Pereira",
+                  "notes": null,
+                  "imdb_id": "nm0673134"
+               },
+               {
+                  "name": "Walter H. Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878934"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               },
+               {
+                  "name": "Arthur Krams",
+                  "notes": null,
+                  "imdb_id": "nm0469735"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Haworth",
+                  "notes": null,
+                  "imdb_id": "nm0370385"
+               },
+               {
+                  "name": "Edward G. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Suddenly, Last Summer",
+                  "notes": null,
+                  "imdb_id": "tt0053318"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Messel",
+                  "notes": null,
+                  "imdb_id": "nm0582015"
+               },
+               {
+                  "name": "William Kellner",
+                  "notes": null,
+                  "imdb_id": "nm0446084"
+               },
+               {
+                  "name": "Scott Slimon",
+                  "notes": null,
+                  "imdb_id": "nm0805867"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Angry Man",
+                  "notes": null,
+                  "imdb_id": "tt0052990"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0026482"
+               },
+               {
+                  "name": "William Kiernan",
+                  "notes": null,
+                  "imdb_id": "nm0452599"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": "In case of Horning the Oscar win was posthumously.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Horning",
+                  "notes": null,
+                  "imdb_id": "nm0395178"
+               },
+               {
+                  "name": "Edward C. Carfagno",
+                  "notes": null,
+                  "imdb_id": "nm0137063"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Journey to the Center of the Earth",
+                  "notes": null,
+                  "imdb_id": "tt0052948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "Franz Bachelin",
+                  "notes": null,
+                  "imdb_id": "nm0045414"
+               },
+               {
+                  "name": "Herman A. Blumenthal",
+                  "notes": null,
+                  "imdb_id": "nm0089817"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               },
+               {
+                  "name": "Joseph Kish",
+                  "notes": null,
+                  "imdb_id": "nm0457184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North by Northwest",
+                  "notes": null,
+                  "imdb_id": "tt0053125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Horning",
+                  "notes": null,
+                  "imdb_id": "nm0395178"
+               },
+               {
+                  "name": "Robert F. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102327"
+               },
+               {
+                  "name": "Merrill Pye",
+                  "notes": null,
+                  "imdb_id": "nm0701442"
+               },
+               {
+                  "name": "Henry Grace",
+                  "notes": null,
+                  "imdb_id": "nm0333352"
+               },
+               {
+                  "name": "Frank R. McKelvy",
+                  "notes": null,
+                  "imdb_id": "nm0571305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pillow Talk",
+                  "notes": null,
+                  "imdb_id": "tt0053172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard H. Riedel",
+                  "notes": null,
+                  "imdb_id": "nm0726114"
+               },
+               {
+                  "name": "Russell A. Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310199"
+               },
+               {
+                  "name": "Ruby R. Levitt",
+                  "notes": null,
+                  "imdb_id": "nm0506239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Fisherman",
+                  "notes": null,
+                  "imdb_id": "tt0052627"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Julia Heron",
+                  "notes": null,
+                  "imdb_id": "nm0380243"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William C. Mellor",
+                  "notes": null,
+                  "imdb_id": "nm0005794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Leavitt",
+                  "notes": null,
+                  "imdb_id": "nm0495402"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Career",
+                  "notes": null,
+                  "imdb_id": "tt0052673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph LaShelle",
+                  "notes": null,
+                  "imdb_id": "nm0005766"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Young Philadelphians",
+                  "notes": null,
+                  "imdb_id": "tt0053462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Porgy and Bess",
+                  "notes": null,
+                  "imdb_id": "tt0053182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Fisherman",
+                  "notes": null,
+                  "imdb_id": "tt0052627"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Garmes",
+                  "notes": null,
+                  "imdb_id": "nm0005716"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Five Pennies",
+                  "notes": null,
+                  "imdb_id": "tt0052809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel L. Fapp",
+                  "notes": null,
+                  "imdb_id": "nm0005701"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Planer",
+                  "notes": null,
+                  "imdb_id": "nm0005832"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orry-Kelly",
+                  "notes": null,
+                  "imdb_id": "nm0650673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Career",
+                  "notes": null,
+                  "imdb_id": "tt0052673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               },
+               {
+                  "name": "Mary Wills",
+                  "notes": null,
+                  "imdb_id": "nm0932683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gazebo",
+                  "notes": null,
+                  "imdb_id": "tt0052837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Helen Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741423"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Young Philadelphians",
+                  "notes": null,
+                  "imdb_id": "tt0053462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shoup",
+                  "notes": null,
+                  "imdb_id": "nm0795251"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elizabeth Haffenden",
+                  "notes": null,
+                  "imdb_id": "nm0353111"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Porgy and Bess",
+                  "notes": null,
+                  "imdb_id": "tt0053182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Best of Everything",
+                  "notes": null,
+                  "imdb_id": "tt0052619"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adele Palmer",
+                  "notes": null,
+                  "imdb_id": "nm0011790"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Fisherman",
+                  "notes": null,
+                  "imdb_id": "tt0052627"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reni\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0174800"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Five Pennies",
+                  "notes": null,
+                  "imdb_id": "tt0052809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Clayton",
+                  "notes": null,
+                  "imdb_id": "nm0002338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Serengeti",
+                  "notes": null,
+                  "imdb_id": "tt0053268"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernhard Grzimek",
+                  "notes": null,
+                  "imdb_id": "nm0344850"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Race for Space",
+                  "notes": null,
+                  "imdb_id": "tt0053205"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David L. Wolper",
+                  "notes": null,
+                  "imdb_id": "nm0938678"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Glass",
+                  "notes": null,
+                  "imdb_id": "tt0052852"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Haanstra",
+                  "notes": null,
+                  "imdb_id": "nm0351842"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Donald in Mathmagic Land",
+                  "notes": null,
+                  "imdb_id": "tt0052751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "From Generation to Generation",
+                  "notes": null,
+                  "imdb_id": "tt0052827"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Cullen",
+                  "notes": null,
+                  "imdb_id": "nm0191462"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Arnold Gillespie",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0318901"
+               },
+               {
+                  "name": "R.A. MacDonald",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0531881"
+               },
+               {
+                  "name": "Milo B. Lory",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0521215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Journey to the Center of the Earth",
+                  "notes": null,
+                  "imdb_id": "tt0052948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "L.B. Abbott",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0008004"
+               },
+               {
+                  "name": "James B. Gordon",
+                  "notes": "(visual)",
+                  "imdb_id": "nm0330286"
+               },
+               {
+                  "name": "Carlton W. Faulkner",
+                  "notes": "(audible)",
+                  "imdb_id": "nm0269055"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph E. Winters",
+                  "notes": null,
+                  "imdb_id": "nm0935988"
+               },
+               {
+                  "name": "John D. Dunning",
+                  "notes": null,
+                  "imdb_id": "nm0242950"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis R. Loeffler",
+                  "notes": null,
+                  "imdb_id": "nm0517264"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North by Northwest",
+                  "notes": null,
+                  "imdb_id": "tt0053125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Tomasini",
+                  "notes": null,
+                  "imdb_id": "nm0866462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Beach",
+                  "notes": null,
+                  "imdb_id": "tt0053137"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederic Knudtson",
+                  "notes": null,
+                  "imdb_id": "nm0461772"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0860828"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "France",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Black Orpheus",
+                  "notes": null,
+                  "imdb_id": "tt0053146"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Denmark",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boy of Two Worlds",
+                  "notes": null,
+                  "imdb_id": "tt0053158"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Netherlands",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dorp aan de rivier",
+                  "notes": null,
+                  "imdb_id": "tt0051552"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0052654"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great War",
+                  "notes": null,
+                  "imdb_id": "tt0052861"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"High Hopes\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Hole in the Head",
+                  "notes": null,
+                  "imdb_id": "tt0052896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jimmy Van Heusen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006329"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Best of Everything\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Best of Everything",
+                  "notes": null,
+                  "imdb_id": "tt0052619"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000055"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Five Pennies\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Five Pennies",
+                  "notes": null,
+                  "imdb_id": "tt0052809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sylvia Fine",
+                  "notes": null,
+                  "imdb_id": "nm0277663"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Hanging Tree\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hanging Tree",
+                  "notes": null,
+                  "imdb_id": "tt0052876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Livingston",
+                  "notes": "(music)",
+                  "imdb_id": "nm0515256"
+               },
+               {
+                  "name": "Mack David",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0202988"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Strange Are the Ways of Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Young Land",
+                  "notes": null,
+                  "imdb_id": "tt0053461"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006323"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Beach",
+                  "notes": null,
+                  "imdb_id": "tt0053137"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Gold",
+                  "notes": null,
+                  "imdb_id": "nm0006104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pillow Talk",
+                  "notes": null,
+                  "imdb_id": "tt0053172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank De Vol",
+                  "notes": null,
+                  "imdb_id": "nm0006030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Porgy and Bess",
+                  "notes": null,
+                  "imdb_id": "tt0053182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andr\u00e9 Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006238"
+               },
+               {
+                  "name": "Ken Darby",
+                  "notes": null,
+                  "imdb_id": "nm0006024"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Li'l Abner",
+                  "notes": null,
+                  "imdb_id": "tt0053001"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nelson Riddle",
+                  "notes": null,
+                  "imdb_id": "nm0725765"
+               },
+               {
+                  "name": "Joseph J. Lilley",
+                  "notes": null,
+                  "imdb_id": "nm0510360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Say One for Me",
+                  "notes": null,
+                  "imdb_id": "tt0053245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006213"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sleeping Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0053285"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Bruns",
+                  "notes": null,
+                  "imdb_id": "nm0005980"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Five Pennies",
+                  "notes": null,
+                  "imdb_id": "tt0052809"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leith Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0006302"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "Posthumously. Sam Zimbalist died during filming. Mary Taylor accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Zimbalist",
+                  "notes": null,
+                  "imdb_id": "nm0956547"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Otto Preminger",
+                  "notes": null,
+                  "imdb_id": "nm0695937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Woolf",
+                  "notes": null,
+                  "imdb_id": "nm0941153"
+               },
+               {
+                  "name": "James Woolf",
+                  "notes": null,
+                  "imdb_id": "nm0941150"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Diary of Anne Frank",
+                  "notes": null,
+                  "imdb_id": "tt0052738"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828419"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Blanke",
+                  "notes": null,
+                  "imdb_id": "nm0087533"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Moonbird",
+                  "notes": null,
+                  "imdb_id": "tt0053080"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hubley",
+                  "notes": null,
+                  "imdb_id": "nm0399524"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mexicali Shmoes",
+                  "notes": null,
+                  "imdb_id": "tt0053064"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John W. Burton",
+                  "notes": null,
+                  "imdb_id": "nm0123627"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Noah's Ark",
+                  "notes": null,
+                  "imdb_id": "tt0053120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Violinist",
+                  "notes": null,
+                  "imdb_id": "tt0053425"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Pintoff",
+                  "notes": null,
+                  "imdb_id": "nm0684719"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "notes": "Jo Morrow accepting the award.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Golden Fish",
+                  "notes": null,
+                  "imdb_id": "tt0052855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques-Yves Cousteau",
+                  "notes": null,
+                  "imdb_id": "nm0184150"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Between the Tides",
+                  "notes": null,
+                  "imdb_id": "tt0052621"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ian Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm0272453"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mysteries of the Deep",
+                  "notes": null,
+                  "imdb_id": "tt0053090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skyscraper",
+                  "notes": null,
+                  "imdb_id": "tt0053282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shirley Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164999"
+               },
+               {
+                  "name": "Willard Van Dyke",
+                  "notes": null,
+                  "imdb_id": "nm0886757"
+               },
+               {
+                  "name": "Irving Jacoby",
+                  "notes": null,
+                  "imdb_id": "nm0414991"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Running Jumping & Standing Still Film",
+                  "notes": null,
+                  "imdb_id": "tt0053231"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Sellers",
+                  "notes": null,
+                  "imdb_id": "nm0000634"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Milton",
+                  "notes": "(Metro-Goldwyn-Mayer SSD)",
+                  "imdb_id": "nm0590665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Journey to the Center of the Earth",
+                  "notes": null,
+                  "imdb_id": "tt0052948"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carlton W. Faulkner",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0269055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Libel",
+                  "notes": null,
+                  "imdb_id": "tt0053003"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A.W. Watkins",
+                  "notes": "(Metro-Goldwyn-Mayer London Sound Department)",
+                  "imdb_id": "nm0914249"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Porgy and Bess",
+                  "notes": null,
+                  "imdb_id": "tt0053182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0768167"
+               },
+               {
+                  "name": "Fred Hynes",
+                  "notes": "(Todd-AO SSD)",
+                  "imdb_id": "nm0405261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Groves",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0344060"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Room at the Top",
+                  "notes": null,
+                  "imdb_id": "tt0053226"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Paterson",
+                  "notes": null,
+                  "imdb_id": "nm0665513"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anatomy of a Murder",
+                  "notes": null,
+                  "imdb_id": "tt0052561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendell Mayes",
+                  "notes": null,
+                  "imdb_id": "nm0562606"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ben-Hur",
+                  "notes": null,
+                  "imdb_id": "tt0052618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Tunberg",
+                  "notes": null,
+                  "imdb_id": "nm0876562"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Some Like It Hot",
+                  "notes": null,
+                  "imdb_id": "tt0053291"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               },
+               {
+                  "name": "I.A.L. Diamond",
+                  "notes": null,
+                  "imdb_id": "nm0224634"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nun's Story",
+                  "notes": null,
+                  "imdb_id": "tt0053131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027355"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pillow Talk",
+                  "notes": null,
+                  "imdb_id": "tt0053172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Rouse",
+                  "notes": "(story)",
+                  "imdb_id": "nm0745866"
+               },
+               {
+                  "name": "Clarence Greene",
+                  "notes": "(story)",
+                  "imdb_id": "nm0338707"
+               },
+               {
+                  "name": "Stanley Shapiro",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0788630"
+               },
+               {
+                  "name": "Maurice Richlin",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0725009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "North by Northwest",
+                  "notes": null,
+                  "imdb_id": "tt0053125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Lehman",
+                  "notes": null,
+                  "imdb_id": "nm0499626"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Operation Petticoat",
+                  "notes": null,
+                  "imdb_id": "tt0053143"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul King",
+                  "notes": "(story)",
+                  "imdb_id": "nm0455126"
+               },
+               {
+                  "name": "Joseph Stone",
+                  "notes": "(story)",
+                  "imdb_id": "nm0831972"
+               },
+               {
+                  "name": "Stanley Shapiro",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0788630"
+               },
+               {
+                  "name": "Maurice Richlin",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0725009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The 400 Blows",
+                  "notes": null,
+                  "imdb_id": "tt0053198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran\u00e7ois Truffaut",
+                  "notes": null,
+                  "imdb_id": "nm0000076"
+               },
+               {
+                  "name": "Marcel Moussy",
+                  "notes": null,
+                  "imdb_id": "nm0610115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wild Strawberries",
+                  "notes": null,
+                  "imdb_id": "tt0050986"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ingmar Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0000005"
+               }
+            ]
+         }
+      ]
+   }
+]

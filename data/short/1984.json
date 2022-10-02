@@ -1,0 +1,718 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Finney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Caine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Conti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Courtenay"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Durning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Lithgow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rip Torn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Shepard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shirley MacLaine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Debra Winger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julie Walters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Linda Hunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfre Woodard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amy Irving"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fanny and Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VI - Return of the Jedi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yentl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fanny and Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flashdance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WarGames"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zelig"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fanny and Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cross Creek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heart Like a Wheel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Return of Martin Guerre"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Zelig"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "James L. Brooks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bruce Beresford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ingmar Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Nichols"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Yates"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "He Makes Me Feel Like Dancin'"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Darkness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seeing Red"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Profession of Arms"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Flamenco at 5:15"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ihr zent frei"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Nuclear Shadow: What Can the Children Tell Us?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sewing Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spaces: The Architecture of Paul Rudolph"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VI - Return of the Jedi"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blue Thunder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flashdance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silkwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fanny and Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carmen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Entre Nous"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Le bal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Revolt of Job"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cross Creek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VI - Return of the Jedi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Under Fire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Flashdance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flashdance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tender Mercies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yentl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yentl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Yentl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sting II"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trading Places"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tender Mercies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Chill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dresser"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sundae in New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mickey's Christmas Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sound of Sunshine - Sound of Rain"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Boys and Girls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Goodie-Two-Shoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Overnight Sensation"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Right Stuff"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Never Cry Wolf"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode VI - Return of the Jedi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WarGames"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Terms of Endearment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Betrayal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Educating Rita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reuben, Reuben"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dresser"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tender Mercies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fanny and Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silkwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Chill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "WarGames"
+            ]
+         }
+      ]
+   }
+]

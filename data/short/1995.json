@@ -1,0 +1,771 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Travolta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morgan Freeman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nigel Hawthorne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Martin Landau"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chazz Palminteri"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gary Sinise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Scofield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samuel L. Jackson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jodie Foster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Miranda Richardson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Sarandon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Winona Ryder"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dianne Wiest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helen Mirren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jennifer Tilly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosemary Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Uma Thurman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Madness of King George"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bullets Over Broadway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interview with the Vampire: The Vampire Chronicles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Legends of the Fall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Legends of the Fall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Colors: Red"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wyatt Earp"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Adventures of Priscilla, Queen of the Desert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bullets Over Broadway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maverick"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Queen Margot"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Zemeckis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Krzysztof Kieslowski"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quentin Tarantino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Redford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Maya Lin: A Strong Clear Vision"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Great Day in Harlem"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Experience"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Complaints of a Dutiful Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Freedom on My Mind"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Time for Justice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "89 mm od Europy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blues Highway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "School of the Americas Assassins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Straight from the Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Speed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clear and Present Danger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mask"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "True Lies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hoop Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pulp Fiction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Speed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Burnt by the Sun"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Before the Rain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eat Drink Man Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Farinelli"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strawberry & Chocolate"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ed Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mary Shelley's Frankenstein"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lion King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interview with the Vampire: The Vampire Chronicles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lion King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Junior"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lion King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lion King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Paper"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Weddings and a Funeral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pulp Fiction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quiz Show"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bob's Birthday"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Janitor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Monk and the Fish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Triangle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Franz Kafka's It's a Wonderful Life"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Trevor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kangaroo Court"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Syrup"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Speed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clear and Present Danger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Legends of the Fall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Forrest Gump"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nobody's Fool"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quiz Show"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Madness of King George"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shawshank Redemption"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pulp Fiction"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bullets Over Broadway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Weddings and a Funeral"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Heavenly Creatures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three Colors: Red"
+            ]
+         }
+      ]
+   }
+]

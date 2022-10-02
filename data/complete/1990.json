@@ -1,0 +1,2216 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Daniel Day-Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0000358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Left Foot",
+                  "notes": null,
+                  "imdb_id": "tt0097937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kenneth Branagh",
+                  "notes": null,
+                  "imdb_id": "nm0000110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0097499"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morgan Freeman",
+                  "notes": null,
+                  "imdb_id": "nm0000151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robin Williams",
+                  "notes": null,
+                  "imdb_id": "nm0000245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dead Poets Society",
+                  "notes": null,
+                  "imdb_id": "tt0097165"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Cruise",
+                  "notes": null,
+                  "imdb_id": "nm0000129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Denzel Washington",
+                  "notes": null,
+                  "imdb_id": "nm0000243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glory",
+                  "notes": null,
+                  "imdb_id": "tt0097441"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dan Aykroyd",
+                  "notes": null,
+                  "imdb_id": "nm0000101"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Danny Aiello",
+                  "notes": null,
+                  "imdb_id": "nm0000732"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Do the Right Thing",
+                  "notes": null,
+                  "imdb_id": "tt0097216"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marlon Brando",
+                  "notes": null,
+                  "imdb_id": "nm0000008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Dry White Season",
+                  "notes": null,
+                  "imdb_id": "tt0097243"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Landau",
+                  "notes": null,
+                  "imdb_id": "nm0001445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Crimes and Misdemeanors",
+                  "notes": null,
+                  "imdb_id": "tt0097123"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jessica Tandy",
+                  "notes": null,
+                  "imdb_id": "nm0001788"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Isabelle Adjani",
+                  "notes": null,
+                  "imdb_id": "nm0000254"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Camille Claudel",
+                  "notes": null,
+                  "imdb_id": "tt0094828"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jessica Lange",
+                  "notes": null,
+                  "imdb_id": "nm0001448"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Music Box",
+                  "notes": null,
+                  "imdb_id": "tt0100211"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michelle Pfeiffer",
+                  "notes": null,
+                  "imdb_id": "nm0000201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Fabulous Baker Boys",
+                  "notes": null,
+                  "imdb_id": "tt0097322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pauline Collins",
+                  "notes": null,
+                  "imdb_id": "nm0172604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shirley Valentine",
+                  "notes": null,
+                  "imdb_id": "tt0098319"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Brenda Fricker",
+                  "notes": null,
+                  "imdb_id": "nm0002084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Left Foot",
+                  "notes": null,
+                  "imdb_id": "tt0097937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anjelica Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001378"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Enemies, A Love Story",
+                  "notes": null,
+                  "imdb_id": "tt0097276"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dianne Wiest",
+                  "notes": null,
+                  "imdb_id": "nm0001848"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Parenthood",
+                  "notes": null,
+                  "imdb_id": "tt0098067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0000210"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steel Magnolias",
+                  "notes": null,
+                  "imdb_id": "tt0098384"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lena Olin",
+                  "notes": null,
+                  "imdb_id": "nm0000565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Enemies, A Love Story",
+                  "notes": null,
+                  "imdb_id": "tt0097276"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Batman",
+                  "notes": null,
+                  "imdb_id": "tt0096895"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anton Furst",
+                  "notes": null,
+                  "imdb_id": "nm0299107"
+               },
+               {
+                  "name": "Peter Young",
+                  "notes": null,
+                  "imdb_id": "nm0949952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Rubeo",
+                  "notes": null,
+                  "imdb_id": "nm0747941"
+               },
+               {
+                  "name": "Crispian Sallis",
+                  "notes": null,
+                  "imdb_id": "nm0758605"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glory",
+                  "notes": null,
+                  "imdb_id": "tt0097441"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Garwood",
+                  "notes": null,
+                  "imdb_id": "nm0308841"
+               },
+               {
+                  "name": "Garrett Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0507204"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Abyss",
+                  "notes": null,
+                  "imdb_id": "tt0096754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Dilley",
+                  "notes": null,
+                  "imdb_id": "nm0226896"
+               },
+               {
+                  "name": "Anne Kuljian",
+                  "notes": null,
+                  "imdb_id": "nm0474600"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Baron Munchausen",
+                  "notes": null,
+                  "imdb_id": "tt0096764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": null,
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": null,
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Glory",
+                  "notes": null,
+                  "imdb_id": "tt0097441"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Francis",
+                  "notes": null,
+                  "imdb_id": "nm0005711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blaze",
+                  "notes": null,
+                  "imdb_id": "tt0096943"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Haskell Wexler",
+                  "notes": null,
+                  "imdb_id": "nm0005549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Abyss",
+                  "notes": null,
+                  "imdb_id": "tt0096754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikael Salomon",
+                  "notes": null,
+                  "imdb_id": "nm0004121"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fabulous Baker Boys",
+                  "notes": null,
+                  "imdb_id": "tt0097322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Ballhaus",
+                  "notes": null,
+                  "imdb_id": "nm0000841"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0097499"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phyllis Dalton",
+                  "notes": null,
+                  "imdb_id": "nm0198335"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elizabeth McBride",
+                  "notes": null,
+                  "imdb_id": "nm0564296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Harlem Nights",
+                  "notes": null,
+                  "imdb_id": "tt0097481"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe I. Tompkins",
+                  "notes": null,
+                  "imdb_id": "nm0867001"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Baron Munchausen",
+                  "notes": null,
+                  "imdb_id": "tt0096764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriella Pescucci",
+                  "notes": null,
+                  "imdb_id": "nm0675951"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Valmont",
+                  "notes": null,
+                  "imdb_id": "tt0098575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Theodor Pistek",
+                  "notes": null,
+                  "imdb_id": "nm0685551"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jim Sheridan",
+                  "notes": null,
+                  "imdb_id": "nm0006487"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Left Foot",
+                  "notes": null,
+                  "imdb_id": "tt0097937"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kenneth Branagh",
+                  "notes": null,
+                  "imdb_id": "nm0000110"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry V",
+                  "notes": null,
+                  "imdb_id": "tt0097499"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Weir",
+                  "notes": null,
+                  "imdb_id": "nm0001837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dead Poets Society",
+                  "notes": null,
+                  "imdb_id": "tt0097165"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Crimes and Misdemeanors",
+                  "notes": null,
+                  "imdb_id": "tt0097123"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Common Threads: Stories from the Quilt",
+                  "notes": null,
+                  "imdb_id": "tt0097099"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rob Epstein",
+                  "notes": null,
+                  "imdb_id": "nm0258531"
+               },
+               {
+                  "name": "Bill Couturi\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0184323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adam Clayton Powell",
+                  "notes": null,
+                  "imdb_id": "tt0096761"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Kilberg",
+                  "notes": null,
+                  "imdb_id": "nm0452918"
+               },
+               {
+                  "name": "Yvonne Smith",
+                  "notes": null,
+                  "imdb_id": "nm0810382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crack USA: County Under Siege",
+                  "notes": null,
+                  "imdb_id": "tt0097120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vince DiPersio",
+                  "notes": null,
+                  "imdb_id": "nm0228122"
+               },
+               {
+                  "name": "Bill Guttentag",
+                  "notes": null,
+                  "imdb_id": "nm0349702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "For All Mankind",
+                  "notes": null,
+                  "imdb_id": "tt0097372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Al Reinert",
+                  "notes": null,
+                  "imdb_id": "nm0718031"
+               },
+               {
+                  "name": "Betsy Broyles Breier",
+                  "notes": null,
+                  "imdb_id": "nm0972202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Super Chief: The Life and Legacy of Earl Warren",
+                  "notes": null,
+                  "imdb_id": "tt0098413"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judith Leonard",
+                  "notes": null,
+                  "imdb_id": "nm0502672"
+               },
+               {
+                  "name": "Bill Jersey",
+                  "notes": null,
+                  "imdb_id": "nm0422080"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Johnstown Flood",
+                  "notes": null,
+                  "imdb_id": "tt0097628"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Guggenheim",
+                  "notes": null,
+                  "imdb_id": "nm0346549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fine Food, Fine Pastries, Open 6 to 9",
+                  "notes": null,
+                  "imdb_id": "tt0097356"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Petersen",
+                  "notes": null,
+                  "imdb_id": "nm0676793"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Yad Vashem: Preserving the Past to Ensure the Future",
+                  "notes": null,
+                  "imdb_id": "tt0098685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Errol Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289201"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Last Crusade",
+                  "notes": null,
+                  "imdb_id": "tt0097576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Burtt",
+                  "notes": null,
+                  "imdb_id": "nm0123785"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Rain",
+                  "notes": null,
+                  "imdb_id": "tt0096933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milton C. Burrow",
+                  "notes": null,
+                  "imdb_id": "nm0123228"
+               },
+               {
+                  "name": "William L. Manger",
+                  "notes": null,
+                  "imdb_id": "nm0542191"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lethal Weapon 2",
+                  "notes": null,
+                  "imdb_id": "tt0097733"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert G. Henderson",
+                  "notes": null,
+                  "imdb_id": "nm0376583"
+               },
+               {
+                  "name": "Alan Robert Murray",
+                  "notes": null,
+                  "imdb_id": "nm0614812"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Abyss",
+                  "notes": null,
+                  "imdb_id": "tt0096754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hoyt Yeatman",
+                  "notes": null,
+                  "imdb_id": "nm0947087"
+               },
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "John Bruno",
+                  "notes": null,
+                  "imdb_id": "nm0116497"
+               },
+               {
+                  "name": "Dennis Skotak",
+                  "notes": null,
+                  "imdb_id": "nm0804737"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Back to the Future Part II",
+                  "notes": null,
+                  "imdb_id": "tt0096874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "Michael Lantieri",
+                  "notes": null,
+                  "imdb_id": "nm0487177"
+               },
+               {
+                  "name": "John Bell",
+                  "notes": null,
+                  "imdb_id": "nm0068290"
+               },
+               {
+                  "name": "Steve Gawley",
+                  "notes": null,
+                  "imdb_id": "nm0310697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Baron Munchausen",
+                  "notes": null,
+                  "imdb_id": "tt0096764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Conway",
+                  "notes": null,
+                  "imdb_id": "nm0176763"
+               },
+               {
+                  "name": "Kent Houston",
+                  "notes": null,
+                  "imdb_id": "nm0396854"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Brenner",
+                  "notes": null,
+                  "imdb_id": "nm0107463"
+               },
+               {
+                  "name": "Joe Hutshing",
+                  "notes": null,
+                  "imdb_id": "nm0404528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Warner",
+                  "notes": null,
+                  "imdb_id": "nm0912536"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glory",
+                  "notes": null,
+                  "imdb_id": "tt0097441"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Rosenblum",
+                  "notes": null,
+                  "imdb_id": "nm0742475"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bear",
+                  "notes": null,
+                  "imdb_id": "tt0095800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "No\u00eblle Boisson",
+                  "notes": null,
+                  "imdb_id": "nm0092384"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fabulous Baker Boys",
+                  "notes": null,
+                  "imdb_id": "tt0097322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Steinkamp",
+                  "notes": null,
+                  "imdb_id": "nm0826119"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cinema Paradiso",
+                  "notes": null,
+                  "imdb_id": "tt0095765"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Camille Claudel",
+                  "notes": null,
+                  "imdb_id": "tt0094828"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Canada",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jesus of Montreal",
+                  "notes": null,
+                  "imdb_id": "tt0097635"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Puerto Rico",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lo que le pas\u00f3 a Santiago",
+                  "notes": null,
+                  "imdb_id": "tt0097766"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Denmark",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Memories of a Marriage",
+                  "notes": null,
+                  "imdb_id": "tt0097155"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manlio Rocchetti",
+                  "notes": null,
+                  "imdb_id": "nm0733647"
+               },
+               {
+                  "name": "Lynn Barber",
+                  "notes": null,
+                  "imdb_id": "nm0053430"
+               },
+               {
+                  "name": "Kevin Haney",
+                  "notes": null,
+                  "imdb_id": "nm0359790"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dad",
+                  "notes": null,
+                  "imdb_id": "tt0097142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Smith",
+                  "notes": null,
+                  "imdb_id": "nm0004615"
+               },
+               {
+                  "name": "Ken Diaz",
+                  "notes": null,
+                  "imdb_id": "nm0225004"
+               },
+               {
+                  "name": "Greg Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625397"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Adventures of Baron Munchausen",
+                  "notes": null,
+                  "imdb_id": "tt0096764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maggie Weston",
+                  "notes": null,
+                  "imdb_id": "nm1461907"
+               },
+               {
+                  "name": "Fabrizio Sforza",
+                  "notes": null,
+                  "imdb_id": "nm0786969"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Little Mermaid",
+                  "notes": null,
+                  "imdb_id": "tt0097757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": null,
+                  "imdb_id": "nm0579678"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Field of Dreams",
+                  "notes": null,
+                  "imdb_id": "tt0097351"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Horner",
+                  "notes": null,
+                  "imdb_id": "nm0000035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Last Crusade",
+                  "notes": null,
+                  "imdb_id": "tt0097576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Fabulous Baker Boys",
+                  "notes": null,
+                  "imdb_id": "tt0097322"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Grusin",
+                  "notes": null,
+                  "imdb_id": "nm0006115"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Under the Sea\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Little Mermaid",
+                  "notes": null,
+                  "imdb_id": "tt0097757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"After All\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chances Are",
+                  "notes": null,
+                  "imdb_id": "tt0097044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Snow",
+                  "notes": "(music)",
+                  "imdb_id": "nm0811330"
+               },
+               {
+                  "name": "Dean Pitchford",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0685673"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Love to See You Smile\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Parenthood",
+                  "notes": null,
+                  "imdb_id": "tt0098067"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Girl Who Used to Be Me\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shirley Valentine",
+                  "notes": null,
+                  "imdb_id": "tt0098319"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006121"
+               },
+               {
+                  "name": "Alan Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0074732"
+               },
+               {
+                  "name": "Marilyn Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004750"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Kiss the Girl\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Mermaid",
+                  "notes": null,
+                  "imdb_id": "tt0097757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard D. Zanuck",
+                  "notes": null,
+                  "imdb_id": "nm0005573"
+               },
+               {
+                  "name": "Lili Fini Zanuck",
+                  "notes": null,
+                  "imdb_id": "nm0005572"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Kitman Ho",
+                  "notes": null,
+                  "imdb_id": "nm0457715"
+               },
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dead Poets Society",
+                  "notes": null,
+                  "imdb_id": "tt0097165"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Haft",
+                  "notes": null,
+                  "imdb_id": "nm0353187"
+               },
+               {
+                  "name": "Paul Junger Witt",
+                  "notes": null,
+                  "imdb_id": "nm0432625"
+               },
+               {
+                  "name": "Tony Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0859597"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Field of Dreams",
+                  "notes": null,
+                  "imdb_id": "tt0097351"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330379"
+               },
+               {
+                  "name": "Charles Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Left Foot",
+                  "notes": null,
+                  "imdb_id": "tt0097937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Noel Pearson",
+                  "notes": null,
+                  "imdb_id": "nm0669348"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Balance",
+                  "notes": null,
+                  "imdb_id": "tt0096880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christoph Lauenstein",
+                  "notes": null,
+                  "imdb_id": "nm0490771"
+               },
+               {
+                  "name": "Wolfgang Lauenstein",
+                  "notes": null,
+                  "imdb_id": "nm0490773"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cow",
+                  "notes": null,
+                  "imdb_id": "tt0097118"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aleksandr Petrov",
+                  "notes": null,
+                  "imdb_id": "nm0678154"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hill Farm",
+                  "notes": null,
+                  "imdb_id": "tt0097509"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Baker",
+                  "notes": null,
+                  "imdb_id": "nm0048735"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Work Experience",
+                  "notes": null,
+                  "imdb_id": "tt0098677"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Hendrie",
+                  "notes": null,
+                  "imdb_id": "nm0376835"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amazon Diary",
+                  "notes": null,
+                  "imdb_id": "tt0096798"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Nixon",
+                  "notes": null,
+                  "imdb_id": "nm0633272"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Child Eater",
+                  "notes": null,
+                  "imdb_id": "tt0097057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jonathan Tammuz",
+                  "notes": null,
+                  "imdb_id": "nm0848734"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Glory",
+                  "notes": null,
+                  "imdb_id": "tt0097441"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Gregg Rudloff",
+                  "notes": null,
+                  "imdb_id": "nm0748832"
+               },
+               {
+                  "name": "Elliot Tyson",
+                  "notes": null,
+                  "imdb_id": "nm0006525"
+               },
+               {
+                  "name": "Russell Williams II",
+                  "notes": null,
+                  "imdb_id": "nm0007020"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Black Rain",
+                  "notes": null,
+                  "imdb_id": "tt0096933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Keith A. Wester",
+                  "notes": null,
+                  "imdb_id": "nm0199492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Gregory H. Watkins",
+                  "notes": null,
+                  "imdb_id": "nm0914312"
+               },
+               {
+                  "name": "Wylie Stateman",
+                  "notes": null,
+                  "imdb_id": "nm0823758"
+               },
+               {
+                  "name": "Tod A. Maitland",
+                  "notes": null,
+                  "imdb_id": "nm0537972"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Indiana Jones and the Last Crusade",
+                  "notes": null,
+                  "imdb_id": "tt0097576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Burtt",
+                  "notes": null,
+                  "imdb_id": "nm0123785"
+               },
+               {
+                  "name": "Gary Summers",
+                  "notes": null,
+                  "imdb_id": "nm0838707"
+               },
+               {
+                  "name": "Shawn Murphy",
+                  "notes": null,
+                  "imdb_id": "nm0004156"
+               },
+               {
+                  "name": "Tony Dawe",
+                  "notes": null,
+                  "imdb_id": "nm0003360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Abyss",
+                  "notes": null,
+                  "imdb_id": "tt0096754"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don J. Bassman",
+                  "notes": null,
+                  "imdb_id": "nm0060318"
+               },
+               {
+                  "name": "Kevin F. Cleary",
+                  "notes": null,
+                  "imdb_id": "nm0165855"
+               },
+               {
+                  "name": "Richard Overton",
+                  "notes": null,
+                  "imdb_id": "nm0653958"
+               },
+               {
+                  "name": "Lee Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650090"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Driving Miss Daisy",
+                  "notes": null,
+                  "imdb_id": "tt0097239"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Uhry",
+                  "notes": null,
+                  "imdb_id": "nm0880261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Born on the Fourth of July",
+                  "notes": null,
+                  "imdb_id": "tt0096969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Stone",
+                  "notes": null,
+                  "imdb_id": "nm0000231"
+               },
+               {
+                  "name": "Ron Kovic",
+                  "notes": null,
+                  "imdb_id": "nm0468407"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enemies, A Love Story",
+                  "notes": null,
+                  "imdb_id": "tt0097276"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger L. Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800363"
+               },
+               {
+                  "name": "Paul Mazursky",
+                  "notes": null,
+                  "imdb_id": "nm0005196"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Field of Dreams",
+                  "notes": null,
+                  "imdb_id": "tt0097351"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phil Alden Robinson",
+                  "notes": null,
+                  "imdb_id": "nm0004675"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Left Foot",
+                  "notes": null,
+                  "imdb_id": "tt0097937"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Sheridan",
+                  "notes": null,
+                  "imdb_id": "nm0006487"
+               },
+               {
+                  "name": "Shane Connaughton",
+                  "notes": null,
+                  "imdb_id": "nm0174934"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dead Poets Society",
+                  "notes": null,
+                  "imdb_id": "tt0097165"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Schulman",
+                  "notes": null,
+                  "imdb_id": "nm0776114"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crimes and Misdemeanors",
+                  "notes": null,
+                  "imdb_id": "tt0097123"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Do the Right Thing",
+                  "notes": null,
+                  "imdb_id": "tt0097216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Spike Lee",
+                  "notes": null,
+                  "imdb_id": "nm0000490"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sex, Lies, and Videotape",
+                  "notes": null,
+                  "imdb_id": "tt0098724"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Soderbergh",
+                  "notes": null,
+                  "imdb_id": "nm0001752"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Harry Met Sally...",
+                  "notes": null,
+                  "imdb_id": "tt0098635"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nora Ephron",
+                  "notes": null,
+                  "imdb_id": "nm0001188"
+               }
+            ]
+         }
+      ]
+   }
+]

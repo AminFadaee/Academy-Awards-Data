@@ -1,0 +1,848 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Serious Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Education"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "District 9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Precious"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Blind Side"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up in the Air"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Colin Firth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Clooney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeremy Renner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morgan Freeman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sandra Bullock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carey Mulligan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gabourey Sidibe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helen Mirren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Christoph Waltz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christopher Plummer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Matt Damon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Tucci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Harrelson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mo'Nique"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna Kendrick"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maggie Gyllenhaal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pen\u00e9lope Cruz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vera Farmiga"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kathryn Bigelow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Cameron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jason Reitman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Daniels"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quentin Tarantino"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Serious Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Messenger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Precious"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An Education"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "District 9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Loop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up in the Air"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry Potter and the Half-Blood Prince"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Ribbon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sherlock Holmes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imaginarium of Doctor Parnassus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Victoria"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "District 9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Precious"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Young Victoria"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bright Star"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coco Before Chanel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imaginarium of Doctor Parnassus"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crazy Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paris 36"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Princess and the Frog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Princess and the Frog"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Mr. Fox"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sherlock Holmes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Transformers: Revenge of the Fallen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hurt Locker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inglourious Basterds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Up"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Avatar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "District 9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Logorama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Matter of Loaf and Death"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "French Roast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Granny O'Grimm's Sleeping Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lady and the Reaper"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The New Tenants"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Instead of Abracadabra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kavi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Miracle Fish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Door"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Music by Prudence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "China's Unnatural Disaster: The Tears of Sichuan Province"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rabbit \u00e0 la Berlin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Campaign of Governor Booth Gardner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Truck: Closing of a GM Plant"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Cove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burma VJ: Reporting from a Closed Country"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Food, Inc."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Which Way Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Secret in Their Eyes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Prophet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ajami"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Milk of Sorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Ribbon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coraline"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Mr. Fox"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Princess and the Frog"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Secret of Kells"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Trek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Il divo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Victoria"
+            ]
+         }
+      ]
+   }
+]

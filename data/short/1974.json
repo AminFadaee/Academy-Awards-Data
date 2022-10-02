@@ -1,0 +1,701 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Nicholson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Redford"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Houseman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Gilford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jason Miller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Randy Quaid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vincent Gardenia"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Glenda Jackson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbra Streisand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ellen Burstyn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joanne Woodward"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marsha Mason"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tatum O'Neal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Candy Clark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Linda Blair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madeline Kahn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sylvia Sidney"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Brother Sun, Sister Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Exorcist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Way We Were"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Sawyer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cries & Whispers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jonathan Livingston Seagull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Exorcist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Way We Were"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cries & Whispers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ludwig"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Way We Were"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Sawyer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Roy Hill"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bernardo Bertolucci"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Lucas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ingmar Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Friedkin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Great American Cowboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Always a New Beginning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Battle of Berlin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey to the Outer Limits"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Walls of Fire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Princeton: A Search for Answers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Background"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christo's Valley Curtain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Four Stones for Kanemitsu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paisti ag obair"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Graffiti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jonathan Livingston Seagull"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Day of the Jackal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Exorcist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Day for Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House on Chelouche Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Invitation"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pedestrian"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Turkish Delight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Way We Were"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Touch of Class"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Papillon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Day of the Dolphin"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Way We Were"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Touch of Class"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cinderella Liberty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Live and Let Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robin Hood"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jesus Christ Superstar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Sawyer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Touch of Class"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Graffiti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cries & Whispers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Exorcist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Animated Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Film"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pulcinella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Legend of John Henry"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Bolero"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clockmaker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life Times Nine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Exorcist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paper Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Day of the Dolphin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Paper Chase"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sting"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Exorcist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paper Moon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Serpico"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Detail"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Paper Chase"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Touch of Class"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Graffiti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cries & Whispers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Save the Tiger"
+            ]
+         }
+      ]
+   }
+]

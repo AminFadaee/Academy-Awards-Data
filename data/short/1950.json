@@ -1,0 +1,774 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Broderick Crawford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gregory Peck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Wayne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kirk Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Todd"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dean Jagger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur Kennedy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Whitmore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Ireland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Richardson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Olivia de Havilland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deborah Kerr"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeanne Crain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Loretta Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Hayward"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mercedes McCambridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Celeste Holm"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elsa Lanchester"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethel Barrymore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethel Waters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Heiress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come to the Stable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Madame Bovary"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adventures of Don Juan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saraband"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Battleground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Champion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come to the Stable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prince of Foxes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Heiress"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "She Wore a Yellow Ribbon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jolson Sings Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Barkleys of Broadway"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Heiress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Prince of Foxes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Adventures of Don Juan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mother Is a Freshman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joseph L. Mankiewicz"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Carol Reed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Rossen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William A. Wellman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Wyler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Daybreak in Udi"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenji Comes Home"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Chance to Live"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "So Much for So Little"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eighteen Forty-Eight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rising Tide"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mighty Joe Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tulsa"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Champion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the King's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Battleground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sands of Iwo Jima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Window"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Neptune's Daughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come to the Stable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Great Feeling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Foolish Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "So Dear to My Heart"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Heiress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beyond the Forest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Champion"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "On the Town"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jolson Sings Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Look for the Silver Lining"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All the King's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Letter to Three Wives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Battleground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Heiress"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twelve O'Clock High"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "For Scent-imental Reasons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Canary Row"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hatch Up Your Troubles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic Fluke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Tinkers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Aquatic House Party"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roller Derby Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "So You Think You're Not Guilty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spills and Chills"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Water Trix"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Van Gogh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boy and the Eagle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chase of Death"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Snow Carnival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grass Is Always Greener"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Twelve O'Clock High"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Once More, My Darling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sands of Iwo Jima"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Stratton Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come to the Stable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It Happens Every Spring"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sands of Iwo Jima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "White Heat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Letter to Three Wives"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the King's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bicycle Thieves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Champion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fallen Idol"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Battleground"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jolson Sings Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paisan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Passport to Pimlico"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Quiet One"
+            ]
+         }
+      ]
+   }
+]

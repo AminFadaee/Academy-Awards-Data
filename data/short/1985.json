@@ -1,0 +1,747 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "F. Murray Abraham"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Finney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sam Waterston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hulce"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Haing S. Ngor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adolph Caesar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Malkovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pat Morita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Richardson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sally Field"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jessica Lange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judy Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sissy Spacek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanessa Redgrave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Peggy Ashcroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Christine Lahti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lindsay Crouse"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2010: The Year We Make Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cotton Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Natural"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Killing Fields"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Natural"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The River"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2010: The Year We Make Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Places in the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bostonians"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Milos Forman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Lean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Benton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roland Joff\u00e9"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Times of Harvey Milk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Schools"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "In the Name of the People"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marlene"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Streetwise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Stone Carvers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Code Gray: Ethical Dilemmas in Nursing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Recollections of Pavlovsk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children of Soong Ching Ling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Garden of Eden"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Indiana Jones and the Temple of Doom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2010: The Year We Make Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghostbusters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Killing Fields"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Romancing the Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cotton Club"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dangerous Moves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beyond the Walls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Camila"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Double Feature"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Voenno-polevoy roman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2010: The Year We Make Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greystoke: The Legend of Tarzan, Lord of the Apes"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Indiana Jones and the Temple of Doom"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Natural"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The River"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Under the Volcano"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Woman in Red"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Against All Odds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Footloose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Footloose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ghostbusters"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Purple Rain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Songwriter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Muppets Take Manhattan"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Soldier's Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Places in the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killing Fields"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Charade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor DeSoto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paradise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tales of Meeting and Parting"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Painted Door"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "2010: The Year We Make Contact"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dune"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The River"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Amadeus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Passage to India"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Soldier's Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Greystoke: The Legend of Tarzan, Lord of the Apes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Killing Fields"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Places in the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beverly Hills Cop"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadway Danny Rose"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El Norte"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Splash"
+            ]
+         }
+      ]
+   }
+]

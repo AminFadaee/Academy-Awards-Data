@@ -1,0 +1,2423 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Richards",
+                  "notes": null,
+                  "imdb_id": "nm0724237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alberto Grimaldi",
+                  "notes": null,
+                  "imdb_id": "nm0342090"
+               },
+               {
+                  "name": "Harvey Weinstein",
+                  "notes": null,
+                  "imdb_id": "nm0005544"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               },
+               {
+                  "name": "Robert Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289221"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barrie M. Osborne",
+                  "notes": null,
+                  "imdb_id": "nm0651614"
+               },
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               },
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roman Polanski",
+                  "notes": null,
+                  "imdb_id": "nm0000591"
+               },
+               {
+                  "name": "Robert Benmussa",
+                  "notes": null,
+                  "imdb_id": "nm0071452"
+               },
+               {
+                  "name": "Alain Sarde",
+                  "notes": null,
+                  "imdb_id": "nm0764963"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Adrien Brody",
+                  "notes": null,
+                  "imdb_id": "nm0004778"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daniel Day-Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0000358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "About Schmidt",
+                  "notes": null,
+                  "imdb_id": "tt0257360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Caine",
+                  "notes": null,
+                  "imdb_id": "nm0000323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Quiet American",
+                  "notes": null,
+                  "imdb_id": "tt0258068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicolas Cage",
+                  "notes": null,
+                  "imdb_id": "nm0000115"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adaptation.",
+                  "notes": null,
+                  "imdb_id": "tt0268126"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nicole Kidman",
+                  "notes": null,
+                  "imdb_id": "nm0000173"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Lane",
+                  "notes": null,
+                  "imdb_id": "nm0000178"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Unfaithful",
+                  "notes": null,
+                  "imdb_id": "tt0250797"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julianne Moore",
+                  "notes": null,
+                  "imdb_id": "nm0000194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Far from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0297884"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ren\u00e9e Zellweger",
+                  "notes": null,
+                  "imdb_id": "nm0000250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Salma Hayek",
+                  "notes": null,
+                  "imdb_id": "nm0000161"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chris Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177933"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adaptation.",
+                  "notes": null,
+                  "imdb_id": "tt0268126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Christopher Walken",
+                  "notes": null,
+                  "imdb_id": "nm0000686"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catch Me If You Can",
+                  "notes": null,
+                  "imdb_id": "tt0264464"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ed Harris",
+                  "notes": null,
+                  "imdb_id": "nm0000438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John C. Reilly",
+                  "notes": null,
+                  "imdb_id": "nm0000604"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Catherine Zeta-Jones",
+                  "notes": null,
+                  "imdb_id": "nm0001876"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julianne Moore",
+                  "notes": null,
+                  "imdb_id": "nm0000194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kathy Bates",
+                  "notes": null,
+                  "imdb_id": "nm0000870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "About Schmidt",
+                  "notes": null,
+                  "imdb_id": "tt0257360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adaptation.",
+                  "notes": null,
+                  "imdb_id": "tt0268126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Queen Latifah",
+                  "notes": null,
+                  "imdb_id": "nm0001451"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": "Roman Polanski was not present at the awards ceremony, being a fugitive from U.S. justice since fleeing the country in 1978. Presenter Harrison Ford accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Roman Polanski",
+                  "notes": null,
+                  "imdb_id": "nm0000591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pedro Almod\u00f3var",
+                  "notes": null,
+                  "imdb_id": "nm0000264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Talk to Her",
+                  "notes": null,
+                  "imdb_id": "tt0287467"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rob Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0551128"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stephen Daldry",
+                  "notes": null,
+                  "imdb_id": "nm0197636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Talk to Her",
+                  "notes": null,
+                  "imdb_id": "tt0287467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pedro Almod\u00f3var",
+                  "notes": null,
+                  "imdb_id": "nm0000264"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Far from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0297884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Todd Haynes",
+                  "notes": null,
+                  "imdb_id": "nm0001331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Cocks",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0168379"
+               },
+               {
+                  "name": "Steven Zaillian",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0001873"
+               },
+               {
+                  "name": "Kenneth Lonergan",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0518836"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Big Fat Greek Wedding",
+                  "notes": null,
+                  "imdb_id": "tt0259446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nia Vardalos",
+                  "notes": null,
+                  "imdb_id": "nm0889522"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Y tu mam\u00e1 tambi\u00e9n",
+                  "notes": null,
+                  "imdb_id": "tt0245574"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carlos Cuar\u00f3n",
+                  "notes": null,
+                  "imdb_id": "nm0190860"
+               },
+               {
+                  "name": "Alfonso Cuar\u00f3n",
+                  "notes": null,
+                  "imdb_id": "nm0190859"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ronald Harwood",
+                  "notes": null,
+                  "imdb_id": "nm0367838"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "About a Boy",
+                  "notes": null,
+                  "imdb_id": "tt0276751"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Hedges",
+                  "notes": null,
+                  "imdb_id": "nm0373282"
+               },
+               {
+                  "name": "Chris Weitz",
+                  "notes": null,
+                  "imdb_id": "nm0919363"
+               },
+               {
+                  "name": "Paul Weitz",
+                  "notes": null,
+                  "imdb_id": "nm0919369"
+               }
+            ]
+         },
+         {
+            "notes": "The second nominee was actually Kaufman, Donald, the (fictitious) twin brother of Charlie.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adaptation.",
+                  "notes": null,
+                  "imdb_id": "tt0268126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charlie Kaufman",
+                  "notes": null,
+                  "imdb_id": "nm0442109"
+               },
+               {
+                  "name": "Charlie Kaufman",
+                  "notes": null,
+                  "imdb_id": "nm0442109"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Condon",
+                  "notes": null,
+                  "imdb_id": "nm0174374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Hare",
+                  "notes": null,
+                  "imdb_id": "nm0002376"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Germany. Caroline Link was not present at the awards ceremony due to a family emergency.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nowhere in Africa",
+                  "notes": null,
+                  "imdb_id": "tt0161860"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "China.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hero",
+                  "notes": null,
+                  "imdb_id": "tt0299977"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mexico.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crime of Padre Amaro",
+                  "notes": null,
+                  "imdb_id": "tt0313196"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Finland.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Without a Past",
+                  "notes": null,
+                  "imdb_id": "tt0311519"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Netherlands.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Zus & zo",
+                  "notes": null,
+                  "imdb_id": "tt0245157"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": "Nomination and award were posthumous. His son Conrad W. Hall accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dion Beebe",
+                  "notes": null,
+                  "imdb_id": "nm0066244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Far from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0297884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Lachman",
+                  "notes": null,
+                  "imdb_id": "nm0005767"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Ballhaus",
+                  "notes": null,
+                  "imdb_id": "nm0000841"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pawel Edelman",
+                  "notes": null,
+                  "imdb_id": "nm0248997"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Myhre",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0616924"
+               },
+               {
+                  "name": "Gordon Sim",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0799246"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Felipe Fern\u00e1ndez del Paso",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0273259"
+               },
+               {
+                  "name": "Hania Robledo",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0733281"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Nancy Haigh",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0354101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Grant Major",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0538194"
+               },
+               {
+                  "name": "Dan Hennah",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0377172"
+               },
+               {
+                  "name": "Alan Lee",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0496769"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julie Weiss",
+                  "notes": null,
+                  "imdb_id": "nm0919058"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anna B. Sheppard",
+                  "notes": null,
+                  "imdb_id": "nm0081318"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Minkler",
+                  "notes": null,
+                  "imdb_id": "nm0591444"
+               },
+               {
+                  "name": "Dominick Tavella",
+                  "notes": null,
+                  "imdb_id": "nm0003838"
+               },
+               {
+                  "name": "David Lee",
+                  "notes": null,
+                  "imdb_id": "nm0497112"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Fleischman",
+                  "notes": null,
+                  "imdb_id": "nm0281530"
+               },
+               {
+                  "name": "Eugene Gearty",
+                  "notes": null,
+                  "imdb_id": "nm0311267"
+               },
+               {
+                  "name": "Ivan Sharrock",
+                  "notes": null,
+                  "imdb_id": "nm0789331"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Millan",
+                  "notes": null,
+                  "imdb_id": "nm0586793"
+               },
+               {
+                  "name": "Bob Beemer",
+                  "notes": null,
+                  "imdb_id": "nm0066446"
+               },
+               {
+                  "name": "John Pritchett",
+                  "notes": null,
+                  "imdb_id": "nm0698099"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spider-Man",
+                  "notes": null,
+                  "imdb_id": "tt0145487"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Ed Novick",
+                  "notes": null,
+                  "imdb_id": "nm0637085"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Michael Hedges",
+                  "notes": null,
+                  "imdb_id": "nm0373276"
+               },
+               {
+                  "name": "Hammond Peek",
+                  "notes": null,
+                  "imdb_id": "nm0003827"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Van der Ryn",
+                  "notes": null,
+                  "imdb_id": "nm0886399"
+               },
+               {
+                  "name": "Mike Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394243"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Minority Report",
+                  "notes": null,
+                  "imdb_id": "tt0181689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               },
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Hecker",
+                  "notes": null,
+                  "imdb_id": "nm0373046"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909760"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma Schoonmaker",
+                  "notes": null,
+                  "imdb_id": "nm0774817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Horton",
+                  "notes": null,
+                  "imdb_id": "nm0395579"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Pianist",
+                  "notes": null,
+                  "imdb_id": "tt0253474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herv\u00e9 de Luze",
+                  "notes": null,
+                  "imdb_id": "nm0217959"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John E. Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413703"
+               },
+               {
+                  "name": "Beatrice De Alba",
+                  "notes": null,
+                  "imdb_id": "nm0206866"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Time Machine",
+                  "notes": null,
+                  "imdb_id": "tt0268695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John M. Elliott Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0254353"
+               },
+               {
+                  "name": "Barbara Lorenz",
+                  "notes": null,
+                  "imdb_id": "nm0520693"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Lose Yourself\". Eminem and Jeff Bass were not present at the awards ceremony.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "8 Mile",
+                  "notes": null,
+                  "imdb_id": "tt0298203"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eminem",
+                  "notes": "(music/lyrics)",
+                  "imdb_id": "nm0004896"
+               },
+               {
+                  "name": "Jeff Bass",
+                  "notes": "(music)",
+                  "imdb_id": "nm1384015"
+               },
+               {
+                  "name": "Luis Resto",
+                  "notes": "(music)",
+                  "imdb_id": "nm1099643"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Move On\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chicago",
+                  "notes": null,
+                  "imdb_id": "tt0299658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Kander",
+                  "notes": "(music)",
+                  "imdb_id": "nm0437218"
+               },
+               {
+                  "name": "Fred Ebb",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0247939"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Burn It Blue\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Goldenthal",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006106"
+               },
+               {
+                  "name": "Julie Taymor",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0853380"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Hands That Built America\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gangs of New York",
+                  "notes": null,
+                  "imdb_id": "tt0217505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bono",
+                  "notes": null,
+                  "imdb_id": "nm0095104"
+               },
+               {
+                  "name": "The Edge",
+                  "notes": null,
+                  "imdb_id": "nm0857253"
+               },
+               {
+                  "name": "Adam Clayton",
+                  "notes": null,
+                  "imdb_id": "nm0165651"
+               },
+               {
+                  "name": "Larry Mullen Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0611979"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Father and Daughter\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wild Thornberrys",
+                  "notes": null,
+                  "imdb_id": "tt0282120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800328"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frida",
+                  "notes": null,
+                  "imdb_id": "tt0120679"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Goldenthal",
+                  "notes": null,
+                  "imdb_id": "nm0006106"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Catch Me If You Can",
+                  "notes": null,
+                  "imdb_id": "tt0264464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Far from Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0297884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Bernstein",
+                  "notes": null,
+                  "imdb_id": "nm0000930"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Road to Perdition",
+                  "notes": null,
+                  "imdb_id": "tt0257044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hours",
+                  "notes": null,
+                  "imdb_id": "tt0274558"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Glass",
+                  "notes": null,
+                  "imdb_id": "nm0001275"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Chubbchubbs!",
+                  "notes": null,
+                  "imdb_id": "tt0331218"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Armstrong",
+                  "notes": null,
+                  "imdb_id": "nm0035697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mike's New Car",
+                  "notes": null,
+                  "imdb_id": "tt0323250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Docter",
+                  "notes": null,
+                  "imdb_id": "nm0230032"
+               },
+               {
+                  "name": "Roger Gould",
+                  "notes": null,
+                  "imdb_id": "nm1246888"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mount Head",
+                  "notes": null,
+                  "imdb_id": "tt0351382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Koji Yamamura",
+                  "notes": null,
+                  "imdb_id": "nm0945520"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rocks",
+                  "notes": null,
+                  "imdb_id": "tt0330801"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Stenner",
+                  "notes": null,
+                  "imdb_id": "nm1234476"
+               },
+               {
+                  "name": "Heidi Wittlinger",
+                  "notes": null,
+                  "imdb_id": "nm1234919"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cathedral",
+                  "notes": null,
+                  "imdb_id": "tt0351167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tomasz Baginski",
+                  "notes": null,
+                  "imdb_id": "nm1313617"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "This Charming Man",
+                  "notes": null,
+                  "imdb_id": "tt0340071"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Strange-Hansen",
+                  "notes": null,
+                  "imdb_id": "nm1015687"
+               },
+               {
+                  "name": "Mie Andreasen",
+                  "notes": null,
+                  "imdb_id": "nm1212399"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dog",
+                  "notes": null,
+                  "imdb_id": "tt0303350"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Pasvolsky",
+                  "notes": null,
+                  "imdb_id": "nm1099262"
+               },
+               {
+                  "name": "Joe Weatherstone",
+                  "notes": null,
+                  "imdb_id": "nm0915787"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gridlock",
+                  "notes": null,
+                  "imdb_id": "tt0281850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dirk Beli\u00ebn",
+                  "notes": null,
+                  "imdb_id": "nm0067937"
+               },
+               {
+                  "name": "Anja Daelemans",
+                  "notes": null,
+                  "imdb_id": "nm0196664"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I'll Wait for the Next One...",
+                  "notes": null,
+                  "imdb_id": "tt0325638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philippe Orreindy",
+                  "notes": null,
+                  "imdb_id": "nm1203746"
+               },
+               {
+                  "name": "Thomas Gaudin",
+                  "notes": null,
+                  "imdb_id": "nm1204900"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Flynton",
+                  "notes": null,
+                  "imdb_id": "tt0329245"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lexi Alexander",
+                  "notes": null,
+                  "imdb_id": "nm0591994"
+               },
+               {
+                  "name": "Alexander Buono",
+                  "notes": null,
+                  "imdb_id": "nm0120645"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Twin Towers",
+                  "notes": null,
+                  "imdb_id": "tt0344503"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Guttentag",
+                  "notes": null,
+                  "imdb_id": "nm0349702"
+               },
+               {
+                  "name": "Robert David Port",
+                  "notes": null,
+                  "imdb_id": "nm0691888"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mighty Times: The Legacy of Rosa Parks",
+                  "notes": null,
+                  "imdb_id": "tt0353737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Hudson",
+                  "notes": null,
+                  "imdb_id": "nm2060739"
+               },
+               {
+                  "name": "Robert Houston",
+                  "notes": null,
+                  "imdb_id": "nm0396884"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Collector of Bedford Street",
+                  "notes": null,
+                  "imdb_id": "tt0325193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alice Elliott",
+                  "notes": null,
+                  "imdb_id": "nm0254359"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Why Can't We Be a Family Again?",
+                  "notes": null,
+                  "imdb_id": "tt0344563"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Weisberg",
+                  "notes": null,
+                  "imdb_id": "nm0918724"
+               },
+               {
+                  "name": "Murray Nossel",
+                  "notes": null,
+                  "imdb_id": "nm1286059"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bowling for Columbine",
+                  "notes": null,
+                  "imdb_id": "tt0310793"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601619"
+               },
+               {
+                  "name": "Michael Donovan",
+                  "notes": null,
+                  "imdb_id": "nm0233035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daughter from Danang",
+                  "notes": null,
+                  "imdb_id": "tt0303281"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gail Dolgin",
+                  "notes": null,
+                  "imdb_id": "nm0231000"
+               },
+               {
+                  "name": "Vicente Franco",
+                  "notes": null,
+                  "imdb_id": "nm0290657"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prisoner of Paradise",
+                  "notes": null,
+                  "imdb_id": "tt0316013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Malcolm Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164885"
+               },
+               {
+                  "name": "Stuart Sender",
+                  "notes": null,
+                  "imdb_id": "nm1213974"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spellbound",
+                  "notes": null,
+                  "imdb_id": "tt0334405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Blitz",
+                  "notes": null,
+                  "imdb_id": "nm0998825"
+               },
+               {
+                  "name": "Sean Welch",
+                  "notes": null,
+                  "imdb_id": "nm1290122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Winged Migration",
+                  "notes": null,
+                  "imdb_id": "tt0301727"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques Perrin",
+                  "notes": null,
+                  "imdb_id": "nm0674742"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "notes": "Hayao Miyazaki was not present at the awards ceremony. Presenter Cameron Diaz accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Spirited Away",
+                  "notes": null,
+                  "imdb_id": "tt0245429"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hayao Miyazaki",
+                  "notes": null,
+                  "imdb_id": "nm0594503"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ice Age",
+                  "notes": null,
+                  "imdb_id": "tt0268380"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Wedge",
+                  "notes": null,
+                  "imdb_id": "nm0917188"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lilo & Stitch",
+                  "notes": null,
+                  "imdb_id": "tt0275847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761498"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spirit: Stallion of the Cimarron",
+                  "notes": null,
+                  "imdb_id": "tt0166813"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Katzenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005076"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Treasure Planet",
+                  "notes": null,
+                  "imdb_id": "tt0133240"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ron Clements",
+                  "notes": null,
+                  "imdb_id": "nm0166256"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Two Towers",
+                  "notes": null,
+                  "imdb_id": "tt0167261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Rygiel",
+                  "notes": null,
+                  "imdb_id": "nm0753277"
+               },
+               {
+                  "name": "Joe Letteri",
+                  "notes": null,
+                  "imdb_id": "nm0504784"
+               },
+               {
+                  "name": "Randall William Cook",
+                  "notes": null,
+                  "imdb_id": "nm0177241"
+               },
+               {
+                  "name": "Alex Funke",
+                  "notes": null,
+                  "imdb_id": "nm0298754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spider-Man",
+                  "notes": null,
+                  "imdb_id": "tt0145487"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Dykstra",
+                  "notes": null,
+                  "imdb_id": "nm0004375"
+               },
+               {
+                  "name": "Scott Stokdyk",
+                  "notes": null,
+                  "imdb_id": "nm0831282"
+               },
+               {
+                  "name": "Anthony LaMolinara",
+                  "notes": null,
+                  "imdb_id": "nm0483608"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode II - Attack of the Clones",
+                  "notes": null,
+                  "imdb_id": "tt0121765"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rob Coleman",
+                  "notes": null,
+                  "imdb_id": "nm0171197"
+               },
+               {
+                  "name": "Pablo Helman",
+                  "notes": null,
+                  "imdb_id": "nm0375666"
+               },
+               {
+                  "name": "John Knoll",
+                  "notes": null,
+                  "imdb_id": "nm0461306"
+               },
+               {
+                  "name": "Ben Snow",
+                  "notes": null,
+                  "imdb_id": "nm0811240"
+               }
+            ]
+         }
+      ]
+   }
+]

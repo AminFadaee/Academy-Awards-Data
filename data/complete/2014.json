@@ -1,0 +1,2768 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": "12 Years a Slave (2013) became the first film directed and produced by a black filmmaker (Steve McQueen) and also the first to be written by an African-American (John Ridley) to win the Academy Award for Best Motion Picture of the Year.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brad Pitt",
+                  "notes": null,
+                  "imdb_id": "nm0000093"
+               },
+               {
+                  "name": "Dede Gardner",
+                  "notes": null,
+                  "imdb_id": "nm0306890"
+               },
+               {
+                  "name": "Jeremy Kleiner",
+                  "notes": null,
+                  "imdb_id": "nm1250070"
+               },
+               {
+                  "name": "Steve McQueen",
+                  "notes": null,
+                  "imdb_id": "nm2588606"
+               },
+               {
+                  "name": "Anthony Katagas",
+                  "notes": null,
+                  "imdb_id": "nm0441097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Roven",
+                  "notes": null,
+                  "imdb_id": "nm0746273"
+               },
+               {
+                  "name": "Richard Suckle",
+                  "notes": null,
+                  "imdb_id": "nm0837112"
+               },
+               {
+                  "name": "Megan Ellison",
+                  "notes": null,
+                  "imdb_id": "nm2691892"
+               },
+               {
+                  "name": "Jonathan Gordon",
+                  "notes": null,
+                  "imdb_id": "nm0330335"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               },
+               {
+                  "name": "Dana Brunetti",
+                  "notes": null,
+                  "imdb_id": "nm0116232"
+               },
+               {
+                  "name": "Michael De Luca",
+                  "notes": null,
+                  "imdb_id": "nm0006894"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robbie Brenner",
+                  "notes": null,
+                  "imdb_id": "nm0107509"
+               },
+               {
+                  "name": "Rachel Winter",
+                  "notes": null,
+                  "imdb_id": "nm0292647"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfonso Cuar\u00f3n",
+                  "notes": null,
+                  "imdb_id": "nm0190859"
+               },
+               {
+                  "name": "David Heyman",
+                  "notes": null,
+                  "imdb_id": "nm0382268"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Her",
+                  "notes": null,
+                  "imdb_id": "tt1798709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Megan Ellison",
+                  "notes": null,
+                  "imdb_id": "nm2691892"
+               },
+               {
+                  "name": "Spike Jonze",
+                  "notes": null,
+                  "imdb_id": "nm0005069"
+               },
+               {
+                  "name": "Vincent Landay",
+                  "notes": null,
+                  "imdb_id": "nm0484504"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Berger",
+                  "notes": null,
+                  "imdb_id": "nm0074100"
+               },
+               {
+                  "name": "Ron Yerxa",
+                  "notes": null,
+                  "imdb_id": "nm0947695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Philomena",
+                  "notes": null,
+                  "imdb_id": "tt2431286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabrielle Tana",
+                  "notes": null,
+                  "imdb_id": "nm0848932"
+               },
+               {
+                  "name": "Steve Coogan",
+                  "notes": null,
+                  "imdb_id": "nm0176869"
+               },
+               {
+                  "name": "Tracey Seaward",
+                  "notes": null,
+                  "imdb_id": "nm0780870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wolf of Wall Street",
+                  "notes": null,
+                  "imdb_id": "tt0993846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonardo DiCaprio",
+                  "notes": null,
+                  "imdb_id": "nm0000138"
+               },
+               {
+                  "name": "Emma Tillinger Koskoff",
+                  "notes": null,
+                  "imdb_id": "nm0863374"
+               },
+               {
+                  "name": "Joey McFarland",
+                  "notes": null,
+                  "imdb_id": "nm2110175"
+               },
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Matthew McConaughey",
+                  "notes": null,
+                  "imdb_id": "nm0000190"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bruce Dern",
+                  "notes": null,
+                  "imdb_id": "nm0001136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chiwetel Ejiofor",
+                  "notes": null,
+                  "imdb_id": "nm0252230"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Christian Bale",
+                  "notes": null,
+                  "imdb_id": "nm0000288"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leonardo DiCaprio",
+                  "notes": null,
+                  "imdb_id": "nm0000138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Wolf of Wall Street",
+                  "notes": null,
+                  "imdb_id": "tt0993846"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cate Blanchett",
+                  "notes": null,
+                  "imdb_id": "nm0000949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Blue Jasmine",
+                  "notes": null,
+                  "imdb_id": "tt2334873"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amy Adams",
+                  "notes": null,
+                  "imdb_id": "nm0010736"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judi Dench",
+                  "notes": null,
+                  "imdb_id": "nm0001132"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philomena",
+                  "notes": null,
+                  "imdb_id": "tt2431286"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "August: Osage County",
+                  "notes": null,
+                  "imdb_id": "tt1322269"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sandra Bullock",
+                  "notes": null,
+                  "imdb_id": "nm0000113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jared Leto",
+                  "notes": null,
+                  "imdb_id": "nm0001467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barkhad Abdi",
+                  "notes": null,
+                  "imdb_id": "nm5831542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bradley Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jonah Hill",
+                  "notes": null,
+                  "imdb_id": "nm1706767"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Wolf of Wall Street",
+                  "notes": null,
+                  "imdb_id": "tt0993846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Fassbender",
+                  "notes": null,
+                  "imdb_id": "nm1055413"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lupita Nyong'o",
+                  "notes": null,
+                  "imdb_id": "nm2143282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jennifer Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm2225369"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0000210"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "August: Osage County",
+                  "notes": null,
+                  "imdb_id": "tt1322269"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "June Squibb",
+                  "notes": null,
+                  "imdb_id": "nm0820053"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sally Hawkins",
+                  "notes": null,
+                  "imdb_id": "nm1020089"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Blue Jasmine",
+                  "notes": null,
+                  "imdb_id": "tt2334873"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": "Alfonso Cuar\u00f3n became the first Hispanic and Mexican to win the Academy Award for Best Director.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alfonso Cuar\u00f3n",
+                  "notes": null,
+                  "imdb_id": "nm0190859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alexander Payne",
+                  "notes": null,
+                  "imdb_id": "nm0668247"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David O. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751102"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Wolf of Wall Street",
+                  "notes": null,
+                  "imdb_id": "tt0993846"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steve McQueen",
+                  "notes": null,
+                  "imdb_id": "nm2588606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Her",
+                  "notes": null,
+                  "imdb_id": "tt1798709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Spike Jonze",
+                  "notes": null,
+                  "imdb_id": "nm0005069"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Warren Singer",
+                  "notes": null,
+                  "imdb_id": "nm2545235"
+               },
+               {
+                  "name": "David O. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751102"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blue Jasmine",
+                  "notes": null,
+                  "imdb_id": "tt2334873"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Craig Borten",
+                  "notes": null,
+                  "imdb_id": "nm1258965"
+               },
+               {
+                  "name": "Melisa Wallack",
+                  "notes": null,
+                  "imdb_id": "nm2214893"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Nelson",
+                  "notes": null,
+                  "imdb_id": "nm1504572"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Ridley",
+                  "notes": null,
+                  "imdb_id": "nm0725983"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Before Midnight",
+                  "notes": null,
+                  "imdb_id": "tt2209418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Linklater",
+                  "notes": null,
+                  "imdb_id": "nm0000500"
+               },
+               {
+                  "name": "Julie Delpy",
+                  "notes": null,
+                  "imdb_id": "nm0000365"
+               },
+               {
+                  "name": "Ethan Hawke",
+                  "notes": null,
+                  "imdb_id": "nm0000160"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Ray",
+                  "notes": null,
+                  "imdb_id": "nm0712753"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Philomena",
+                  "notes": null,
+                  "imdb_id": "tt2431286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Coogan",
+                  "notes": null,
+                  "imdb_id": "nm0176869"
+               },
+               {
+                  "name": "Jeff Pope",
+                  "notes": null,
+                  "imdb_id": "nm0691131"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wolf of Wall Street",
+                  "notes": null,
+                  "imdb_id": "tt0993846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terence Winter",
+                  "notes": null,
+                  "imdb_id": "nm1010540"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emmanuel Lubezki",
+                  "notes": null,
+                  "imdb_id": "nm0523881"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inside Llewyn Davis",
+                  "notes": null,
+                  "imdb_id": "tt2042568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Delbonnel",
+                  "notes": null,
+                  "imdb_id": "nm0216632"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nebraska",
+                  "notes": null,
+                  "imdb_id": "tt1821549"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phedon Papamichael",
+                  "notes": null,
+                  "imdb_id": "nm0003659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prisoners",
+                  "notes": null,
+                  "imdb_id": "tt1392214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grandmaster",
+                  "notes": null,
+                  "imdb_id": "tt1462900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philippe Le Sourd",
+                  "notes": null,
+                  "imdb_id": "nm0494628"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfonso Cuar\u00f3n",
+                  "notes": null,
+                  "imdb_id": "nm0190859"
+               },
+               {
+                  "name": "Mark Sanger",
+                  "notes": null,
+                  "imdb_id": "nm0002747"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Walker",
+                  "notes": null,
+                  "imdb_id": "nm0907863"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jay Cassidy",
+                  "notes": null,
+                  "imdb_id": "nm0144203"
+               },
+               {
+                  "name": "Crispin Struthers",
+                  "notes": null,
+                  "imdb_id": "nm0835370"
+               },
+               {
+                  "name": "Alan Baumgarten",
+                  "notes": null,
+                  "imdb_id": "nm0062328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Rouse",
+                  "notes": null,
+                  "imdb_id": "nm0002582"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Marc Vall\u00e9e",
+                  "notes": null,
+                  "imdb_id": "nm0885249"
+               },
+               {
+                  "name": "Martin Pensa",
+                  "notes": null,
+                  "imdb_id": "nm3819839"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great Gatsby",
+                  "notes": null,
+                  "imdb_id": "tt1343092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catherine Martin",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0552039"
+               },
+               {
+                  "name": "Beverley Dunn",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm1427646"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Stockhausen",
+                  "notes": "(production design)",
+                  "imdb_id": "nm1360914"
+               },
+               {
+                  "name": "Alice Baker",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0048212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judy Becker",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0065473"
+               },
+               {
+                  "name": "Heather Loeffler",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm1346736"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nicholson",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0629772"
+               },
+               {
+                  "name": "Rosie Goodwin",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm2532784"
+               },
+               {
+                  "name": "Joanne Woollard",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0941219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Her",
+                  "notes": null,
+                  "imdb_id": "tt1798709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "K.K. Barrett",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0057187"
+               },
+               {
+                  "name": "Gene Serdena",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0784922"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great Gatsby",
+                  "notes": null,
+                  "imdb_id": "tt1343092"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catherine Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552039"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12 Years a Slave",
+                  "notes": null,
+                  "imdb_id": "tt2024544"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patricia Norris",
+                  "notes": null,
+                  "imdb_id": "nm0635876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Hustle",
+                  "notes": null,
+                  "imdb_id": "tt1800241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Wilkinson",
+                  "notes": null,
+                  "imdb_id": "nm0929452"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grandmaster",
+                  "notes": null,
+                  "imdb_id": "tt1462900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Chang",
+                  "notes": null,
+                  "imdb_id": "nm0151858"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Invisible Woman",
+                  "notes": null,
+                  "imdb_id": "tt1700845"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael O'Connor",
+                  "notes": null,
+                  "imdb_id": "nm0640445"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dallas Buyers Club",
+                  "notes": null,
+                  "imdb_id": "tt0790636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adruitha Lee",
+                  "notes": null,
+                  "imdb_id": "nm0496759"
+               },
+               {
+                  "name": "Robin Mathews",
+                  "notes": null,
+                  "imdb_id": "nm0560165"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jackass Presents: Bad Grandpa",
+                  "notes": null,
+                  "imdb_id": "tt3063516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Prouty",
+                  "notes": null,
+                  "imdb_id": "nm0698990"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lone Ranger",
+                  "notes": null,
+                  "imdb_id": "tt1210819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Harlow",
+                  "notes": null,
+                  "imdb_id": "nm0363355"
+               },
+               {
+                  "name": "Gloria Pasqua Casny",
+                  "notes": null,
+                  "imdb_id": "nm0664675"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "notes": "Song: \"Let It Go\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frozen",
+                  "notes": null,
+                  "imdb_id": "tt2294629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kristen Anderson-Lopez",
+                  "notes": "(music and lyrics)",
+                  "imdb_id": "nm2844448"
+               },
+               {
+                  "name": "Robert Lopez",
+                  "notes": "(music and lyrics)",
+                  "imdb_id": "nm0520188"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Alone Yet Not Alone\" [NOTE: THIS IS NOT AN OFFICIAL NOMINATION. After the nominations were announced on January 16, 2014, it was determined that Mr. Broughton had taken actions in promoting the song that were inconsistent with the Academy's campaign regulations. The Board of Governors voted to rescind the nomination on January 29, and only four songs were included on the final ballot.]",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alone Yet Not Alone",
+                  "notes": null,
+                  "imdb_id": "tt1986769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Broughton",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005976"
+               },
+               {
+                  "name": "Dennis Spiegel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0818525"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Happy\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Despicable Me 2",
+                  "notes": null,
+                  "imdb_id": "tt1690953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pharrell Williams",
+                  "notes": "(music and lyrics)",
+                  "imdb_id": "nm1214289"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"The Moon Song\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Her",
+                  "notes": null,
+                  "imdb_id": "tt1798709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karen O",
+                  "notes": "(music and lyrics)",
+                  "imdb_id": "nm1760393"
+               },
+               {
+                  "name": "Spike Jonze",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005069"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Ordinary Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mandela: Long Walk to Freedom",
+                  "notes": null,
+                  "imdb_id": "tt2304771"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bono",
+                  "notes": "(music and lyrics)",
+                  "imdb_id": "nm0095104"
+               },
+               {
+                  "name": "The Edge",
+                  "notes": "(music)",
+                  "imdb_id": "nm0857253"
+               },
+               {
+                  "name": "Adam Clayton",
+                  "notes": "(music)",
+                  "imdb_id": "nm0165651"
+               },
+               {
+                  "name": "Larry Mullen Jr.",
+                  "notes": "(music)",
+                  "imdb_id": "nm0611979"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Price",
+                  "notes": null,
+                  "imdb_id": "nm1888527"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Her",
+                  "notes": null,
+                  "imdb_id": "tt1798709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Will Butler",
+                  "notes": null,
+                  "imdb_id": "nm1372622"
+               },
+               {
+                  "name": "Owen Pallett",
+                  "notes": null,
+                  "imdb_id": "nm2564754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Philomena",
+                  "notes": null,
+                  "imdb_id": "tt2431286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Desplat",
+                  "notes": null,
+                  "imdb_id": "nm0006035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Saving Mr. Banks",
+                  "notes": null,
+                  "imdb_id": "tt2140373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Book Thief",
+                  "notes": null,
+                  "imdb_id": "tt0816442"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               },
+               {
+                  "name": "Niv Adiri",
+                  "notes": null,
+                  "imdb_id": "nm1866364"
+               },
+               {
+                  "name": "Christopher Benstead",
+                  "notes": null,
+                  "imdb_id": "nm1666163"
+               },
+               {
+                  "name": "Chris Munro",
+                  "notes": null,
+                  "imdb_id": "nm0613101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Burdon",
+                  "notes": null,
+                  "imdb_id": "nm0121006"
+               },
+               {
+                  "name": "Mark Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852837"
+               },
+               {
+                  "name": "Mike Prestwood Smith",
+                  "notes": null,
+                  "imdb_id": "nm0696523"
+               },
+               {
+                  "name": "Chris Munro",
+                  "notes": null,
+                  "imdb_id": "nm0613101"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inside Llewyn Davis",
+                  "notes": null,
+                  "imdb_id": "tt2042568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Skip Lievsay",
+                  "notes": null,
+                  "imdb_id": "nm0509792"
+               },
+               {
+                  "name": "Greg Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650088"
+               },
+               {
+                  "name": "Peter F. Kurland",
+                  "notes": null,
+                  "imdb_id": "nm0004212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lone Survivor",
+                  "notes": null,
+                  "imdb_id": "tt1091191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Koyama",
+                  "notes": null,
+                  "imdb_id": "nm0468701"
+               },
+               {
+                  "name": "Beau Borders",
+                  "notes": null,
+                  "imdb_id": "nm0003311"
+               },
+               {
+                  "name": "David Brownlow",
+                  "notes": null,
+                  "imdb_id": "nm0115244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hobbit: The Desolation of Smaug",
+                  "notes": null,
+                  "imdb_id": "tt1170358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "Michael Hedges",
+                  "notes": null,
+                  "imdb_id": "nm0373276"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Tony Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426357"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glenn Freemantle",
+                  "notes": null,
+                  "imdb_id": "nm0293634"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All Is Lost",
+                  "notes": null,
+                  "imdb_id": "tt2017038"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Boeddeker",
+                  "notes": null,
+                  "imdb_id": "nm0006655"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Phillips",
+                  "notes": null,
+                  "imdb_id": "tt1535109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Tarney",
+                  "notes": null,
+                  "imdb_id": "nm0850549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lone Survivor",
+                  "notes": null,
+                  "imdb_id": "tt1091191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wylie Stateman",
+                  "notes": null,
+                  "imdb_id": "nm0823758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hobbit: The Desolation of Smaug",
+                  "notes": null,
+                  "imdb_id": "tt1170358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brent Burge",
+                  "notes": null,
+                  "imdb_id": "nm0121151"
+               },
+               {
+                  "name": "Chris Ward",
+                  "notes": null,
+                  "imdb_id": "nm0911446"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gravity",
+                  "notes": null,
+                  "imdb_id": "tt1454468"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Webber",
+                  "notes": null,
+                  "imdb_id": "nm0916449"
+               },
+               {
+                  "name": "Chris Lawrence",
+                  "notes": null,
+                  "imdb_id": "nm1165856"
+               },
+               {
+                  "name": "David Shirk",
+                  "notes": null,
+                  "imdb_id": "nm1874068"
+               },
+               {
+                  "name": "Neil Corbould",
+                  "notes": null,
+                  "imdb_id": "nm0179273"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Iron Man 3",
+                  "notes": null,
+                  "imdb_id": "tt1300854"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Townsend",
+                  "notes": null,
+                  "imdb_id": "nm0870102"
+               },
+               {
+                  "name": "Guy Williams",
+                  "notes": null,
+                  "imdb_id": "nm1401413"
+               },
+               {
+                  "name": "Erik Nash",
+                  "notes": null,
+                  "imdb_id": "nm0621716"
+               },
+               {
+                  "name": "Daniel Sudick",
+                  "notes": null,
+                  "imdb_id": "nm0837203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek Into Darkness",
+                  "notes": null,
+                  "imdb_id": "tt1408101"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Guyett",
+                  "notes": null,
+                  "imdb_id": "nm0004361"
+               },
+               {
+                  "name": "Patrick Tubach",
+                  "notes": null,
+                  "imdb_id": "nm0875604"
+               },
+               {
+                  "name": "Ben Grossmann",
+                  "notes": null,
+                  "imdb_id": "nm1322973"
+               },
+               {
+                  "name": "Burt Dalton",
+                  "notes": null,
+                  "imdb_id": "nm0198245"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hobbit: The Desolation of Smaug",
+                  "notes": null,
+                  "imdb_id": "tt1170358"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Letteri",
+                  "notes": null,
+                  "imdb_id": "nm0504784"
+               },
+               {
+                  "name": "Eric Saindon",
+                  "notes": null,
+                  "imdb_id": "nm0756590"
+               },
+               {
+                  "name": "David Clayton",
+                  "notes": null,
+                  "imdb_id": "nm2238085"
+               },
+               {
+                  "name": "Eric Reynolds",
+                  "notes": null,
+                  "imdb_id": "nm0721708"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lone Ranger",
+                  "notes": null,
+                  "imdb_id": "tt1210819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Alexander",
+                  "notes": null,
+                  "imdb_id": "nm0018780"
+               },
+               {
+                  "name": "Gary Brozenich",
+                  "notes": null,
+                  "imdb_id": "nm1819614"
+               },
+               {
+                  "name": "Edson Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930510"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mr Hublot",
+                  "notes": null,
+                  "imdb_id": "tt3043542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laurent Witz",
+                  "notes": null,
+                  "imdb_id": "nm5793837"
+               },
+               {
+                  "name": "Alexandre Espigares",
+                  "notes": null,
+                  "imdb_id": "nm3115348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Feral",
+                  "notes": null,
+                  "imdb_id": "tt2499022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Sousa",
+                  "notes": null,
+                  "imdb_id": "nm1009789"
+               },
+               {
+                  "name": "Dan Golden",
+                  "notes": null,
+                  "imdb_id": "nm3196711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Get a Horse!",
+                  "notes": null,
+                  "imdb_id": "tt2980764"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lauren MacMullan",
+                  "notes": null,
+                  "imdb_id": "nm0534041"
+               },
+               {
+                  "name": "Dorothy McKim",
+                  "notes": null,
+                  "imdb_id": "nm1545668"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Possessions",
+                  "notes": null,
+                  "imdb_id": "tt3080074"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shuhei Morita",
+                  "notes": null,
+                  "imdb_id": "nm1557215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Room on the Broom",
+                  "notes": null,
+                  "imdb_id": "tt2484120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Lang",
+                  "notes": null,
+                  "imdb_id": "nm3495071"
+               },
+               {
+                  "name": "Jan Lachauer",
+                  "notes": null,
+                  "imdb_id": "nm3936610"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Helium",
+                  "notes": null,
+                  "imdb_id": "tt3346410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anders Walter",
+                  "notes": null,
+                  "imdb_id": "nm2225334"
+               },
+               {
+                  "name": "Kim Magnusson",
+                  "notes": null,
+                  "imdb_id": "nm0536385"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Do I Have to Take Care of Everything?",
+                  "notes": null,
+                  "imdb_id": "tt2256646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Selma Vilhunen",
+                  "notes": null,
+                  "imdb_id": "nm1437990"
+               },
+               {
+                  "name": "Kirsikka Saari",
+                  "notes": null,
+                  "imdb_id": "nm2798718"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Just Before Losing Everything",
+                  "notes": null,
+                  "imdb_id": "tt2689992"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Xavier Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0499488"
+               },
+               {
+                  "name": "Alexandre Gavras",
+                  "notes": null,
+                  "imdb_id": "nm0308009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Wasn't Me",
+                  "notes": null,
+                  "imdb_id": "tt2372213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Esteban Crespo",
+                  "notes": null,
+                  "imdb_id": "nm1878916"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Voorman Problem",
+                  "notes": null,
+                  "imdb_id": "tt1998355"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Gill",
+                  "notes": null,
+                  "imdb_id": "nm4317210"
+               },
+               {
+                  "name": "Baldwin Li",
+                  "notes": null,
+                  "imdb_id": "nm3172989"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lady in Number 6: Music Saved My Life",
+                  "notes": null,
+                  "imdb_id": "tt2924484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Malcolm Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164885"
+               },
+               {
+                  "name": "Nick Reed",
+                  "notes": null,
+                  "imdb_id": "nm3760504"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cavedigger",
+                  "notes": null,
+                  "imdb_id": "tt2516860"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Karoff",
+                  "notes": null,
+                  "imdb_id": "nm5366058"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Facing Fear",
+                  "notes": null,
+                  "imdb_id": "tt2776636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jason Cohen",
+                  "notes": null,
+                  "imdb_id": "nm0169474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Karama Has No Walls",
+                  "notes": null,
+                  "imdb_id": "tt2551790"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sara Ishaq",
+                  "notes": null,
+                  "imdb_id": "nm5390809"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prison Terminal: The Last Days of Private Jack Hall",
+                  "notes": null,
+                  "imdb_id": "tt3145026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edgar Barens",
+                  "notes": null,
+                  "imdb_id": "nm4767836"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": "Gil Friesen's win was posthumous.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "20 Feet from Stardom",
+                  "notes": null,
+                  "imdb_id": "tt2396566"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morgan Neville",
+                  "notes": null,
+                  "imdb_id": "nm1365879"
+               },
+               {
+                  "name": "Gil Friesen",
+                  "notes": null,
+                  "imdb_id": "nm0295648"
+               },
+               {
+                  "name": "Caitrin Rogers",
+                  "notes": null,
+                  "imdb_id": "nm2868934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cutie and the Boxer",
+                  "notes": null,
+                  "imdb_id": "tt2355540"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Zachary Heinzerling",
+                  "notes": null,
+                  "imdb_id": "nm2784978"
+               },
+               {
+                  "name": "Lydia Dean Pilcher",
+                  "notes": null,
+                  "imdb_id": "nm0212990"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dirty Wars",
+                  "notes": null,
+                  "imdb_id": "tt2532528"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Rowley",
+                  "notes": null,
+                  "imdb_id": "nm0746823"
+               },
+               {
+                  "name": "Jeremy Scahill",
+                  "notes": null,
+                  "imdb_id": "nm1568139"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Act of Killing",
+                  "notes": null,
+                  "imdb_id": "tt2375605"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joshua Oppenheimer",
+                  "notes": null,
+                  "imdb_id": "nm1484791"
+               },
+               {
+                  "name": "Signe Byrge S\u00f8rensen",
+                  "notes": null,
+                  "imdb_id": "nm1718147"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Square",
+                  "notes": null,
+                  "imdb_id": "tt2486682"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jehane Noujaim",
+                  "notes": null,
+                  "imdb_id": "nm0636675"
+               },
+               {
+                  "name": "Karim Amer",
+                  "notes": null,
+                  "imdb_id": "nm5255757"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "notes": "Italy",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great Beauty",
+                  "notes": null,
+                  "imdb_id": "tt2358891"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Palestine",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Omar",
+                  "notes": null,
+                  "imdb_id": "tt2852406"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Belgium",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Broken Circle Breakdown",
+                  "notes": null,
+                  "imdb_id": "tt2024519"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Denmark",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hunt",
+                  "notes": null,
+                  "imdb_id": "tt2106476"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Cambodia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Missing Picture",
+                  "notes": null,
+                  "imdb_id": "tt2852470"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frozen",
+                  "notes": null,
+                  "imdb_id": "tt2294629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Buck",
+                  "notes": null,
+                  "imdb_id": "nm0118333"
+               },
+               {
+                  "name": "Jennifer Lee",
+                  "notes": null,
+                  "imdb_id": "nm1601644"
+               },
+               {
+                  "name": "Peter Del Vecho",
+                  "notes": null,
+                  "imdb_id": "nm1275326"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Despicable Me 2",
+                  "notes": null,
+                  "imdb_id": "tt1690953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Renaud",
+                  "notes": null,
+                  "imdb_id": "nm0719208"
+               },
+               {
+                  "name": "Pierre Coffin",
+                  "notes": null,
+                  "imdb_id": "nm1853544"
+               },
+               {
+                  "name": "Christopher Meledandri",
+                  "notes": null,
+                  "imdb_id": "nm0577560"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ernest & Celestine",
+                  "notes": null,
+                  "imdb_id": "tt1816518"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Benjamin Renner",
+                  "notes": null,
+                  "imdb_id": "nm2883649"
+               },
+               {
+                  "name": "Didier Brunner",
+                  "notes": null,
+                  "imdb_id": "nm0116369"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Croods",
+                  "notes": null,
+                  "imdb_id": "tt0481499"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761498"
+               },
+               {
+                  "name": "Kirk DeMicco",
+                  "notes": null,
+                  "imdb_id": "nm0210320"
+               },
+               {
+                  "name": "Kristine Belson",
+                  "notes": null,
+                  "imdb_id": "nm0069549"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wind Rises",
+                  "notes": null,
+                  "imdb_id": "tt2013293"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hayao Miyazaki",
+                  "notes": null,
+                  "imdb_id": "nm0594503"
+               },
+               {
+                  "name": "Toshio Suzuki",
+                  "notes": null,
+                  "imdb_id": "nm0840699"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,2401 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Geoffrey Rush",
+                  "notes": null,
+                  "imdb_id": "nm0001691"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Bob Thornton",
+                  "notes": null,
+                  "imdb_id": "nm0000671"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sling Blade",
+                  "notes": null,
+                  "imdb_id": "tt0117666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ralph Fiennes",
+                  "notes": null,
+                  "imdb_id": "nm0000146"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Cruise",
+                  "notes": null,
+                  "imdb_id": "nm0000129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Maguire",
+                  "notes": null,
+                  "imdb_id": "tt0116695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Woody Harrelson",
+                  "notes": null,
+                  "imdb_id": "nm0000437"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The People vs. Larry Flynt",
+                  "notes": null,
+                  "imdb_id": "tt0117318"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cuba Gooding Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0000421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Maguire",
+                  "notes": null,
+                  "imdb_id": "tt0116695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Armin Mueller-Stahl",
+                  "notes": null,
+                  "imdb_id": "nm0000090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward Norton",
+                  "notes": null,
+                  "imdb_id": "nm0001570"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Primal Fear",
+                  "notes": null,
+                  "imdb_id": "tt0117381"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Woods",
+                  "notes": null,
+                  "imdb_id": "nm0000249"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ghosts of Mississippi",
+                  "notes": null,
+                  "imdb_id": "tt0116410"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William H. Macy",
+                  "notes": null,
+                  "imdb_id": "nm0000513"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Frances McDormand",
+                  "notes": null,
+                  "imdb_id": "nm0000531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brenda Blethyn",
+                  "notes": null,
+                  "imdb_id": "nm0000950"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Secrets & Lies",
+                  "notes": null,
+                  "imdb_id": "tt0117589"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Keaton",
+                  "notes": null,
+                  "imdb_id": "nm0000473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin's Room",
+                  "notes": null,
+                  "imdb_id": "tt0116999"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emily Watson",
+                  "notes": null,
+                  "imdb_id": "nm0001833"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Breaking the Waves",
+                  "notes": null,
+                  "imdb_id": "tt0115751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kristin Scott Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0000218"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Juliette Binoche",
+                  "notes": null,
+                  "imdb_id": "nm0000300"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Hershey",
+                  "notes": null,
+                  "imdb_id": "nm0001347"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Portrait of a Lady",
+                  "notes": null,
+                  "imdb_id": "tt0117364"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Crucible",
+                  "notes": null,
+                  "imdb_id": "tt0115988"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lauren Bacall",
+                  "notes": null,
+                  "imdb_id": "nm0000002"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Mirror Has Two Faces",
+                  "notes": null,
+                  "imdb_id": "tt0117057"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marianne Jean-Baptiste",
+                  "notes": null,
+                  "imdb_id": "nm0001399"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Secrets & Lies",
+                  "notes": null,
+                  "imdb_id": "tt0117589"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Craig",
+                  "notes": null,
+                  "imdb_id": "nm0186023"
+               },
+               {
+                  "name": "Stephenie McMillan",
+                  "notes": null,
+                  "imdb_id": "nm0573328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evita",
+                  "notes": null,
+                  "imdb_id": "tt0116250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Morris",
+                  "notes": null,
+                  "imdb_id": "nm0606402"
+               },
+               {
+                  "name": "Philippe Turlure",
+                  "notes": null,
+                  "imdb_id": "nm0877265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0116477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Harvey",
+                  "notes": null,
+                  "imdb_id": "nm0367733"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Romeo + Juliet",
+                  "notes": null,
+                  "imdb_id": "tt0117509"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Catherine Martin",
+                  "notes": null,
+                  "imdb_id": "nm0552039"
+               },
+               {
+                  "name": "Brigitte Broch",
+                  "notes": null,
+                  "imdb_id": "nm0110488"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Birdcage",
+                  "notes": null,
+                  "imdb_id": "tt0115685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bo Welch",
+                  "notes": null,
+                  "imdb_id": "nm0919514"
+               },
+               {
+                  "name": "Cheryl Carasik",
+                  "notes": null,
+                  "imdb_id": "nm0135974"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Seale",
+                  "notes": null,
+                  "imdb_id": "nm0005868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evita",
+                  "notes": null,
+                  "imdb_id": "tt0116250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darius Khondji",
+                  "notes": null,
+                  "imdb_id": "nm0451787"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fly Away Home",
+                  "notes": null,
+                  "imdb_id": "tt0116329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caleb Deschanel",
+                  "notes": null,
+                  "imdb_id": "nm0221042"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Collins",
+                  "notes": null,
+                  "imdb_id": "tt0117039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Menges",
+                  "notes": null,
+                  "imdb_id": "nm0579580"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Angels and Insects",
+                  "notes": null,
+                  "imdb_id": "tt0112365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Brown",
+                  "notes": null,
+                  "imdb_id": "nm0114397"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emma",
+                  "notes": null,
+                  "imdb_id": "tt0116191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth Myers",
+                  "notes": null,
+                  "imdb_id": "nm0616848"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0116477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandra Byrne",
+                  "notes": null,
+                  "imdb_id": "nm0126107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Portrait of a Lady",
+                  "notes": null,
+                  "imdb_id": "tt0117364"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janet Patterson",
+                  "notes": null,
+                  "imdb_id": "nm0666253"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Anthony Minghella",
+                  "notes": null,
+                  "imdb_id": "nm0005237"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Secrets & Lies",
+                  "notes": null,
+                  "imdb_id": "tt0117589"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Milos Forman",
+                  "notes": null,
+                  "imdb_id": "nm0001232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The People vs. Larry Flynt",
+                  "notes": null,
+                  "imdb_id": "tt0117318"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scott Hicks",
+                  "notes": null,
+                  "imdb_id": "nm0382956"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "When We Were Kings",
+                  "notes": null,
+                  "imdb_id": "tt0118147"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Gast",
+                  "notes": null,
+                  "imdb_id": "nm0309382"
+               },
+               {
+                  "name": "David Sonenberg",
+                  "notes": null,
+                  "imdb_id": "nm0814395"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mandela",
+                  "notes": null,
+                  "imdb_id": "tt0116980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jo Menell",
+                  "notes": null,
+                  "imdb_id": "nm0579450"
+               },
+               {
+                  "name": "Angus Gibson",
+                  "notes": null,
+                  "imdb_id": "nm0316841"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Suzanne Farrell: Elusive Muse",
+                  "notes": null,
+                  "imdb_id": "tt0117793"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anne Belle",
+                  "notes": null,
+                  "imdb_id": "nm0068791"
+               },
+               {
+                  "name": "Deborah Dickson",
+                  "notes": null,
+                  "imdb_id": "nm0225630"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tell the Truth and Run: George Seldes and the American Press",
+                  "notes": null,
+                  "imdb_id": "tt0117873"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0326124"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Line King: The Al Hirschfeld Story",
+                  "notes": null,
+                  "imdb_id": "tt0116886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susan Warms Dryfoos",
+                  "notes": null,
+                  "imdb_id": "nm0238743"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Breathing Lessons: The Life and Work of Mark O'Brien",
+                  "notes": null,
+                  "imdb_id": "tt0115753"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jessica Yu",
+                  "notes": null,
+                  "imdb_id": "nm0950506"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An Essay on Matisse",
+                  "notes": null,
+                  "imdb_id": "tt0116234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Perry Wolff",
+                  "notes": null,
+                  "imdb_id": "nm0938306"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cosmic Voyage",
+                  "notes": null,
+                  "imdb_id": "tt0115952"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Marvin",
+                  "notes": null,
+                  "imdb_id": "nm0555539"
+               },
+               {
+                  "name": "Bayley Silleck",
+                  "notes": null,
+                  "imdb_id": "nm0798078"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Special Effects: Anything Can Happen",
+                  "notes": null,
+                  "imdb_id": "tt0117709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susanne Simpson",
+                  "notes": null,
+                  "imdb_id": "nm0801224"
+               },
+               {
+                  "name": "Ben Burtt",
+                  "notes": null,
+                  "imdb_id": "nm0123785"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wild Bunch: An Album in Montage",
+                  "notes": null,
+                  "imdb_id": "tt0118167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Seydor",
+                  "notes": null,
+                  "imdb_id": "nm0786732"
+               },
+               {
+                  "name": "Nick Redman",
+                  "notes": null,
+                  "imdb_id": "nm0715018"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Ghost and the Darkness",
+                  "notes": null,
+                  "imdb_id": "tt0116409"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Stambler",
+                  "notes": null,
+                  "imdb_id": "nm0821801"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daylight",
+                  "notes": null,
+                  "imdb_id": "tt0116040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard L. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027328"
+               },
+               {
+                  "name": "David A. Whittaker",
+                  "notes": null,
+                  "imdb_id": "nm0926422"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eraser",
+                  "notes": null,
+                  "imdb_id": "tt0116213"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Robert Murray",
+                  "notes": null,
+                  "imdb_id": "nm0614812"
+               },
+               {
+                  "name": "Bub Asman",
+                  "notes": null,
+                  "imdb_id": "nm0039544"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Independence Day",
+                  "notes": null,
+                  "imdb_id": "tt0116629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Volker Engel",
+                  "notes": null,
+                  "imdb_id": "nm0257159"
+               },
+               {
+                  "name": "Douglas Smith",
+                  "notes": null,
+                  "imdb_id": "nm0808017"
+               },
+               {
+                  "name": "Clay Pinney",
+                  "notes": null,
+                  "imdb_id": "nm0684439"
+               },
+               {
+                  "name": "Joe Viskocil",
+                  "notes": null,
+                  "imdb_id": "nm0899670"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "DragonHeart",
+                  "notes": null,
+                  "imdb_id": "tt0116136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Squires",
+                  "notes": null,
+                  "imdb_id": "nm0820140"
+               },
+               {
+                  "name": "Phil Tippett",
+                  "notes": null,
+                  "imdb_id": "nm0864138"
+               },
+               {
+                  "name": "James Straus",
+                  "notes": null,
+                  "imdb_id": "nm0833766"
+               },
+               {
+                  "name": "Kit West",
+                  "notes": null,
+                  "imdb_id": "nm0922187"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Twister",
+                  "notes": null,
+                  "imdb_id": "tt0117998"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stefen Fangmeier",
+                  "notes": null,
+                  "imdb_id": "nm0266777"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               },
+               {
+                  "name": "Habib Zargarpour",
+                  "notes": null,
+                  "imdb_id": "nm0953464"
+               },
+               {
+                  "name": "Henry LaBounta",
+                  "notes": null,
+                  "imdb_id": "nm0479621"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evita",
+                  "notes": null,
+                  "imdb_id": "tt0116250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerry Hambling",
+                  "notes": null,
+                  "imdb_id": "nm0357421"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": "(as Roderick Jaynes)",
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": "(as Roderick Jaynes)",
+                  "imdb_id": "nm0001054"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jerry Maguire",
+                  "notes": null,
+                  "imdb_id": "tt0116695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Hutshing",
+                  "notes": null,
+                  "imdb_id": "nm0404528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pip Karmel",
+                  "notes": null,
+                  "imdb_id": "nm0006729"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Czech Republic.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kolya",
+                  "notes": null,
+                  "imdb_id": "tt0116790"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Georgia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Chef in Love",
+                  "notes": null,
+                  "imdb_id": "tt0117050"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Russia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Prisoner of the Mountains",
+                  "notes": null,
+                  "imdb_id": "tt0116754"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridicule",
+                  "notes": null,
+                  "imdb_id": "tt0117477"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Norway.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Other Side of Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0117817"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Nutty Professor",
+                  "notes": null,
+                  "imdb_id": "tt0117218"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "David LeRoy Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0026600"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ghosts of Mississippi",
+                  "notes": null,
+                  "imdb_id": "tt0116410"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matthew W. Mungle",
+                  "notes": null,
+                  "imdb_id": "nm0612817"
+               },
+               {
+                  "name": "Deborah La Mia Denaver",
+                  "notes": null,
+                  "imdb_id": "nm0218899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Trek: First Contact",
+                  "notes": null,
+                  "imdb_id": "tt0117731"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Westmore",
+                  "notes": null,
+                  "imdb_id": "nm0922878"
+               },
+               {
+                  "name": "Scott Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923958"
+               },
+               {
+                  "name": "Jake Garber",
+                  "notes": null,
+                  "imdb_id": "nm0304948"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriel Yared",
+                  "notes": null,
+                  "imdb_id": "nm0001189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0116477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patrick Doyle",
+                  "notes": null,
+                  "imdb_id": "nm0236462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Collins",
+                  "notes": null,
+                  "imdb_id": "tt0117039"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Goldenthal",
+                  "notes": null,
+                  "imdb_id": "nm0006106"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Hirschfelder",
+                  "notes": null,
+                  "imdb_id": "nm0386595"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sleepers",
+                  "notes": null,
+                  "imdb_id": "tt0117665"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Musical or Comedy Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Emma",
+                  "notes": null,
+                  "imdb_id": "tt0116191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rachel Portman",
+                  "notes": null,
+                  "imdb_id": "nm0006235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James and the Giant Peach",
+                  "notes": null,
+                  "imdb_id": "tt0116683"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The First Wives Club",
+                  "notes": null,
+                  "imdb_id": "tt0116313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc Shaiman",
+                  "notes": null,
+                  "imdb_id": "nm0003299"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hunchback of Notre Dame",
+                  "notes": null,
+                  "imdb_id": "tt0116583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": null,
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Stephen Schwartz",
+                  "notes": null,
+                  "imdb_id": "nm0777451"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Preacher's Wife",
+                  "notes": null,
+                  "imdb_id": "tt0117372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"You Must Love Me\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Evita",
+                  "notes": null,
+                  "imdb_id": "tt0116250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Lloyd Webber",
+                  "notes": "(music)",
+                  "imdb_id": "nm0515908"
+               },
+               {
+                  "name": "Tim Rice",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005358"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"For the First Time\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Fine Day",
+                  "notes": null,
+                  "imdb_id": "tt0117247"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Newton Howard",
+                  "notes": null,
+                  "imdb_id": "nm0006133"
+               },
+               {
+                  "name": "Jud Friedman",
+                  "notes": null,
+                  "imdb_id": "nm0295267"
+               },
+               {
+                  "name": "Allan Rich",
+                  "notes": null,
+                  "imdb_id": "nm0723591"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"That Thing You Do!\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Thing You Do!",
+                  "notes": null,
+                  "imdb_id": "tt0117887"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772245"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I've Finally Found Someone\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mirror Has Two Faces",
+                  "notes": null,
+                  "imdb_id": "tt0117057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbra Streisand",
+                  "notes": null,
+                  "imdb_id": "nm0000659"
+               },
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": null,
+                  "imdb_id": "nm0006121"
+               },
+               {
+                  "name": "Mutt Lange",
+                  "notes": null,
+                  "imdb_id": "nm0486172"
+               },
+               {
+                  "name": "Bryan Adams",
+                  "notes": null,
+                  "imdb_id": "nm0001898"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Because You Loved Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Up Close & Personal",
+                  "notes": null,
+                  "imdb_id": "tt0118055"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul Zaentz",
+                  "notes": null,
+                  "imdb_id": "nm0951763"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jerry Maguire",
+                  "notes": null,
+                  "imdb_id": "tt0116695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James L. Brooks",
+                  "notes": null,
+                  "imdb_id": "nm0000985"
+               },
+               {
+                  "name": "Laurence Mark",
+                  "notes": null,
+                  "imdb_id": "nm0548257"
+               },
+               {
+                  "name": "Richard Sakai",
+                  "notes": null,
+                  "imdb_id": "nm0757017"
+               },
+               {
+                  "name": "Cameron Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0001081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Secrets & Lies",
+                  "notes": null,
+                  "imdb_id": "tt0117589"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Simon Channing Williams",
+                  "notes": null,
+                  "imdb_id": "nm0151925"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jane Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779280"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Quest",
+                  "notes": null,
+                  "imdb_id": "tt0117419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tyron Montgomery",
+                  "notes": null,
+                  "imdb_id": "nm0599946"
+               },
+               {
+                  "name": "Thomas Stellmach",
+                  "notes": null,
+                  "imdb_id": "nm0826364"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Canhead",
+                  "notes": null,
+                  "imdb_id": "tt0115817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Timothy Hittle",
+                  "notes": null,
+                  "imdb_id": "nm0386972"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La Salla",
+                  "notes": null,
+                  "imdb_id": "tt0117542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Condie",
+                  "notes": null,
+                  "imdb_id": "nm0174345"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wat's Pig",
+                  "notes": null,
+                  "imdb_id": "tt0118123"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Lord",
+                  "notes": null,
+                  "imdb_id": "nm0520485"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dear Diary",
+                  "notes": null,
+                  "imdb_id": "tt0116058"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Frankel",
+                  "notes": null,
+                  "imdb_id": "nm0291205"
+               },
+               {
+                  "name": "Barry Jossen",
+                  "notes": null,
+                  "imdb_id": "nm0430904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "De tripas, coraz\u00f3n",
+                  "notes": null,
+                  "imdb_id": "tt0116044"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Antonio Urrutia",
+                  "notes": null,
+                  "imdb_id": "nm0882100"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ernst & Lyset",
+                  "notes": null,
+                  "imdb_id": "tt0116214"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kim Magnusson",
+                  "notes": null,
+                  "imdb_id": "nm0536385"
+               },
+               {
+                  "name": "Anders Thomas Jensen",
+                  "notes": null,
+                  "imdb_id": "nm0421314"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Linked",
+                  "notes": null,
+                  "imdb_id": "tt0116233"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Juan Carlos Fresnadillo",
+                  "notes": null,
+                  "imdb_id": "nm0294379"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Senza parole",
+                  "notes": null,
+                  "imdb_id": "tt0118191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernadette Carranza",
+                  "notes": null,
+                  "imdb_id": "nm0139979"
+               },
+               {
+                  "name": "Antonello De Leo",
+                  "notes": null,
+                  "imdb_id": "nm0209633"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               },
+               {
+                  "name": "Mark Berger",
+                  "notes": null,
+                  "imdb_id": "nm0074281"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               },
+               {
+                  "name": "Christopher Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628039"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evita",
+                  "notes": null,
+                  "imdb_id": "tt0116250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Ken Weston",
+                  "notes": null,
+                  "imdb_id": "nm0922984"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Independence Day",
+                  "notes": null,
+                  "imdb_id": "tt0116629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Carpenter",
+                  "notes": null,
+                  "imdb_id": "nm0139303"
+               },
+               {
+                  "name": "Bill W. Benton",
+                  "notes": null,
+                  "imdb_id": "nm0072904"
+               },
+               {
+                  "name": "Bob Beemer",
+                  "notes": null,
+                  "imdb_id": "nm0066446"
+               },
+               {
+                  "name": "Jeff Wexler",
+                  "notes": null,
+                  "imdb_id": "nm0923306"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rock",
+                  "notes": null,
+                  "imdb_id": "tt0117500"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Keith A. Wester",
+                  "notes": null,
+                  "imdb_id": "nm0199492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Twister",
+                  "notes": null,
+                  "imdb_id": "tt0117998"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Maslow",
+                  "notes": null,
+                  "imdb_id": "nm0556541"
+               },
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Geoffrey Patterson",
+                  "notes": null,
+                  "imdb_id": "nm0666215"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sling Blade",
+                  "notes": null,
+                  "imdb_id": "tt0117666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Bob Thornton",
+                  "notes": null,
+                  "imdb_id": "nm0000671"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0116477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kenneth Branagh",
+                  "notes": null,
+                  "imdb_id": "nm0000110"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crucible",
+                  "notes": null,
+                  "imdb_id": "tt0115988"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Miller",
+                  "notes": null,
+                  "imdb_id": "nm0007186"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The English Patient",
+                  "notes": null,
+                  "imdb_id": "tt0116209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Minghella",
+                  "notes": null,
+                  "imdb_id": "nm0005237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Trainspotting",
+                  "notes": null,
+                  "imdb_id": "tt0117951"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hodge",
+                  "notes": null,
+                  "imdb_id": "nm0388076"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fargo",
+                  "notes": null,
+                  "imdb_id": "tt0116282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jerry Maguire",
+                  "notes": null,
+                  "imdb_id": "tt0116695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cameron Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0001081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lone Star",
+                  "notes": null,
+                  "imdb_id": "tt0116905"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Sayles",
+                  "notes": null,
+                  "imdb_id": "nm0000626"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Secrets & Lies",
+                  "notes": null,
+                  "imdb_id": "tt0117589"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shine",
+                  "notes": null,
+                  "imdb_id": "tt0117631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jan Sardi",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0764982"
+               },
+               {
+                  "name": "Scott Hicks",
+                  "notes": "(story)",
+                  "imdb_id": "nm0382956"
+               }
+            ]
+         }
+      ]
+   }
+]

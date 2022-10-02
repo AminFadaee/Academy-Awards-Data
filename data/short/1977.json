@@ -1,0 +1,713 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Peter Finch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Giancarlo Giannini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert De Niro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sylvester Stallone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Holden"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jason Robards"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burgess Meredith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Burt Young"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ned Beatty"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Faye Dunaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Liv Ullmann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marie-Christine Barrault"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sissy Spacek"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Talia Shire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beatrice Straight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Alexander"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jodie Foster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lee Grant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Piper Laurie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All the President's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Logan's Run"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Incredible Sarah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Tycoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shootist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Logan's Run"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Network"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fellini's Casanova"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Incredible Sarah"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Passover Plot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Seven-Per-Cent Solution"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John G. Avildsen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan J. Pakula"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ingmar Bergman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lina Wertm\u00fcller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sidney Lumet"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Harlan County U.S.A."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hollywood on Trial"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Off the Edge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "People of the Wind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Volcano: An Inquiry Into the Life and Death of Malcolm Lowry"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Number Our Days"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Shoeshine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blackwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The End of the Road"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Universe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rocky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the President's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two-Minute Warning"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black and White in Color"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cousin cousine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jacob the Liar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Noce i dnie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Beauties"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Omen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Obsession"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Taxi Driver"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Outlaw Josey Wales"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Voyage of the Damned"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Half a House"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rocky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Omen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pink Panther Strikes Again"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bugsy Malone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rocky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the President's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Taxi Driver"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Leisure"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Street"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "In the Region of Ice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kudzu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightlife"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Number One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Morning Spider"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All the President's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Star Is Born"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Kong"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rocky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silver Streak"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All the President's Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bound for Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fellini's Casanova"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Seven-Per-Cent Solution"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Voyage of the Damned"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Network"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cousin cousine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rocky"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seven Beauties"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Front"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,1638 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Victor McLaglen",
+                  "notes": null,
+                  "imdb_id": "nm0572142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Laughton",
+                  "notes": null,
+                  "imdb_id": "nm0001452"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clark Gable",
+                  "notes": null,
+                  "imdb_id": "nm0000022"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Franchot Tone",
+                  "notes": null,
+                  "imdb_id": "nm0867144"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ]
+         },
+         {
+            "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Paul Muni",
+                  "notes": null,
+                  "imdb_id": "nm0612847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Black Fury",
+                  "notes": null,
+                  "imdb_id": "tt0026121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "On 14 December 2002 Steven Spielberg anonymously bought Davis' Oscar at a Sotheby's auction in New York to return it to the Academy of Motion Picture Arts and Sciences. The statuette was among the memorabilia sold by the Planet Hollywood restaurant chain, which has emerged from bankruptcy protection.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dangerous",
+                  "notes": null,
+                  "imdb_id": "tt0026261"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Claudette Colbert",
+                  "notes": null,
+                  "imdb_id": "nm0001055"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Private Worlds",
+                  "notes": null,
+                  "imdb_id": "tt0026893"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elisabeth Bergner",
+                  "notes": null,
+                  "imdb_id": "nm0074949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Escape Me Never",
+                  "notes": null,
+                  "imdb_id": "tt0026320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alice Adams",
+                  "notes": null,
+                  "imdb_id": "tt0026056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Merle Oberon",
+                  "notes": null,
+                  "imdb_id": "nm0643353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Dark Angel",
+                  "notes": null,
+                  "imdb_id": "tt0026264"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Miriam Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becky Sharp",
+                  "notes": null,
+                  "imdb_id": "tt0026104"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Dark Angel",
+                  "notes": null,
+                  "imdb_id": "tt0026264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Roland Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027380"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Top Hat",
+                  "notes": null,
+                  "imdb_id": "tt0027125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carroll Clark",
+                  "notes": null,
+                  "imdb_id": "nm0163754"
+               },
+               {
+                  "name": "Van Nest Polglase",
+                  "notes": null,
+                  "imdb_id": "nm0689026"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Clem Beauchamp",
+                  "notes": null,
+                  "imdb_id": "nm0064303"
+               },
+               {
+                  "name": "Paul Wing",
+                  "notes": null,
+                  "imdb_id": "nm0934963"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eric Stacey",
+                  "notes": null,
+                  "imdb_id": "nm0820947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Les Mis\u00e9rables",
+                  "notes": null,
+                  "imdb_id": "tt0026725"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joseph M. Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Copperfield",
+                  "notes": null,
+                  "imdb_id": "tt0026266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sherry Shourds",
+                  "notes": null,
+                  "imdb_id": "nm0795258"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Midsummer Night's Dream",
+                  "notes": null,
+                  "imdb_id": "tt0026714"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": "First and only write-in nominee to actually win.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Midsummer Night's Dream",
+                  "notes": null,
+                  "imdb_id": "tt0026714"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Mohr",
+                  "notes": null,
+                  "imdb_id": "nm0005803"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbary Coast",
+                  "notes": null,
+                  "imdb_id": "tt0026097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray June",
+                  "notes": null,
+                  "imdb_id": "nm0432482"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les Mis\u00e9rables",
+                  "notes": null,
+                  "imdb_id": "tt0026725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gregg Toland",
+                  "notes": null,
+                  "imdb_id": "nm0005904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crusades",
+                  "notes": null,
+                  "imdb_id": "tt0026249"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Milner",
+                  "notes": null,
+                  "imdb_id": "nm0005800"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Dance Direction",
+      "nominations": [
+         {
+            "notes": "For \"I've Got a Feeling You're Fooling\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Broadway Melody of 1936",
+                  "notes": null,
+                  "imdb_id": "tt0026144"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Gould",
+                  "notes": null,
+                  "imdb_id": "nm0332346"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Straw Hat\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Folies Berg\u00e8re de Paris",
+                  "notes": null,
+                  "imdb_id": "tt0026373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Gould",
+                  "notes": null,
+                  "imdb_id": "nm0332346"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Viennese Waltz\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "All the King's Horses",
+                  "notes": null,
+                  "imdb_id": "tt0024823"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "LeRoy Prinz",
+                  "notes": null,
+                  "imdb_id": "nm0697895"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Playboy of Paree\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Broadway Hostess",
+                  "notes": null,
+                  "imdb_id": "tt0026143"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bobby Connolly",
+                  "notes": null,
+                  "imdb_id": "nm0175265"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Latin from Manhattan\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Go Into Your Dance",
+                  "notes": null,
+                  "imdb_id": "tt0026418"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bobby Connolly",
+                  "notes": null,
+                  "imdb_id": "nm0175265"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Lullaby of Broadway\" and \"The Words Are in My Heart\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gold Diggers of 1935",
+                  "notes": null,
+                  "imdb_id": "tt0026421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Busby Berkeley",
+                  "notes": null,
+                  "imdb_id": "nm0000923"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Lovely Lady\" and \"Too Good to Be True\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "King of Burlesque",
+                  "notes": null,
+                  "imdb_id": "tt0026571"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sammy Lee",
+                  "notes": null,
+                  "imdb_id": "nm0498192"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Hall of Kings\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "She",
+                  "notes": null,
+                  "imdb_id": "tt0026983"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Benjamin Zemach",
+                  "notes": null,
+                  "imdb_id": "nm0954706"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Elephant - It's the Animal in Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Big Broadcast of 1936",
+                  "notes": null,
+                  "imdb_id": "tt0026113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "LeRoy Prinz",
+                  "notes": null,
+                  "imdb_id": "nm0697895"
+               }
+            ]
+         },
+         {
+            "notes": "For \"Piccolino\" and \"Top Hat\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Top Hat",
+                  "notes": null,
+                  "imdb_id": "tt0027125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hermes Pan",
+                  "notes": null,
+                  "imdb_id": "nm0659009"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Ford",
+                  "notes": null,
+                  "imdb_id": "nm0000406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frank Lloyd",
+                  "notes": null,
+                  "imdb_id": "nm0515979"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry Hathaway",
+                  "notes": null,
+                  "imdb_id": "nm0368871"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ]
+         },
+         {
+            "notes": "This was a write-in candidate, who came in second on the final ballots. It was not an official nomination.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Curtiz",
+                  "notes": null,
+                  "imdb_id": "nm0002031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Captain Blood",
+                  "notes": null,
+                  "imdb_id": "tt0026174"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Midsummer Night's Dream",
+                  "notes": null,
+                  "imdb_id": "tt0026714"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph Dawson",
+                  "notes": null,
+                  "imdb_id": "nm0206238"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Copperfield",
+                  "notes": null,
+                  "imdb_id": "tt0026266"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Kern",
+                  "notes": null,
+                  "imdb_id": "nm0449493"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les Mis\u00e9rables",
+                  "notes": null,
+                  "imdb_id": "tt0026725"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara McLean",
+                  "notes": null,
+                  "imdb_id": "nm0572492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Booth",
+                  "notes": null,
+                  "imdb_id": "nm0004290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Hively",
+                  "notes": null,
+                  "imdb_id": "nm0387000"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ellsworth Hoagland",
+                  "notes": null,
+                  "imdb_id": "nm0387449"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Lullaby of Broadway\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gold Diggers of 1935",
+                  "notes": null,
+                  "imdb_id": "tt0026421"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Al Dubin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006048"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Lovely to Look at\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Roberta",
+                  "notes": null,
+                  "imdb_id": "tt0026942"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Kern",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006153"
+               },
+               {
+                  "name": "Dorothy Fields",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0276227"
+               },
+               {
+                  "name": "Jimmy McHugh",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006192"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Cheek to Cheek\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Top Hat",
+                  "notes": null,
+                  "imdb_id": "tt0027125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irving Berlin",
+                  "notes": null,
+                  "imdb_id": "nm0000927"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "notes": "Score by Max Steiner.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": "(head of departmment)",
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": "Score by Erich Wolfgang Korngold. This was a write-in candidate, who came in third on the final ballots. It was not an official nomination.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Blood",
+                  "notes": null,
+                  "imdb_id": "tt0026174"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo F. Forbstein",
+                  "notes": "(head of department)",
+                  "imdb_id": "nm0006079"
+               }
+            ]
+         },
+         {
+            "notes": "Score by Herbert Stothart.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nat W. Finston",
+                  "notes": "(head of departmment)",
+                  "imdb_id": "nm0278358"
+               }
+            ]
+         },
+         {
+            "notes": "Score by Ernst Toch.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Ibbetson",
+                  "notes": null,
+                  "imdb_id": "tt0026866"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irvin Talbot",
+                  "notes": "(head of departmment)",
+                  "imdb_id": "nm0847913"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Midsummer Night's Dream",
+                  "notes": null,
+                  "imdb_id": "tt0026714"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alice Adams",
+                  "notes": null,
+                  "imdb_id": "tt0026056"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Broadway Melody of 1936",
+                  "notes": null,
+                  "imdb_id": "tt0026144"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Blood",
+                  "notes": null,
+                  "imdb_id": "tt0026174"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Copperfield",
+                  "notes": null,
+                  "imdb_id": "tt0026266"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Les Mis\u00e9rables",
+                  "notes": null,
+                  "imdb_id": "tt0026725"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Naughty Marietta",
+                  "notes": null,
+                  "imdb_id": "tt0026768"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ruggles of Red Gap",
+                  "notes": null,
+                  "imdb_id": "tt0026955"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Top Hat",
+                  "notes": null,
+                  "imdb_id": "tt0027125"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Three Orphan Kittens",
+                  "notes": null,
+                  "imdb_id": "tt0027100"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Calico Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0026162"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolf Ising",
+                  "notes": null,
+                  "imdb_id": "nm0411208"
+               },
+               {
+                  "name": "Hugh Harman",
+                  "notes": null,
+                  "imdb_id": "nm0363414"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Who Killed Cock Robin?",
+                  "notes": null,
+                  "imdb_id": "tt0027212"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "How to Sleep",
+                  "notes": null,
+                  "imdb_id": "tt0026497"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Chertok",
+                  "notes": null,
+                  "imdb_id": "nm0156134"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Oh, My Nerves",
+                  "notes": null,
+                  "imdb_id": "tt0026803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jules White",
+                  "notes": null,
+                  "imdb_id": "nm0925028"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tit for Tat",
+                  "notes": null,
+                  "imdb_id": "tt0027113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Roach",
+                  "notes": null,
+                  "imdb_id": "nm0730018"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wings Over Everest",
+                  "notes": null,
+                  "imdb_id": "tt0024777"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Audioscopiks",
+                  "notes": null,
+                  "imdb_id": "tt0026086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Camera Thrills",
+                  "notes": null,
+                  "imdb_id": "tt0026167"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Naughty Marietta",
+                  "notes": null,
+                  "imdb_id": "tt0026768"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "1, 000 Dollars a Minute",
+                  "notes": null,
+                  "imdb_id": "tt0026027"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Blood",
+                  "notes": null,
+                  "imdb_id": "tt0026174"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Dream Too Much",
+                  "notes": null,
+                  "imdb_id": "tt0026507"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carl Dreher",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0237393"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Love Me Forever",
+                  "notes": null,
+                  "imdb_id": "tt0026654"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thanks a Million",
+                  "notes": null,
+                  "imdb_id": "tt0027088"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bride of Frankenstein",
+                  "notes": null,
+                  "imdb_id": "tt0026138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gilbert Kurland",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0475792"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dark Angel",
+                  "notes": null,
+                  "imdb_id": "tt0026264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franklin Hansen",
+                  "notes": "(sound director)",
+                  "imdb_id": "nm0360630"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Scoundrel",
+                  "notes": null,
+                  "imdb_id": "tt0026970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Hecht",
+                  "notes": null,
+                  "imdb_id": "nm0372942"
+               },
+               {
+                  "name": "Charles MacArthur",
+                  "notes": null,
+                  "imdb_id": "nm0531269"
+               }
+            ]
+         },
+         {
+            "notes": "Write-in candidate, not an official nominee. The official AMPAS records list the pseudonym 'Gregory Rogers' as nominee.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "'G' Men",
+                  "notes": null,
+                  "imdb_id": "tt0026393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Darryl F. Zanuck",
+                  "notes": null,
+                  "imdb_id": "nm0953123"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Broadway Melody of 1936",
+                  "notes": null,
+                  "imdb_id": "tt0026144"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Moss Hart",
+                  "notes": null,
+                  "imdb_id": "nm0366454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gay Deception",
+                  "notes": null,
+                  "imdb_id": "tt0026400"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Hartman",
+                  "notes": null,
+                  "imdb_id": "nm0366942"
+               },
+               {
+                  "name": "Stephen Morehouse Avery",
+                  "notes": null,
+                  "imdb_id": "nm0043081"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": "Refused to accept his award because of the antagonism between several industry guilds and the academy over union matters. This marked the first time an Academy Award had been declined. Academy records show that Dudley was in possession of an Oscar statuette by 1949.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Informer",
+                  "notes": null,
+                  "imdb_id": "tt0026529"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dudley Nichols",
+                  "notes": null,
+                  "imdb_id": "nm0629580"
+               }
+            ]
+         },
+         {
+            "notes": "This was a write-in candidate, who came in third on the final ballots. It was not an official nomination.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain Blood",
+                  "notes": null,
+                  "imdb_id": "tt0026174"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Casey Robinson",
+                  "notes": null,
+                  "imdb_id": "nm0732452"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mutiny on the Bounty",
+                  "notes": null,
+                  "imdb_id": "tt0026752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jules Furthman",
+                  "notes": null,
+                  "imdb_id": "nm0299154"
+               },
+               {
+                  "name": "Talbot Jennings",
+                  "notes": null,
+                  "imdb_id": "nm0421255"
+               },
+               {
+                  "name": "Carey Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933133"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lives of a Bengal Lancer",
+                  "notes": null,
+                  "imdb_id": "tt0026643"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Achmed Abdullah",
+                  "notes": null,
+                  "imdb_id": "nm0008280"
+               },
+               {
+                  "name": "John L. Balderston",
+                  "notes": null,
+                  "imdb_id": "nm0049721"
+               },
+               {
+                  "name": "Grover Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428177"
+               },
+               {
+                  "name": "William Slavens McNutt",
+                  "notes": null,
+                  "imdb_id": "nm0574112"
+               },
+               {
+                  "name": "Waldemar Young",
+                  "notes": null,
+                  "imdb_id": "nm0950150"
+               }
+            ]
+         }
+      ]
+   }
+]

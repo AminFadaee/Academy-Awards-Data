@@ -1,0 +1,736 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Richard Dreyfuss"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Travolta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marcello Mastroianni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Woody Allen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jason Robards"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alec Guinness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maximilian Schell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mikhail Baryshnikov"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Firth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Diane Keaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anne Bancroft"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jane Fonda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marsha Mason"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shirley MacLaine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Vanessa Redgrave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leslie Browne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melinda Dillon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Quinn Cummings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tuesday Weld"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport '77"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spy Who Loved Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Islands in the Stream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Looking for Mr. Goodbar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Little Night Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Airport '77"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Other Side of Midnight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Woody Allen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Lucas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Herbert Ross"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steven Spielberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who Are the DeBolts? and Where Did They Get Nineteen Kids?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "High Grass Circus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Homage to Chagall: The Colours of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children of Theatre Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Union Maids"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gravity Is My Enemy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Agueda Martinez: Our People, Our Country"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "First Edition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Of Time, Tombs and Treasures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Shetland Experience"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Smokey and the Bandit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Madame Rosa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Special Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iphigenia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operation Thunderbolt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Obscure Object of Desire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Message"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spy Who Loved Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "You Light Up My Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pete's Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Rescuers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Slipper and the Rose: The Story of Cinderella"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spy Who Loved Me"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Little Night Music"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pete's Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Slipper and the Rose: The Story of Cinderella"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Annie Hall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Goodbye Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sand Castle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Doonesbury Special"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jimmy the C"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bead Game"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "I'll Find a Way"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Floating Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Notes on the Popular Arts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spaceborne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Absent-Minded Waiter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Close Encounters of the Third Kind"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sorcerer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Deep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Equus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Never Promised You a Rose Garden"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oh, God!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That Obscure Object of Desire"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Annie Hall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode IV - A New Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Goodbye Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Late Show"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Turning Point"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,610 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Victor McLaglen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Laughton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clark Gable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Franchot Tone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Muni"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claudette Colbert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elisabeth Bergner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Merle Oberon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Miriam Hopkins"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Dark Angel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lives of a Bengal Lancer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Top Hat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Clem Beauchamp",
+               "Paul Wing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eric Stacey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joseph M. Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sherry Shourds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Midsummer Night's Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barbary Coast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les Mis\u00e9rables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Crusades"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Dance Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Broadway Melody of 1936"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "Folies Berg\u00e8re de Paris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "All the King's Horses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadway Hostess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Go Into Your Dance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gold Diggers of 1935"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King of Burlesque"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "She"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Broadcast of 1936"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Top Hat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Ford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Lloyd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Henry Hathaway"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Curtiz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Midsummer Night's Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Copperfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les Mis\u00e9rables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Informer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lives of a Bengal Lancer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Gold Diggers of 1935"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Roberta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Top Hat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Informer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Ibbetson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Midsummer Night's Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alice Adams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadway Melody of 1936"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "David Copperfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Les Mis\u00e9rables"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Naughty Marietta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ruggles of Red Gap"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Informer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lives of a Bengal Lancer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Top Hat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Three Orphan Kittens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Calico Dragon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who Killed Cock Robin?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "How to Sleep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Oh, My Nerves"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tit for Tat"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wings Over Everest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audioscopiks"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Camera Thrills"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Naughty Marietta"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1, 000 Dollars a Minute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Dream Too Much"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love Me Forever"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thanks a Million"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bride of Frankenstein"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dark Angel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lives of a Bengal Lancer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Scoundrel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "'G' Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Broadway Melody of 1936"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gay Deception"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Informer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Blood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mutiny on the Bounty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lives of a Bengal Lancer"
+            ]
+         }
+      ]
+   }
+]

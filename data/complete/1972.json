@@ -1,0 +1,2166 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gene Hackman",
+                  "notes": null,
+                  "imdb_id": "nm0000432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "George C. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0001715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hospital",
+                  "notes": null,
+                  "imdb_id": "tt0067217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Finch",
+                  "notes": null,
+                  "imdb_id": "nm0002075"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunday Bloody Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0067805"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Topol",
+                  "notes": null,
+                  "imdb_id": "nm0867694"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walter Matthau",
+                  "notes": null,
+                  "imdb_id": "nm0000527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kotch",
+                  "notes": null,
+                  "imdb_id": "tt0067314"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ben Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0424565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeff Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0000313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leonard Frey",
+                  "notes": null,
+                  "imdb_id": "nm0294600"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Jaeckel",
+                  "notes": null,
+                  "imdb_id": "nm0001395"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sometimes a Great Notion",
+                  "notes": null,
+                  "imdb_id": "tt0067774"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Roy Scheider",
+                  "notes": null,
+                  "imdb_id": "nm0001702"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jane Fonda",
+                  "notes": null,
+                  "imdb_id": "nm0000404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Klute",
+                  "notes": null,
+                  "imdb_id": "tt0067309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glenda Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413559"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunday Bloody Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0067805"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Janet Suzman",
+                  "notes": null,
+                  "imdb_id": "nm0840531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Christie",
+                  "notes": null,
+                  "imdb_id": "nm0001046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "McCabe & Mrs. Miller",
+                  "notes": null,
+                  "imdb_id": "tt0067411"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vanessa Redgrave",
+                  "notes": null,
+                  "imdb_id": "nm0000603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mary, Queen of Scots",
+                  "notes": null,
+                  "imdb_id": "tt0067402"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cloris Leachman",
+                  "notes": null,
+                  "imdb_id": "nm0001458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ann-Margret",
+                  "notes": null,
+                  "imdb_id": "nm0000268"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carnal Knowledge",
+                  "notes": null,
+                  "imdb_id": "tt0066892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Harris",
+                  "notes": null,
+                  "imdb_id": "nm0364455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+                  "notes": null,
+                  "imdb_id": "tt0067980"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ellen Burstyn",
+                  "notes": null,
+                  "imdb_id": "nm0000995"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Margaret Leighton",
+                  "notes": null,
+                  "imdb_id": "nm0500364"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Go-Between",
+                  "notes": null,
+                  "imdb_id": "tt0067144"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Box",
+                  "notes": null,
+                  "imdb_id": "nm0101501"
+               },
+               {
+                  "name": "Ernest Archer",
+                  "notes": null,
+                  "imdb_id": "nm0033658"
+               },
+               {
+                  "name": "Jack Maxsted",
+                  "notes": null,
+                  "imdb_id": "nm0561624"
+               },
+               {
+                  "name": "Gil Parrondo",
+                  "notes": null,
+                  "imdb_id": "nm0663597"
+               },
+               {
+                  "name": "Vernon Dixon",
+                  "notes": null,
+                  "imdb_id": "nm0228999"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bedknobs and Broomsticks",
+                  "notes": null,
+                  "imdb_id": "tt0066817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John B. Mansbridge",
+                  "notes": null,
+                  "imdb_id": "nm0543727"
+               },
+               {
+                  "name": "Peter Ellenshaw",
+                  "notes": null,
+                  "imdb_id": "nm0254002"
+               },
+               {
+                  "name": "Emile Kuri",
+                  "notes": null,
+                  "imdb_id": "nm0475689"
+               },
+               {
+                  "name": "Hal Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310198"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert F. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102327"
+               },
+               {
+                  "name": "Michael Stringer",
+                  "notes": null,
+                  "imdb_id": "nm0834584"
+               },
+               {
+                  "name": "Peter Lamont",
+                  "notes": null,
+                  "imdb_id": "nm0483682"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary, Queen of Scots",
+                  "notes": null,
+                  "imdb_id": "tt0067402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terence Marsh",
+                  "notes": null,
+                  "imdb_id": "nm0550671"
+               },
+               {
+                  "name": "Robert Cartwright",
+                  "notes": null,
+                  "imdb_id": "nm0142204"
+               },
+               {
+                  "name": "Peter Howitt",
+                  "notes": null,
+                  "imdb_id": "nm0398184"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Andromeda Strain",
+                  "notes": null,
+                  "imdb_id": "tt0066769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boris Leven",
+                  "notes": null,
+                  "imdb_id": "nm0505227"
+               },
+               {
+                  "name": "William H. Tuntke",
+                  "notes": null,
+                  "imdb_id": "nm0876700"
+               },
+               {
+                  "name": "Ruby R. Levitt",
+                  "notes": null,
+                  "imdb_id": "nm0506239"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oswald Morris",
+                  "notes": null,
+                  "imdb_id": "nm0005807"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freddie Young",
+                  "notes": null,
+                  "imdb_id": "nm0002875"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Summer of '42",
+                  "notes": null,
+                  "imdb_id": "tt0067803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Roizman",
+                  "notes": null,
+                  "imdb_id": "nm0005845"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Yvonne Blake",
+                  "notes": null,
+                  "imdb_id": "nm0086762"
+               },
+               {
+                  "name": "Antonio Castillo",
+                  "notes": null,
+                  "imdb_id": "nm0145016"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bedknobs and Broomsticks",
+                  "notes": null,
+                  "imdb_id": "tt0066817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0858528"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Death in Venice",
+                  "notes": null,
+                  "imdb_id": "tt0067445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Piero Tosi",
+                  "notes": null,
+                  "imdb_id": "nm0869200"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary, Queen of Scots",
+                  "notes": null,
+                  "imdb_id": "tt0067402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "What's the Matter with Helen?",
+                  "notes": null,
+                  "imdb_id": "tt0067975"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morton Haack",
+                  "notes": null,
+                  "imdb_id": "nm0351736"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "William Friedkin",
+                  "notes": null,
+                  "imdb_id": "nm0001243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772259"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sunday Bloody Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0067805"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norman Jewison",
+                  "notes": null,
+                  "imdb_id": "nm0422484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Bogdanovich",
+                  "notes": null,
+                  "imdb_id": "nm0000953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Clockwork Orange",
+                  "notes": null,
+                  "imdb_id": "tt0066921"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Hellstrom Chronicle",
+                  "notes": null,
+                  "imdb_id": "tt0067197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walon Green",
+                  "notes": null,
+                  "imdb_id": "nm0338396"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alaska Wilderness Lake",
+                  "notes": null,
+                  "imdb_id": "tt0066753"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Landsburg",
+                  "notes": null,
+                  "imdb_id": "nm0485137"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Any Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0067527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113164"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Ra Expeditions",
+                  "notes": null,
+                  "imdb_id": "tt0069151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lennart Ehrenborg",
+                  "notes": null,
+                  "imdb_id": "nm0251278"
+               },
+               {
+                  "name": "Thor Heyerdahl",
+                  "notes": null,
+                  "imdb_id": "nm0382217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sorrow and the Pity",
+                  "notes": null,
+                  "imdb_id": "tt0066904"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcel Oph\u00fcls",
+                  "notes": null,
+                  "imdb_id": "nm0649096"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sentinels of Silence",
+                  "notes": null,
+                  "imdb_id": "tt0067733"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manuel Arango",
+                  "notes": null,
+                  "imdb_id": "nm0033045"
+               },
+               {
+                  "name": "Robert Amram",
+                  "notes": null,
+                  "imdb_id": "nm0025374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adventures in Perception",
+                  "notes": null,
+                  "imdb_id": "tt0066748"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Han Van Gelder",
+                  "notes": null,
+                  "imdb_id": "nm0886911"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Art Is...",
+                  "notes": null,
+                  "imdb_id": "tt0066786"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Julian Krainin",
+                  "notes": null,
+                  "imdb_id": "nm0469313"
+               },
+               {
+                  "name": "DeWitt Sage",
+                  "notes": null,
+                  "imdb_id": "nm0756040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Somebody Waiting",
+                  "notes": null,
+                  "imdb_id": "tt0067772"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hal Riney",
+                  "notes": null,
+                  "imdb_id": "nm0727514"
+               },
+               {
+                  "name": "Dick Snider",
+                  "notes": null,
+                  "imdb_id": "nm0811126"
+               },
+               {
+                  "name": "Woody Omens",
+                  "notes": null,
+                  "imdb_id": "nm0648386"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Numbers Start with the River",
+                  "notes": null,
+                  "imdb_id": "tt0067507"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald Wrye",
+                  "notes": null,
+                  "imdb_id": "nm0943044"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bedknobs and Broomsticks",
+                  "notes": null,
+                  "imdb_id": "tt0066817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Maley",
+                  "notes": null,
+                  "imdb_id": "nm0539426"
+               },
+               {
+                  "name": "Eustace Lycett",
+                  "notes": null,
+                  "imdb_id": "nm0527941"
+               },
+               {
+                  "name": "Danny Lee",
+                  "notes": null,
+                  "imdb_id": "nm0497098"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Dinosaurs Ruled the Earth",
+                  "notes": null,
+                  "imdb_id": "tt0066561"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Danforth",
+                  "notes": null,
+                  "imdb_id": "nm0199453"
+               },
+               {
+                  "name": "Roger Dicken",
+                  "notes": null,
+                  "imdb_id": "nm0225312"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerald B. Greenberg",
+                  "notes": null,
+                  "imdb_id": "nm0338513"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Clockwork Orange",
+                  "notes": null,
+                  "imdb_id": "tt0066921"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kotch",
+                  "notes": null,
+                  "imdb_id": "tt0067314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph E. Winters",
+                  "notes": null,
+                  "imdb_id": "nm0935988"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Summer of '42",
+                  "notes": null,
+                  "imdb_id": "tt0067803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Folmar Blangsted",
+                  "notes": null,
+                  "imdb_id": "nm0087467"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Andromeda Strain",
+                  "notes": null,
+                  "imdb_id": "tt0066769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Gilmore",
+                  "notes": null,
+                  "imdb_id": "nm0319574"
+               },
+               {
+                  "name": "John W. Holmes",
+                  "notes": null,
+                  "imdb_id": "nm0391899"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Italy.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Garden of the Finzi-Continis",
+                  "notes": null,
+                  "imdb_id": "tt0065777"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dodes'ka-den",
+                  "notes": null,
+                  "imdb_id": "tt0065649"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Soviet Union.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tchaikovsky",
+                  "notes": null,
+                  "imdb_id": "tt0065127"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Emigrants",
+                  "notes": null,
+                  "imdb_id": "tt0067919"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Israel.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Policeman",
+                  "notes": null,
+                  "imdb_id": "tt0066374"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Summer of '42",
+                  "notes": null,
+                  "imdb_id": "tt0067803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michel Legrand",
+                  "notes": null,
+                  "imdb_id": "nm0006166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary, Queen of Scots",
+                  "notes": null,
+                  "imdb_id": "tt0067402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Barry",
+                  "notes": null,
+                  "imdb_id": "nm0000290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Rodney Bennett",
+                  "notes": null,
+                  "imdb_id": "nm0005961"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shaft",
+                  "notes": null,
+                  "imdb_id": "tt0067741"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Isaac Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0005002"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Straw Dogs",
+                  "notes": null,
+                  "imdb_id": "tt0067800"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Fielding",
+                  "notes": null,
+                  "imdb_id": "nm0006076"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Theme from Shaft\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Shaft",
+                  "notes": null,
+                  "imdb_id": "tt0067741"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Isaac Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0005002"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"The Age of Not Believing\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bedknobs and Broomsticks",
+                  "notes": null,
+                  "imdb_id": "tt0066817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Bless the Beasts and the Children\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bless the Beasts & Children",
+                  "notes": null,
+                  "imdb_id": "tt0068286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry De Vorzon",
+                  "notes": null,
+                  "imdb_id": "nm0006031"
+               },
+               {
+                  "name": "Perry Botkin Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0098559"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Life Is What You Make It\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kotch",
+                  "notes": null,
+                  "imdb_id": "tt0067314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marvin Hamlisch",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006121"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"All His Children\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sometimes a Great Notion",
+                  "notes": null,
+                  "imdb_id": "tt0067774"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Mancini",
+                  "notes": "(music)",
+                  "imdb_id": "nm0000049"
+               },
+               {
+                  "name": "Alan Bergman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0074732"
+               },
+               {
+                  "name": "Marilyn Bergman",
+                  "notes": null,
+                  "imdb_id": "nm0004750"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Adaptation and Original Song Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bedknobs and Broomsticks",
+                  "notes": null,
+                  "imdb_id": "tt0066817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard M. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792556"
+               },
+               {
+                  "name": "Robert B. Sherman",
+                  "notes": null,
+                  "imdb_id": "nm0792567"
+               },
+               {
+                  "name": "Irwin Kostal",
+                  "notes": null,
+                  "imdb_id": "nm0467348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tchaikovsky",
+                  "notes": null,
+                  "imdb_id": "tt0065127"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dimitri Tiomkin",
+                  "notes": null,
+                  "imdb_id": "nm0006323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boy Friend",
+                  "notes": null,
+                  "imdb_id": "tt0066858"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Maxwell Davies",
+                  "notes": null,
+                  "imdb_id": "nm0203903"
+               },
+               {
+                  "name": "Peter Greenwell",
+                  "notes": null,
+                  "imdb_id": "nm0339285"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Willy Wonka & the Chocolate Factory",
+                  "notes": null,
+                  "imdb_id": "tt0067992"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": null,
+                  "imdb_id": "nm0108634"
+               },
+               {
+                  "name": "Anthony Newley",
+                  "notes": null,
+                  "imdb_id": "nm0627969"
+               },
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip D'Antoni",
+                  "notes": null,
+                  "imdb_id": "nm0195358"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Clockwork Orange",
+                  "notes": null,
+                  "imdb_id": "tt0066921"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Jewison",
+                  "notes": null,
+                  "imdb_id": "nm0422484"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nicholas and Alexandra",
+                  "notes": null,
+                  "imdb_id": "tt0067483"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Spiegel",
+                  "notes": null,
+                  "imdb_id": "nm0818545"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen J. Friedman",
+                  "notes": null,
+                  "imdb_id": "nm0295375"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Animated Films",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Crunch Bird",
+                  "notes": null,
+                  "imdb_id": "tt0066959"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Petok",
+                  "notes": null,
+                  "imdb_id": "nm0677726"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evolution",
+                  "notes": null,
+                  "imdb_id": "tt0067073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Mills",
+                  "notes": null,
+                  "imdb_id": "nm3382237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Selfish Giant",
+                  "notes": null,
+                  "imdb_id": "tt0067731"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Sander",
+                  "notes": null,
+                  "imdb_id": "nm1131488"
+               },
+               {
+                  "name": "Murray Shostak",
+                  "notes": null,
+                  "imdb_id": "nm0795190"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Films",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sentinels of Silence",
+                  "notes": null,
+                  "imdb_id": "tt0067733"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manuel Arango",
+                  "notes": null,
+                  "imdb_id": "nm0033045"
+               },
+               {
+                  "name": "Robert Amram",
+                  "notes": null,
+                  "imdb_id": "nm0025374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Good Morning",
+                  "notes": null,
+                  "imdb_id": "tt0067152"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Denny Evans",
+                  "notes": null,
+                  "imdb_id": "nm0262706"
+               },
+               {
+                  "name": "Ken Greenwald",
+                  "notes": null,
+                  "imdb_id": "nm0339241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rehearsal",
+                  "notes": null,
+                  "imdb_id": "tt0067662"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Verona",
+                  "notes": null,
+                  "imdb_id": "nm0894776"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Fiddler on the Roof",
+                  "notes": null,
+                  "imdb_id": "tt0067093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon K. McCallum",
+                  "notes": null,
+                  "imdb_id": "nm0564730"
+               },
+               {
+                  "name": "David Hildyard",
+                  "notes": null,
+                  "imdb_id": "nm0383934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diamonds Are Forever",
+                  "notes": null,
+                  "imdb_id": "tt0066995"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon K. McCallum",
+                  "notes": null,
+                  "imdb_id": "nm0564730"
+               },
+               {
+                  "name": "John W. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593466"
+               },
+               {
+                  "name": "Al Overton",
+                  "notes": null,
+                  "imdb_id": "nm0653931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kotch",
+                  "notes": null,
+                  "imdb_id": "tt0067314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Portman",
+                  "notes": null,
+                  "imdb_id": "nm0692446"
+               },
+               {
+                  "name": "Jack Solomon",
+                  "notes": null,
+                  "imdb_id": "nm0813349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary, Queen of Scots",
+                  "notes": null,
+                  "imdb_id": "tt0067402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Jones",
+                  "notes": null,
+                  "imdb_id": "nm0427590"
+               },
+               {
+                  "name": "John Aldred",
+                  "notes": null,
+                  "imdb_id": "nm0017640"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Theodore Soderberg",
+                  "notes": null,
+                  "imdb_id": "nm0812029"
+               },
+               {
+                  "name": "Christopher Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628039"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The French Connection",
+                  "notes": null,
+                  "imdb_id": "tt0067116"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Tidyman",
+                  "notes": null,
+                  "imdb_id": "nm0862781"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Clockwork Orange",
+                  "notes": null,
+                  "imdb_id": "tt0066921"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Conformist",
+                  "notes": null,
+                  "imdb_id": "tt0065571"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernardo Bertolucci",
+                  "notes": null,
+                  "imdb_id": "nm0000934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Garden of the Finzi-Continis",
+                  "notes": null,
+                  "imdb_id": "tt0065777"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ugo Pirro",
+                  "notes": null,
+                  "imdb_id": "nm0685316"
+               },
+               {
+                  "name": "Vittorio Bonicelli",
+                  "notes": null,
+                  "imdb_id": "nm0094558"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Picture Show",
+                  "notes": null,
+                  "imdb_id": "tt0067328"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Larry McMurtry",
+                  "notes": null,
+                  "imdb_id": "nm0573505"
+               },
+               {
+                  "name": "Peter Bogdanovich",
+                  "notes": null,
+                  "imdb_id": "nm0000953"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Hospital",
+                  "notes": null,
+                  "imdb_id": "tt0067217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paddy Chayefsky",
+                  "notes": null,
+                  "imdb_id": "nm0154665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Investigation of a Citizen Above Suspicion",
+                  "notes": null,
+                  "imdb_id": "tt0065889"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elio Petri",
+                  "notes": null,
+                  "imdb_id": "nm0677880"
+               },
+               {
+                  "name": "Ugo Pirro",
+                  "notes": null,
+                  "imdb_id": "nm0685316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Klute",
+                  "notes": null,
+                  "imdb_id": "tt0067309"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0506920"
+               },
+               {
+                  "name": "David E. Lewis",
+                  "notes": null,
+                  "imdb_id": "nm5557134"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Summer of '42",
+                  "notes": null,
+                  "imdb_id": "tt0067803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herman Raucher",
+                  "notes": null,
+                  "imdb_id": "nm0712029"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunday Bloody Sunday",
+                  "notes": null,
+                  "imdb_id": "tt0067805"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Penelope Gilliatt",
+                  "notes": null,
+                  "imdb_id": "nm0319149"
+               }
+            ]
+         }
+      ]
+   }
+]

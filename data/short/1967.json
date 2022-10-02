@@ -1,0 +1,852 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Paul Scofield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Arkin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Caine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Burton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steve McQueen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Walter Matthau"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Segal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Mason"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mako"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Shaw"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Elizabeth Taylor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anouk Aim\u00e9e"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ida Kaminska"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lynn Redgrave"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vanessa Redgrave"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sandy Dennis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jocelyne LaGarde"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Vivien Merchant"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wendy Hiller"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Is Paris Burning?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Buddwing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fortune Cookie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gospel According to St. Matthew"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fantastic Voyage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gambit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juliet of the Spirits"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Oscar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Georgy Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Is Paris Burning?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Seconds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fortune Cookie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man for All Seasons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Voyage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Professionals"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La mandragola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mister Buddwing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morgan!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gospel According to St. Matthew"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man for All Seasons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gambit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juliet of the Spirits"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Oscar"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claude Lelouch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelangelo Antonioni"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Nichols"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Brooks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The War Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helicopter Canada"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Le volcan interdit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Face of a Genius"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Really Big Family"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Year Toward Tomorrow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adolescence"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cowboy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Saint Matthew Passion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Odds Against"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grand Prix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Voyage"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fantastic Voyage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grand Prix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Voyage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Russians Are Coming the Russians Are Coming"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man and a Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Blonde in Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pharaoh"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Battle of Algiers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Three"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Music Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Born Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bible: In the Beginning..."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Born Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "An American Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Georgy Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Funny Thing Happened on the Way to the Forum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Return of the Seven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stop the World: I Want to Get Off"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gospel According to St. Matthew"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Singing Nun"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man for All Seasons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Russians Are Coming the Russians Are Coming"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Herb Alpert & the Tijuana Brass Double Feature"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Drag"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pink Blueprint"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wild Wings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Winning Strain"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Turkey the Bridge"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Grand Prix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gambit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hawaii"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sand Pebbles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man for All Seasons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alfie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Professionals"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Russians Are Coming the Russians Are Coming"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who's Afraid of Virginia Woolf?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Man and a Woman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blow-Up"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Khartoum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Fortune Cookie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Naked Prey"
+            ]
+         }
+      ]
+   }
+]

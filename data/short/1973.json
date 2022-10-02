@@ -1,0 +1,707 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marlon Brando"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Olivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Caine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Winfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joel Grey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Al Pacino"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eddie Albert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Caan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Liza Minnelli"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cicely Tyson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diana Ross"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Liv Ullmann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maggie Smith"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Eileen Heckart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeannie Berlin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shelley Winters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Tyrrell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady Sings the Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Travels with My Aunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Winston"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "1776"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butterflies Are Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Travels with My Aunt"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Travels with My Aunt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady Sings the Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Winston"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bob Fosse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Francis Ford Coppola"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jan Troell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Boorman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joseph L. Mankiewicz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marjoe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bij de beesten af"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Malcolm X"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Manson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Silent Revolution"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Deze kleine wereld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hundertwassers Regentag"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "K-Z"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Selling Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tide of Traffic"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deliverance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hot Rock"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Discreet Charm of the Bourgeoisie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Love You Rosa"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mi querida se\u00f1orita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dawns Here Are Quiet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The New Land"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Limelight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Images"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Napoleon and Samantha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleuth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Life and Times of Judge Roy Bean"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Stepmother"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady Sings the Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Man of La Mancha"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deliverance"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sounder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emigrants"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Animated Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Christmas Carol"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kama Sutra Rides Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tup Tup"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Films",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Norman Rockwell's World... An American Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frog Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Solo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butterflies Are Free"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Candidate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Poseidon Adventure"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Godfather"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cabaret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pete 'n' Tillie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sounder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Emigrants"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Candidate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lady Sings the Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Murmur of the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Discreet Charm of the Bourgeoisie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Young Winston"
+            ]
+         }
+      ]
+   }
+]

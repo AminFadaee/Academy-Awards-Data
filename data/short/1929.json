@@ -1,0 +1,278 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Emil Jannings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Barthelmess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Barthelmess"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Janet Gaynor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gloria Swanson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Louise Dresser"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tempest"
+            ]
+         },
+         {
+            "won": true,
+            "nominees": [
+               "The Dove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "7th Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunrise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sunrise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sadie Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Devil Dancer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Magic Flame"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director, Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Lewis Milestone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ted Wilde"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director, Dramatic Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Borzage"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Herbert Brenon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "King Vidor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Engineering Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nugent Slaughter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ralph Hammeras"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture, Production",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Wings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "7th Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Racket"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture, Unique and Artistic Production",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sunrise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chang: A Drama of the Wilderness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Crowd"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "7th Heaven"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glorious Betsy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Jazz Singer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Underworld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Command"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Title Writing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Joseph Farnham"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Marion Jr."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Private Life of Helen of Troy"
+            ]
+         }
+      ]
+   }
+]

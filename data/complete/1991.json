@@ -1,0 +1,2164 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jeremy Irons",
+                  "notes": null,
+                  "imdb_id": "nm0000460"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reversal of Fortune",
+                  "notes": null,
+                  "imdb_id": "tt0100486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "G\u00e9rard Depardieu",
+                  "notes": null,
+                  "imdb_id": "nm0000367"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0099334"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kevin Costner",
+                  "notes": null,
+                  "imdb_id": "nm0000126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Harris",
+                  "notes": null,
+                  "imdb_id": "nm0001321"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Field",
+                  "notes": null,
+                  "imdb_id": "tt0099566"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert De Niro",
+                  "notes": null,
+                  "imdb_id": "nm0000134"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Awakenings",
+                  "notes": null,
+                  "imdb_id": "tt0099077"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joe Pesci",
+                  "notes": null,
+                  "imdb_id": "nm0000582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Andy Garcia",
+                  "notes": null,
+                  "imdb_id": "nm0000412"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bruce Davison",
+                  "notes": null,
+                  "imdb_id": "nm0001117"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Longtime Companion",
+                  "notes": null,
+                  "imdb_id": "tt0100049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Graham Greene",
+                  "notes": null,
+                  "imdb_id": "nm0001295"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kathy Bates",
+                  "notes": null,
+                  "imdb_id": "nm0000870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Misery",
+                  "notes": null,
+                  "imdb_id": "tt0100157"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anjelica Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001378"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grifters",
+                  "notes": null,
+                  "imdb_id": "tt0099703"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joanne Woodward",
+                  "notes": null,
+                  "imdb_id": "nm0940946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mr. & Mrs. Bridge",
+                  "notes": null,
+                  "imdb_id": "tt0100200"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julia Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0000210"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pretty Woman",
+                  "notes": null,
+                  "imdb_id": "tt0100405"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Postcards from the Edge",
+                  "notes": null,
+                  "imdb_id": "tt0100395"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Whoopi Goldberg",
+                  "notes": null,
+                  "imdb_id": "nm0000155"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ghost",
+                  "notes": null,
+                  "imdb_id": "tt0099653"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annette Bening",
+                  "notes": null,
+                  "imdb_id": "nm0000906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grifters",
+                  "notes": null,
+                  "imdb_id": "tt0099703"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Ladd",
+                  "notes": null,
+                  "imdb_id": "nm0002663"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wild at Heart",
+                  "notes": null,
+                  "imdb_id": "tt0100935"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lorraine Bracco",
+                  "notes": null,
+                  "imdb_id": "nm0000966"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary McDonnell",
+                  "notes": null,
+                  "imdb_id": "nm0001521"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Sylbert",
+                  "notes": null,
+                  "imdb_id": "nm0843129"
+               },
+               {
+                  "name": "Rick Simpson",
+                  "notes": null,
+                  "imdb_id": "nm0801173"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0099334"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ezio Frigerio",
+                  "notes": null,
+                  "imdb_id": "nm0295702"
+               },
+               {
+                  "name": "Jacques Rouxel",
+                  "notes": null,
+                  "imdb_id": "nm0746232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeffrey Beecroft",
+                  "notes": null,
+                  "imdb_id": "nm0066360"
+               },
+               {
+                  "name": "Lisa Dean",
+                  "notes": null,
+                  "imdb_id": "nm0212856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0099726"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Ferretti",
+                  "notes": null,
+                  "imdb_id": "nm0274721"
+               },
+               {
+                  "name": "Francesca Lo Schiavo",
+                  "notes": null,
+                  "imdb_id": "nm0521302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Tavoularis",
+                  "notes": null,
+                  "imdb_id": "nm0851790"
+               },
+               {
+                  "name": "Gary Fettis",
+                  "notes": null,
+                  "imdb_id": "nm0275361"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Semler",
+                  "notes": null,
+                  "imdb_id": "nm0005871"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Avalon",
+                  "notes": null,
+                  "imdb_id": "tt0099073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Allen Daviau",
+                  "notes": null,
+                  "imdb_id": "nm0005679"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vittorio Storaro",
+                  "notes": null,
+                  "imdb_id": "nm0005886"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Henry & June",
+                  "notes": null,
+                  "imdb_id": "tt0099762"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philippe Rousselot",
+                  "notes": null,
+                  "imdb_id": "nm0003542"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932336"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0099334"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franca Squarciapino",
+                  "notes": null,
+                  "imdb_id": "nm0820037"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Avalon",
+                  "notes": null,
+                  "imdb_id": "tt0099073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gloria Gresham",
+                  "notes": null,
+                  "imdb_id": "nm0340336"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elsa Zamparelli",
+                  "notes": null,
+                  "imdb_id": "nm0952747"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hamlet",
+                  "notes": null,
+                  "imdb_id": "tt0099726"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurizio Millenotti",
+                  "notes": null,
+                  "imdb_id": "nm0587818"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kevin Costner",
+                  "notes": null,
+                  "imdb_id": "nm0000126"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbet Schroeder",
+                  "notes": null,
+                  "imdb_id": "nm0775447"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Reversal of Fortune",
+                  "notes": null,
+                  "imdb_id": "tt0100486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Francis Ford Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0000338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stephen Frears",
+                  "notes": null,
+                  "imdb_id": "nm0001241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grifters",
+                  "notes": null,
+                  "imdb_id": "tt0099703"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Dream",
+                  "notes": null,
+                  "imdb_id": "tt0099028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Kopple",
+                  "notes": null,
+                  "imdb_id": "nm0465932"
+               },
+               {
+                  "name": "Arthur Cohn",
+                  "notes": null,
+                  "imdb_id": "nm0004453"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Berkeley in the Sixties",
+                  "notes": null,
+                  "imdb_id": "tt0099121"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Kitchell",
+                  "notes": null,
+                  "imdb_id": "nm0457627"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Building Bombs",
+                  "notes": null,
+                  "imdb_id": "tt0099185"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Mori",
+                  "notes": null,
+                  "imdb_id": "nm0605266"
+               },
+               {
+                  "name": "Susan J. Robinson",
+                  "notes": null,
+                  "imdb_id": "nm12606651"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+                  "notes": null,
+                  "imdb_id": "tt0099598"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judith Montell",
+                  "notes": null,
+                  "imdb_id": "nm0599305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Waldo Salt: A Screenwriter's Journey",
+                  "notes": null,
+                  "imdb_id": "tt0100900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Hillmann",
+                  "notes": null,
+                  "imdb_id": "nm0385091"
+               },
+               {
+                  "name": "Eugene X",
+                  "notes": null,
+                  "imdb_id": "nm0944310"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Days of Waiting",
+                  "notes": null,
+                  "imdb_id": "tt0099372"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Okazaki",
+                  "notes": null,
+                  "imdb_id": "nm0645574"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burning Down Tomorrow",
+                  "notes": null,
+                  "imdb_id": "tt0099191"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kit Thomas",
+                  "notes": null,
+                  "imdb_id": "nm0859119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chimps: So Like Us",
+                  "notes": null,
+                  "imdb_id": "tt0099257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karen Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329139"
+               },
+               {
+                  "name": "Kirk Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Journey Into Life: The World of the Unborn",
+                  "notes": null,
+                  "imdb_id": "tt0099899"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Derek Bromhall",
+                  "notes": null,
+                  "imdb_id": "nm0111318"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rose Kennedy: A Life to Remember",
+                  "notes": null,
+                  "imdb_id": "tt0100517"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Freida Lee Mock",
+                  "notes": null,
+                  "imdb_id": "nm0595131"
+               },
+               {
+                  "name": "Terry Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761739"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Hunt for Red October",
+                  "notes": null,
+                  "imdb_id": "tt0099810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cecelia Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355398"
+               },
+               {
+                  "name": "George Watters II",
+                  "notes": null,
+                  "imdb_id": "nm0915036"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Flatliners",
+                  "notes": null,
+                  "imdb_id": "tt0099582"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles L. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132287"
+               },
+               {
+                  "name": "Richard C. Franklin",
+                  "notes": null,
+                  "imdb_id": "nm0291526"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Total Recall",
+                  "notes": null,
+                  "imdb_id": "tt0100802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Hunter Flick",
+                  "notes": null,
+                  "imdb_id": "nm0282276"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Travis",
+                  "notes": null,
+                  "imdb_id": "nm0871423"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ghost",
+                  "notes": null,
+                  "imdb_id": "tt0099653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thelma Schoonmaker",
+                  "notes": null,
+                  "imdb_id": "nm0774817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry Malkin",
+                  "notes": null,
+                  "imdb_id": "nm0539794"
+               },
+               {
+                  "name": "Lisa Fruchtman",
+                  "notes": null,
+                  "imdb_id": "nm0296636"
+               },
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hunt for Red October",
+                  "notes": null,
+                  "imdb_id": "tt0099810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Virkler",
+                  "notes": null,
+                  "imdb_id": "nm0899398"
+               },
+               {
+                  "name": "John Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942510"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Switzerland.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Journey of Hope",
+                  "notes": null,
+                  "imdb_id": "tt0100470"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0099334"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "China.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ju Dou",
+                  "notes": null,
+                  "imdb_id": "tt0099902"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Open Doors",
+                  "notes": null,
+                  "imdb_id": "tt0100389"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Nasty Girl",
+                  "notes": null,
+                  "imdb_id": "tt0100557"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Caglione Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0128550"
+               },
+               {
+                  "name": "Doug Drexler",
+                  "notes": null,
+                  "imdb_id": "nm0237774"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cyrano de Bergerac",
+                  "notes": null,
+                  "imdb_id": "tt0099334"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mich\u00e8le Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121807"
+               },
+               {
+                  "name": "Jean-Pierre Eychenne",
+                  "notes": null,
+                  "imdb_id": "nm0264108"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward Scissorhands",
+                  "notes": null,
+                  "imdb_id": "tt0099487"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Barry",
+                  "notes": null,
+                  "imdb_id": "nm0000290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Avalon",
+                  "notes": null,
+                  "imdb_id": "tt0099073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ghost",
+                  "notes": null,
+                  "imdb_id": "tt0099653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurice Jarre",
+                  "notes": null,
+                  "imdb_id": "nm0003574"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Havana",
+                  "notes": null,
+                  "imdb_id": "tt0099747"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Grusin",
+                  "notes": null,
+                  "imdb_id": "nm0006115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Home Alone",
+                  "notes": null,
+                  "imdb_id": "tt0099785"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Sooner or Later (I Always Get My Man)\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Sondheim",
+                  "notes": null,
+                  "imdb_id": "nm0814227"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Somewhere in My Memory\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Home Alone",
+                  "notes": null,
+                  "imdb_id": "tt0099785"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002354"
+               },
+               {
+                  "name": "Leslie Bricusse",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0108634"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I'm Checkin' Out\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Postcards from the Edge",
+                  "notes": null,
+                  "imdb_id": "tt0100395"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shel Silverstein",
+                  "notes": null,
+                  "imdb_id": "nm0799060"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Promise Me You'll Remember\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carmine Coppola",
+                  "notes": "(music)",
+                  "imdb_id": "nm0178874"
+               },
+               {
+                  "name": "John Bettis",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0079376"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Blaze of Glory\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Young Guns II",
+                  "notes": null,
+                  "imdb_id": "tt0100994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Bon Jovi",
+                  "notes": null,
+                  "imdb_id": "nm0000954"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933604"
+               },
+               {
+                  "name": "Kevin Costner",
+                  "notes": null,
+                  "imdb_id": "nm0000126"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Awakenings",
+                  "notes": null,
+                  "imdb_id": "tt0099077"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter F. Parkes",
+                  "notes": null,
+                  "imdb_id": "nm0662748"
+               },
+               {
+                  "name": "Lawrence Lasker",
+                  "notes": null,
+                  "imdb_id": "nm0489623"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ghost",
+                  "notes": null,
+                  "imdb_id": "tt0099653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lisa Weinstein",
+                  "notes": null,
+                  "imdb_id": "nm0918456"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Winkler",
+                  "notes": null,
+                  "imdb_id": "nm0005563"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Godfather Part III",
+                  "notes": null,
+                  "imdb_id": "tt0099674"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Francis Ford Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0000338"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Creature Comforts",
+                  "notes": null,
+                  "imdb_id": "tt0099317"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nick Park",
+                  "notes": null,
+                  "imdb_id": "nm0661910"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Grand Day Out",
+                  "notes": null,
+                  "imdb_id": "tt0104361"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nick Park",
+                  "notes": null,
+                  "imdb_id": "nm0661910"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Grasshoppers",
+                  "notes": null,
+                  "imdb_id": "tt0099696"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruno Bozzetto",
+                  "notes": null,
+                  "imdb_id": "nm0102547"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lunch Date",
+                  "notes": null,
+                  "imdb_id": "tt0100076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Davidson",
+                  "notes": null,
+                  "imdb_id": "nm0203215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "12:01 PM",
+                  "notes": null,
+                  "imdb_id": "tt0098962"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hillary Anne Ripps",
+                  "notes": null,
+                  "imdb_id": "nm0728123"
+               },
+               {
+                  "name": "Jonathan Heap",
+                  "notes": null,
+                  "imdb_id": "nm0372421"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bronx Cheers",
+                  "notes": null,
+                  "imdb_id": "tt0099182"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Raymond De Felitta",
+                  "notes": null,
+                  "imdb_id": "nm0208343"
+               },
+               {
+                  "name": "Matthew Gross",
+                  "notes": null,
+                  "imdb_id": "nm0343446"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dear Rosie",
+                  "notes": null,
+                  "imdb_id": "tt0099382"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Cattaneo",
+                  "notes": null,
+                  "imdb_id": "nm0146341"
+               },
+               {
+                  "name": "Barnaby Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0859877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Senzeni Na?",
+                  "notes": null,
+                  "imdb_id": "tt0100579"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Joffa",
+                  "notes": null,
+                  "imdb_id": "nm0423615"
+               },
+               {
+                  "name": "Anthony E. Nicholas",
+                  "notes": null,
+                  "imdb_id": "nm0629356"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Williams II",
+                  "notes": null,
+                  "imdb_id": "nm0007020"
+               },
+               {
+                  "name": "Jeffrey Perkins",
+                  "notes": null,
+                  "imdb_id": "nm0673964"
+               },
+               {
+                  "name": "Bill W. Benton",
+                  "notes": null,
+                  "imdb_id": "nm0072904"
+               },
+               {
+                  "name": "Gregory H. Watkins",
+                  "notes": null,
+                  "imdb_id": "nm0914312"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Days of Thunder",
+                  "notes": null,
+                  "imdb_id": "tt0099371"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles M. Wilborn",
+                  "notes": null,
+                  "imdb_id": "nm0928088"
+               },
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dick Tracy",
+                  "notes": null,
+                  "imdb_id": "tt0099422"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Causey",
+                  "notes": null,
+                  "imdb_id": "nm0146600"
+               },
+               {
+                  "name": "Chris Jenkins",
+                  "notes": null,
+                  "imdb_id": "nm0420804"
+               },
+               {
+                  "name": "David E. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132372"
+               },
+               {
+                  "name": "Doug Hemphill",
+                  "notes": null,
+                  "imdb_id": "nm0376153"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hunt for Red October",
+                  "notes": null,
+                  "imdb_id": "tt0099810"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Bryce Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329208"
+               },
+               {
+                  "name": "Richard Overton",
+                  "notes": null,
+                  "imdb_id": "nm0653958"
+               },
+               {
+                  "name": "Kevin F. Cleary",
+                  "notes": null,
+                  "imdb_id": "nm0165855"
+               },
+               {
+                  "name": "Don J. Bassman",
+                  "notes": null,
+                  "imdb_id": "nm0060318"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Total Recall",
+                  "notes": null,
+                  "imdb_id": "tt0100802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nelson Stoll",
+                  "notes": null,
+                  "imdb_id": "nm0831523"
+               },
+               {
+                  "name": "Michael J. Kohut",
+                  "notes": null,
+                  "imdb_id": "nm0463489"
+               },
+               {
+                  "name": "Carlos Delarios",
+                  "notes": null,
+                  "imdb_id": "nm0216467"
+               },
+               {
+                  "name": "Aaron Rochin",
+                  "notes": null,
+                  "imdb_id": "nm0734099"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dances with Wolves",
+                  "notes": null,
+                  "imdb_id": "tt0099348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Blake",
+                  "notes": null,
+                  "imdb_id": "nm0086658"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Awakenings",
+                  "notes": null,
+                  "imdb_id": "tt0099077"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Zaillian",
+                  "notes": null,
+                  "imdb_id": "nm0001873"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Goodfellas",
+                  "notes": null,
+                  "imdb_id": "tt0099685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Pileggi",
+                  "notes": null,
+                  "imdb_id": "nm0683380"
+               },
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reversal of Fortune",
+                  "notes": null,
+                  "imdb_id": "tt0100486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Kazan",
+                  "notes": null,
+                  "imdb_id": "nm0443582"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grifters",
+                  "notes": null,
+                  "imdb_id": "tt0099703"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald E. Westlake",
+                  "notes": null,
+                  "imdb_id": "nm0922799"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ghost",
+                  "notes": null,
+                  "imdb_id": "tt0099653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Joel Rubin",
+                  "notes": null,
+                  "imdb_id": "nm0748022"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alice",
+                  "notes": null,
+                  "imdb_id": "tt0099012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Avalon",
+                  "notes": null,
+                  "imdb_id": "tt0099073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0001469"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Green Card",
+                  "notes": null,
+                  "imdb_id": "tt0099699"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Weir",
+                  "notes": null,
+                  "imdb_id": "nm0001837"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Metropolitan",
+                  "notes": null,
+                  "imdb_id": "tt0100142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Whit Stillman",
+                  "notes": null,
+                  "imdb_id": "nm0001775"
+               }
+            ]
+         }
+      ]
+   }
+]

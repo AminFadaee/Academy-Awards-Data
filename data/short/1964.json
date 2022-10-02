@@ -1,0 +1,864 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sidney Poitier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Albert Finney"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rex Harrison"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Harris"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Melvyn Douglas"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bobby Darin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hugh Griffith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "John Huston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nick Adams"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patricia Neal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leslie Caron"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Natalie Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rachel Roberts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Shirley MacLaine"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Margaret Rutherford"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Diane Cilento"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edith Evans"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joyce Redman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lilia Skala"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "America America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "8\u00bd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love with the Proper Stranger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Twilight of Honor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Come Blow Your Horn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cardinal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Jones"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lilies of the Field"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love with the Proper Stranger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Balcony"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Caretakers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Irma la Douce"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cardinal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "8\u00bd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love with the Proper Stranger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Stripper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toys in the Attic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wives and Lovers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A New Kind of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cardinal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Leopard"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tony Richardson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elia Kazan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Federico Fellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Ritt"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Otto Preminger"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Frost: A Lover's Quarrel with the World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Le maillon et la cha\u00eene"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Yanks Are Coming"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Chagall"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Five Cities of June"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Spirit of America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thirty Million Letters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "To Live Again"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Gathering of Eagles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Birds"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cardinal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great Escape"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "8\u00bd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Knife in the Water"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Koto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Los Tarantos"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Lanterns"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Papa's Delicate Condition"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "55 Days at Peking"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Dog's Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score - Substantially Original",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "55 Days at Peking"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of Music, Adaptation or Treatment",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Irma la Douce"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A New Kind of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bye Bye Birdie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sundays and Cyb\u00e8le"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sword in the Stone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "America America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lilies of the Field"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Critic"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Automania 2000"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Igra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Financial Career"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pianissimo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Occurrence at Owl Creek Bridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Koncert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "That's Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Home-Made Car"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Six-Sided Triangle"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bye Bye Birdie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Newman, M.D."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "It's a Mad Mad Mad Mad World"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tom Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain Newman, M.D."
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hud"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lilies of the Field"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sundays and Cyb\u00e8le"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "How the West Was Won"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "8\u00bd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "America America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Love with the Proper Stranger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Four Days of Naples"
+            ]
+         }
+      ]
+   }
+]

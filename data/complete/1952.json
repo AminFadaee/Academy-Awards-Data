@@ -1,0 +1,2460 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Humphrey Bogart",
+                  "notes": null,
+                  "imdb_id": "nm0000007"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The African Queen",
+                  "notes": null,
+                  "imdb_id": "tt0043265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0447913"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bright Victory",
+                  "notes": null,
+                  "imdb_id": "tt0043361"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fredric March",
+                  "notes": null,
+                  "imdb_id": "nm0545298"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Death of a Salesman",
+                  "notes": null,
+                  "imdb_id": "tt0043458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marlon Brando",
+                  "notes": null,
+                  "imdb_id": "nm0000008"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Montgomery Clift",
+                  "notes": null,
+                  "imdb_id": "nm0001050"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Karl Malden",
+                  "notes": null,
+                  "imdb_id": "nm0001500"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gig Young",
+                  "notes": null,
+                  "imdb_id": "nm0949574"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Come Fill the Cup",
+                  "notes": null,
+                  "imdb_id": "tt0043424"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kevin McCarthy",
+                  "notes": null,
+                  "imdb_id": "nm0002994"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Death of a Salesman",
+                  "notes": null,
+                  "imdb_id": "tt0043458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leo Genn",
+                  "notes": null,
+                  "imdb_id": "nm0312890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Ustinov",
+                  "notes": null,
+                  "imdb_id": "nm0001811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": "Vivien Leigh was not present at the awards ceremony. Greer Garson accepted on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Vivien Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0000046"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eleanor Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662223"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Detective Story",
+                  "notes": null,
+                  "imdb_id": "tt0043465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jane Wyman",
+                  "notes": null,
+                  "imdb_id": "nm0943837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Blue Veil",
+                  "notes": null,
+                  "imdb_id": "tt0043350"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Katharine Hepburn",
+                  "notes": null,
+                  "imdb_id": "nm0000031"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The African Queen",
+                  "notes": null,
+                  "imdb_id": "tt0043265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shelley Winters",
+                  "notes": null,
+                  "imdb_id": "nm0001859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": "Kim Hunter was not present at the awards ceremony. Bette Davis accepted on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kim Hunter",
+                  "notes": null,
+                  "imdb_id": "nm0001375"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Blondell",
+                  "notes": null,
+                  "imdb_id": "nm0000951"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Blue Veil",
+                  "notes": null,
+                  "imdb_id": "tt0043350"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lee Grant",
+                  "notes": null,
+                  "imdb_id": "nm0335519"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Detective Story",
+                  "notes": null,
+                  "imdb_id": "tt0043465"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mildred Dunnock",
+                  "notes": null,
+                  "imdb_id": "nm0242972"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Death of a Salesman",
+                  "notes": null,
+                  "imdb_id": "tt0043458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Thelma Ritter",
+                  "notes": null,
+                  "imdb_id": "nm0728812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Mating Season",
+                  "notes": null,
+                  "imdb_id": "tt0043792"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "George James Hopkins",
+                  "notes": null,
+                  "imdb_id": "nm0394166"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fourteen Hours",
+                  "notes": null,
+                  "imdb_id": "tt0043560"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "Leland Fuller",
+                  "notes": null,
+                  "imdb_id": "nm0298285"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Fred J. Rode",
+                  "notes": null,
+                  "imdb_id": "nm0734523"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La ronde",
+                  "notes": null,
+                  "imdb_id": "tt0042906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean d'Eaubonne",
+                  "notes": null,
+                  "imdb_id": "nm0195618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The House on Telegraph Hill",
+                  "notes": null,
+                  "imdb_id": "tt0043660"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "John DeCuir",
+                  "notes": null,
+                  "imdb_id": "nm0214043"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Paul S. Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Too Young to Kiss",
+                  "notes": null,
+                  "imdb_id": "tt0044138"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Paul Groesse",
+                  "notes": null,
+                  "imdb_id": "nm0342904"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "Jack D. Moore",
+                  "notes": null,
+                  "imdb_id": "nm0601301"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "E. Preston Ames",
+                  "notes": null,
+                  "imdb_id": "nm0024694"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               },
+               {
+                  "name": "F. Keogh Gleason",
+                  "notes": null,
+                  "imdb_id": "nm0322294"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David and Bathsheba",
+                  "notes": null,
+                  "imdb_id": "tt0043455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "George W. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204649"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Paul S. Fox",
+                  "notes": null,
+                  "imdb_id": "nm0289189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Riviera",
+                  "notes": null,
+                  "imdb_id": "tt0043882"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lyle R. Wheeler",
+                  "notes": null,
+                  "imdb_id": "nm0923907"
+               },
+               {
+                  "name": "Leland Fuller",
+                  "notes": null,
+                  "imdb_id": "nm0298285"
+               },
+               {
+                  "name": "Joseph C. Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942532"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               },
+               {
+                  "name": "Walter M. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779898"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William A. Horning",
+                  "notes": null,
+                  "imdb_id": "nm0395178"
+               },
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Edward C. Carfagno",
+                  "notes": null,
+                  "imdb_id": "nm0137063"
+               },
+               {
+                  "name": "Hugh Hunt",
+                  "notes": null,
+                  "imdb_id": "nm0402474"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tales of Hoffmann",
+                  "notes": null,
+                  "imdb_id": "tt0044103"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hein Heckroth",
+                  "notes": null,
+                  "imdb_id": "nm0373081"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William C. Mellor",
+                  "notes": null,
+                  "imdb_id": "nm0005794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Stradling Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0005889"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Death of a Salesman",
+                  "notes": null,
+                  "imdb_id": "tt0043458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Planer",
+                  "notes": null,
+                  "imdb_id": "nm0005832"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Strangers on a Train",
+                  "notes": null,
+                  "imdb_id": "tt0044079"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Burks",
+                  "notes": null,
+                  "imdb_id": "nm0122079"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Frogmen",
+                  "notes": null,
+                  "imdb_id": "tt0043565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norbert Brodine",
+                  "notes": null,
+                  "imdb_id": "nm0005661"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Gilks",
+                  "notes": null,
+                  "imdb_id": "nm0005720"
+               },
+               {
+                  "name": "John Alton",
+                  "notes": null,
+                  "imdb_id": "nm0023003"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David and Bathsheba",
+                  "notes": null,
+                  "imdb_id": "tt0043455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Shamroy",
+                  "notes": null,
+                  "imdb_id": "nm0005872"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               },
+               {
+                  "name": "William V. Skall",
+                  "notes": null,
+                  "imdb_id": "nm0005877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Show Boat",
+                  "notes": null,
+                  "imdb_id": "tt0044030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Rosher",
+                  "notes": null,
+                  "imdb_id": "nm0003546"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Worlds Collide",
+                  "notes": null,
+                  "imdb_id": "tt0044207"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John F. Seitz",
+                  "notes": null,
+                  "imdb_id": "nm0005870"
+               },
+               {
+                  "name": "W. Howard Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338946"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lucinda Ballard",
+                  "notes": null,
+                  "imdb_id": "nm0050646"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kind Lady",
+                  "notes": null,
+                  "imdb_id": "tt0043709"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Plunkett",
+                  "notes": null,
+                  "imdb_id": "nm0687703"
+               },
+               {
+                  "name": "Gile Steele",
+                  "notes": null,
+                  "imdb_id": "nm0824554"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Model and the Marriage Broker",
+                  "notes": null,
+                  "imdb_id": "tt0043813"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               },
+               {
+                  "name": "Reni\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0174800"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mudlark",
+                  "notes": null,
+                  "imdb_id": "tt0042757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Stevenson",
+                  "notes": null,
+                  "imdb_id": "nm0828926"
+               },
+               {
+                  "name": "Margaret Furse",
+                  "notes": null,
+                  "imdb_id": "nm0299094"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orry-Kelly",
+                  "notes": null,
+                  "imdb_id": "nm0650673"
+               },
+               {
+                  "name": "Walter Plunkett",
+                  "notes": null,
+                  "imdb_id": "nm0687703"
+               },
+               {
+                  "name": "Irene Sharaff",
+                  "notes": null,
+                  "imdb_id": "nm0788695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David and Bathsheba",
+                  "notes": null,
+                  "imdb_id": "tt0043455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Le Maire",
+                  "notes": null,
+                  "imdb_id": "nm0494406"
+               },
+               {
+                  "name": "Edward Stevenson",
+                  "notes": null,
+                  "imdb_id": "nm0828926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herschel McCoy",
+                  "notes": null,
+                  "imdb_id": "nm0380855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Caruso",
+                  "notes": null,
+                  "imdb_id": "tt0043599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Helen Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741423"
+               },
+               {
+                  "name": "Gile Steele",
+                  "notes": null,
+                  "imdb_id": "nm0824554"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tales of Hoffmann",
+                  "notes": null,
+                  "imdb_id": "tt0044103"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hein Heckroth",
+                  "notes": null,
+                  "imdb_id": "nm0373081"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "George Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828419"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Elia Kazan",
+                  "notes": null,
+                  "imdb_id": "nm0001415"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The African Queen",
+                  "notes": null,
+                  "imdb_id": "tt0043265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vincente Minnelli",
+                  "notes": null,
+                  "imdb_id": "nm0591486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Detective Story",
+                  "notes": null,
+                  "imdb_id": "tt0043465"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kon-Tiki",
+                  "notes": null,
+                  "imdb_id": "tt0042650"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Olle Nordemar",
+                  "notes": null,
+                  "imdb_id": "nm0634989"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Was a Communist for the F.B.I.",
+                  "notes": null,
+                  "imdb_id": "tt0043665"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bryan Foy",
+                  "notes": null,
+                  "imdb_id": "nm0289381"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Benjy",
+                  "notes": null,
+                  "imdb_id": "tt0043334"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Zinnemann",
+                  "notes": null,
+                  "imdb_id": "nm0003593"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Who Came Back",
+                  "notes": null,
+                  "imdb_id": "tt0043883"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Owen Crump",
+                  "notes": null,
+                  "imdb_id": "nm0190096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Seeing Eye",
+                  "notes": null,
+                  "imdb_id": "tt0044017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Hollingshead",
+                  "notes": null,
+                  "imdb_id": "nm0391121"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "When Worlds Collide",
+                  "notes": null,
+                  "imdb_id": "tt0044207"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Hornbeck",
+                  "notes": null,
+                  "imdb_id": "nm0394962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adrienne Fazan",
+                  "notes": null,
+                  "imdb_id": "nm0269751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Decision Before Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0043459"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dorothy Spencer",
+                  "notes": null,
+                  "imdb_id": "nm0817929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ralph E. Winters",
+                  "notes": null,
+                  "imdb_id": "nm0935988"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Well",
+                  "notes": null,
+                  "imdb_id": "tt0044202"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chester W. Schaeffer",
+                  "notes": null,
+                  "imdb_id": "nm0769692"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"In the Cool, Cool, Cool of the Evening\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Here Comes the Groom",
+                  "notes": null,
+                  "imdb_id": "tt0043633"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hoagy Carmichael",
+                  "notes": "(music)",
+                  "imdb_id": "nm0005994"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Never\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Golden Girl",
+                  "notes": null,
+                  "imdb_id": "tt0043592"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Newman",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006213"
+               },
+               {
+                  "name": "Eliot Daniel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0199614"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Wonder Why\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rich, Young and Pretty",
+                  "notes": null,
+                  "imdb_id": "tt0043968"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nicholas Brodszky",
+                  "notes": "(music)",
+                  "imdb_id": "nm0111004"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Too Late Now\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Royal Wedding",
+                  "notes": null,
+                  "imdb_id": "tt0043983"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Burton Lane",
+                  "notes": "(music)",
+                  "imdb_id": "nm0485263"
+               },
+               {
+                  "name": "Alan Jay Lerner",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0503585"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A Kiss to Build a Dream On\". The nomination for Bert Kalmar was posthumous.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Strip",
+                  "notes": null,
+                  "imdb_id": "tt0044083"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Kalmar",
+                  "notes": null,
+                  "imdb_id": "nm0436095"
+               },
+               {
+                  "name": "Harry Ruby",
+                  "notes": null,
+                  "imdb_id": "nm0748438"
+               },
+               {
+                  "name": "Oscar Hammerstein II",
+                  "notes": null,
+                  "imdb_id": "nm0358564"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David and Bathsheba",
+                  "notes": null,
+                  "imdb_id": "tt0043455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Death of a Salesman",
+                  "notes": null,
+                  "imdb_id": "tt0043458"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               },
+               {
+                  "name": "Saul Chaplin",
+                  "notes": null,
+                  "imdb_id": "nm0006000"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alice in Wonderland",
+                  "notes": null,
+                  "imdb_id": "tt0043274"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oliver Wallace",
+                  "notes": null,
+                  "imdb_id": "nm0006337"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Riviera",
+                  "notes": null,
+                  "imdb_id": "tt0043882"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Show Boat",
+                  "notes": null,
+                  "imdb_id": "tt0044030"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adolph Deutsch",
+                  "notes": null,
+                  "imdb_id": "nm0006037"
+               },
+               {
+                  "name": "Conrad Salinger",
+                  "notes": null,
+                  "imdb_id": "nm0758404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Great Caruso",
+                  "notes": null,
+                  "imdb_id": "tt0043599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Herman Adler",
+                  "notes": null,
+                  "imdb_id": "nm0012219"
+               },
+               {
+                  "name": "Johnny Green",
+                  "notes": null,
+                  "imdb_id": "nm0338004"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Freed",
+                  "notes": null,
+                  "imdb_id": "nm0006085"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Stevens",
+                  "notes": null,
+                  "imdb_id": "nm0828419"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles K. Feldman",
+                  "notes": null,
+                  "imdb_id": "nm0271012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Decision Before Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0043459"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anatole Litvak",
+                  "notes": null,
+                  "imdb_id": "nm0514822"
+               },
+               {
+                  "name": "Frank McCarthy",
+                  "notes": null,
+                  "imdb_id": "nm0565135"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quo Vadis",
+                  "notes": null,
+                  "imdb_id": "tt0043949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Zimbalist",
+                  "notes": null,
+                  "imdb_id": "nm0956547"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Two Mouseketeers",
+                  "notes": null,
+                  "imdb_id": "tt0044157"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Quimby",
+                  "notes": null,
+                  "imdb_id": "nm0703642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lambert the Sheepish Lion",
+                  "notes": null,
+                  "imdb_id": "tt0044821"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rooty Toot Toot",
+                  "notes": null,
+                  "imdb_id": "tt0043980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Bosustow",
+                  "notes": null,
+                  "imdb_id": "nm0098322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "World of Kids",
+                  "notes": null,
+                  "imdb_id": "tt0044218"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Youngson",
+                  "notes": null,
+                  "imdb_id": "nm0950288"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridin' the Rails",
+                  "notes": null,
+                  "imdb_id": "tt0043969"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Eaton",
+                  "notes": null,
+                  "imdb_id": "nm0247827"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Story of Time",
+                  "notes": null,
+                  "imdb_id": "tt0044077"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert G. Leffingwell",
+                  "notes": null,
+                  "imdb_id": "nm0498984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": "Paul J. Smith accepting the award.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nature's Half Acre",
+                  "notes": null,
+                  "imdb_id": "tt0043839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Balzac",
+                  "notes": null,
+                  "imdb_id": "tt0043316"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Danger Under the Sea",
+                  "notes": null,
+                  "imdb_id": "tt0043447"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Mead",
+                  "notes": null,
+                  "imdb_id": "nm0574931"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Great Caruso",
+                  "notes": null,
+                  "imdb_id": "tt0043599"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(M-G-M)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(Warner Bros.)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bright Victory",
+                  "notes": null,
+                  "imdb_id": "tt0043361"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie I. Carey",
+                  "notes": "(U-I)",
+                  "imdb_id": "nm0136989"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Want You",
+                  "notes": null,
+                  "imdb_id": "tt0043664"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Sawyer",
+                  "notes": "(Goldwyn)",
+                  "imdb_id": "nm0768167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Two Tickets to Broadway",
+                  "notes": null,
+                  "imdb_id": "tt0044158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Aalberg",
+                  "notes": "(RKO Radio)",
+                  "imdb_id": "nm0007356"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Motion Picture Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Seven Days to Noon",
+                  "notes": null,
+                  "imdb_id": "tt0042949"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Dehn",
+                  "notes": null,
+                  "imdb_id": "nm0214989"
+               },
+               {
+                  "name": "James Bernard",
+                  "notes": null,
+                  "imdb_id": "nm0002302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bullfighter and the Lady",
+                  "notes": null,
+                  "imdb_id": "tt0043363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Budd Boetticher",
+                  "notes": null,
+                  "imdb_id": "nm0091430"
+               },
+               {
+                  "name": "Ray Nazarro",
+                  "notes": null,
+                  "imdb_id": "nm0623401"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Here Comes the Groom",
+                  "notes": null,
+                  "imdb_id": "tt0043633"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Riskin",
+                  "notes": null,
+                  "imdb_id": "nm0728307"
+               },
+               {
+                  "name": "Liam O'Brien",
+                  "notes": null,
+                  "imdb_id": "nm0639676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Teresa",
+                  "notes": null,
+                  "imdb_id": "tt0044112"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0370883"
+               },
+               {
+                  "name": "Stewart Stern",
+                  "notes": null,
+                  "imdb_id": "nm0827856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Frogmen",
+                  "notes": null,
+                  "imdb_id": "tt0043565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oscar Millard",
+                  "notes": null,
+                  "imdb_id": "nm0587743"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A Place in the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0043924"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Wilson",
+                  "notes": null,
+                  "imdb_id": "nm0933858"
+               },
+               {
+                  "name": "Harry Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113689"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Streetcar Named Desire",
+                  "notes": null,
+                  "imdb_id": "tt0044081"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tennessee Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931783"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Detective Story",
+                  "notes": null,
+                  "imdb_id": "tt0043465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Yordan",
+                  "notes": null,
+                  "imdb_id": "nm0948634"
+               },
+               {
+                  "name": "Robert Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943753"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "La ronde",
+                  "notes": null,
+                  "imdb_id": "tt0042906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacques Natanson",
+                  "notes": null,
+                  "imdb_id": "nm0622148"
+               },
+               {
+                  "name": "Max Oph\u00fcls",
+                  "notes": null,
+                  "imdb_id": "nm0649097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The African Queen",
+                  "notes": null,
+                  "imdb_id": "tt0043265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Agee",
+                  "notes": null,
+                  "imdb_id": "nm0012938"
+               },
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "An American in Paris",
+                  "notes": null,
+                  "imdb_id": "tt0043278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Jay Lerner",
+                  "notes": null,
+                  "imdb_id": "nm0503585"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ace in the Hole",
+                  "notes": null,
+                  "imdb_id": "tt0043338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               },
+               {
+                  "name": "Lesser Samuels",
+                  "notes": null,
+                  "imdb_id": "nm0760488"
+               },
+               {
+                  "name": "Walter Newman",
+                  "notes": null,
+                  "imdb_id": "nm0628305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David and Bathsheba",
+                  "notes": null,
+                  "imdb_id": "tt0043455"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Dunne",
+                  "notes": null,
+                  "imdb_id": "nm0242897"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Go for Broke!",
+                  "notes": null,
+                  "imdb_id": "tt0043590"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Pirosh",
+                  "notes": null,
+                  "imdb_id": "nm0685265"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Well",
+                  "notes": null,
+                  "imdb_id": "tt0044202"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clarence Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338707"
+               },
+               {
+                  "name": "Russell Rouse",
+                  "notes": null,
+                  "imdb_id": "nm0745866"
+               }
+            ]
+         }
+      ]
+   }
+]

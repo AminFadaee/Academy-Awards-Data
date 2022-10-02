@@ -1,0 +1,2311 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kevin Spacey",
+                  "notes": null,
+                  "imdb_id": "nm0000228"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Denzel Washington",
+                  "notes": null,
+                  "imdb_id": "nm0000243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Hurricane",
+                  "notes": null,
+                  "imdb_id": "tt0174856"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Farnsworth",
+                  "notes": null,
+                  "imdb_id": "nm0002070"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Straight Story",
+                  "notes": null,
+                  "imdb_id": "tt0166896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Russell Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0000128"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sean Penn",
+                  "notes": null,
+                  "imdb_id": "nm0000576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sweet and Lowdown",
+                  "notes": null,
+                  "imdb_id": "tt0158371"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Michael Caine",
+                  "notes": null,
+                  "imdb_id": "nm0000323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Haley Joel Osment",
+                  "notes": null,
+                  "imdb_id": "nm0005286"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jude Law",
+                  "notes": null,
+                  "imdb_id": "nm0000179"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Talented Mr. Ripley",
+                  "notes": null,
+                  "imdb_id": "tt0134119"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Clarke Duncan",
+                  "notes": null,
+                  "imdb_id": "nm0003817"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Green Mile",
+                  "notes": null,
+                  "imdb_id": "tt0120689"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Cruise",
+                  "notes": null,
+                  "imdb_id": "nm0000129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Magnolia",
+                  "notes": null,
+                  "imdb_id": "tt0175880"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Hilary Swank",
+                  "notes": null,
+                  "imdb_id": "nm0005476"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boys Don't Cry",
+                  "notes": null,
+                  "imdb_id": "tt0171804"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Annette Bening",
+                  "notes": null,
+                  "imdb_id": "nm0000906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Janet McTeer",
+                  "notes": null,
+                  "imdb_id": "nm0005216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tumbleweeds",
+                  "notes": null,
+                  "imdb_id": "tt0161023"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julianne Moore",
+                  "notes": null,
+                  "imdb_id": "nm0000194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The End of the Affair",
+                  "notes": null,
+                  "imdb_id": "tt0172396"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Music of the Heart",
+                  "notes": null,
+                  "imdb_id": "tt0166943"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Angelina Jolie",
+                  "notes": null,
+                  "imdb_id": "nm0001401"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Girl, Interrupted",
+                  "notes": null,
+                  "imdb_id": "tt0172493"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Catherine Keener",
+                  "notes": null,
+                  "imdb_id": "nm0001416"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Being John Malkovich",
+                  "notes": null,
+                  "imdb_id": "tt0120601"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chlo\u00eb Sevigny",
+                  "notes": null,
+                  "imdb_id": "nm0001721"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boys Don't Cry",
+                  "notes": null,
+                  "imdb_id": "tt0171804"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samantha Morton",
+                  "notes": null,
+                  "imdb_id": "nm0608090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sweet and Lowdown",
+                  "notes": null,
+                  "imdb_id": "tt0158371"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toni Collette",
+                  "notes": null,
+                  "imdb_id": "nm0001057"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sleepy Hollow",
+                  "notes": null,
+                  "imdb_id": "tt0162661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Heinrichs",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0374511"
+               },
+               {
+                  "name": "Peter Young",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0949952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anna and the King",
+                  "notes": null,
+                  "imdb_id": "tt0166485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Luciana Arrighi",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0002186"
+               },
+               {
+                  "name": "Ian Whittaker",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0926434"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Gropman",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0343222"
+               },
+               {
+                  "name": "Beth A. Rubino",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0748211"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Talented Mr. Ripley",
+                  "notes": null,
+                  "imdb_id": "tt0134119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Walker",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0908178"
+               },
+               {
+                  "name": "Bruno Cesari",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0149055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Topsy-Turvy",
+                  "notes": null,
+                  "imdb_id": "tt0151568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eve Stewart",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0829378"
+               },
+               {
+                  "name": "John Bush",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0124151"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sleepy Hollow",
+                  "notes": null,
+                  "imdb_id": "tt0162661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emmanuel Lubezki",
+                  "notes": null,
+                  "imdb_id": "nm0523881"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Snow Falling on Cedars",
+                  "notes": null,
+                  "imdb_id": "tt0120834"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0724744"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The End of the Affair",
+                  "notes": null,
+                  "imdb_id": "tt0172396"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Pratt",
+                  "notes": null,
+                  "imdb_id": "nm0695536"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dante Spinotti",
+                  "notes": null,
+                  "imdb_id": "nm0005883"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Topsy-Turvy",
+                  "notes": null,
+                  "imdb_id": "tt0151568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lindy Hemming",
+                  "notes": null,
+                  "imdb_id": "nm0376089"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Anna and the King",
+                  "notes": null,
+                  "imdb_id": "tt0166485"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jenny Beavan",
+                  "notes": null,
+                  "imdb_id": "nm0064746"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sleepy Hollow",
+                  "notes": null,
+                  "imdb_id": "tt0162661"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Talented Mr. Ripley",
+                  "notes": null,
+                  "imdb_id": "tt0134119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744778"
+               },
+               {
+                  "name": "Gary Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428105"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Titus",
+                  "notes": null,
+                  "imdb_id": "tt0120866"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sam Mendes",
+                  "notes": null,
+                  "imdb_id": "nm0005222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lasse Hallstr\u00f6m",
+                  "notes": null,
+                  "imdb_id": "nm0002120"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "M. Night Shyamalan",
+                  "notes": null,
+                  "imdb_id": "nm0796117"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Mann",
+                  "notes": null,
+                  "imdb_id": "nm0000520"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Spike Jonze",
+                  "notes": null,
+                  "imdb_id": "nm0005069"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Being John Malkovich",
+                  "notes": null,
+                  "imdb_id": "tt0120601"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "One Day in September",
+                  "notes": null,
+                  "imdb_id": "tt0230591"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Cohn",
+                  "notes": null,
+                  "imdb_id": "nm0004453"
+               },
+               {
+                  "name": "Kevin Macdonald",
+                  "notes": null,
+                  "imdb_id": "nm0531817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Buena Vista Social Club",
+                  "notes": null,
+                  "imdb_id": "tt0186508"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wim Wenders",
+                  "notes": null,
+                  "imdb_id": "nm0000694"
+               },
+               {
+                  "name": "Ulrich Felsberg",
+                  "notes": null,
+                  "imdb_id": "nm0271570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Genghis Blues",
+                  "notes": null,
+                  "imdb_id": "tt0187859"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roko Belic",
+                  "notes": null,
+                  "imdb_id": "nm0067861"
+               },
+               {
+                  "name": "Adrian Belic",
+                  "notes": null,
+                  "imdb_id": "nm0067860"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On the Ropes",
+                  "notes": null,
+                  "imdb_id": "tt0181733"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nanette Burstein",
+                  "notes": null,
+                  "imdb_id": "nm0123379"
+               },
+               {
+                  "name": "Brett Morgen",
+                  "notes": null,
+                  "imdb_id": "nm0605137"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Speaking in Strings",
+                  "notes": null,
+                  "imdb_id": "tt0181835"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paola di Florio",
+                  "notes": null,
+                  "imdb_id": "nm0223814"
+               },
+               {
+                  "name": "Lilibet Foster",
+                  "notes": null,
+                  "imdb_id": "nm0287933"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "King Gimp",
+                  "notes": null,
+                  "imdb_id": "tt0239528"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susan Hannah Hadary",
+                  "notes": null,
+                  "imdb_id": "nm0169804"
+               },
+               {
+                  "name": "William A. Whiteford",
+                  "notes": null,
+                  "imdb_id": "nm0925659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Eyewitness",
+                  "notes": null,
+                  "imdb_id": "tt0239379"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Van Bork",
+                  "notes": null,
+                  "imdb_id": "nm0885769"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wildest Show in the South: The Angola Prison Rodeo",
+                  "notes": null,
+                  "imdb_id": "tt0240216"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Simeon Soffer",
+                  "notes": null,
+                  "imdb_id": "nm0812144"
+               },
+               {
+                  "name": "Jonathan Stack",
+                  "notes": null,
+                  "imdb_id": "nm0821033"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Matrix",
+                  "notes": null,
+                  "imdb_id": "tt0133093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dane A. Davis",
+                  "notes": null,
+                  "imdb_id": "nm0204424"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fight Club",
+                  "notes": null,
+                  "imdb_id": "tt0137523"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ren Klyce",
+                  "notes": null,
+                  "imdb_id": "nm0460274"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode I - The Phantom Menace",
+                  "notes": null,
+                  "imdb_id": "tt0120915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Burtt",
+                  "notes": null,
+                  "imdb_id": "nm0123785"
+               },
+               {
+                  "name": "Tom Bellfort",
+                  "notes": null,
+                  "imdb_id": "nm0068938"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Matrix",
+                  "notes": null,
+                  "imdb_id": "tt0133093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Gaeta",
+                  "notes": null,
+                  "imdb_id": "nm0300665"
+               },
+               {
+                  "name": "Janek Sirrs",
+                  "notes": null,
+                  "imdb_id": "nm0802938"
+               },
+               {
+                  "name": "Steve Courtley",
+                  "notes": null,
+                  "imdb_id": "nm0183871"
+               },
+               {
+                  "name": "Jon Thum",
+                  "notes": null,
+                  "imdb_id": "nm0862039"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode I - The Phantom Menace",
+                  "notes": null,
+                  "imdb_id": "tt0120915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Knoll",
+                  "notes": null,
+                  "imdb_id": "nm0461306"
+               },
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Scott Squires",
+                  "notes": null,
+                  "imdb_id": "nm0820140"
+               },
+               {
+                  "name": "Rob Coleman",
+                  "notes": null,
+                  "imdb_id": "nm0171197"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stuart Little",
+                  "notes": null,
+                  "imdb_id": "tt0164912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Dykstra",
+                  "notes": null,
+                  "imdb_id": "nm0004375"
+               },
+               {
+                  "name": "Jerome Chen",
+                  "notes": null,
+                  "imdb_id": "nm0155259"
+               },
+               {
+                  "name": "Henry F. Anderson III",
+                  "notes": null,
+                  "imdb_id": "nm0026801"
+               },
+               {
+                  "name": "Eric Allard",
+                  "notes": null,
+                  "imdb_id": "nm0020063"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Matrix",
+                  "notes": null,
+                  "imdb_id": "tt0133093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Zach Staenberg",
+                  "notes": null,
+                  "imdb_id": "nm0821205"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tariq Anwar",
+                  "notes": null,
+                  "imdb_id": "nm0031697"
+               },
+               {
+                  "name": "Christopher Greenbury",
+                  "notes": null,
+                  "imdb_id": "nm0338642"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lisa Zeno Churgin",
+                  "notes": null,
+                  "imdb_id": "nm0161497"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goldenberg",
+                  "notes": null,
+                  "imdb_id": "nm0325549"
+               },
+               {
+                  "name": "Paul Rubell",
+                  "notes": null,
+                  "imdb_id": "nm0747824"
+               },
+               {
+                  "name": "David Rosenbloom",
+                  "notes": null,
+                  "imdb_id": "nm0742430"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Mondshein",
+                  "notes": null,
+                  "imdb_id": "nm0597812"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Spain.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "All About My Mother",
+                  "notes": null,
+                  "imdb_id": "tt0185125"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "East/West",
+                  "notes": null,
+                  "imdb_id": "tt0181530"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Nepal.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Himalaya",
+                  "notes": null,
+                  "imdb_id": "tt0210727"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "United Kingdom.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Solomon & Gaenor",
+                  "notes": null,
+                  "imdb_id": "tt0181830"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Under the Sun",
+                  "notes": null,
+                  "imdb_id": "tt0158302"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Topsy-Turvy",
+                  "notes": null,
+                  "imdb_id": "tt0151568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christine Blundell",
+                  "notes": null,
+                  "imdb_id": "nm0089879"
+               },
+               {
+                  "name": "Trefor Proud",
+                  "notes": null,
+                  "imdb_id": "nm0698896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Austin Powers: The Spy Who Shagged Me",
+                  "notes": null,
+                  "imdb_id": "tt0145660"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mich\u00e8le Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121807"
+               },
+               {
+                  "name": "Mike Smithson",
+                  "notes": null,
+                  "imdb_id": "nm0810480"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bicentennial Man",
+                  "notes": null,
+                  "imdb_id": "tt0182789"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life",
+                  "notes": null,
+                  "imdb_id": "tt0123964"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Red Violin",
+                  "notes": null,
+                  "imdb_id": "tt0120802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Corigliano",
+                  "notes": null,
+                  "imdb_id": "nm0179858"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Angela's Ashes",
+                  "notes": null,
+                  "imdb_id": "tt0145653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rachel Portman",
+                  "notes": null,
+                  "imdb_id": "nm0006235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Talented Mr. Ripley",
+                  "notes": null,
+                  "imdb_id": "tt0134119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriel Yared",
+                  "notes": null,
+                  "imdb_id": "nm0001189"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"You'll Be In My Heart\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tarzan",
+                  "notes": null,
+                  "imdb_id": "tt0120855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Phil Collins",
+                  "notes": null,
+                  "imdb_id": "nm0002015"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Save Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Magnolia",
+                  "notes": null,
+                  "imdb_id": "tt0175880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aimee Mann",
+                  "notes": null,
+                  "imdb_id": "nm0005181"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Music Of My Heart\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Music of the Heart",
+                  "notes": null,
+                  "imdb_id": "tt0166943"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Blame Canada\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "South Park: Bigger, Longer & Uncut",
+                  "notes": null,
+                  "imdb_id": "tt0158983"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Trey Parker",
+                  "notes": null,
+                  "imdb_id": "nm0005295"
+               },
+               {
+                  "name": "Marc Shaiman",
+                  "notes": null,
+                  "imdb_id": "nm0003299"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"When She Loved Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toy Story 2",
+                  "notes": null,
+                  "imdb_id": "tt0120363"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Cohen",
+                  "notes": null,
+                  "imdb_id": "nm0169260"
+               },
+               {
+                  "name": "Dan Jinks",
+                  "notes": null,
+                  "imdb_id": "nm0423134"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard N. Gladstein",
+                  "notes": null,
+                  "imdb_id": "nm0321621"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Green Mile",
+                  "notes": null,
+                  "imdb_id": "tt0120689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Valdes",
+                  "notes": null,
+                  "imdb_id": "nm0883603"
+               },
+               {
+                  "name": "Frank Darabont",
+                  "notes": null,
+                  "imdb_id": "nm0001104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Mann",
+                  "notes": null,
+                  "imdb_id": "nm0000520"
+               },
+               {
+                  "name": "Pieter Jan Brugge",
+                  "notes": null,
+                  "imdb_id": "nm0115764"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0550881"
+               },
+               {
+                  "name": "Kathleen Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0005086"
+               },
+               {
+                  "name": "Barry Mendel",
+                  "notes": null,
+                  "imdb_id": "nm0578814"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Old Man and the Sea",
+                  "notes": null,
+                  "imdb_id": "tt0207639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aleksandr Petrov",
+                  "notes": null,
+                  "imdb_id": "nm0678154"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "3 Misses",
+                  "notes": null,
+                  "imdb_id": "tt0239206"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Driessen",
+                  "notes": null,
+                  "imdb_id": "nm0237895"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Humdrum",
+                  "notes": null,
+                  "imdb_id": "tt0192145"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Peake",
+                  "notes": null,
+                  "imdb_id": "nm0668849"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Grandmother Ironed the King's Shirts",
+                  "notes": null,
+                  "imdb_id": "tt0210853"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Torill Kove",
+                  "notes": null,
+                  "imdb_id": "nm0468380"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When the Day Breaks",
+                  "notes": null,
+                  "imdb_id": "tt0200282"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendy Tilby",
+                  "notes": null,
+                  "imdb_id": "nm0863195"
+               },
+               {
+                  "name": "Amanda Forbis",
+                  "notes": null,
+                  "imdb_id": "nm0285428"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "My Mother Dreams the Satan's Disciples in New York",
+                  "notes": null,
+                  "imdb_id": "tt0177023"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Schock",
+                  "notes": null,
+                  "imdb_id": "nm0774294"
+               },
+               {
+                  "name": "Tammy Tiehel",
+                  "notes": null,
+                  "imdb_id": "nm0862843"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Killing Joe",
+                  "notes": null,
+                  "imdb_id": "tt0236386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mehdi Norowzian",
+                  "notes": null,
+                  "imdb_id": "nm0635741"
+               },
+               {
+                  "name": "Steve Wax",
+                  "notes": null,
+                  "imdb_id": "nm0915377"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kleingeld",
+                  "notes": null,
+                  "imdb_id": "tt0200780"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marc-Andreas Bochert",
+                  "notes": null,
+                  "imdb_id": "nm0090596"
+               },
+               {
+                  "name": "Gabriele Lins",
+                  "notes": null,
+                  "imdb_id": "nm0513115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stora & sm\u00e5 mirakel",
+                  "notes": null,
+                  "imdb_id": "tt0239583"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcus Olsson",
+                  "notes": null,
+                  "imdb_id": "nm0648103"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Theis and Nico",
+                  "notes": null,
+                  "imdb_id": "tt0191850"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henrik Ruben Genz",
+                  "notes": null,
+                  "imdb_id": "nm0313227"
+               },
+               {
+                  "name": "Michael W. Horsten",
+                  "notes": null,
+                  "imdb_id": "nm0392350"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Matrix",
+                  "notes": null,
+                  "imdb_id": "tt0133093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John T. Reitz",
+                  "notes": null,
+                  "imdb_id": "nm0718676"
+               },
+               {
+                  "name": "Gregg Rudloff",
+                  "notes": null,
+                  "imdb_id": "nm0748832"
+               },
+               {
+                  "name": "David E. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132372"
+               },
+               {
+                  "name": "David Lee",
+                  "notes": null,
+                  "imdb_id": "nm1325883"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Star Wars: Episode I - The Phantom Menace",
+                  "notes": null,
+                  "imdb_id": "tt0120915"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Shawn Murphy",
+                  "notes": null,
+                  "imdb_id": "nm0004156"
+               },
+               {
+                  "name": "John Midgley",
+                  "notes": null,
+                  "imdb_id": "nm0585611"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Green Mile",
+                  "notes": null,
+                  "imdb_id": "tt0120689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert J. Litt",
+                  "notes": null,
+                  "imdb_id": "nm0514448"
+               },
+               {
+                  "name": "Elliot Tyson",
+                  "notes": null,
+                  "imdb_id": "nm0006525"
+               },
+               {
+                  "name": "Michael Herbick",
+                  "notes": null,
+                  "imdb_id": "nm0378655"
+               },
+               {
+                  "name": "Willie D. Burton",
+                  "notes": null,
+                  "imdb_id": "nm0123770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Doug Hemphill",
+                  "notes": null,
+                  "imdb_id": "nm0376153"
+               },
+               {
+                  "name": "Lee Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mummy",
+                  "notes": null,
+                  "imdb_id": "tt0120616"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leslie Shatz",
+                  "notes": null,
+                  "imdb_id": "nm0789458"
+               },
+               {
+                  "name": "Chris Carpenter",
+                  "notes": null,
+                  "imdb_id": "nm0139303"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Chris Munro",
+                  "notes": null,
+                  "imdb_id": "nm0613101"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Cider House Rules",
+                  "notes": null,
+                  "imdb_id": "tt0124315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Irving",
+                  "notes": null,
+                  "imdb_id": "nm0410288"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Election",
+                  "notes": null,
+                  "imdb_id": "tt0126886"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Payne",
+                  "notes": null,
+                  "imdb_id": "nm0668247"
+               },
+               {
+                  "name": "Jim Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852591"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Green Mile",
+                  "notes": null,
+                  "imdb_id": "tt0120689"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Darabont",
+                  "notes": null,
+                  "imdb_id": "nm0001104"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Insider",
+                  "notes": null,
+                  "imdb_id": "tt0140352"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Roth",
+                  "notes": null,
+                  "imdb_id": "nm0744839"
+               },
+               {
+                  "name": "Michael Mann",
+                  "notes": null,
+                  "imdb_id": "nm0000520"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Talented Mr. Ripley",
+                  "notes": null,
+                  "imdb_id": "tt0134119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Minghella",
+                  "notes": null,
+                  "imdb_id": "nm0005237"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Beauty",
+                  "notes": null,
+                  "imdb_id": "tt0169547"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Ball",
+                  "notes": null,
+                  "imdb_id": "nm0050332"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Being John Malkovich",
+                  "notes": null,
+                  "imdb_id": "tt0120601"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charlie Kaufman",
+                  "notes": null,
+                  "imdb_id": "nm0442109"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Magnolia",
+                  "notes": null,
+                  "imdb_id": "tt0175880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sixth Sense",
+                  "notes": null,
+                  "imdb_id": "tt0167404"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "M. Night Shyamalan",
+                  "notes": null,
+                  "imdb_id": "nm0796117"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Topsy-Turvy",
+                  "notes": null,
+                  "imdb_id": "tt0151568"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mike Leigh",
+                  "notes": null,
+                  "imdb_id": "nm0005139"
+               }
+            ]
+         }
+      ]
+   }
+]

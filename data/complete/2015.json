@@ -1,0 +1,2725 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alejandro G. I\u00f1\u00e1rritu",
+                  "notes": null,
+                  "imdb_id": "nm0327944"
+               },
+               {
+                  "name": "John Lesher",
+                  "notes": null,
+                  "imdb_id": "nm0971956"
+               },
+               {
+                  "name": "James W. Skotchdopole",
+                  "notes": null,
+                  "imdb_id": "nm0804739"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               },
+               {
+                  "name": "Robert Lorenz",
+                  "notes": null,
+                  "imdb_id": "nm0520749"
+               },
+               {
+                  "name": "Andrew Lazar",
+                  "notes": null,
+                  "imdb_id": "nm0493662"
+               },
+               {
+                  "name": "Bradley Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177896"
+               },
+               {
+                  "name": "Peter Morgan",
+                  "notes": null,
+                  "imdb_id": "nm0604950"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Linklater",
+                  "notes": null,
+                  "imdb_id": "nm0000500"
+               },
+               {
+                  "name": "Cathleen Sutherland",
+                  "notes": null,
+                  "imdb_id": "nm0840060"
+               }
+            ]
+         },
+         {
+            "notes": "Oprah Winfrey becomes the first African American woman to be nominated for Best Picture.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Selma",
+                  "notes": null,
+                  "imdb_id": "tt1020072"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Colson",
+                  "notes": null,
+                  "imdb_id": "nm1384503"
+               },
+               {
+                  "name": "Oprah Winfrey",
+                  "notes": null,
+                  "imdb_id": "nm0001856"
+               },
+               {
+                  "name": "Dede Gardner",
+                  "notes": null,
+                  "imdb_id": "nm0306890"
+               },
+               {
+                  "name": "Jeremy Kleiner",
+                  "notes": null,
+                  "imdb_id": "nm1250070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wes Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027572"
+               },
+               {
+                  "name": "Scott Rudin",
+                  "notes": null,
+                  "imdb_id": "nm0748784"
+               },
+               {
+                  "name": "Steven Rales",
+                  "notes": null,
+                  "imdb_id": "nm2262509"
+               },
+               {
+                  "name": "Jeremy Dawson",
+                  "notes": null,
+                  "imdb_id": "nm0206154"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nora Grossman",
+                  "notes": null,
+                  "imdb_id": "nm3860486"
+               },
+               {
+                  "name": "Ido Ostrowsky",
+                  "notes": null,
+                  "imdb_id": "nm1755470"
+               },
+               {
+                  "name": "Teddy Schwarzman",
+                  "notes": null,
+                  "imdb_id": "nm3267061"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Theory of Everything",
+                  "notes": null,
+                  "imdb_id": "tt2980516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Bevan",
+                  "notes": null,
+                  "imdb_id": "nm0079677"
+               },
+               {
+                  "name": "Eric Fellner",
+                  "notes": null,
+                  "imdb_id": "nm0271479"
+               },
+               {
+                  "name": "Lisa Bruce",
+                  "notes": null,
+                  "imdb_id": "nm0115537"
+               },
+               {
+                  "name": "Anthony McCarten",
+                  "notes": null,
+                  "imdb_id": "nm0565026"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Whiplash",
+                  "notes": null,
+                  "imdb_id": "tt2582802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jason Blum",
+                  "notes": null,
+                  "imdb_id": "nm0089658"
+               },
+               {
+                  "name": "Helen Estabrook",
+                  "notes": null,
+                  "imdb_id": "nm2615685"
+               },
+               {
+                  "name": "David Lancaster",
+                  "notes": null,
+                  "imdb_id": "nm0484123"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Eddie Redmayne",
+                  "notes": null,
+                  "imdb_id": "nm1519666"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Theory of Everything",
+                  "notes": null,
+                  "imdb_id": "tt2980516"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Benedict Cumberbatch",
+                  "notes": null,
+                  "imdb_id": "nm1212722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bradley Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0177896"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michael Keaton",
+                  "notes": null,
+                  "imdb_id": "nm0000474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steve Carell",
+                  "notes": null,
+                  "imdb_id": "nm0136797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Foxcatcher",
+                  "notes": null,
+                  "imdb_id": "tt1100089"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Julianne Moore",
+                  "notes": null,
+                  "imdb_id": "nm0000194"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Still Alice",
+                  "notes": null,
+                  "imdb_id": "tt3316960"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Felicity Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428065"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Theory of Everything",
+                  "notes": null,
+                  "imdb_id": "tt2980516"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marion Cotillard",
+                  "notes": null,
+                  "imdb_id": "nm0182839"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Two Days, One Night",
+                  "notes": null,
+                  "imdb_id": "tt2737050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Reese Witherspoon",
+                  "notes": null,
+                  "imdb_id": "nm0000702"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wild",
+                  "notes": null,
+                  "imdb_id": "tt2305051"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rosamund Pike",
+                  "notes": null,
+                  "imdb_id": "nm0683253"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gone Girl",
+                  "notes": null,
+                  "imdb_id": "tt2267998"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "J.K. Simmons",
+                  "notes": null,
+                  "imdb_id": "nm0799777"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Whiplash",
+                  "notes": null,
+                  "imdb_id": "tt2582802"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward Norton",
+                  "notes": null,
+                  "imdb_id": "nm0001570"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ethan Hawke",
+                  "notes": null,
+                  "imdb_id": "nm0000160"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mark Ruffalo",
+                  "notes": null,
+                  "imdb_id": "nm0749263"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Foxcatcher",
+                  "notes": null,
+                  "imdb_id": "tt1100089"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Duvall",
+                  "notes": null,
+                  "imdb_id": "nm0000380"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Judge",
+                  "notes": null,
+                  "imdb_id": "tt1872194"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Patricia Arquette",
+                  "notes": null,
+                  "imdb_id": "nm0000099"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Emma Stone",
+                  "notes": null,
+                  "imdb_id": "nm1297015"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Keira Knightley",
+                  "notes": null,
+                  "imdb_id": "nm0461136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura Dern",
+                  "notes": null,
+                  "imdb_id": "nm0000368"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wild",
+                  "notes": null,
+                  "imdb_id": "tt2305051"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Into the Woods",
+                  "notes": null,
+                  "imdb_id": "tt2180411"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Alejandro G. I\u00f1\u00e1rritu",
+                  "notes": null,
+                  "imdb_id": "nm0327944"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bennett Miller",
+                  "notes": null,
+                  "imdb_id": "nm0587955"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Foxcatcher",
+                  "notes": null,
+                  "imdb_id": "tt1100089"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Morten Tyldum",
+                  "notes": null,
+                  "imdb_id": "nm0878763"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Richard Linklater",
+                  "notes": null,
+                  "imdb_id": "nm0000500"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wes Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027572"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alejandro G. I\u00f1\u00e1rritu",
+                  "notes": null,
+                  "imdb_id": "nm0327944"
+               },
+               {
+                  "name": "Nicol\u00e1s Giacobone",
+                  "notes": null,
+                  "imdb_id": "nm1481172"
+               },
+               {
+                  "name": "Alexander Dinelaris",
+                  "notes": null,
+                  "imdb_id": "nm5409486"
+               },
+               {
+                  "name": "Armando Bo",
+                  "notes": null,
+                  "imdb_id": "nm3174584"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Linklater",
+                  "notes": null,
+                  "imdb_id": "nm0000500"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foxcatcher",
+                  "notes": null,
+                  "imdb_id": "tt1100089"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "E. Max Frye",
+                  "notes": null,
+                  "imdb_id": "nm0296861"
+               },
+               {
+                  "name": "Dan Futterman",
+                  "notes": null,
+                  "imdb_id": "nm0001246"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nightcrawler",
+                  "notes": null,
+                  "imdb_id": "tt2872718"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan Gilroy",
+                  "notes": null,
+                  "imdb_id": "nm0319659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wes Anderson",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0027572"
+               },
+               {
+                  "name": "Hugo Guinness",
+                  "notes": "(story)",
+                  "imdb_id": "nm2450453"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Graham Moore",
+                  "notes": null,
+                  "imdb_id": "nm2441699"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jason Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355699"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inherent Vice",
+                  "notes": null,
+                  "imdb_id": "tt1791528"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Thomas Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0000759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Theory of Everything",
+                  "notes": null,
+                  "imdb_id": "tt2980516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony McCarten",
+                  "notes": null,
+                  "imdb_id": "nm0565026"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Whiplash",
+                  "notes": null,
+                  "imdb_id": "tt2582802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Damien Chazelle",
+                  "notes": null,
+                  "imdb_id": "nm3227090"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emmanuel Lubezki",
+                  "notes": null,
+                  "imdb_id": "nm0523881"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ida",
+                  "notes": null,
+                  "imdb_id": "tt2718492"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lukasz Zal",
+                  "notes": null,
+                  "imdb_id": "nm2617994"
+               },
+               {
+                  "name": "Ryszard Lenczewski",
+                  "notes": null,
+                  "imdb_id": "nm0501755"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mr. Turner",
+                  "notes": null,
+                  "imdb_id": "tt2473794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dick Pope",
+                  "notes": null,
+                  "imdb_id": "nm0005836"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert D. Yeoman",
+                  "notes": null,
+                  "imdb_id": "nm0005934"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unbroken",
+                  "notes": null,
+                  "imdb_id": "tt1809398"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Whiplash",
+                  "notes": null,
+                  "imdb_id": "tt2582802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom Cross",
+                  "notes": null,
+                  "imdb_id": "nm0189285"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Cox",
+                  "notes": null,
+                  "imdb_id": "nm0185088"
+               },
+               {
+                  "name": "Gary Roach",
+                  "notes": null,
+                  "imdb_id": "nm0730013"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boyhood",
+                  "notes": null,
+                  "imdb_id": "tt1065073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandra Adair",
+                  "notes": null,
+                  "imdb_id": "nm0010471"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barney Pilling",
+                  "notes": null,
+                  "imdb_id": "nm1306189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goldenberg",
+                  "notes": null,
+                  "imdb_id": "nm0325549"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Stockhausen",
+                  "notes": "(production design)",
+                  "imdb_id": "nm1360914"
+               },
+               {
+                  "name": "Anna Pinnock",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0003519"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interstellar",
+                  "notes": null,
+                  "imdb_id": "tt0816692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Crowley",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0189769"
+               },
+               {
+                  "name": "Gary Fettis",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0275361"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Into the Woods",
+                  "notes": null,
+                  "imdb_id": "tt2180411"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Gassner",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0309357"
+               },
+               {
+                  "name": "Anna Pinnock",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0003519"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mr. Turner",
+                  "notes": null,
+                  "imdb_id": "tt2473794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suzie Davies",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0203990"
+               },
+               {
+                  "name": "Charlotte Dirickx",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0915117"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maria Djurkovic",
+                  "notes": "(production design)",
+                  "imdb_id": "nm0229319"
+               },
+               {
+                  "name": "Tatiana Macdonald",
+                  "notes": "(set decoration)",
+                  "imdb_id": "nm0526248"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Inherent Vice",
+                  "notes": null,
+                  "imdb_id": "tt1791528"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0108775"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Into the Woods",
+                  "notes": null,
+                  "imdb_id": "tt2180411"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Colleen Atwood",
+                  "notes": null,
+                  "imdb_id": "nm0041181"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maleficent",
+                  "notes": null,
+                  "imdb_id": "tt1587310"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anna B. Sheppard",
+                  "notes": null,
+                  "imdb_id": "nm0081318"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mr. Turner",
+                  "notes": null,
+                  "imdb_id": "tt2473794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacqueline Durran",
+                  "notes": null,
+                  "imdb_id": "nm0244330"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances Hannon",
+                  "notes": null,
+                  "imdb_id": "nm0360470"
+               },
+               {
+                  "name": "Mark Coulier",
+                  "notes": null,
+                  "imdb_id": "nm0183418"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Foxcatcher",
+                  "notes": null,
+                  "imdb_id": "tt1100089"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Corso",
+                  "notes": null,
+                  "imdb_id": "nm0181134"
+               },
+               {
+                  "name": "Dennis Liddiard",
+                  "notes": null,
+                  "imdb_id": "nm0509187"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guardians of the Galaxy",
+                  "notes": null,
+                  "imdb_id": "tt2015381"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elizabeth Yianni-Georgiou",
+                  "notes": null,
+                  "imdb_id": "nm0947958"
+               },
+               {
+                  "name": "David White",
+                  "notes": null,
+                  "imdb_id": "nm0924675"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "notes": "Song: \"Glory\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Selma",
+                  "notes": null,
+                  "imdb_id": "tt1020072"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Common",
+                  "notes": "(as Lonnie Lynn)",
+                  "imdb_id": "nm0996669"
+               },
+               {
+                  "name": "John Legend",
+                  "notes": "(as John Stephens)",
+                  "imdb_id": "nm1775466"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Lost Stars\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Begin Again",
+                  "notes": null,
+                  "imdb_id": "tt1980929"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gregg Alexander",
+                  "notes": null,
+                  "imdb_id": "nm1353967"
+               },
+               {
+                  "name": "Danielle Brisebois",
+                  "notes": null,
+                  "imdb_id": "nm0109815"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Grateful\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beyond the Lights",
+                  "notes": null,
+                  "imdb_id": "tt3125324"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Diane Warren",
+                  "notes": null,
+                  "imdb_id": "nm0005534"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"I'm Not Gonna Miss You\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glen Campbell: I'll Be Me",
+                  "notes": null,
+                  "imdb_id": "tt2049586"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0004794"
+               },
+               {
+                  "name": "Julian Raymond",
+                  "notes": null,
+                  "imdb_id": "nm0713305"
+               }
+            ]
+         },
+         {
+            "notes": "Song: \"Everything is Awesome\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lego Movie",
+                  "notes": null,
+                  "imdb_id": "tt1490017"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shawn Patterson",
+                  "notes": null,
+                  "imdb_id": "nm0666405"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Grand Budapest Hotel",
+                  "notes": null,
+                  "imdb_id": "tt2278388"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Desplat",
+                  "notes": null,
+                  "imdb_id": "nm0006035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interstellar",
+                  "notes": null,
+                  "imdb_id": "tt0816692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mr. Turner",
+                  "notes": null,
+                  "imdb_id": "tt2473794"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Yershon",
+                  "notes": null,
+                  "imdb_id": "nm0947665"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Imitation Game",
+                  "notes": null,
+                  "imdb_id": "tt2084970"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Desplat",
+                  "notes": null,
+                  "imdb_id": "nm0006035"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Theory of Everything",
+                  "notes": null,
+                  "imdb_id": "tt2980516"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "J\u00f3hann J\u00f3hannsson",
+                  "notes": null,
+                  "imdb_id": "nm0433580"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Whiplash",
+                  "notes": null,
+                  "imdb_id": "tt2582802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Craig Mann",
+                  "notes": null,
+                  "imdb_id": "nm1023649"
+               },
+               {
+                  "name": "Ben Wilkins",
+                  "notes": null,
+                  "imdb_id": "nm0929240"
+               },
+               {
+                  "name": "Thomas Curley",
+                  "notes": null,
+                  "imdb_id": "nm1093577"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John T. Reitz",
+                  "notes": null,
+                  "imdb_id": "nm0718676"
+               },
+               {
+                  "name": "Gregg Rudloff",
+                  "notes": null,
+                  "imdb_id": "nm0748832"
+               },
+               {
+                  "name": "Walt Martin",
+                  "notes": null,
+                  "imdb_id": "nm0553190"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852656"
+               },
+               {
+                  "name": "Frank A. Monta\u00f1o",
+                  "notes": null,
+                  "imdb_id": "nm0599057"
+               },
+               {
+                  "name": "Thomas Varga",
+                  "notes": null,
+                  "imdb_id": "nm0889746"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interstellar",
+                  "notes": null,
+                  "imdb_id": "tt0816692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary A. Rizzo",
+                  "notes": null,
+                  "imdb_id": "nm0729886"
+               },
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Mark Weingarten",
+                  "notes": null,
+                  "imdb_id": "nm0918319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unbroken",
+                  "notes": null,
+                  "imdb_id": "tt1809398"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0852656"
+               },
+               {
+                  "name": "Frank A. Monta\u00f1o",
+                  "notes": null,
+                  "imdb_id": "nm0599057"
+               },
+               {
+                  "name": "David Lee",
+                  "notes": null,
+                  "imdb_id": "nm1325883"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "American Sniper",
+                  "notes": null,
+                  "imdb_id": "tt2179136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Robert Murray",
+                  "notes": null,
+                  "imdb_id": "nm0614812"
+               },
+               {
+                  "name": "Bub Asman",
+                  "notes": null,
+                  "imdb_id": "nm0039544"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+                  "notes": null,
+                  "imdb_id": "tt2562232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Glascock",
+                  "notes": null,
+                  "imdb_id": "nm0321790"
+               },
+               {
+                  "name": "Mart\u00edn Hern\u00e1ndez",
+                  "notes": null,
+                  "imdb_id": "nm0380057"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Interstellar",
+                  "notes": null,
+                  "imdb_id": "tt0816692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard King",
+                  "notes": null,
+                  "imdb_id": "nm0455185"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hobbit: The Battle of the Five Armies",
+                  "notes": null,
+                  "imdb_id": "tt2310332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brent Burge",
+                  "notes": null,
+                  "imdb_id": "nm0121151"
+               },
+               {
+                  "name": "Jason Canovas",
+                  "notes": null,
+                  "imdb_id": "nm0134417"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unbroken",
+                  "notes": null,
+                  "imdb_id": "tt1809398"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Becky Sullivan",
+                  "notes": null,
+                  "imdb_id": "nm0167915"
+               },
+               {
+                  "name": "Andrew DeCristofaro",
+                  "notes": null,
+                  "imdb_id": "nm0214014"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Interstellar",
+                  "notes": null,
+                  "imdb_id": "tt0816692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul J. Franklin",
+                  "notes": null,
+                  "imdb_id": "nm0291518"
+               },
+               {
+                  "name": "Andrew Lockley",
+                  "notes": null,
+                  "imdb_id": "nm0516916"
+               },
+               {
+                  "name": "Ian Hunter",
+                  "notes": null,
+                  "imdb_id": "nm0402843"
+               },
+               {
+                  "name": "Scott R. Fisher",
+                  "notes": null,
+                  "imdb_id": "nm0279782"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Captain America: The Winter Soldier",
+                  "notes": null,
+                  "imdb_id": "tt1843866"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dan DeLeeuw",
+                  "notes": null,
+                  "imdb_id": "nm0216699"
+               },
+               {
+                  "name": "Russell Earl",
+                  "notes": null,
+                  "imdb_id": "nm0247270"
+               },
+               {
+                  "name": "Bryan Grill",
+                  "notes": null,
+                  "imdb_id": "nm0341985"
+               },
+               {
+                  "name": "Daniel Sudick",
+                  "notes": null,
+                  "imdb_id": "nm0837203"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dawn of the Planet of the Apes",
+                  "notes": null,
+                  "imdb_id": "tt2103281"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Letteri",
+                  "notes": null,
+                  "imdb_id": "nm0504784"
+               },
+               {
+                  "name": "Dan Lemmon",
+                  "notes": null,
+                  "imdb_id": "nm0501424"
+               },
+               {
+                  "name": "Daniel Barrett",
+                  "notes": null,
+                  "imdb_id": "nm2280778"
+               },
+               {
+                  "name": "Erik Winquist",
+                  "notes": null,
+                  "imdb_id": "nm0935445"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Guardians of the Galaxy",
+                  "notes": null,
+                  "imdb_id": "tt2015381"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephane Ceretti",
+                  "notes": null,
+                  "imdb_id": "nm0148547"
+               },
+               {
+                  "name": "Nicolas Aithadi",
+                  "notes": null,
+                  "imdb_id": "nm1212365"
+               },
+               {
+                  "name": "Jonathan Fawkner",
+                  "notes": null,
+                  "imdb_id": "nm1000834"
+               },
+               {
+                  "name": "Paul Corbould",
+                  "notes": null,
+                  "imdb_id": "nm0179274"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "X-Men: Days of Future Past",
+                  "notes": null,
+                  "imdb_id": "tt1877832"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Stammers",
+                  "notes": null,
+                  "imdb_id": "nm0821868"
+               },
+               {
+                  "name": "Lou Pecora",
+                  "notes": null,
+                  "imdb_id": "nm1022027"
+               },
+               {
+                  "name": "Tim Crosbie",
+                  "notes": null,
+                  "imdb_id": "nm0188963"
+               },
+               {
+                  "name": "Cameron Waldbauer",
+                  "notes": null,
+                  "imdb_id": "nm0907030"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Feast",
+                  "notes": null,
+                  "imdb_id": "tt3689498"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patrick Osborne",
+                  "notes": null,
+                  "imdb_id": "nm2444148"
+               },
+               {
+                  "name": "Kristina Reed",
+                  "notes": null,
+                  "imdb_id": "nm0715534"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Single Life",
+                  "notes": null,
+                  "imdb_id": "tt3838700"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joris Oprins",
+                  "notes": null,
+                  "imdb_id": "nm1977837"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Me and My Moulton",
+                  "notes": null,
+                  "imdb_id": "tt3946086"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Torill Kove",
+                  "notes": null,
+                  "imdb_id": "nm0468380"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bigger Picture",
+                  "notes": null,
+                  "imdb_id": "tt3610188"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daisy Jacobs",
+                  "notes": null,
+                  "imdb_id": "nm4441366"
+               },
+               {
+                  "name": "Chris Hees",
+                  "notes": null,
+                  "imdb_id": "nm6372097"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Dam Keeper",
+                  "notes": null,
+                  "imdb_id": "tt3326262"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Kondo",
+                  "notes": null,
+                  "imdb_id": "nm2937142"
+               },
+               {
+                  "name": "Daisuke 'Dice' Tsutsumi",
+                  "notes": null,
+                  "imdb_id": "nm1156606"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Phone Call",
+                  "notes": null,
+                  "imdb_id": "tt3071532"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mat Kirkby",
+                  "notes": null,
+                  "imdb_id": "nm2375389"
+               },
+               {
+                  "name": "James Lucas",
+                  "notes": null,
+                  "imdb_id": "nm5819328"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aya",
+                  "notes": null,
+                  "imdb_id": "tt2326094"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Oded Binnun",
+                  "notes": null,
+                  "imdb_id": "nm1729068"
+               },
+               {
+                  "name": "Mihal Brezis",
+                  "notes": null,
+                  "imdb_id": "nm1729072"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boogaloo and Graham",
+                  "notes": null,
+                  "imdb_id": "tt3612232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Lennox",
+                  "notes": null,
+                  "imdb_id": "nm3156269"
+               },
+               {
+                  "name": "Ronan Blaney",
+                  "notes": null,
+                  "imdb_id": "nm3905562"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Butter Lamp",
+                  "notes": null,
+                  "imdb_id": "tt2922078"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wei Hu",
+                  "notes": null,
+                  "imdb_id": "nm5130656"
+               },
+               {
+                  "name": "Julien F\u00e9ret",
+                  "notes": null,
+                  "imdb_id": "nm0299676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Parvaneh",
+                  "notes": null,
+                  "imdb_id": "tt3008010"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Talkhon Hamzavi",
+                  "notes": null,
+                  "imdb_id": "nm4422449"
+               },
+               {
+                  "name": "Stefan Eichenberger",
+                  "notes": null,
+                  "imdb_id": "nm3022531"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subject",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crisis Hotline: Veterans Press 1",
+                  "notes": null,
+                  "imdb_id": "tt3449252"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ellen Goosenberg Kent",
+                  "notes": null,
+                  "imdb_id": "nm0329651"
+               },
+               {
+                  "name": "Dana Heinz Perry",
+                  "notes": null,
+                  "imdb_id": "nm0675017"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joanna",
+                  "notes": null,
+                  "imdb_id": "tt2976354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aneta Kopacz",
+                  "notes": null,
+                  "imdb_id": "nm5098826"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Our Curse",
+                  "notes": null,
+                  "imdb_id": "tt3069992"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tomasz Sliwinski",
+                  "notes": null,
+                  "imdb_id": "nm4724948"
+               },
+               {
+                  "name": "Maciej Slesicki",
+                  "notes": null,
+                  "imdb_id": "nm0805751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Reaper",
+                  "notes": null,
+                  "imdb_id": "tt3438472"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriel Serra",
+                  "notes": null,
+                  "imdb_id": "nm4717581"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "White Earth",
+                  "notes": null,
+                  "imdb_id": "tt3044564"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Jensen",
+                  "notes": null,
+                  "imdb_id": "nm2650005"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Feature",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Citizenfour",
+                  "notes": null,
+                  "imdb_id": "tt4044364"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Laura Poitras",
+                  "notes": null,
+                  "imdb_id": "nm0688636"
+               },
+               {
+                  "name": "Mathilde Bonnefoy",
+                  "notes": null,
+                  "imdb_id": "nm0094850"
+               },
+               {
+                  "name": "Dirk Wilutzky",
+                  "notes": null,
+                  "imdb_id": "nm0934406"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Vivian Maier",
+                  "notes": null,
+                  "imdb_id": "tt2714900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Maloof",
+                  "notes": null,
+                  "imdb_id": "nm5525244"
+               },
+               {
+                  "name": "Charlie Siskel",
+                  "notes": null,
+                  "imdb_id": "nm0803020"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Last Days in Vietnam",
+                  "notes": null,
+                  "imdb_id": "tt3279124"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rory Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0448311"
+               },
+               {
+                  "name": "Keven McAlester",
+                  "notes": null,
+                  "imdb_id": "nm2222778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Salt of the Earth",
+                  "notes": null,
+                  "imdb_id": "tt3674140"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wim Wenders",
+                  "notes": null,
+                  "imdb_id": "nm0000694"
+               },
+               {
+                  "name": "Juliano Ribeiro Salgado",
+                  "notes": null,
+                  "imdb_id": "nm2081382"
+               },
+               {
+                  "name": "David Rosier",
+                  "notes": null,
+                  "imdb_id": "nm6514669"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Virunga",
+                  "notes": null,
+                  "imdb_id": "tt3455224"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Orlando von Einsiedel",
+                  "notes": null,
+                  "imdb_id": "nm3915542"
+               },
+               {
+                  "name": "Joanna Natasegara",
+                  "notes": null,
+                  "imdb_id": "nm3319085"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "notes": "Poland",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ida",
+                  "notes": null,
+                  "imdb_id": "tt2718492"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Russia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Leviathan",
+                  "notes": null,
+                  "imdb_id": "tt2802154"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Estonia",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tangerines",
+                  "notes": null,
+                  "imdb_id": "tt2991224"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mauritania",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Timbuktu",
+                  "notes": null,
+                  "imdb_id": "tt3409392"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Argentina",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wild Tales",
+                  "notes": null,
+                  "imdb_id": "tt3011894"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Big Hero 6",
+                  "notes": null,
+                  "imdb_id": "tt2245084"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Hall",
+                  "notes": null,
+                  "imdb_id": "nm2320658"
+               },
+               {
+                  "name": "Chris Williams",
+                  "notes": null,
+                  "imdb_id": "nm0930261"
+               },
+               {
+                  "name": "Roy Conli",
+                  "notes": null,
+                  "imdb_id": "nm0174807"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How to Train Your Dragon 2",
+                  "notes": null,
+                  "imdb_id": "tt1646971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean DeBlois",
+                  "notes": null,
+                  "imdb_id": "nm0213450"
+               },
+               {
+                  "name": "Bonnie Arnold",
+                  "notes": null,
+                  "imdb_id": "nm0036366"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Song of the Sea",
+                  "notes": null,
+                  "imdb_id": "tt1865505"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tomm Moore",
+                  "notes": null,
+                  "imdb_id": "nm1119079"
+               },
+               {
+                  "name": "Paul Young",
+                  "notes": null,
+                  "imdb_id": "nm2727721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Boxtrolls",
+                  "notes": null,
+                  "imdb_id": "tt0787474"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Stacchi",
+                  "notes": null,
+                  "imdb_id": "nm0820934"
+               },
+               {
+                  "name": "Graham Annable",
+                  "notes": null,
+                  "imdb_id": "nm0030253"
+               },
+               {
+                  "name": "Travis Knight",
+                  "notes": null,
+                  "imdb_id": "nm1325899"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tale of The Princess Kaguya",
+                  "notes": null,
+                  "imdb_id": "tt2576852"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Isao Takahata",
+                  "notes": null,
+                  "imdb_id": "nm0847223"
+               },
+               {
+                  "name": "Yoshiaki Nishimura",
+                  "notes": null,
+                  "imdb_id": "nm2052679"
+               }
+            ]
+         }
+      ]
+   }
+]

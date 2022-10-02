@@ -1,0 +1,2178 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Whitmore",
+                  "notes": null,
+                  "imdb_id": "nm0926235"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Give 'em Hell, Harry!",
+                  "notes": null,
+                  "imdb_id": "tt0073053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Maximilian Schell",
+                  "notes": null,
+                  "imdb_id": "nm0001703"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Man in the Glass Booth",
+                  "notes": null,
+                  "imdb_id": "tt0073345"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walter Matthau",
+                  "notes": null,
+                  "imdb_id": "nm0000527"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sunshine Boys",
+                  "notes": null,
+                  "imdb_id": "tt0073766"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "George Burns",
+                  "notes": null,
+                  "imdb_id": "nm0122675"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Sunshine Boys",
+                  "notes": null,
+                  "imdb_id": "tt0073766"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brad Dourif",
+                  "notes": null,
+                  "imdb_id": "nm0000374"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Burgess Meredith",
+                  "notes": null,
+                  "imdb_id": "nm0580565"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Day of the Locust",
+                  "notes": null,
+                  "imdb_id": "tt0072848"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chris Sarandon",
+                  "notes": null,
+                  "imdb_id": "nm0001697"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Warden",
+                  "notes": null,
+                  "imdb_id": "nm0912001"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shampoo",
+                  "notes": null,
+                  "imdb_id": "tt0073692"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Louise Fletcher",
+                  "notes": null,
+                  "imdb_id": "nm0001221"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ann-Margret",
+                  "notes": null,
+                  "imdb_id": "nm0000268"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tommy",
+                  "notes": null,
+                  "imdb_id": "tt0073812"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Carol Kane",
+                  "notes": null,
+                  "imdb_id": "nm0001406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hester Street",
+                  "notes": null,
+                  "imdb_id": "tt0073107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glenda Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0413559"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hedda",
+                  "notes": null,
+                  "imdb_id": "tt0073098"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Isabelle Adjani",
+                  "notes": null,
+                  "imdb_id": "nm0000254"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Story of Adele H",
+                  "notes": null,
+                  "imdb_id": "tt0073114"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lee Grant",
+                  "notes": null,
+                  "imdb_id": "nm0335519"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shampoo",
+                  "notes": null,
+                  "imdb_id": "tt0073692"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brenda Vaccaro",
+                  "notes": null,
+                  "imdb_id": "nm0882853"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Once Is Not Enough",
+                  "notes": null,
+                  "imdb_id": "tt0073190"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lily Tomlin",
+                  "notes": null,
+                  "imdb_id": "nm0005499"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nashville",
+                  "notes": null,
+                  "imdb_id": "tt0073440"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ronee Blakley",
+                  "notes": null,
+                  "imdb_id": "nm0086867"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nashville",
+                  "notes": null,
+                  "imdb_id": "tt0073440"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sylvia Miles",
+                  "notes": null,
+                  "imdb_id": "nm0587249"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farewell, My Lovely",
+                  "notes": null,
+                  "imdb_id": "tt0072973"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Adam",
+                  "notes": null,
+                  "imdb_id": "nm0010553"
+               },
+               {
+                  "name": "Roy Walker",
+                  "notes": null,
+                  "imdb_id": "nm0908178"
+               },
+               {
+                  "name": "Vernon Dixon",
+                  "notes": null,
+                  "imdb_id": "nm0228999"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shampoo",
+                  "notes": null,
+                  "imdb_id": "tt0073692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Sylbert",
+                  "notes": null,
+                  "imdb_id": "nm0843129"
+               },
+               {
+                  "name": "W. Stewart Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132922"
+               },
+               {
+                  "name": "George Gaines",
+                  "notes": null,
+                  "imdb_id": "nm0301321"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hindenburg",
+                  "notes": null,
+                  "imdb_id": "tt0073113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward C. Carfagno",
+                  "notes": null,
+                  "imdb_id": "nm0137063"
+               },
+               {
+                  "name": "Frank R. McKelvy",
+                  "notes": null,
+                  "imdb_id": "nm0571305"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Would Be King",
+                  "notes": null,
+                  "imdb_id": "tt0073341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexandre Trauner",
+                  "notes": null,
+                  "imdb_id": "nm0871202"
+               },
+               {
+                  "name": "Tony Inglis",
+                  "notes": null,
+                  "imdb_id": "nm0408888"
+               },
+               {
+                  "name": "Peter James",
+                  "notes": null,
+                  "imdb_id": "nm0416825"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sunshine Boys",
+                  "notes": null,
+                  "imdb_id": "tt0073766"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Brenner",
+                  "notes": null,
+                  "imdb_id": "nm0107447"
+               },
+               {
+                  "name": "Marvin March",
+                  "notes": null,
+                  "imdb_id": "nm0545322"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Alcott",
+                  "notes": null,
+                  "imdb_id": "nm0005633"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Lady",
+                  "notes": null,
+                  "imdb_id": "tt0073026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Wong Howe",
+                  "notes": null,
+                  "imdb_id": "nm0002146"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Haskell Wexler",
+                  "notes": null,
+                  "imdb_id": "nm0005549"
+               },
+               {
+                  "name": "Bill Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124832"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Day of the Locust",
+                  "notes": null,
+                  "imdb_id": "tt0072848"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hindenburg",
+                  "notes": null,
+                  "imdb_id": "tt0073113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Surtees",
+                  "notes": null,
+                  "imdb_id": "nm0005892"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ulla-Britt S\u00f6derlund",
+                  "notes": null,
+                  "imdb_id": "nm0845523"
+               },
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Lady",
+                  "notes": null,
+                  "imdb_id": "tt0073026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ray Aghayan",
+                  "notes": null,
+                  "imdb_id": "nm0013036"
+               },
+               {
+                  "name": "Bob Mackie",
+                  "notes": null,
+                  "imdb_id": "nm0533496"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Four Musketeers: Milady's Revenge",
+                  "notes": null,
+                  "imdb_id": "tt0073012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Yvonne Blake",
+                  "notes": null,
+                  "imdb_id": "nm0086762"
+               },
+               {
+                  "name": "Ron Talsky",
+                  "notes": null,
+                  "imdb_id": "nm0848309"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Magic Flute",
+                  "notes": null,
+                  "imdb_id": "tt0073822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henny Noremark",
+                  "notes": null,
+                  "imdb_id": "nm0635269"
+               },
+               {
+                  "name": "Karin Erskine",
+                  "notes": null,
+                  "imdb_id": "nm0259851"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Would Be King",
+                  "notes": null,
+                  "imdb_id": "tt0073341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edith Head",
+                  "notes": null,
+                  "imdb_id": "nm0372128"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Milos Forman",
+                  "notes": null,
+                  "imdb_id": "nm0001232"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Federico Fellini",
+                  "notes": null,
+                  "imdb_id": "nm0000019"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "I Remember",
+                  "notes": null,
+                  "imdb_id": "tt0071129"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Altman",
+                  "notes": null,
+                  "imdb_id": "nm0000265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nashville",
+                  "notes": null,
+                  "imdb_id": "tt0073440"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sidney Lumet",
+                  "notes": null,
+                  "imdb_id": "nm0001486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Man Who Skied Down Everest",
+                  "notes": null,
+                  "imdb_id": "tt0073340"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "F.R. Crawley",
+                  "notes": null,
+                  "imdb_id": "nm0187008"
+               },
+               {
+                  "name": "James Hager",
+                  "notes": null,
+                  "imdb_id": "nm0353498"
+               },
+               {
+                  "name": "Dale Hartleben",
+                  "notes": null,
+                  "imdb_id": "nm0366798"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fighting for Our Lives",
+                  "notes": null,
+                  "imdb_id": "tt0072982"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glen Pearcy",
+                  "notes": null,
+                  "imdb_id": "nm0669031"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The California Reich",
+                  "notes": null,
+                  "imdb_id": "tt0072757"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter F. Parkes",
+                  "notes": null,
+                  "imdb_id": "nm0662748"
+               },
+               {
+                  "name": "Keith Critchlow",
+                  "notes": null,
+                  "imdb_id": "nm0188219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Incredible Machine",
+                  "notes": null,
+                  "imdb_id": "tt0073164"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Irwin Rosten",
+                  "notes": null,
+                  "imdb_id": "nm0744575"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Other Half of the Sky: A China Memoir",
+                  "notes": null,
+                  "imdb_id": "tt0073495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shirley MacLaine",
+                  "notes": null,
+                  "imdb_id": "nm0000511"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The End of the Game",
+                  "notes": null,
+                  "imdb_id": "tt0072939"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Claire Wilbur",
+                  "notes": null,
+                  "imdb_id": "nm0928106"
+               },
+               {
+                  "name": "Robin Lehman",
+                  "notes": null,
+                  "imdb_id": "nm0499651"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Arthur and Lillie",
+                  "notes": null,
+                  "imdb_id": "tt0072659"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Else",
+                  "notes": null,
+                  "imdb_id": "nm0255613"
+               },
+               {
+                  "name": "Steven Kovacs",
+                  "notes": null,
+                  "imdb_id": "nm0468260"
+               },
+               {
+                  "name": "Kristine Samuelson",
+                  "notes": null,
+                  "imdb_id": "nm0760552"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Millions of Years Ahead of Man",
+                  "notes": null,
+                  "imdb_id": "tt0073392"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Manfred Baier",
+                  "notes": null,
+                  "imdb_id": "nm0047050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Probes in Space",
+                  "notes": null,
+                  "imdb_id": "tt0073578"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Casey",
+                  "notes": null,
+                  "imdb_id": "nm0143426"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Whistling Smith",
+                  "notes": null,
+                  "imdb_id": "tt0073893"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barrie Howells",
+                  "notes": null,
+                  "imdb_id": "nm0398087"
+               },
+               {
+                  "name": "Michael J.F. Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779569"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jaws",
+                  "notes": null,
+                  "imdb_id": "tt0073195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Verna Fields",
+                  "notes": null,
+                  "imdb_id": "nm0276368"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dede Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020441"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Chew",
+                  "notes": null,
+                  "imdb_id": "nm0156816"
+               },
+               {
+                  "name": "Lynzee Klingman",
+                  "notes": null,
+                  "imdb_id": "nm0459806"
+               },
+               {
+                  "name": "Sheldon Kahn",
+                  "notes": null,
+                  "imdb_id": "nm0434922"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Would Be King",
+                  "notes": null,
+                  "imdb_id": "tt0073341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Lloyd",
+                  "notes": null,
+                  "imdb_id": "nm0516125"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Three Days of the Condor",
+                  "notes": null,
+                  "imdb_id": "tt0073802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fredric Steinkamp",
+                  "notes": null,
+                  "imdb_id": "nm0826114"
+               },
+               {
+                  "name": "Don Guidice",
+                  "notes": null,
+                  "imdb_id": "nm0346756"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Soviet Union",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dersu Uzala",
+                  "notes": null,
+                  "imdb_id": "tt0071411"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brothel No. 8",
+                  "notes": null,
+                  "imdb_id": "tt0073654"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mexico",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Letters from Marusia",
+                  "notes": null,
+                  "imdb_id": "tt0072601"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Italy",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0072037"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Poland",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Promised Land",
+                  "notes": null,
+                  "imdb_id": "tt0072446"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Dramatic Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jaws",
+                  "notes": null,
+                  "imdb_id": "tt0073195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birds Do It, Bees Do It",
+                  "notes": null,
+                  "imdb_id": "tt0072703"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerald Fried",
+                  "notes": null,
+                  "imdb_id": "nm0006086"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bite the Bullet",
+                  "notes": null,
+                  "imdb_id": "tt0072705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alex North",
+                  "notes": null,
+                  "imdb_id": "nm0006218"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Nitzsche",
+                  "notes": null,
+                  "imdb_id": "nm0006217"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wind and the Lion",
+                  "notes": null,
+                  "imdb_id": "tt0073906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"I'm Easy\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Nashville",
+                  "notes": null,
+                  "imdb_id": "tt0073440"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Keith Carradine",
+                  "notes": null,
+                  "imdb_id": "nm0001018"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"How Lucky Can You Get\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Lady",
+                  "notes": null,
+                  "imdb_id": "tt0073026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Ebb",
+                  "notes": null,
+                  "imdb_id": "nm0247939"
+               },
+               {
+                  "name": "John Kander",
+                  "notes": null,
+                  "imdb_id": "nm0437218"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Theme from Mahogany (Do You Know Where You're Going To)\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mahogany",
+                  "notes": null,
+                  "imdb_id": "tt0073335"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Masser",
+                  "notes": "(music)",
+                  "imdb_id": "nm0557247"
+               },
+               {
+                  "name": "Gerry Goffin",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm1132342"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Richard's Window\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Other Side of the Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0073496"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Fox",
+                  "notes": "(music)",
+                  "imdb_id": "nm0288913"
+               },
+               {
+                  "name": "Norman Gimbel",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0319757"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Now That We're In Love\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Whiffs",
+                  "notes": null,
+                  "imdb_id": "tt0073891"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Barrie",
+                  "notes": "(music)",
+                  "imdb_id": "nm0057376"
+               },
+               {
+                  "name": "Sammy Cahn",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005991"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring Original Song Score and/or Adaptation",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Rosenman",
+                  "notes": null,
+                  "imdb_id": "nm0006260"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Lady",
+                  "notes": null,
+                  "imdb_id": "tt0073026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Matz",
+                  "notes": null,
+                  "imdb_id": "nm0560690"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tommy",
+                  "notes": null,
+                  "imdb_id": "tt0073812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Townshend",
+                  "notes": null,
+                  "imdb_id": "nm0870175"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": "'One Flew Over the Cuckoo's Nest' became the first film in 41 years to sweep the major categories of best picture, director, actor, actress and screenplay.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Saul Zaentz",
+                  "notes": null,
+                  "imdb_id": "nm0951763"
+               },
+               {
+                  "name": "Michael Douglas",
+                  "notes": null,
+                  "imdb_id": "nm0000140"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Bregman",
+                  "notes": null,
+                  "imdb_id": "nm0106840"
+               },
+               {
+                  "name": "Martin Elfand",
+                  "notes": null,
+                  "imdb_id": "nm0253292"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jaws",
+                  "notes": null,
+                  "imdb_id": "tt0073195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard D. Zanuck",
+                  "notes": null,
+                  "imdb_id": "nm0005573"
+               },
+               {
+                  "name": "David Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113360"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nashville",
+                  "notes": null,
+                  "imdb_id": "tt0073440"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Altman",
+                  "notes": null,
+                  "imdb_id": "nm0000265"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Great (Isambard Kingdom Brunel)",
+                  "notes": null,
+                  "imdb_id": "tt0073068"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Godfrey",
+                  "notes": null,
+                  "imdb_id": "nm0323962"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kick Me",
+                  "notes": null,
+                  "imdb_id": "tt0073237"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Swarthe",
+                  "notes": null,
+                  "imdb_id": "nm0841931"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Monsieur Pointu",
+                  "notes": null,
+                  "imdb_id": "tt0073402"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Longpr\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0519462"
+               },
+               {
+                  "name": "Andr\u00e9 Leduc",
+                  "notes": null,
+                  "imdb_id": "nm0496656"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sisyphus",
+                  "notes": null,
+                  "imdb_id": "tt0073715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcell Jankovics",
+                  "notes": null,
+                  "imdb_id": "nm0417757"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Angel and Big Joe",
+                  "notes": null,
+                  "imdb_id": "tt0072646"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Salzman",
+                  "notes": null,
+                  "imdb_id": "nm0759563"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Day in the Life of Bonnie Consolo",
+                  "notes": null,
+                  "imdb_id": "tt0072847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry J. Spinello",
+                  "notes": null,
+                  "imdb_id": "nm0818911"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Conquest of Light",
+                  "notes": null,
+                  "imdb_id": "tt0072816"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Marcus",
+                  "notes": null,
+                  "imdb_id": "nm0546146"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dawn Flight",
+                  "notes": null,
+                  "imdb_id": "tt0072846"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Larry Lansburgh",
+                  "notes": null,
+                  "imdb_id": "nm0487047"
+               },
+               {
+                  "name": "Brian Lansburgh",
+                  "notes": null,
+                  "imdb_id": "nm0487045"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Doubletalk",
+                  "notes": null,
+                  "imdb_id": "tt0072900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Beattie",
+                  "notes": null,
+                  "imdb_id": "nm0064133"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jaws",
+                  "notes": null,
+                  "imdb_id": "tt0073195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert L. Hoyt",
+                  "notes": null,
+                  "imdb_id": "nm0398480"
+               },
+               {
+                  "name": "Roger Heman Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0375947"
+               },
+               {
+                  "name": "Earl Madery",
+                  "notes": null,
+                  "imdb_id": "nm0531071"
+               },
+               {
+                  "name": "John R. Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141728"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bite the Bullet",
+                  "notes": null,
+                  "imdb_id": "tt0072705"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Piantadosi",
+                  "notes": null,
+                  "imdb_id": "nm0681250"
+               },
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Richard Tyler",
+                  "notes": null,
+                  "imdb_id": "nm0878889"
+               },
+               {
+                  "name": "Al Overton Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0653929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Funny Lady",
+                  "notes": null,
+                  "imdb_id": "tt0073026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Portman",
+                  "notes": null,
+                  "imdb_id": "nm0692446"
+               },
+               {
+                  "name": "Don MacDougall",
+                  "notes": null,
+                  "imdb_id": "nm0532013"
+               },
+               {
+                  "name": "Curly Thirlwell",
+                  "notes": null,
+                  "imdb_id": "nm0858218"
+               },
+               {
+                  "name": "Jack Solomon",
+                  "notes": null,
+                  "imdb_id": "nm0813349"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Hindenburg",
+                  "notes": null,
+                  "imdb_id": "tt0073113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leonard Peterson",
+                  "notes": null,
+                  "imdb_id": "nm0677272"
+               },
+               {
+                  "name": "Jack A. Bolger Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0092933"
+               },
+               {
+                  "name": "John L. Mack",
+                  "notes": null,
+                  "imdb_id": "nm0533020"
+               },
+               {
+                  "name": "Don Sharpless",
+                  "notes": null,
+                  "imdb_id": "nm0789302"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Wind and the Lion",
+                  "notes": null,
+                  "imdb_id": "tt0073906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry W. Tetrick",
+                  "notes": null,
+                  "imdb_id": "nm0856555"
+               },
+               {
+                  "name": "Aaron Rochin",
+                  "notes": null,
+                  "imdb_id": "nm0734099"
+               },
+               {
+                  "name": "William L. McCaughey",
+                  "notes": null,
+                  "imdb_id": "nm0565477"
+               },
+               {
+                  "name": "Roy Charman",
+                  "notes": null,
+                  "imdb_id": "nm0153335"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": "Frank Pierson was not present at the awards ceremony. Presenter Gore Vidal accepted the award on his behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dog Day Afternoon",
+                  "notes": null,
+                  "imdb_id": "tt0072890"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Pierson",
+                  "notes": null,
+                  "imdb_id": "nm0682757"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "And Now My Love",
+                  "notes": null,
+                  "imdb_id": "tt0072307"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Claude Lelouch",
+                  "notes": null,
+                  "imdb_id": "nm0500988"
+               },
+               {
+                  "name": "Pierre Uytterhoeven",
+                  "notes": null,
+                  "imdb_id": "nm0882683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "I Remember",
+                  "notes": null,
+                  "imdb_id": "tt0071129"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Federico Fellini",
+                  "notes": null,
+                  "imdb_id": "nm0000019"
+               },
+               {
+                  "name": "Tonino Guerra",
+                  "notes": null,
+                  "imdb_id": "nm0346096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lies My Father Told Me",
+                  "notes": null,
+                  "imdb_id": "tt0073293"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ted Allan",
+                  "notes": null,
+                  "imdb_id": "nm0020022"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shampoo",
+                  "notes": null,
+                  "imdb_id": "tt0073692"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Towne",
+                  "notes": null,
+                  "imdb_id": "nm0001801"
+               },
+               {
+                  "name": "Warren Beatty",
+                  "notes": null,
+                  "imdb_id": "nm0000886"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Adapted From Other Material",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "One Flew Over the Cuckoo's Nest",
+                  "notes": null,
+                  "imdb_id": "tt0073486"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Hauben",
+                  "notes": null,
+                  "imdb_id": "nm0369142"
+               },
+               {
+                  "name": "Bo Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0325743"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barry Lyndon",
+                  "notes": null,
+                  "imdb_id": "tt0072684"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stanley Kubrick",
+                  "notes": null,
+                  "imdb_id": "nm0000040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0072037"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruggero Maccari",
+                  "notes": null,
+                  "imdb_id": "nm0531431"
+               },
+               {
+                  "name": "Dino Risi",
+                  "notes": null,
+                  "imdb_id": "nm0728271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man Who Would Be King",
+                  "notes": null,
+                  "imdb_id": "tt0073341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               },
+               {
+                  "name": "Gladys Hill",
+                  "notes": null,
+                  "imdb_id": "nm0384283"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sunshine Boys",
+                  "notes": null,
+                  "imdb_id": "tt0073766"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800319"
+               }
+            ]
+         }
+      ]
+   }
+]

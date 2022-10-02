@@ -1,0 +1,800 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Departed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Letters from Iwo Jima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Miss Sunshine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Queen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Forest Whitaker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leonardo DiCaprio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter O'Toole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ryan Gosling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Will Smith"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Helen Mirren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judi Dench"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kate Winslet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pen\u00e9lope Cruz"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alan Arkin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Djimon Hounsou"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eddie Murphy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackie Earle Haley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Wahlberg"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jennifer Hudson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Abigail Breslin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Adriana Barraza"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cate Blanchett"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rinko Kikuchi"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alejandro G. I\u00f1\u00e1rritu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Clint Eastwood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Greengrass"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stephen Frears"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Little Miss Sunshine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Letters from Iwo Jima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Queen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Departed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Children"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Notes on a Scandal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Black Dahlia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Illusionist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prestige"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: Dead Man's Chest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Good Shepherd"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Prestige"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Departed"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blood Diamond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Children of Men"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "United 93"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Marie Antoinette"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Curse of the Golden Flower"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Devil Wears Prada"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Queen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An Inconvenient Truth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cars"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Babel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Notes on a Scandal"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Good German"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Queen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dreamgirls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blood Diamond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flags of Our Fathers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: Dead Man's Chest"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Letters from Iwo Jima"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blood Diamond"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flags of Our Fathers"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pirates of the Caribbean: Dead Man's Chest"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pirates of the Caribbean: Dead Man's Chest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Poseidon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Superman Returns"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Danish Poet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lifted"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maestro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "No Time for Nuts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Little Matchgirl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Bank Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Binta and the Great Idea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Helmer & Son"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Too Many"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Saviour"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Blood of Yingzhou District"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Recycled Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rehearsing a Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Two Hands: The Leon Fleisher Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "An Inconvenient Truth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deliver Us from Evil"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Iraq in Fragments"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jesus Camp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Country, My Country"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Lives of Others"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "After the Wedding"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Days of Glory"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Water"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Happy Feet"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cars"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Monster House"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pan's Labyrinth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Apocalypto"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Click"
+            ]
+         }
+      ]
+   }
+]

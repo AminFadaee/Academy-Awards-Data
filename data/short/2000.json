@@ -1,0 +1,765 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kevin Spacey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Farnsworth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Russell Crowe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sean Penn"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Michael Caine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Haley Joel Osment"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jude Law"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Clarke Duncan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Cruise"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hilary Swank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Annette Bening"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Janet McTeer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Julianne Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Angelina Jolie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Catherine Keener"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Chlo\u00eb Sevigny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Samantha Morton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toni Collette"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sleepy Hollow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna and the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cider House Rules"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talented Mr. Ripley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Topsy-Turvy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleepy Hollow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Snow Falling on Cedars"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The End of the Affair"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Insider"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Topsy-Turvy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anna and the King"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleepy Hollow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talented Mr. Ripley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Titus"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sam Mendes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lasse Hallstr\u00f6m"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "M. Night Shyamalan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Mann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spike Jonze"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Day in September"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Buena Vista Social Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Genghis Blues"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Ropes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Speaking in Strings"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "King Gimp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Eyewitness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Wildest Show in the South: The Angola Prison Rodeo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Matrix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fight Club"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode I - The Phantom Menace"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Matrix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode I - The Phantom Menace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stuart Little"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Matrix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cider House Rules"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Insider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sixth Sense"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "All About My Mother"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "East/West"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Himalaya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Solomon & Gaenor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Under the Sun"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Topsy-Turvy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Austin Powers: The Spy Who Shagged Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bicentennial Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Red Violin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Angela's Ashes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cider House Rules"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talented Mr. Ripley"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tarzan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Magnolia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Music of the Heart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "South Park: Bigger, Longer & Uncut"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toy Story 2"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cider House Rules"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Green Mile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Insider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sixth Sense"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Old Man and the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "3 Misses"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Humdrum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Grandmother Ironed the King's Shirts"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "When the Day Breaks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "My Mother Dreams the Satan's Disciples in New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Killing Joe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kleingeld"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stora & sm\u00e5 mirakel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Theis and Nico"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Matrix"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Wars: Episode I - The Phantom Menace"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Green Mile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Insider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Mummy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Cider House Rules"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Election"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Green Mile"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Insider"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Talented Mr. Ripley"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Being John Malkovich"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Magnolia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Sixth Sense"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Topsy-Turvy"
+            ]
+         }
+      ]
+   }
+]

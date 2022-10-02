@@ -1,0 +1,823 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Charlton Heston"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Lemmon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "James Stewart"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laurence Harvey"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Muni"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hugh Griffith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arthur O'Connell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ed Wynn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George C. Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Vaughn"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Simone Signoret"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audrey Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doris Day"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Elizabeth Taylor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Katharine Hepburn"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Shelley Winters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hermione Baddeley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Juanita Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Susan Kohner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Thelma Ritter"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Diary of Anne Frank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Career"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Some Like It Hot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Suddenly, Last Summer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Last Angry Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey to the Center of the Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North by Northwest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pillow Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Fisherman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Diary of Anne Frank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anatomy of a Murder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Career"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Some Like It Hot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Philadelphians"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Porgy and Bess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Fisherman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Five Pennies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Some Like It Hot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Career"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diary of Anne Frank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gazebo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Philadelphians"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Porgy and Bess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Best of Everything"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Big Fisherman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Five Pennies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "William Wyler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Billy Wilder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fred Zinnemann"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George Stevens"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jack Clayton"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Serengeti"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Race for Space"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Glass"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Donald in Mathmagic Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "From Generation to Generation"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey to the Center of the Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anatomy of a Murder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North by Northwest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Beach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Black Orpheus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boy of Two Worlds"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dorp aan de rivier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Great War"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "A Hole in the Head"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Best of Everything"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Five Pennies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hanging Tree"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Young Land"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "On the Beach"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pillow Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diary of Anne Frank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Porgy and Bess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Li'l Abner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Say One for Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sleeping Beauty"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Five Pennies"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anatomy of a Murder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Room at the Top"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Diary of Anne Frank"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moonbird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mexicali Shmoes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Noah's Ark"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Violinist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Golden Fish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Between the Tides"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mysteries of the Deep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Skyscraper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Running Jumping & Standing Still Film"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Journey to the Center of the Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Libel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Porgy and Bess"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Room at the Top"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Anatomy of a Murder"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ben-Hur"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Some Like It Hot"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Nun's Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pillow Talk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "North by Northwest"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operation Petticoat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The 400 Blows"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild Strawberries"
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,854 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moonlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fences"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hacksaw Ridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hell or High Water"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hidden Figures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Manchester by the Sea"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Casey Affleck"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Andrew Garfield"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Denzel Washington"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ryan Gosling"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viggo Mortensen"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Emma Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Isabelle Huppert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Natalie Portman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ruth Negga"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mahershala Ali"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dev Patel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jeff Bridges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lucas Hedges"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Shannon"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Viola Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Williams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Naomie Harris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nicole Kidman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Octavia Spencer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Damien Chazelle"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Barry Jenkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Denis Villeneuve"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kenneth Lonergan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mel Gibson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Manchester by the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "20th Century Women"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hell or High Water"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lobster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Moonlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fences"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hidden Figures"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lion"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silence"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hacksaw Ridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hell or High Water"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonlight"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fantastic Beasts and Where to Find Them"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hail, Caesar!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Passengers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Fantastic Beasts and Where to Find Them"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Allied"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Florence Foster Jenkins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Suicide Squad"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Man Called Ove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Star Trek Beyond"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackie"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lion"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moonlight"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Passengers"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jim: The James Foley Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moana"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Trolls"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Hacksaw Ridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "13 Hours"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rogue One: A Star Wars Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Arrival"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deepwater Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hacksaw Ridge"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La La Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sully"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Jungle Book"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Deepwater Horizon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Doctor Strange"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kubo and the Two Strings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rogue One: A Star Wars Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "O.J.: Made in America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "13th"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fire at Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "I Am Not Your Negro"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Life, Animated"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The White Helmets"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "4.1 Miles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Extremis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joe's Violin"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Watani: My Homeland"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Piper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Blind Vaysha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Borrowed Time"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pear Cider and Cigarettes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pearl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Live Action Short Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sing"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Enemies Within"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La femme et le TGV"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Silent Nights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Timecode"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Salesman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Man Called Ove"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Land of Mine"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tanna"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Toni Erdmann"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Zootopia"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kubo and the Two Strings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Moana"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "My Life as a Zucchini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Red Turtle"
+            ]
+         }
+      ]
+   }
+]

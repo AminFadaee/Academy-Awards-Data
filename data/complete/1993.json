@@ -1,0 +1,2304 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0105323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Denzel Washington",
+                  "notes": null,
+                  "imdb_id": "nm0000243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Malcolm X",
+                  "notes": null,
+                  "imdb_id": "tt0104797"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Downey Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0000375"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chaplin",
+                  "notes": null,
+                  "imdb_id": "tt0103939"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stephen Rea",
+                  "notes": null,
+                  "imdb_id": "nm0001653"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gene Hackman",
+                  "notes": null,
+                  "imdb_id": "nm0000432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Al Pacino",
+                  "notes": null,
+                  "imdb_id": "nm0000199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Glengarry Glen Ross",
+                  "notes": null,
+                  "imdb_id": "tt0104348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "David Paymer",
+                  "notes": null,
+                  "imdb_id": "nm0001601"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mr. Saturday Night",
+                  "notes": null,
+                  "imdb_id": "tt0104928"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jack Nicholson",
+                  "notes": null,
+                  "imdb_id": "nm0000197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Few Good Men",
+                  "notes": null,
+                  "imdb_id": "tt0104257"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jaye Davidson",
+                  "notes": null,
+                  "imdb_id": "nm0001109"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Emma Thompson",
+                  "notes": null,
+                  "imdb_id": "nm0000668"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Catherine Deneuve",
+                  "notes": null,
+                  "imdb_id": "nm0000366"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Indochine",
+                  "notes": null,
+                  "imdb_id": "tt0104507"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mary McDonnell",
+                  "notes": null,
+                  "imdb_id": "nm0001521"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Passion Fish",
+                  "notes": null,
+                  "imdb_id": "tt0105107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michelle Pfeiffer",
+                  "notes": null,
+                  "imdb_id": "nm0000201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Love Field",
+                  "notes": null,
+                  "imdb_id": "tt0104765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Susan Sarandon",
+                  "notes": null,
+                  "imdb_id": "nm0000215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lorenzo's Oil",
+                  "notes": null,
+                  "imdb_id": "tt0104756"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Marisa Tomei",
+                  "notes": null,
+                  "imdb_id": "nm0000673"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "My Cousin Vinny",
+                  "notes": null,
+                  "imdb_id": "tt0104952"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Plowright",
+                  "notes": null,
+                  "imdb_id": "nm0687506"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Enchanted April",
+                  "notes": null,
+                  "imdb_id": "tt0101811"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judy Davis",
+                  "notes": null,
+                  "imdb_id": "nm0001114"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Husbands and Wives",
+                  "notes": null,
+                  "imdb_id": "tt0104466"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Miranda Richardson",
+                  "notes": null,
+                  "imdb_id": "nm0001669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Damage",
+                  "notes": null,
+                  "imdb_id": "tt0104237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vanessa Redgrave",
+                  "notes": null,
+                  "imdb_id": "nm0000603"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Luciana Arrighi",
+                  "notes": null,
+                  "imdb_id": "nm0002186"
+               },
+               {
+                  "name": "Ian Whittaker",
+                  "notes": null,
+                  "imdb_id": "nm0926434"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chaplin",
+                  "notes": null,
+                  "imdb_id": "tt0103939"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Craig",
+                  "notes": null,
+                  "imdb_id": "nm0186023"
+               },
+               {
+                  "name": "Chris Butler",
+                  "notes": null,
+                  "imdb_id": "nm0124862"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dracula",
+                  "notes": null,
+                  "imdb_id": "tt0103874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas E. Sanders",
+                  "notes": null,
+                  "imdb_id": "nm0761742"
+               },
+               {
+                  "name": "Garrett Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0507204"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toys",
+                  "notes": null,
+                  "imdb_id": "tt0105629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ferdinando Scarfiotti",
+                  "notes": null,
+                  "imdb_id": "nm0769162"
+               },
+               {
+                  "name": "Linda DeScenna",
+                  "notes": null,
+                  "imdb_id": "nm0220984"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Henry Bumstead",
+                  "notes": null,
+                  "imdb_id": "nm0120317"
+               },
+               {
+                  "name": "Janice Blackie-Goodine",
+                  "notes": null,
+                  "imdb_id": "nm0085706"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "A River Runs Through It",
+                  "notes": null,
+                  "imdb_id": "tt0105265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philippe Rousselot",
+                  "notes": null,
+                  "imdb_id": "nm0003542"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hoffa",
+                  "notes": null,
+                  "imdb_id": "tt0104427"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen H. Burum",
+                  "notes": null,
+                  "imdb_id": "nm0005664"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tony Pierce-Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0682503"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lover",
+                  "notes": null,
+                  "imdb_id": "tt0101316"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Fraisse",
+                  "notes": null,
+                  "imdb_id": "nm0005709"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack N. Green",
+                  "notes": null,
+                  "imdb_id": "nm0005726"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dracula",
+                  "notes": null,
+                  "imdb_id": "tt0103874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eiko Ishioka",
+                  "notes": null,
+                  "imdb_id": "nm0411130"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enchanted April",
+                  "notes": null,
+                  "imdb_id": "tt0101811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sheena Napier",
+                  "notes": null,
+                  "imdb_id": "nm0621042"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jenny Beavan",
+                  "notes": null,
+                  "imdb_id": "nm0064746"
+               },
+               {
+                  "name": "John Bright",
+                  "notes": null,
+                  "imdb_id": "nm0109149"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Malcolm X",
+                  "notes": null,
+                  "imdb_id": "tt0104797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth E. Carter",
+                  "notes": null,
+                  "imdb_id": "nm0141921"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Toys",
+                  "notes": null,
+                  "imdb_id": "tt0105629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Wolsky",
+                  "notes": null,
+                  "imdb_id": "nm0938717"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Ivory",
+                  "notes": null,
+                  "imdb_id": "nm0412465"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Brest",
+                  "notes": null,
+                  "imdb_id": "nm0000976"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0105323"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Neil Jordan",
+                  "notes": null,
+                  "imdb_id": "nm0001403"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Altman",
+                  "notes": null,
+                  "imdb_id": "nm0000265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Player",
+                  "notes": null,
+                  "imdb_id": "tt0105151"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Panama Deception",
+                  "notes": null,
+                  "imdb_id": "tt0105089"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barbara Trent",
+                  "notes": null,
+                  "imdb_id": "nm0872134"
+               },
+               {
+                  "name": "David Kasper",
+                  "notes": null,
+                  "imdb_id": "nm0440722"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Changing Our Minds: The Story of Dr. Evelyn Hooker",
+                  "notes": null,
+                  "imdb_id": "tt0103938"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Haugland",
+                  "notes": null,
+                  "imdb_id": "nm0369361"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fires of Kuwait",
+                  "notes": null,
+                  "imdb_id": "tt0104275"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sally Dundas",
+                  "notes": null,
+                  "imdb_id": "nm0242183"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Liberators: Fighting on Two Fronts in World War II",
+                  "notes": null,
+                  "imdb_id": "tt0104721"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Miles",
+                  "notes": null,
+                  "imdb_id": "nm0587263"
+               },
+               {
+                  "name": "Nina Rosenblum",
+                  "notes": null,
+                  "imdb_id": "nm0742466"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Music for the Movies: Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "tt0104946"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Margaret Smilow",
+                  "notes": null,
+                  "imdb_id": "nm0807001"
+               },
+               {
+                  "name": "Roma Baran",
+                  "notes": null,
+                  "imdb_id": "nm0052953"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Educating Peter",
+                  "notes": null,
+                  "imdb_id": "tt0104167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas C. Goodwin",
+                  "notes": null,
+                  "imdb_id": "nm0329559"
+               },
+               {
+                  "name": "Gerardine Wurzburg",
+                  "notes": null,
+                  "imdb_id": "nm0943458"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "At the Edge of Conquest: The Journey of Chief Wai-Wai",
+                  "notes": null,
+                  "imdb_id": "tt0103728"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Geoffrey O'Connor",
+                  "notes": null,
+                  "imdb_id": "nm0640337"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beyond Imagining: Margaret Anderson and the 'Little Review'",
+                  "notes": null,
+                  "imdb_id": "tt0103803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendy L. Weinberg",
+                  "notes": null,
+                  "imdb_id": "nm0918157"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Colours of My Father: A Portrait of Sam Borenstein",
+                  "notes": null,
+                  "imdb_id": "tt0103985"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Elson",
+                  "notes": null,
+                  "imdb_id": "nm2423498"
+               },
+               {
+                  "name": "Sally Bochner",
+                  "notes": null,
+                  "imdb_id": "nm0090618"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Abortion Was Illegal: Untold Stories",
+                  "notes": null,
+                  "imdb_id": "tt0105805"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dorothy Fadiman",
+                  "notes": null,
+                  "imdb_id": "nm0264936"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dracula",
+                  "notes": null,
+                  "imdb_id": "tt0103874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tom C. McCarthy",
+                  "notes": null,
+                  "imdb_id": "nm0565344"
+               },
+               {
+                  "name": "David E. Stone",
+                  "notes": null,
+                  "imdb_id": "nm0831823"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aladdin",
+                  "notes": null,
+                  "imdb_id": "tt0103639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark A. Mangini",
+                  "notes": null,
+                  "imdb_id": "nm0005625"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Under Siege",
+                  "notes": null,
+                  "imdb_id": "tt0105690"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Leveque",
+                  "notes": null,
+                  "imdb_id": "nm0505311"
+               },
+               {
+                  "name": "Bruce Stambler",
+                  "notes": null,
+                  "imdb_id": "nm0821801"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Death Becomes Her",
+                  "notes": null,
+                  "imdb_id": "tt0104070"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "Doug Chiang",
+                  "notes": null,
+                  "imdb_id": "nm0156956"
+               },
+               {
+                  "name": "Douglas Smythe",
+                  "notes": null,
+                  "imdb_id": "nm0810817"
+               },
+               {
+                  "name": "Tom Woodruff Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0940430"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alien\u00b3",
+                  "notes": null,
+                  "imdb_id": "tt0103644"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Edlund",
+                  "notes": null,
+                  "imdb_id": "nm0249430"
+               },
+               {
+                  "name": "Alec Gillis",
+                  "notes": null,
+                  "imdb_id": "nm0319266"
+               },
+               {
+                  "name": "Tom Woodruff Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0940430"
+               },
+               {
+                  "name": "George Gibbs",
+                  "notes": null,
+                  "imdb_id": "nm0316672"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Batman Returns",
+                  "notes": null,
+                  "imdb_id": "tt0103776"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael L. Fink",
+                  "notes": null,
+                  "imdb_id": "nm0277842"
+               },
+               {
+                  "name": "Craig Barron",
+                  "notes": null,
+                  "imdb_id": "nm0057652"
+               },
+               {
+                  "name": "John Bruno",
+                  "notes": null,
+                  "imdb_id": "nm0116497"
+               },
+               {
+                  "name": "Dennis Skotak",
+                  "notes": null,
+                  "imdb_id": "nm0804737"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joel Cox",
+                  "notes": null,
+                  "imdb_id": "nm0185088"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Few Good Men",
+                  "notes": null,
+                  "imdb_id": "tt0104257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Leighton",
+                  "notes": null,
+                  "imdb_id": "nm0500371"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Basic Instinct",
+                  "notes": null,
+                  "imdb_id": "tt0103772"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank J. Urioste",
+                  "notes": null,
+                  "imdb_id": "nm0881973"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kant Pan",
+                  "notes": null,
+                  "imdb_id": "nm0659013"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Player",
+                  "notes": null,
+                  "imdb_id": "tt0105151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Geraldine Peroni",
+                  "notes": null,
+                  "imdb_id": "nm0674419"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "France.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Indochine",
+                  "notes": null,
+                  "imdb_id": "tt0104507"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Uruguay. [withdrawn: actually Argentina]",
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Place in the World",
+                  "notes": null,
+                  "imdb_id": "tt0104774"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Russia.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Close to Eden",
+                  "notes": null,
+                  "imdb_id": "tt0103176"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Belgium.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Daens",
+                  "notes": null,
+                  "imdb_id": "tt0104046"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Germany.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Schtonk",
+                  "notes": null,
+                  "imdb_id": "tt0105328"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dracula",
+                  "notes": null,
+                  "imdb_id": "tt0103874"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               },
+               {
+                  "name": "Mich\u00e8le Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121807"
+               },
+               {
+                  "name": "Matthew W. Mungle",
+                  "notes": null,
+                  "imdb_id": "nm0612817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Batman Returns",
+                  "notes": null,
+                  "imdb_id": "tt0103776"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Ronnie Specter",
+                  "notes": null,
+                  "imdb_id": "nm0817463"
+               },
+               {
+                  "name": "Stan Winston",
+                  "notes": null,
+                  "imdb_id": "nm0935644"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hoffa",
+                  "notes": null,
+                  "imdb_id": "tt0104427"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Greg Cannom",
+                  "notes": null,
+                  "imdb_id": "nm0134148"
+               },
+               {
+                  "name": "John Blake",
+                  "notes": null,
+                  "imdb_id": "nm0086601"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Aladdin",
+                  "notes": null,
+                  "imdb_id": "tt0103639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": null,
+                  "imdb_id": "nm0579678"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A River Runs Through It",
+                  "notes": null,
+                  "imdb_id": "tt0105265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Isham",
+                  "notes": null,
+                  "imdb_id": "nm0006142"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Basic Instinct",
+                  "notes": null,
+                  "imdb_id": "tt0103772"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerry Goldsmith",
+                  "notes": null,
+                  "imdb_id": "nm0000025"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chaplin",
+                  "notes": null,
+                  "imdb_id": "tt0103939"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Barry",
+                  "notes": null,
+                  "imdb_id": "nm0000290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Robbins",
+                  "notes": null,
+                  "imdb_id": "nm0006442"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"A Whole New World\"",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Aladdin",
+                  "notes": null,
+                  "imdb_id": "tt0103639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Tim Rice",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0005358"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Friend Like Me.\" Howard Ashman's nomination was posthumous.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aladdin",
+                  "notes": null,
+                  "imdb_id": "tt0103639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Menken",
+                  "notes": "(music)",
+                  "imdb_id": "nm0579678"
+               },
+               {
+                  "name": "Howard Ashman",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0039141"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Run to You\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bodyguard",
+                  "notes": null,
+                  "imdb_id": "tt0103855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jud Friedman",
+                  "notes": "(music)",
+                  "imdb_id": "nm0295267"
+               },
+               {
+                  "name": "Allan Rich",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0723591"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I Have Nothing\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Bodyguard",
+                  "notes": null,
+                  "imdb_id": "tt0103855"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Foster",
+                  "notes": "(music)",
+                  "imdb_id": "nm0287757"
+               },
+               {
+                  "name": "Linda Thompson",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0860419"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Beautiful Maria of My Soul\"",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Mambo Kings",
+                  "notes": null,
+                  "imdb_id": "tt0104802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Kraft",
+                  "notes": "(music)",
+                  "imdb_id": "nm0469234"
+               },
+               {
+                  "name": "Arne Glimcher",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0322865"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Few Good Men",
+                  "notes": null,
+                  "imdb_id": "tt0104257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113360"
+               },
+               {
+                  "name": "Rob Reiner",
+                  "notes": null,
+                  "imdb_id": "nm0001661"
+               },
+               {
+                  "name": "Andrew Scheinman",
+                  "notes": null,
+                  "imdb_id": "nm0770650"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ismail Merchant",
+                  "notes": null,
+                  "imdb_id": "nm0580337"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0105323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Brest",
+                  "notes": null,
+                  "imdb_id": "nm0000976"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Woolley",
+                  "notes": null,
+                  "imdb_id": "nm0941262"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mona Lisa Descending a Staircase",
+                  "notes": null,
+                  "imdb_id": "tt0104908"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan C. Gratz",
+                  "notes": null,
+                  "imdb_id": "nm0336049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adam",
+                  "notes": null,
+                  "imdb_id": "tt0101270"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Lord",
+                  "notes": null,
+                  "imdb_id": "nm0520485"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Screen Play",
+                  "notes": null,
+                  "imdb_id": "tt0105335"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barry Purves",
+                  "notes": null,
+                  "imdb_id": "nm0701000"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sandman",
+                  "notes": null,
+                  "imdb_id": "tt0105311"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Berry",
+                  "notes": null,
+                  "imdb_id": "nm0077651"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Words, Words, Words",
+                  "notes": null,
+                  "imdb_id": "tt0105224"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michaela Pavl\u00e1tov\u00e1",
+                  "notes": null,
+                  "imdb_id": "nm0667912"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Omnibus",
+                  "notes": null,
+                  "imdb_id": "tt0105051"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Karmann",
+                  "notes": null,
+                  "imdb_id": "nm0439748"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Contact",
+                  "notes": null,
+                  "imdb_id": "tt0104007"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jonathan Darby",
+                  "notes": null,
+                  "imdb_id": "nm0200978"
+               },
+               {
+                  "name": "Jana Sue Memel",
+                  "notes": null,
+                  "imdb_id": "nm0578604"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cruise Control",
+                  "notes": null,
+                  "imdb_id": "tt0104032"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matt Palmieri",
+                  "notes": null,
+                  "imdb_id": "nm0658585"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Swan Song",
+                  "notes": null,
+                  "imdb_id": "tt0105506"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kenneth Branagh",
+                  "notes": null,
+                  "imdb_id": "nm0000110"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lady in Waiting",
+                  "notes": null,
+                  "imdb_id": "tt0104669"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christian Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0995597"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Last of the Mohicans",
+                  "notes": null,
+                  "imdb_id": "tt0104691"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chris Jenkins",
+                  "notes": null,
+                  "imdb_id": "nm0420804"
+               },
+               {
+                  "name": "Doug Hemphill",
+                  "notes": null,
+                  "imdb_id": "nm0376153"
+               },
+               {
+                  "name": "Mark Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809234"
+               },
+               {
+                  "name": "Simon Kaye",
+                  "notes": null,
+                  "imdb_id": "nm0443393"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Few Good Men",
+                  "notes": null,
+                  "imdb_id": "tt0104257"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Robert Eber",
+                  "notes": null,
+                  "imdb_id": "nm0248024"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aladdin",
+                  "notes": null,
+                  "imdb_id": "tt0103639"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Terry Porter",
+                  "notes": null,
+                  "imdb_id": "nm0692310"
+               },
+               {
+                  "name": "Mel Metcalfe",
+                  "notes": null,
+                  "imdb_id": "nm0582467"
+               },
+               {
+                  "name": "David J. Hudson",
+                  "notes": null,
+                  "imdb_id": "nm0399812"
+               },
+               {
+                  "name": "Doc Kane",
+                  "notes": null,
+                  "imdb_id": "nm0437301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Under Siege",
+                  "notes": null,
+                  "imdb_id": "tt0105690"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Donald O. Mitchell",
+                  "notes": null,
+                  "imdb_id": "nm0593290"
+               },
+               {
+                  "name": "Frank A. Monta\u00f1o",
+                  "notes": null,
+                  "imdb_id": "nm0599057"
+               },
+               {
+                  "name": "Rick Hart",
+                  "notes": null,
+                  "imdb_id": "nm0366494"
+               },
+               {
+                  "name": "Scott D. Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809896"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Vern Poore",
+                  "notes": null,
+                  "imdb_id": "nm0691005"
+               },
+               {
+                  "name": "Rick Alexander",
+                  "notes": "(as Dick Alexander)",
+                  "imdb_id": "nm1219804"
+               },
+               {
+                  "name": "Rob Young",
+                  "notes": null,
+                  "imdb_id": "nm0949997"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": "Ruth Prawer Jhabvala was not present at the awards ceremony. Co-presenters Anne Bancroft and Dustin Hoffman accepted the award on her behalf.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Howards End",
+                  "notes": null,
+                  "imdb_id": "tt0104454"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ruth Prawer Jhabvala",
+                  "notes": null,
+                  "imdb_id": "nm0695609"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A River Runs Through It",
+                  "notes": null,
+                  "imdb_id": "tt0105265"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Friedenberg",
+                  "notes": null,
+                  "imdb_id": "nm0295030"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Enchanted April",
+                  "notes": null,
+                  "imdb_id": "tt0101811"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Barnes",
+                  "notes": null,
+                  "imdb_id": "nm0055726"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scent of a Woman",
+                  "notes": null,
+                  "imdb_id": "tt0105323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bo Goldman",
+                  "notes": null,
+                  "imdb_id": "nm0325743"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Player",
+                  "notes": null,
+                  "imdb_id": "tt0105151"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Tolkin",
+                  "notes": null,
+                  "imdb_id": "nm0866062"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Crying Game",
+                  "notes": null,
+                  "imdb_id": "tt0104036"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Neil Jordan",
+                  "notes": null,
+                  "imdb_id": "nm0001403"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Husbands and Wives",
+                  "notes": null,
+                  "imdb_id": "tt0104466"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Woody Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000095"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lorenzo's Oil",
+                  "notes": null,
+                  "imdb_id": "tt0104756"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Miller",
+                  "notes": null,
+                  "imdb_id": "nm0004306"
+               },
+               {
+                  "name": "Nick Enright",
+                  "notes": null,
+                  "imdb_id": "nm0258012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Passion Fish",
+                  "notes": null,
+                  "imdb_id": "tt0105107"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Sayles",
+                  "notes": null,
+                  "imdb_id": "nm0000626"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Unforgiven",
+                  "notes": null,
+                  "imdb_id": "tt0105695"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Webb Peoples",
+                  "notes": null,
+                  "imdb_id": "nm0672459"
+               }
+            ]
+         }
+      ]
+   }
+]

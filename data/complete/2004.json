@@ -1,0 +1,2397 @@
+[
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barrie M. Osborne",
+                  "notes": null,
+                  "imdb_id": "nm0651614"
+               },
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               },
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lost in Translation",
+                  "notes": null,
+                  "imdb_id": "tt0335266"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ross Katz",
+                  "notes": null,
+                  "imdb_id": "nm0441839"
+               },
+               {
+                  "name": "Sofia Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0001068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Samuel Goldwyn Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0326412"
+               },
+               {
+                  "name": "Peter Weir",
+                  "notes": null,
+                  "imdb_id": "nm0001837"
+               },
+               {
+                  "name": "Duncan Henderson",
+                  "notes": null,
+                  "imdb_id": "nm0376416"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Lorenz",
+                  "notes": null,
+                  "imdb_id": "nm0520749"
+               },
+               {
+                  "name": "Judie Hoyt",
+                  "notes": null,
+                  "imdb_id": "nm0398469"
+               },
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kathleen Kennedy",
+                  "notes": null,
+                  "imdb_id": "nm0005086"
+               },
+               {
+                  "name": "Frank Marshall",
+                  "notes": null,
+                  "imdb_id": "nm0550881"
+               },
+               {
+                  "name": "Gary Ross",
+                  "notes": null,
+                  "imdb_id": "nm0002657"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sean Penn",
+                  "notes": null,
+                  "imdb_id": "nm0000576"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ben Kingsley",
+                  "notes": null,
+                  "imdb_id": "nm0001426"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "House of Sand and Fog",
+                  "notes": null,
+                  "imdb_id": "tt0315983"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bill Murray",
+                  "notes": null,
+                  "imdb_id": "nm0000195"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lost in Translation",
+                  "notes": null,
+                  "imdb_id": "tt0335266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Johnny Depp",
+                  "notes": null,
+                  "imdb_id": "nm0000136"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "notes": null,
+                  "imdb_id": "tt0325980"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jude Law",
+                  "notes": null,
+                  "imdb_id": "nm0000179"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Charlize Theron",
+                  "notes": null,
+                  "imdb_id": "nm0000234"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Monster",
+                  "notes": null,
+                  "imdb_id": "tt0340855"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Diane Keaton",
+                  "notes": null,
+                  "imdb_id": "nm0000473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Something's Gotta Give",
+                  "notes": null,
+                  "imdb_id": "tt0337741"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Keisha Castle-Hughes",
+                  "notes": null,
+                  "imdb_id": "nm1095720"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Whale Rider",
+                  "notes": null,
+                  "imdb_id": "tt0298228"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Naomi Watts",
+                  "notes": null,
+                  "imdb_id": "nm0915208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "21 Grams",
+                  "notes": null,
+                  "imdb_id": "tt0315733"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Samantha Morton",
+                  "notes": null,
+                  "imdb_id": "nm0608090"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In America",
+                  "notes": null,
+                  "imdb_id": "tt0298845"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tim Robbins",
+                  "notes": null,
+                  "imdb_id": "nm0000209"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alec Baldwin",
+                  "notes": null,
+                  "imdb_id": "nm0000285"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Cooler",
+                  "notes": null,
+                  "imdb_id": "tt0318374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Benicio Del Toro",
+                  "notes": null,
+                  "imdb_id": "nm0001125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "21 Grams",
+                  "notes": null,
+                  "imdb_id": "tt0315733"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Djimon Hounsou",
+                  "notes": null,
+                  "imdb_id": "nm0005023"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "In America",
+                  "notes": null,
+                  "imdb_id": "tt0298845"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ken Watanabe",
+                  "notes": null,
+                  "imdb_id": "nm0913822"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Samurai",
+                  "notes": null,
+                  "imdb_id": "tt0325710"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Ren\u00e9e Zellweger",
+                  "notes": null,
+                  "imdb_id": "nm0000250"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Holly Hunter",
+                  "notes": null,
+                  "imdb_id": "nm0000456"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thirteen",
+                  "notes": null,
+                  "imdb_id": "tt0328538"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Marcia Gay Harden",
+                  "notes": null,
+                  "imdb_id": "nm0001315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Patricia Clarkson",
+                  "notes": null,
+                  "imdb_id": "nm0165101"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pieces of April",
+                  "notes": null,
+                  "imdb_id": "tt0311648"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shohreh Aghdashloo",
+                  "notes": null,
+                  "imdb_id": "nm0013037"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "House of Sand and Fog",
+                  "notes": null,
+                  "imdb_id": "tt0315983"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lost in Translation",
+                  "notes": null,
+                  "imdb_id": "tt0335266"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sofia Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0001068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dirty Pretty Things",
+                  "notes": null,
+                  "imdb_id": "tt0301199"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steven Knight",
+                  "notes": null,
+                  "imdb_id": "nm1140275"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Nemo",
+                  "notes": null,
+                  "imdb_id": "tt0266543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Stanton",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0004056"
+               },
+               {
+                  "name": "Bob Peterson",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0677037"
+               },
+               {
+                  "name": "David Reynolds",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0721675"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "In America",
+                  "notes": null,
+                  "imdb_id": "tt0298845"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Sheridan",
+                  "notes": null,
+                  "imdb_id": "nm0006487"
+               },
+               {
+                  "name": "Naomi Sheridan",
+                  "notes": null,
+                  "imdb_id": "nm1238875"
+               },
+               {
+                  "name": "Kirsten Sheridan",
+                  "notes": null,
+                  "imdb_id": "nm0792202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Barbarian Invasions",
+                  "notes": null,
+                  "imdb_id": "tt0338135"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Denys Arcand",
+                  "notes": null,
+                  "imdb_id": "nm0000780"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               },
+               {
+                  "name": "Philippa Boyens",
+                  "notes": null,
+                  "imdb_id": "nm0101991"
+               },
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "American Splendor",
+                  "notes": null,
+                  "imdb_id": "tt0305206"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shari Springer Berman",
+                  "notes": null,
+                  "imdb_id": "nm0075849"
+               },
+               {
+                  "name": "Robert Pulcini",
+                  "notes": null,
+                  "imdb_id": "nm0700301"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "City of God",
+                  "notes": null,
+                  "imdb_id": "tt0317248"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Br\u00e1ulio Mantovani",
+                  "notes": null,
+                  "imdb_id": "nm1130251"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Helgeland",
+                  "notes": null,
+                  "imdb_id": "nm0001338"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Ross",
+                  "notes": null,
+                  "imdb_id": "nm0002657"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Canada.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Barbarian Invasions",
+                  "notes": null,
+                  "imdb_id": "tt0338135"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Sweden.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Evil",
+                  "notes": null,
+                  "imdb_id": "tt0338309"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Japan.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Twilight Samurai",
+                  "notes": null,
+                  "imdb_id": "tt0351817"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Netherlands.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Twin Sisters",
+                  "notes": null,
+                  "imdb_id": "tt0322674"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Czech Republic.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Zelary",
+                  "notes": null,
+                  "imdb_id": "tt0288330"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Russell Boyd",
+                  "notes": null,
+                  "imdb_id": "nm0006570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "City of God",
+                  "notes": null,
+                  "imdb_id": "tt0317248"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "C\u00e9sar Charlone",
+                  "notes": null,
+                  "imdb_id": "nm0153263"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Seale",
+                  "notes": null,
+                  "imdb_id": "nm0005868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Girl with a Pearl Earring",
+                  "notes": null,
+                  "imdb_id": "tt0335119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eduardo Serra",
+                  "notes": null,
+                  "imdb_id": "nm0785381"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Schwartzman",
+                  "notes": null,
+                  "imdb_id": "nm0006701"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ngila Dickson",
+                  "notes": null,
+                  "imdb_id": "nm0225699"
+               },
+               {
+                  "name": "Richard Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0853050"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Girl with a Pearl Earring",
+                  "notes": null,
+                  "imdb_id": "tt0335119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dien van Straalen",
+                  "notes": null,
+                  "imdb_id": "nm0833009"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wendy Stites",
+                  "notes": null,
+                  "imdb_id": "nm0830594"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Judianna Makovsky",
+                  "notes": null,
+                  "imdb_id": "nm0538721"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Samurai",
+                  "notes": null,
+                  "imdb_id": "tt0325710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ngila Dickson",
+                  "notes": null,
+                  "imdb_id": "nm0225699"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard King",
+                  "notes": null,
+                  "imdb_id": "nm0455185"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Nemo",
+                  "notes": null,
+                  "imdb_id": "tt0266543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Rydstrom",
+                  "notes": null,
+                  "imdb_id": "nm0003977"
+               },
+               {
+                  "name": "Michael Silvers",
+                  "notes": null,
+                  "imdb_id": "nm0799011"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "notes": null,
+                  "imdb_id": "tt0325980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "George Watters II",
+                  "notes": null,
+                  "imdb_id": "nm0915036"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Mixing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "Michael Semanick",
+                  "notes": null,
+                  "imdb_id": "nm0783713"
+               },
+               {
+                  "name": "Michael Hedges",
+                  "notes": null,
+                  "imdb_id": "nm0373276"
+               },
+               {
+                  "name": "Hammond Peek",
+                  "notes": null,
+                  "imdb_id": "nm0003827"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Massey",
+                  "notes": null,
+                  "imdb_id": "nm0557338"
+               },
+               {
+                  "name": "Doug Hemphill",
+                  "notes": null,
+                  "imdb_id": "nm0376153"
+               },
+               {
+                  "name": "Art Rochester",
+                  "notes": null,
+                  "imdb_id": "nm0734053"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "notes": null,
+                  "imdb_id": "tt0325980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Boyes",
+                  "notes": null,
+                  "imdb_id": "nm0102110"
+               },
+               {
+                  "name": "David Parker",
+                  "notes": null,
+                  "imdb_id": "nm0662188"
+               },
+               {
+                  "name": "David E. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132372"
+               },
+               {
+                  "name": "Lee Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Tod A. Maitland",
+                  "notes": null,
+                  "imdb_id": "nm0537972"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Samurai",
+                  "notes": null,
+                  "imdb_id": "tt0325710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Anna Behlmer",
+                  "notes": null,
+                  "imdb_id": "nm0066933"
+               },
+               {
+                  "name": "Jeff Wexler",
+                  "notes": null,
+                  "imdb_id": "nm0923306"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jamie Selkirk",
+                  "notes": null,
+                  "imdb_id": "nm0783241"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "City of God",
+                  "notes": null,
+                  "imdb_id": "tt0317248"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Rezende",
+                  "notes": null,
+                  "imdb_id": "nm1179870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Murch",
+                  "notes": null,
+                  "imdb_id": "nm0004555"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809059"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Goldenberg",
+                  "notes": null,
+                  "imdb_id": "nm0325549"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Taylor",
+                  "notes": null,
+                  "imdb_id": "nm0853050"
+               },
+               {
+                  "name": "Peter Swords King",
+                  "notes": null,
+                  "imdb_id": "nm0455135"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edouard F. Henriques",
+                  "notes": null,
+                  "imdb_id": "nm0377667"
+               },
+               {
+                  "name": "Yolanda Toussieng",
+                  "notes": null,
+                  "imdb_id": "nm0869758"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "notes": null,
+                  "imdb_id": "tt0325980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Martin Samuel",
+                  "notes": null,
+                  "imdb_id": "nm0760407"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Into the West\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fran Walsh",
+                  "notes": null,
+                  "imdb_id": "nm0909638"
+               },
+               {
+                  "name": "Howard Shore",
+                  "notes": null,
+                  "imdb_id": "nm0006290"
+               },
+               {
+                  "name": "Annie Lennox",
+                  "notes": null,
+                  "imdb_id": "nm0005142"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A Kiss at the End of the Rainbow\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Mighty Wind",
+                  "notes": null,
+                  "imdb_id": "tt0310281"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael McKean",
+                  "notes": null,
+                  "imdb_id": "nm0571106"
+               },
+               {
+                  "name": "Annette O'Toole",
+                  "notes": null,
+                  "imdb_id": "nm0001578"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"You Will Be My Ain True Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sting",
+                  "notes": null,
+                  "imdb_id": "nm0001776"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Scarlet Tide\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "T Bone Burnett",
+                  "notes": null,
+                  "imdb_id": "nm0122439"
+               },
+               {
+                  "name": "Elvis Costello",
+                  "notes": null,
+                  "imdb_id": "nm0004845"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Belleville Rendez-Vous\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Triplets of Belleville",
+                  "notes": null,
+                  "imdb_id": "tt0286244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Beno\u00eet Charest",
+                  "notes": "(music)",
+                  "imdb_id": "nm0152844"
+               },
+               {
+                  "name": "Sylvain Chomet",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0158984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Howard Shore",
+                  "notes": null,
+                  "imdb_id": "nm0006290"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Big Fish",
+                  "notes": null,
+                  "imdb_id": "tt0319061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny Elfman",
+                  "notes": null,
+                  "imdb_id": "nm0000384"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cold Mountain",
+                  "notes": null,
+                  "imdb_id": "tt0159365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gabriel Yared",
+                  "notes": null,
+                  "imdb_id": "nm0001189"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Finding Nemo",
+                  "notes": null,
+                  "imdb_id": "tt0266543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Newman",
+                  "notes": null,
+                  "imdb_id": "nm0002353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "House of Sand and Fog",
+                  "notes": null,
+                  "imdb_id": "tt0315983"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Horner",
+                  "notes": null,
+                  "imdb_id": "nm0000035"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Harvie Krumpet",
+                  "notes": null,
+                  "imdb_id": "tt0382734"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Adam Elliot",
+                  "notes": null,
+                  "imdb_id": "nm0254178"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boundin'",
+                  "notes": null,
+                  "imdb_id": "tt0395479"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bud Luckey",
+                  "notes": null,
+                  "imdb_id": "nm0524726"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Destino",
+                  "notes": null,
+                  "imdb_id": "tt0377770"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dominique Monfery",
+                  "notes": null,
+                  "imdb_id": "nm0597963"
+               },
+               {
+                  "name": "Roy Edward Disney",
+                  "notes": null,
+                  "imdb_id": "nm0004877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gone Nutty",
+                  "notes": null,
+                  "imdb_id": "tt0342965"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carlos Saldanha",
+                  "notes": null,
+                  "imdb_id": "nm0757858"
+               },
+               {
+                  "name": "John C. Donkin",
+                  "notes": null,
+                  "imdb_id": "nm0232561"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Nibbles",
+                  "notes": null,
+                  "imdb_id": "tt0392542"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Hinton",
+                  "notes": null,
+                  "imdb_id": "nm0385975"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Two Soldiers",
+                  "notes": null,
+                  "imdb_id": "tt0304858"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Schneider",
+                  "notes": null,
+                  "imdb_id": "nm0773689"
+               },
+               {
+                  "name": "Andrew J. Sacks",
+                  "notes": null,
+                  "imdb_id": "nm0755287"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "(A)Torzija",
+                  "notes": null,
+                  "imdb_id": "tt0350476"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stefan Arsenijevic",
+                  "notes": null,
+                  "imdb_id": "nm1313590"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Most",
+                  "notes": null,
+                  "imdb_id": "tt0345672"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bobby Garabedian",
+                  "notes": null,
+                  "imdb_id": "nm1286048"
+               },
+               {
+                  "name": "William Zabka",
+                  "notes": null,
+                  "imdb_id": "nm0951420"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Squash",
+                  "notes": null,
+                  "imdb_id": "tt0341588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Bailliu",
+                  "notes": null,
+                  "imdb_id": "nm1014409"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Red Jacket",
+                  "notes": null,
+                  "imdb_id": "tt0323844"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Florian Baxmeyer",
+                  "notes": null,
+                  "imdb_id": "nm1140801"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Chernobyl Heart",
+                  "notes": null,
+                  "imdb_id": "tt0396959"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maryann DeLeo",
+                  "notes": null,
+                  "imdb_id": "nm1463062"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Asylum",
+                  "notes": null,
+                  "imdb_id": "tt0363445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sandy McLeod",
+                  "notes": null,
+                  "imdb_id": "nm0572865"
+               },
+               {
+                  "name": "Gini Reticker",
+                  "notes": null,
+                  "imdb_id": "nm0720533"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ferry Tales",
+                  "notes": null,
+                  "imdb_id": "tt0363607"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Katja Esson",
+                  "notes": null,
+                  "imdb_id": "nm1534515"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Fog of War",
+                  "notes": null,
+                  "imdb_id": "tt0317910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Errol Morris",
+                  "notes": null,
+                  "imdb_id": "nm0001554"
+               },
+               {
+                  "name": "Michael Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931308"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Capturing the Friedmans",
+                  "notes": null,
+                  "imdb_id": "tt0342172"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Jarecki",
+                  "notes": null,
+                  "imdb_id": "nm1285613"
+               },
+               {
+                  "name": "Marc Smerling",
+                  "notes": null,
+                  "imdb_id": "nm0806830"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cuban Rafters",
+                  "notes": null,
+                  "imdb_id": "tt0321376"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carles Bosch",
+                  "notes": null,
+                  "imdb_id": "nm1188723"
+               },
+               {
+                  "name": "Josep Maria Dom\u00e8nech",
+                  "notes": null,
+                  "imdb_id": "nm2060660"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "My Architect",
+                  "notes": null,
+                  "imdb_id": "tt0373175"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathaniel Kahn",
+                  "notes": null,
+                  "imdb_id": "nm0434896"
+               },
+               {
+                  "name": "Susan Rose Behr",
+                  "notes": null,
+                  "imdb_id": "nm1405980"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Weather Underground",
+                  "notes": null,
+                  "imdb_id": "tt0343168"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sam Green",
+                  "notes": null,
+                  "imdb_id": "nm0338316"
+               },
+               {
+                  "name": "Bill Siegel",
+                  "notes": null,
+                  "imdb_id": "nm0796903"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Finding Nemo",
+                  "notes": null,
+                  "imdb_id": "tt0266543"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andrew Stanton",
+                  "notes": null,
+                  "imdb_id": "nm0004056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Brother Bear",
+                  "notes": null,
+                  "imdb_id": "tt0328880"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Aaron Blaise",
+                  "notes": null,
+                  "imdb_id": "nm0086431"
+               },
+               {
+                  "name": "Robert Walker",
+                  "notes": null,
+                  "imdb_id": "nm1074107"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Triplets of Belleville",
+                  "notes": null,
+                  "imdb_id": "tt0286244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sylvain Chomet",
+                  "notes": null,
+                  "imdb_id": "nm0158984"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jim Rygiel",
+                  "notes": null,
+                  "imdb_id": "nm0753277"
+               },
+               {
+                  "name": "Joe Letteri",
+                  "notes": null,
+                  "imdb_id": "nm0504784"
+               },
+               {
+                  "name": "Randall William Cook",
+                  "notes": null,
+                  "imdb_id": "nm0177241"
+               },
+               {
+                  "name": "Alex Funke",
+                  "notes": null,
+                  "imdb_id": "nm0298754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Sudick",
+                  "notes": null,
+                  "imdb_id": "nm0837203"
+               },
+               {
+                  "name": "Stefen Fangmeier",
+                  "notes": null,
+                  "imdb_id": "nm0266777"
+               },
+               {
+                  "name": "Nathan McGuinness",
+                  "notes": null,
+                  "imdb_id": "nm0570135"
+               },
+               {
+                  "name": "Robert Stromberg",
+                  "notes": null,
+                  "imdb_id": "nm0834902"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                  "notes": null,
+                  "imdb_id": "tt0325980"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Knoll",
+                  "notes": null,
+                  "imdb_id": "nm0461306"
+               },
+               {
+                  "name": "Hal T. Hickel",
+                  "notes": null,
+                  "imdb_id": "nm0382579"
+               },
+               {
+                  "name": "Charles Gibson",
+                  "notes": null,
+                  "imdb_id": "nm0002716"
+               },
+               {
+                  "name": "Terry D. Frazee",
+                  "notes": null,
+                  "imdb_id": "nm0292476"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Grant Major",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0538194"
+               },
+               {
+                  "name": "Dan Hennah",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0377172"
+               },
+               {
+                  "name": "Alan Lee",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0496769"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Girl with a Pearl Earring",
+                  "notes": null,
+                  "imdb_id": "tt0335119"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben van Os",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0651470"
+               },
+               {
+                  "name": "Cecile Heideman",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm1359745"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Sandell",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0761367"
+               },
+               {
+                  "name": "Robert Gould",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0332481"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seabiscuit",
+                  "notes": null,
+                  "imdb_id": "tt0329575"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jeannine Oppewall",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0649223"
+               },
+               {
+                  "name": "Leslie Pope",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0005319"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Last Samurai",
+                  "notes": null,
+                  "imdb_id": "tt0325710"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lilly Kilvert",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0453344"
+               },
+               {
+                  "name": "Gretchen Rau",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0711956"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Peter Jackson",
+                  "notes": null,
+                  "imdb_id": "nm0001392"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Lord of the Rings: The Return of the King",
+                  "notes": null,
+                  "imdb_id": "tt0167260"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Clint Eastwood",
+                  "notes": null,
+                  "imdb_id": "nm0000142"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mystic River",
+                  "notes": null,
+                  "imdb_id": "tt0327056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Fernando Meirelles",
+                  "notes": null,
+                  "imdb_id": "nm0576987"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "City of God",
+                  "notes": null,
+                  "imdb_id": "tt0317248"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Peter Weir",
+                  "notes": null,
+                  "imdb_id": "nm0001837"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Master and Commander: The Far Side of the World",
+                  "notes": null,
+                  "imdb_id": "tt0311113"
+               }
+            ]
+         },
+         {
+            "notes": "Sofia Coppola becomes the first woman to be nominated for writing, directing and producing in the same year.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sofia Coppola",
+                  "notes": null,
+                  "imdb_id": "nm0001068"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lost in Translation",
+                  "notes": null,
+                  "imdb_id": "tt0335266"
+               }
+            ]
+         }
+      ]
+   }
+]

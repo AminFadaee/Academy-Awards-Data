@@ -1,0 +1,848 @@
+[
+   {
+      "category": "Best Motion Picture of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Birdman or (The Unexpected Virtue of Ignorance)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Sniper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boyhood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Selma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imitation Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Theory of Everything"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whiplash"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Eddie Redmayne"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Benedict Cumberbatch"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bradley Cooper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michael Keaton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Steve Carell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Julianne Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Felicity Jones"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Marion Cotillard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Reese Witherspoon"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rosamund Pike"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "J.K. Simmons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward Norton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ethan Hawke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mark Ruffalo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Duvall"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Performance by an Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Patricia Arquette"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Emma Stone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Keira Knightley"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Laura Dern"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Directing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Alejandro G. I\u00f1\u00e1rritu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bennett Miller"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Morten Tyldum"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Richard Linklater"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wes Anderson"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Birdman or (The Unexpected Virtue of Ignorance)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boyhood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foxcatcher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nightcrawler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adapted Screenplay",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Imitation Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Sniper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inherent Vice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Theory of Everything"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Whiplash"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Birdman or (The Unexpected Virtue of Ignorance)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Turner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unbroken"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Whiplash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Sniper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boyhood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imitation Game"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Production Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interstellar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Into the Woods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Turner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imitation Game"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Inherent Vice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Into the Woods"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Maleficent"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Turner"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Makeup and Hairstyling",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Foxcatcher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guardians of the Galaxy"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Selma"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Begin Again"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beyond the Lights"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glen Campbell: I'll Be Me"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lego Movie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Grand Budapest Hotel"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interstellar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mr. Turner"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Imitation Game"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Theory of Everything"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Mixing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Whiplash"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "American Sniper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birdman or (The Unexpected Virtue of Ignorance)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interstellar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unbroken"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Sound Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "American Sniper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Birdman or (The Unexpected Virtue of Ignorance)"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Interstellar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hobbit: The Battle of the Five Armies"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Unbroken"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Achievement in Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Interstellar"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Captain America: The Winter Soldier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dawn of the Planet of the Apes"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Guardians of the Galaxy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "X-Men: Days of Future Past"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Feast"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Single Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Me and My Moulton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Bigger Picture"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Dam Keeper"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Phone Call"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Aya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Boogaloo and Graham"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Butter Lamp"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Parvaneh"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subject",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Crisis Hotline: Veterans Press 1"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joanna"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Our Curse"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Reaper"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "White Earth"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Feature",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Citizenfour"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Finding Vivian Maier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Last Days in Vietnam"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Salt of the Earth"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Virunga"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Ida"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Leviathan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tangerines"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Timbuktu"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Wild Tales"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Animated Feature Film of the Year",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Big Hero 6"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "How to Train Your Dragon 2"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Song of the Sea"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Boxtrolls"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Tale of The Princess Kaguya"
+            ]
+         }
+      ]
+   }
+]

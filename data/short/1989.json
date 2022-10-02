@@ -1,0 +1,735 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dustin Hoffman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Edward James Olmos"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gene Hackman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Max von Sydow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tom Hanks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Kevin Kline"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alec Guinness"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dean Stockwell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Landau"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "River Phoenix"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Jodie Foster"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Glenn Close"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Melanie Griffith"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Meryl Streep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sigourney Weaver"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Geena Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frances McDormand"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Joan Cusack"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Michelle Pfeiffer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sigourney Weaver"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dangerous Liaisons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beaches"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rain Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tucker: The Man and His Dream"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Mississippi Burning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rain Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tequila Sunrise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unbearable Lightness of Being"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dangerous Liaisons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Handful of Dust"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coming to America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Sunset"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Tucker: The Man and His Dream"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Barry Levinson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Alan Parker"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Crichton"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Martin Scorsese"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mike Nichols"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "H\u00f4tel Terminus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Let's Get Lost"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Promises to Keep"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cry of Reason: Beyers Naude - An Afrikaner Speaks Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who Killed Vincent Chin?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "You Don't Have to Die"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Family Gathering"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gang Cops"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Portrait of Imogen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children's Storefront"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Die Hard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Willow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Die Hard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Willow"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Die Hard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gorillas in the Mist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mississippi Burning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rain Man"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Pelle the Conqueror"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hanussen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Salaam Bombay!"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Music Teacher"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Women on the Verge of a Nervous Breakdown"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Beetlejuice"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Coming to America"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scrooged"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Milagro Beanfield War"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dangerous Liaisons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gorillas in the Mist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rain Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Accidental Tourist"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Working Girl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bagdad Cafe"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Buster"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rain Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Dangerous Liaisons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mississippi Burning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Accidental Tourist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Working Girl"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Tin Toy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Technological Threat"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Cat Came Back"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Appointments of Dennis Jennings"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cadillac Dreams"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gullah Tales"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Bird"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Die Hard"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gorillas in the Mist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Mississippi Burning"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Who Framed Roger Rabbit"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Dangerous Liaisons"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Gorillas in the Mist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Little Dorrit"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Accidental Tourist"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Unbearable Lightness of Being"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rain Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Fish Called Wanda"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Big"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bull Durham"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Running on Empty"
+            ]
+         }
+      ]
+   }
+]

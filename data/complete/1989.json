@@ -1,0 +1,2221 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dustin Hoffman",
+                  "notes": null,
+                  "imdb_id": "nm0000163"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Edward James Olmos",
+                  "notes": null,
+                  "imdb_id": "nm0001579"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stand and Deliver",
+                  "notes": null,
+                  "imdb_id": "tt0094027"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gene Hackman",
+                  "notes": null,
+                  "imdb_id": "nm0000432"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Max von Sydow",
+                  "notes": null,
+                  "imdb_id": "nm0001884"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pelle the Conqueror",
+                  "notes": null,
+                  "imdb_id": "tt0093713"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Hanks",
+                  "notes": null,
+                  "imdb_id": "nm0000158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Big",
+                  "notes": null,
+                  "imdb_id": "tt0094737"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Kevin Kline",
+                  "notes": null,
+                  "imdb_id": "nm0000177"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Fish Called Wanda",
+                  "notes": null,
+                  "imdb_id": "tt0095159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alec Guinness",
+                  "notes": null,
+                  "imdb_id": "nm0000027"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Little Dorrit",
+                  "notes": null,
+                  "imdb_id": "tt0095530"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dean Stockwell",
+                  "notes": null,
+                  "imdb_id": "nm0001777"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Married to the Mob",
+                  "notes": null,
+                  "imdb_id": "tt0095593"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Landau",
+                  "notes": null,
+                  "imdb_id": "nm0001445"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tucker: The Man and His Dream",
+                  "notes": null,
+                  "imdb_id": "tt0096316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "River Phoenix",
+                  "notes": null,
+                  "imdb_id": "nm0000203"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Running on Empty",
+                  "notes": null,
+                  "imdb_id": "tt0096018"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Jodie Foster",
+                  "notes": null,
+                  "imdb_id": "nm0000149"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Accused",
+                  "notes": null,
+                  "imdb_id": "tt0094608"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Glenn Close",
+                  "notes": null,
+                  "imdb_id": "nm0000335"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Melanie Griffith",
+                  "notes": null,
+                  "imdb_id": "nm0000429"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meryl Streep",
+                  "notes": null,
+                  "imdb_id": "nm0000658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Cry in the Dark",
+                  "notes": null,
+                  "imdb_id": "tt0094924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sigourney Weaver",
+                  "notes": null,
+                  "imdb_id": "nm0000244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gorillas in the Mist",
+                  "notes": null,
+                  "imdb_id": "tt0095243"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Geena Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000133"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Accidental Tourist",
+                  "notes": null,
+                  "imdb_id": "tt0094606"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frances McDormand",
+                  "notes": null,
+                  "imdb_id": "nm0000531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Cusack",
+                  "notes": null,
+                  "imdb_id": "nm0000349"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Michelle Pfeiffer",
+                  "notes": null,
+                  "imdb_id": "nm0000201"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sigourney Weaver",
+                  "notes": null,
+                  "imdb_id": "nm0000244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Craig",
+                  "notes": null,
+                  "imdb_id": "nm0186023"
+               },
+               {
+                  "name": "G\u00e9rard James",
+                  "notes": null,
+                  "imdb_id": "nm0416540"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beaches",
+                  "notes": null,
+                  "imdb_id": "tt0094715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Albert Brenner",
+                  "notes": null,
+                  "imdb_id": "nm0107447"
+               },
+               {
+                  "name": "Garrett Lewis",
+                  "notes": null,
+                  "imdb_id": "nm0507204"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ida Random",
+                  "notes": null,
+                  "imdb_id": "nm0709944"
+               },
+               {
+                  "name": "Linda DeScenna",
+                  "notes": null,
+                  "imdb_id": "nm0220984"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tucker: The Man and His Dream",
+                  "notes": null,
+                  "imdb_id": "tt0096316"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Tavoularis",
+                  "notes": null,
+                  "imdb_id": "nm0851790"
+               },
+               {
+                  "name": "Armin Ganz",
+                  "notes": null,
+                  "imdb_id": "nm0304653"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elliot Scott",
+                  "notes": null,
+                  "imdb_id": "nm0779089"
+               },
+               {
+                  "name": "Peter Howitt",
+                  "notes": null,
+                  "imdb_id": "nm0398184"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Biziou",
+                  "notes": null,
+                  "imdb_id": "nm0084695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Seale",
+                  "notes": null,
+                  "imdb_id": "nm0005868"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tequila Sunrise",
+                  "notes": null,
+                  "imdb_id": "tt0096244"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Conrad L. Hall",
+                  "notes": null,
+                  "imdb_id": "nm0005734"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unbearable Lightness of Being",
+                  "notes": null,
+                  "imdb_id": "tt0096332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sven Nykvist",
+                  "notes": null,
+                  "imdb_id": "nm0005815"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Cundey",
+                  "notes": null,
+                  "imdb_id": "nm0005678"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James Acheson",
+                  "notes": null,
+                  "imdb_id": "nm0009807"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Handful of Dust",
+                  "notes": null,
+                  "imdb_id": "tt0095274"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jane Robinson",
+                  "notes": null,
+                  "imdb_id": "nm0732711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Coming to America",
+                  "notes": null,
+                  "imdb_id": "tt0094898"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Deborah Nadoolman",
+                  "notes": null,
+                  "imdb_id": "nm0618966"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunset",
+                  "notes": null,
+                  "imdb_id": "tt0096193"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Patricia Norris",
+                  "notes": null,
+                  "imdb_id": "nm0635876"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tucker: The Man and His Dream",
+                  "notes": null,
+                  "imdb_id": "tt0096316"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Milena Canonero",
+                  "notes": null,
+                  "imdb_id": "nm0134382"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Barry Levinson",
+                  "notes": null,
+                  "imdb_id": "nm0001469"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alan Parker",
+                  "notes": null,
+                  "imdb_id": "nm0000570"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Crichton",
+                  "notes": null,
+                  "imdb_id": "nm0187769"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A Fish Called Wanda",
+                  "notes": null,
+                  "imdb_id": "tt0095159"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Martin Scorsese",
+                  "notes": null,
+                  "imdb_id": "nm0000217"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Last Temptation of Christ",
+                  "notes": null,
+                  "imdb_id": "tt0095497"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mike Nichols",
+                  "notes": null,
+                  "imdb_id": "nm0001566"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "H\u00f4tel Terminus",
+                  "notes": null,
+                  "imdb_id": "tt0095341"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Marcel Oph\u00fcls",
+                  "notes": null,
+                  "imdb_id": "nm0649096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Let's Get Lost",
+                  "notes": null,
+                  "imdb_id": "tt0095515"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bruce Weber",
+                  "notes": null,
+                  "imdb_id": "nm0916510"
+               },
+               {
+                  "name": "Nan Bush",
+                  "notes": null,
+                  "imdb_id": "nm0124177"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Promises to Keep",
+                  "notes": null,
+                  "imdb_id": "tt0095918"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ginny Durrin",
+                  "notes": null,
+                  "imdb_id": "nm0244374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cry of Reason: Beyers Naude - An Afrikaner Speaks Out",
+                  "notes": null,
+                  "imdb_id": "tt0094925"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Bilheimer",
+                  "notes": null,
+                  "imdb_id": "nm0082220"
+               },
+               {
+                  "name": "Ronald Mix",
+                  "notes": null,
+                  "imdb_id": "nm0594289"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Who Killed Vincent Chin?",
+                  "notes": null,
+                  "imdb_id": "tt0096440"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Renee Tajima-Pena",
+                  "notes": null,
+                  "imdb_id": "nm0846967"
+               },
+               {
+                  "name": "Christine Choy",
+                  "notes": null,
+                  "imdb_id": "nm0159563"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "You Don't Have to Die",
+                  "notes": null,
+                  "imdb_id": "tt0096484"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bill Guttentag",
+                  "notes": null,
+                  "imdb_id": "nm0349702"
+               },
+               {
+                  "name": "Malcolm Clarke",
+                  "notes": null,
+                  "imdb_id": "nm0164885"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Family Gathering",
+                  "notes": null,
+                  "imdb_id": "tt3294916"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Tegnell",
+                  "notes": null,
+                  "imdb_id": "nm0853920"
+               },
+               {
+                  "name": "Lise Yasui",
+                  "notes": null,
+                  "imdb_id": "nm0946659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gang Cops",
+                  "notes": null,
+                  "imdb_id": "tt0095197"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas B. Fleming",
+                  "notes": null,
+                  "imdb_id": "nm0281799"
+               },
+               {
+                  "name": "Daniel Marks",
+                  "notes": null,
+                  "imdb_id": "nm0548793"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Portrait of Imogen",
+                  "notes": null,
+                  "imdb_id": "tt0095892"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nancy Hale",
+                  "notes": null,
+                  "imdb_id": "nm0354979"
+               },
+               {
+                  "name": "Meg Partridge",
+                  "notes": null,
+                  "imdb_id": "nm0664056"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Children's Storefront",
+                  "notes": null,
+                  "imdb_id": "tt0094864"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karen Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329139"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Sound Effects Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles L. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132287"
+               },
+               {
+                  "name": "Louis L. Edemann",
+                  "notes": null,
+                  "imdb_id": "nm0249068"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Die Hard",
+                  "notes": null,
+                  "imdb_id": "tt0095016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Hunter Flick",
+                  "notes": null,
+                  "imdb_id": "nm0282276"
+               },
+               {
+                  "name": "Richard Shorr",
+                  "notes": null,
+                  "imdb_id": "nm0795015"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Willow",
+                  "notes": null,
+                  "imdb_id": "tt0096446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ben Burtt",
+                  "notes": null,
+                  "imdb_id": "nm0123785"
+               },
+               {
+                  "name": "Richard Hymns",
+                  "notes": null,
+                  "imdb_id": "nm0405232"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ken Ralston",
+                  "notes": null,
+                  "imdb_id": "nm0707822"
+               },
+               {
+                  "name": "Richard Williams",
+                  "notes": null,
+                  "imdb_id": "nm0931530"
+               },
+               {
+                  "name": "Ed Jones",
+                  "notes": null,
+                  "imdb_id": "nm0428000"
+               },
+               {
+                  "name": "George Gibbs",
+                  "notes": null,
+                  "imdb_id": "nm0316672"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Die Hard",
+                  "notes": null,
+                  "imdb_id": "tt0095016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Edlund",
+                  "notes": null,
+                  "imdb_id": "nm0249430"
+               },
+               {
+                  "name": "Al Di Sarro",
+                  "notes": null,
+                  "imdb_id": "nm0224298"
+               },
+               {
+                  "name": "Brent Boates",
+                  "notes": null,
+                  "imdb_id": "nm0090221"
+               },
+               {
+                  "name": "Thaine Morris",
+                  "notes": null,
+                  "imdb_id": "nm0606970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Willow",
+                  "notes": null,
+                  "imdb_id": "tt0096446"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dennis Muren",
+                  "notes": null,
+                  "imdb_id": "nm0613830"
+               },
+               {
+                  "name": "Michael J. McAlister",
+                  "notes": null,
+                  "imdb_id": "nm0563943"
+               },
+               {
+                  "name": "Phil Tippett",
+                  "notes": null,
+                  "imdb_id": "nm0864138"
+               },
+               {
+                  "name": "Christopher Evans",
+                  "notes": null,
+                  "imdb_id": "nm0262600"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Schmidt",
+                  "notes": null,
+                  "imdb_id": "nm0772831"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Die Hard",
+                  "notes": null,
+                  "imdb_id": "tt0095016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank J. Urioste",
+                  "notes": null,
+                  "imdb_id": "nm0881973"
+               },
+               {
+                  "name": "John F. Link",
+                  "notes": null,
+                  "imdb_id": "nm0511219"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gorillas in the Mist",
+                  "notes": null,
+                  "imdb_id": "tt0095243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stuart Baird",
+                  "notes": null,
+                  "imdb_id": "nm0000829"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gerry Hambling",
+                  "notes": null,
+                  "imdb_id": "nm0357421"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stu Linder",
+                  "notes": null,
+                  "imdb_id": "nm0511742"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Denmark.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Pelle the Conqueror",
+                  "notes": null,
+                  "imdb_id": "tt0093713"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Hungary.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hanussen",
+                  "notes": null,
+                  "imdb_id": "tt0095276"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "India.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Salaam Bombay!",
+                  "notes": null,
+                  "imdb_id": "tt0096028"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Belgium.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Music Teacher",
+                  "notes": null,
+                  "imdb_id": "tt0095606"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Spain.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Women on the Verge of a Nervous Breakdown",
+                  "notes": null,
+                  "imdb_id": "tt0095675"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Beetlejuice",
+                  "notes": null,
+                  "imdb_id": "tt0094721"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ve Neill",
+                  "notes": null,
+                  "imdb_id": "nm0624763"
+               },
+               {
+                  "name": "Steve LaPorte",
+                  "notes": null,
+                  "imdb_id": "nm0478867"
+               },
+               {
+                  "name": "Robert Short",
+                  "notes": null,
+                  "imdb_id": "nm0324271"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Coming to America",
+                  "notes": null,
+                  "imdb_id": "tt0094898"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scrooged",
+                  "notes": null,
+                  "imdb_id": "tt0096061"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas R. Burman",
+                  "notes": null,
+                  "imdb_id": "nm0122207"
+               },
+               {
+                  "name": "Bari Dreiband-Burman",
+                  "notes": null,
+                  "imdb_id": "nm0237412"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Milagro Beanfield War",
+                  "notes": null,
+                  "imdb_id": "tt0095638"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dave Grusin",
+                  "notes": null,
+                  "imdb_id": "nm0006115"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Fenton",
+                  "notes": null,
+                  "imdb_id": "nm0006070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gorillas in the Mist",
+                  "notes": null,
+                  "imdb_id": "tt0095243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Maurice Jarre",
+                  "notes": null,
+                  "imdb_id": "nm0003574"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Accidental Tourist",
+                  "notes": null,
+                  "imdb_id": "tt0094606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Let the River Run\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Carly Simon",
+                  "notes": null,
+                  "imdb_id": "nm0800089"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Calling You\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bagdad Cafe",
+                  "notes": null,
+                  "imdb_id": "tt0095801"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Telson",
+                  "notes": null,
+                  "imdb_id": "nm0854551"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Two Hearts\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Buster",
+                  "notes": null,
+                  "imdb_id": "tt0094819"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lamont Dozier",
+                  "notes": "(music)",
+                  "imdb_id": "nm0236541"
+               },
+               {
+                  "name": "Phil Collins",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0002015"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425741"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norma Heyman",
+                  "notes": null,
+                  "imdb_id": "nm0382278"
+               },
+               {
+                  "name": "Hank Moonjean",
+                  "notes": null,
+                  "imdb_id": "nm0600794"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frederick Zollo",
+                  "notes": null,
+                  "imdb_id": "nm0957712"
+               },
+               {
+                  "name": "Robert F. Colesberry",
+                  "notes": null,
+                  "imdb_id": "nm0171348"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Accidental Tourist",
+                  "notes": null,
+                  "imdb_id": "tt0094606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence Kasdan",
+                  "notes": null,
+                  "imdb_id": "nm0001410"
+               },
+               {
+                  "name": "Charles Okun",
+                  "notes": null,
+                  "imdb_id": "nm0645795"
+               },
+               {
+                  "name": "Michael Grillo",
+                  "notes": null,
+                  "imdb_id": "nm0342045"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Working Girl",
+                  "notes": null,
+                  "imdb_id": "tt0096463"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Wick",
+                  "notes": null,
+                  "imdb_id": "nm0926824"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Tin Toy",
+                  "notes": null,
+                  "imdb_id": "tt0096273"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Lasseter",
+                  "notes": null,
+                  "imdb_id": "nm0005124"
+               },
+               {
+                  "name": "William Reeves",
+                  "notes": null,
+                  "imdb_id": "nm0716315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Technological Threat",
+                  "notes": null,
+                  "imdb_id": "tt0096238"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Brian Jennings",
+                  "notes": null,
+                  "imdb_id": "nm0421117"
+               },
+               {
+                  "name": "Bill Kroyer",
+                  "notes": null,
+                  "imdb_id": "nm0472386"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cat Came Back",
+                  "notes": null,
+                  "imdb_id": "tt0094847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cordell Barker",
+                  "notes": null,
+                  "imdb_id": "nm0054855"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "The Appointments of Dennis Jennings",
+                  "notes": null,
+                  "imdb_id": "tt0094670"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dean Parisot",
+                  "notes": null,
+                  "imdb_id": "nm0661751"
+               },
+               {
+                  "name": "Steven Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942833"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cadillac Dreams",
+                  "notes": null,
+                  "imdb_id": "tt0094825"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Matia Karrell",
+                  "notes": null,
+                  "imdb_id": "nm0440105"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gullah Tales",
+                  "notes": null,
+                  "imdb_id": "tt0095261"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Moss",
+                  "notes": null,
+                  "imdb_id": "nm0608965"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Bird",
+                  "notes": null,
+                  "imdb_id": "tt0094747"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Les Fresholtz",
+                  "notes": null,
+                  "imdb_id": "nm0294370"
+               },
+               {
+                  "name": "Rick Alexander",
+                  "notes": "(as Dick Alexander)",
+                  "imdb_id": "nm1219804"
+               },
+               {
+                  "name": "Vern Poore",
+                  "notes": null,
+                  "imdb_id": "nm0691005"
+               },
+               {
+                  "name": "Willie D. Burton",
+                  "notes": null,
+                  "imdb_id": "nm0123770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Die Hard",
+                  "notes": null,
+                  "imdb_id": "tt0095016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don J. Bassman",
+                  "notes": null,
+                  "imdb_id": "nm0060318"
+               },
+               {
+                  "name": "Kevin F. Cleary",
+                  "notes": null,
+                  "imdb_id": "nm0165855"
+               },
+               {
+                  "name": "Richard Overton",
+                  "notes": null,
+                  "imdb_id": "nm0653958"
+               },
+               {
+                  "name": "Al Overton Jr.",
+                  "notes": null,
+                  "imdb_id": "nm0653929"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gorillas in the Mist",
+                  "notes": null,
+                  "imdb_id": "tt0095243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Andy Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625144"
+               },
+               {
+                  "name": "Brian Saunders",
+                  "notes": null,
+                  "imdb_id": "nm0766750"
+               },
+               {
+                  "name": "Peter Handford",
+                  "notes": null,
+                  "imdb_id": "nm0359542"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mississippi Burning",
+                  "notes": null,
+                  "imdb_id": "tt0095647"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert J. Litt",
+                  "notes": null,
+                  "imdb_id": "nm0514448"
+               },
+               {
+                  "name": "Elliot Tyson",
+                  "notes": null,
+                  "imdb_id": "nm0006525"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Danny Michael",
+                  "notes": null,
+                  "imdb_id": "nm0584098"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Who Framed Roger Rabbit",
+                  "notes": null,
+                  "imdb_id": "tt0096438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Knudson",
+                  "notes": null,
+                  "imdb_id": "nm0461702"
+               },
+               {
+                  "name": "John Boyd",
+                  "notes": null,
+                  "imdb_id": "nm0101815"
+               },
+               {
+                  "name": "Don Digirolamo",
+                  "notes": null,
+                  "imdb_id": "nm0226564"
+               },
+               {
+                  "name": "Tony Dawe",
+                  "notes": null,
+                  "imdb_id": "nm0003360"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dangerous Liaisons",
+                  "notes": null,
+                  "imdb_id": "tt0094947"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christopher Hampton",
+                  "notes": null,
+                  "imdb_id": "nm0358960"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gorillas in the Mist",
+                  "notes": null,
+                  "imdb_id": "tt0095243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anna Hamilton Phelan",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0357703"
+               },
+               {
+                  "name": "Tab Murphy",
+                  "notes": "(story)",
+                  "imdb_id": "nm0614742"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Little Dorrit",
+                  "notes": null,
+                  "imdb_id": "tt0095530"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Christine Edzard",
+                  "notes": null,
+                  "imdb_id": "nm0250489"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Accidental Tourist",
+                  "notes": null,
+                  "imdb_id": "tt0094606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Galati",
+                  "notes": null,
+                  "imdb_id": "nm0301715"
+               },
+               {
+                  "name": "Lawrence Kasdan",
+                  "notes": null,
+                  "imdb_id": "nm0001410"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Unbearable Lightness of Being",
+                  "notes": null,
+                  "imdb_id": "tt0096332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean-Claude Carri\u00e8re",
+                  "notes": null,
+                  "imdb_id": "nm0140643"
+               },
+               {
+                  "name": "Philip Kaufman",
+                  "notes": null,
+                  "imdb_id": "nm0442241"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Rain Man",
+                  "notes": null,
+                  "imdb_id": "tt0095953"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ron Bass",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0060103"
+               },
+               {
+                  "name": "Barry Morrow",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0607454"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Fish Called Wanda",
+                  "notes": null,
+                  "imdb_id": "tt0095159"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Cleese",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0000092"
+               },
+               {
+                  "name": "Charles Crichton",
+                  "notes": "(story)",
+                  "imdb_id": "nm0187769"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Big",
+                  "notes": null,
+                  "imdb_id": "tt0094737"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gary Ross",
+                  "notes": null,
+                  "imdb_id": "nm0002657"
+               },
+               {
+                  "name": "Anne Spielberg",
+                  "notes": null,
+                  "imdb_id": "nm0818576"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bull Durham",
+                  "notes": null,
+                  "imdb_id": "tt0094812"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ron Shelton",
+                  "notes": null,
+                  "imdb_id": "nm0005421"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Running on Empty",
+                  "notes": null,
+                  "imdb_id": "tt0096018"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Naomi Foner",
+                  "notes": null,
+                  "imdb_id": "nm0284524"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,842 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Maximilian Schell"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Charles Boyer"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paul Newman"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Spencer Tracy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stuart Whitman"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "George Chakiris"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "George C. Scott"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jackie Gleason"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Montgomery Clift"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Peter Falk"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Sophia Loren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Audrey Hepburn"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Geraldine Page"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Natalie Wood"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Piper Laurie"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Rita Moreno"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fay Bainter"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judy Garland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lotte Lenya"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Una Merkel"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hustler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La dolce vita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Absent Minded Professor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children's Hour"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breakfast at Tiffany's"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El Cid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flower Drum Song"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Summer and Smoke"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Hustler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One, Two, Three"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Absent Minded Professor"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children's Hour"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "A Majority of One"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fanny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flower Drum Song"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One-Eyed Jacks"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Black-and-White",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La dolce vita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Claudelle Inglish"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children's Hour"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Yojimbo"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design, Color",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babes in Toyland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Back Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flower Drum Song"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pocketful of Miracles"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Robert Wise",
+               "Jerome Robbins"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Federico Fellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "J. Lee Thompson"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Robert Rossen"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Stanley Kramer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Sky Above, the Mud Below"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Grand Olympics"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Project Hope"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breaking the Language Barrier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cradle of Genius"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Kahl"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "L'uomo in grigio"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Absent Minded Professor"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fanny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Parent Trap"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Through a Glass Darkly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Harry og kammertjeneren"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Immortal Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Placido"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "\u00c1nimas Trujano (El hombre importante)"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Breakfast at Tiffany's"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bachelor in Paradise"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El Cid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Pocketful of Miracles"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Town Without Pity"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Breakfast at Tiffany's"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "El Cid"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fanny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Summer and Smoke"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Babes in Toyland"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flower Drum Song"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Khovanschina"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Paris Blues"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Fanny"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hustler"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Substitute"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Aquamania"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Beep Prepared"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Nelly's Folly"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Pied Piper of Guadalupe"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Live Action Subjects",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Seawards the Great Ships"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ballon vole"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Rooftops of New York"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Face of Jesus"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Very Nice, Very Nice"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "West Side Story"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flower Drum Song"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Children's Hour"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Parent Trap"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material from Another Medium",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Judgment at Nuremberg"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Breakfast at Tiffany's"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Guns of Navarone"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Hustler"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "West Side Story"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Splendor in the Grass"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Ballad of a Soldier"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Il generale Della Rovere"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "La dolce vita"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Lover Come Back"
+            ]
+         }
+      ]
+   }
+]

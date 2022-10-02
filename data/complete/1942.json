@@ -1,0 +1,3365 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gary Cooper",
+                  "notes": null,
+                  "imdb_id": "nm0000011"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cary Grant",
+                  "notes": null,
+                  "imdb_id": "nm0000026"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Penny Serenade",
+                  "notes": null,
+                  "imdb_id": "tt0034012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Orson Welles",
+                  "notes": null,
+                  "imdb_id": "nm0000080"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Robert Montgomery",
+                  "notes": null,
+                  "imdb_id": "nm0599910"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walter Huston",
+                  "notes": null,
+                  "imdb_id": "nm0404158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "All That Money Can Buy",
+                  "notes": null,
+                  "imdb_id": "tt0033532"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Donald Crisp",
+                  "notes": null,
+                  "imdb_id": "nm0187981"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Charles Coburn",
+                  "notes": null,
+                  "imdb_id": "nm0002013"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Devil and Miss Jones",
+                  "notes": null,
+                  "imdb_id": "tt0033533"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "James Gleason",
+                  "notes": null,
+                  "imdb_id": "nm0322299"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sydney Greenstreet",
+                  "notes": null,
+                  "imdb_id": "nm0002113"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Maltese Falcon",
+                  "notes": null,
+                  "imdb_id": "tt0033870"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Walter Brennan",
+                  "notes": null,
+                  "imdb_id": "nm0000974"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Joan Fontaine",
+                  "notes": null,
+                  "imdb_id": "nm0000021"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Suspicion",
+                  "notes": null,
+                  "imdb_id": "tt0034248"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Barbara Stanwyck",
+                  "notes": null,
+                  "imdb_id": "nm0001766"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ball of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0033373"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bette Davis",
+                  "notes": null,
+                  "imdb_id": "nm0000012"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Greer Garson",
+                  "notes": null,
+                  "imdb_id": "nm0002093"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Blossoms in the Dust",
+                  "notes": null,
+                  "imdb_id": "tt0033407"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Olivia de Havilland",
+                  "notes": null,
+                  "imdb_id": "nm0000014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Mary Astor",
+                  "notes": null,
+                  "imdb_id": "nm0000802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Great Lie",
+                  "notes": null,
+                  "imdb_id": "tt0033677"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Margaret Wycherly",
+                  "notes": null,
+                  "imdb_id": "nm0943618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Patricia Collinge",
+                  "notes": null,
+                  "imdb_id": "nm0172048"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sara Allgood",
+                  "notes": null,
+                  "imdb_id": "nm0021329"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Teresa Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942863"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Nathan Juran",
+                  "notes": null,
+                  "imdb_id": "nm0432846"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Perry Ferguson",
+                  "notes": null,
+                  "imdb_id": "nm0272572"
+               },
+               {
+                  "name": "Van Nest Polglase",
+                  "notes": null,
+                  "imdb_id": "nm0689026"
+               },
+               {
+                  "name": "A. Roland Fields",
+                  "notes": null,
+                  "imdb_id": "nm0276177"
+               },
+               {
+                  "name": "Darrell Silvera",
+                  "notes": null,
+                  "imdb_id": "nm0798822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Dreier",
+                  "notes": null,
+                  "imdb_id": "nm0237417"
+               },
+               {
+                  "name": "Robert Usher",
+                  "notes": null,
+                  "imdb_id": "nm0882336"
+               },
+               {
+                  "name": "Sam Comer",
+                  "notes": null,
+                  "imdb_id": "nm0173754"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ladies in Retirement",
+                  "notes": null,
+                  "imdb_id": "tt0033802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lionel Banks",
+                  "notes": null,
+                  "imdb_id": "nm0052206"
+               },
+               {
+                  "name": "George Montgomery",
+                  "notes": null,
+                  "imdb_id": "nm0599788"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Hughes",
+                  "notes": null,
+                  "imdb_id": "nm0002770"
+               },
+               {
+                  "name": "Fred M. MacLean",
+                  "notes": null,
+                  "imdb_id": "nm0533771"
+               }
+            ]
+         },
+         {
+            "notes": "The nomination was withdrawn by Republic Studios. It is thus not counted as an official Academy nomination and listed here for the purpose of information only.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sis Hopkins",
+                  "notes": null,
+                  "imdb_id": "tt0034193"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sundown",
+                  "notes": null,
+                  "imdb_id": "tt0034242"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alexander Golitzen",
+                  "notes": null,
+                  "imdb_id": "nm0326529"
+               },
+               {
+                  "name": "Richard Irvine",
+                  "notes": null,
+                  "imdb_id": "nm0410215"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Hamilton Woman",
+                  "notes": null,
+                  "imdb_id": "tt0034272"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Vincent Korda",
+                  "notes": null,
+                  "imdb_id": "nm0466112"
+               },
+               {
+                  "name": "Julia Heron",
+                  "notes": null,
+                  "imdb_id": "nm0380243"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Flame of New Orleans",
+                  "notes": null,
+                  "imdb_id": "tt0033606"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Obzina",
+                  "notes": null,
+                  "imdb_id": "nm0643578"
+               },
+               {
+                  "name": "Jack Otterson",
+                  "notes": null,
+                  "imdb_id": "nm0653163"
+               },
+               {
+                  "name": "Russell A. Gausman",
+                  "notes": null,
+                  "imdb_id": "nm0310199"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Goosson",
+                  "notes": null,
+                  "imdb_id": "nm0329684"
+               },
+               {
+                  "name": "Howard Bristol",
+                  "notes": null,
+                  "imdb_id": "nm0109924"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Son of Monte Cristo",
+                  "notes": null,
+                  "imdb_id": "tt0033076"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John DuCasse Schulze",
+                  "notes": null,
+                  "imdb_id": "nm0776388"
+               },
+               {
+                  "name": "Edward G. Boyle",
+                  "notes": null,
+                  "imdb_id": "nm0102231"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "When Ladies Meet",
+                  "notes": null,
+                  "imdb_id": "tt0034386"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Randall Duell",
+                  "notes": null,
+                  "imdb_id": "nm0240237"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Interior Decoration, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Blossoms in the Dust",
+                  "notes": null,
+                  "imdb_id": "tt0033407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cedric Gibbons",
+                  "notes": null,
+                  "imdb_id": "nm0316539"
+               },
+               {
+                  "name": "Urie McCleary",
+                  "notes": null,
+                  "imdb_id": "nm0565720"
+               },
+               {
+                  "name": "Edwin B. Willis",
+                  "notes": null,
+                  "imdb_id": "nm0932320"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blood and Sand",
+                  "notes": null,
+                  "imdb_id": "tt0033405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Day",
+                  "notes": null,
+                  "imdb_id": "nm0206554"
+               },
+               {
+                  "name": "Joseph C. Wright",
+                  "notes": null,
+                  "imdb_id": "nm0942532"
+               },
+               {
+                  "name": "Thomas Little",
+                  "notes": null,
+                  "imdb_id": "nm0514673"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louisiana Purchase",
+                  "notes": null,
+                  "imdb_id": "tt0033851"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Raoul Pene Du Bois",
+                  "notes": null,
+                  "imdb_id": "nm0238845"
+               },
+               {
+                  "name": "Stephen Seymour",
+                  "notes": null,
+                  "imdb_id": "nm0786869"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Black-and-White",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur C. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0587926"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gregg Toland",
+                  "notes": null,
+                  "imdb_id": "nm0005904"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0033553"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Ruttenberg",
+                  "notes": null,
+                  "imdb_id": "nm0005853"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joseph Walker",
+                  "notes": null,
+                  "imdb_id": "nm0907900"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leo Tover",
+                  "notes": null,
+                  "imdb_id": "nm0869860"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sol Polito",
+                  "notes": null,
+                  "imdb_id": "nm0005835"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sun Valley Serenade",
+                  "notes": null,
+                  "imdb_id": "tt0034241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Cronjager",
+                  "notes": null,
+                  "imdb_id": "nm0005676"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sundown",
+                  "notes": null,
+                  "imdb_id": "tt0034242"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Lang",
+                  "notes": null,
+                  "imdb_id": "nm0485702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Hamilton Woman",
+                  "notes": null,
+                  "imdb_id": "tt0034272"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rudolph Mat\u00e9",
+                  "notes": null,
+                  "imdb_id": "nm0005789"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Chocolate Soldier",
+                  "notes": null,
+                  "imdb_id": "tt0033464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Freund",
+                  "notes": null,
+                  "imdb_id": "nm0005713"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography, Color",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Blood and Sand",
+                  "notes": null,
+                  "imdb_id": "tt0033405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ernest Palmer",
+                  "notes": null,
+                  "imdb_id": "nm0005823"
+               },
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aloma of the South Seas",
+                  "notes": null,
+                  "imdb_id": "tt0033331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Wilfrid M. Cline",
+                  "notes": null,
+                  "imdb_id": "nm0005668"
+               },
+               {
+                  "name": "Karl Struss",
+                  "notes": null,
+                  "imdb_id": "nm0835365"
+               },
+               {
+                  "name": "William E. Snyder",
+                  "notes": null,
+                  "imdb_id": "nm0811580"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy the Kid",
+                  "notes": null,
+                  "imdb_id": "tt0033389"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William V. Skall",
+                  "notes": null,
+                  "imdb_id": "nm0005877"
+               },
+               {
+                  "name": "Leonard Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809079"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blossoms in the Dust",
+                  "notes": null,
+                  "imdb_id": "tt0033407"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Freund",
+                  "notes": null,
+                  "imdb_id": "nm0005713"
+               },
+               {
+                  "name": "W. Howard Greene",
+                  "notes": null,
+                  "imdb_id": "nm0338946"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dive Bomber",
+                  "notes": null,
+                  "imdb_id": "tt0033537"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bert Glennon",
+                  "notes": null,
+                  "imdb_id": "nm0322688"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Louisiana Purchase",
+                  "notes": null,
+                  "imdb_id": "tt0033851"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Hallenberger",
+                  "notes": null,
+                  "imdb_id": "nm0356383"
+               },
+               {
+                  "name": "Ray Rennahan",
+                  "notes": null,
+                  "imdb_id": "nm0005840"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "John Ford",
+                  "notes": null,
+                  "imdb_id": "nm0000406"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alexander Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355284"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Howard Hawks",
+                  "notes": null,
+                  "imdb_id": "nm0001328"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Orson Welles",
+                  "notes": null,
+                  "imdb_id": "nm0000080"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "William Wyler",
+                  "notes": null,
+                  "imdb_id": "nm0943758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Churchill's Island",
+                  "notes": null,
+                  "imdb_id": "tt0033466"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Letter from Home",
+                  "notes": null,
+                  "imdb_id": "tt0033828"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Place to Live",
+                  "notes": null,
+                  "imdb_id": "tt1847530"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Adventure in the Bronx",
+                  "notes": null,
+                  "imdb_id": "tt0033316"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Bomber",
+                  "notes": null,
+                  "imdb_id": "tt0033423"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Christmas Under Fire",
+                  "notes": null,
+                  "imdb_id": "tt0033465"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Life of a Thoroughbred",
+                  "notes": null,
+                  "imdb_id": "tt0033833"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Norway in Revolt",
+                  "notes": null,
+                  "imdb_id": "tt0033961"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Russian Soil",
+                  "notes": null,
+                  "imdb_id": "tt1847681"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Soldiers of the Sky",
+                  "notes": null,
+                  "imdb_id": "tt0034213"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Warclouds in the Pacific",
+                  "notes": null,
+                  "imdb_id": "tt0034372"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Special Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "I Wanted Wings",
+                  "notes": null,
+                  "imdb_id": "tt0033741"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               },
+               {
+                  "name": "Louis Mesenkop",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0581820"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "A Yank in the RAF",
+                  "notes": null,
+                  "imdb_id": "tt0034405"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Fred Sersen",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0785731"
+               },
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Aloma of the South Seas",
+                  "notes": null,
+                  "imdb_id": "tt0033331"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Farciot Edouart",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0249643"
+               },
+               {
+                  "name": "Gordon Jennings",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0421157"
+               },
+               {
+                  "name": "Louis Mesenkop",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0581820"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Flight Command",
+                  "notes": null,
+                  "imdb_id": "tt0032477"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "A. Arnold Gillespie",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0318901"
+               },
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Hamilton Woman",
+                  "notes": null,
+                  "imdb_id": "tt0034272"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lawrence W. Butler",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0125022"
+               },
+               {
+                  "name": "William A. Wilmarth",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0932806"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Invisible Woman",
+                  "notes": null,
+                  "imdb_id": "tt0032637"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Fulton",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0298483"
+               },
+               {
+                  "name": "John D. Hall",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0355751"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Sea Wolf",
+                  "notes": null,
+                  "imdb_id": "tt0034162"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Byron Haskin",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0005738"
+               },
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Topper Returns",
+                  "notes": null,
+                  "imdb_id": "tt0034303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roy Seawright",
+                  "notes": "(photographic)",
+                  "imdb_id": "nm0780880"
+               },
+               {
+                  "name": "Elmer Raguse",
+                  "notes": "(sound)",
+                  "imdb_id": "nm0706649"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Holmes",
+                  "notes": null,
+                  "imdb_id": "nm0392096"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Wise",
+                  "notes": null,
+                  "imdb_id": "nm0936404"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0033553"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold F. Kress",
+                  "notes": null,
+                  "imdb_id": "nm0470932"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "James B. Clark",
+                  "notes": null,
+                  "imdb_id": "nm0164044"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Mandell",
+                  "notes": null,
+                  "imdb_id": "nm0541721"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"The Last Time I Saw Paris\".",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lady Be Good",
+                  "notes": null,
+                  "imdb_id": "tt0033803"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jerome Kern",
+                  "notes": "(music)",
+                  "imdb_id": "nm0006153"
+               },
+               {
+                  "name": "Oscar Hammerstein II",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0358564"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Out of the Silence\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "All-American Co-Ed",
+                  "notes": null,
+                  "imdb_id": "tt0033323"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "For the song \"Blues in the Night\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blues in the Night",
+                  "notes": null,
+                  "imdb_id": "tt0033409"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harold Arlen",
+                  "notes": "(music)",
+                  "imdb_id": "nm0002182"
+               },
+               {
+                  "name": "Johnny Mercer",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0006197"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Boogie Woogie Bugle Boy of Company B\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Buck Privates",
+                  "notes": null,
+                  "imdb_id": "tt0033436"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hugh Prince",
+                  "notes": "(music)",
+                  "imdb_id": "nm0697662"
+               },
+               {
+                  "name": "Don Raye",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0713098"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Baby Mine\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dumbo",
+                  "notes": null,
+                  "imdb_id": "tt0033563"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Churchill",
+                  "notes": "(music)",
+                  "imdb_id": "nm0161430"
+               },
+               {
+                  "name": "Ned Washington",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0913513"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Dolores\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Las Vegas Nights",
+                  "notes": null,
+                  "imdb_id": "tt0033814"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Alter",
+                  "notes": "(music)",
+                  "imdb_id": "nm0022746"
+               },
+               {
+                  "name": "Frank Loesser",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0004230"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Be Honest with Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridin' on a Rainbow",
+                  "notes": null,
+                  "imdb_id": "tt0034106"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gene Autry",
+                  "notes": null,
+                  "imdb_id": "nm0000810"
+               },
+               {
+                  "name": "Fred Rose",
+                  "notes": null,
+                  "imdb_id": "nm0741386"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Chattanooga Choo Choo\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sun Valley Serenade",
+                  "notes": null,
+                  "imdb_id": "tt0034241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Warren",
+                  "notes": "(music)",
+                  "imdb_id": "nm0912851"
+               },
+               {
+                  "name": "Mack Gordon",
+                  "notes": "(lyrics)",
+                  "imdb_id": "nm0330418"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"Since I Kissed My Baby Goodbye\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "You'll Never Get Rich",
+                  "notes": null,
+                  "imdb_id": "tt0034409"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cole Porter",
+                  "notes": null,
+                  "imdb_id": "nm0006234"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Dramatic Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "All That Money Can Buy",
+                  "notes": null,
+                  "imdb_id": "tt0033532"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "nm0002136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Back Street",
+                  "notes": null,
+                  "imdb_id": "tt0033365"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Skinner",
+                  "notes": null,
+                  "imdb_id": "nm0804244"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ball of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0033373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cheers for Miss Bishop",
+                  "notes": null,
+                  "imdb_id": "tt0033459"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Ward",
+                  "notes": null,
+                  "imdb_id": "nm0911518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard Herrmann",
+                  "notes": null,
+                  "imdb_id": "nm0002136"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dr. Jekyll and Mr. Hyde",
+                  "notes": null,
+                  "imdb_id": "tt0033553"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Victor Young",
+                  "notes": null,
+                  "imdb_id": "nm0000082"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alfred Newman",
+                  "notes": null,
+                  "imdb_id": "nm0000055"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "King of the Zombies",
+                  "notes": null,
+                  "imdb_id": "tt0033787"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward J. Kay",
+                  "notes": null,
+                  "imdb_id": "nm0443033"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ladies in Retirement",
+                  "notes": null,
+                  "imdb_id": "tt0033802"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               },
+               {
+                  "name": "Ernst Toch",
+                  "notes": null,
+                  "imdb_id": "nm0006324"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Lydia",
+                  "notes": null,
+                  "imdb_id": "tt0033858"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Mercy Island",
+                  "notes": null,
+                  "imdb_id": "tt0033906"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cy Feuer",
+                  "notes": null,
+                  "imdb_id": "nm0006074"
+               },
+               {
+                  "name": "Walter Scharf",
+                  "notes": null,
+                  "imdb_id": "nm0770127"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Max Steiner",
+                  "notes": null,
+                  "imdb_id": "nm0000070"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "So Ends Our Night",
+                  "notes": null,
+                  "imdb_id": "tt0034208"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Louis Gruenberg",
+                  "notes": null,
+                  "imdb_id": "nm0344402"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sundown",
+                  "notes": null,
+                  "imdb_id": "tt0034242"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mikl\u00f3s R\u00f3zsa",
+                  "notes": null,
+                  "imdb_id": "nm0000067"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Suspicion",
+                  "notes": null,
+                  "imdb_id": "tt0034248"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Franz Waxman",
+                  "notes": null,
+                  "imdb_id": "nm0000077"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tanks a Million",
+                  "notes": null,
+                  "imdb_id": "tt0034264"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Ward",
+                  "notes": null,
+                  "imdb_id": "nm0911518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "That Uncertain Feeling",
+                  "notes": null,
+                  "imdb_id": "tt0034274"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Werner R. Heymann",
+                  "notes": null,
+                  "imdb_id": "nm0006128"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Meredith Willson",
+                  "notes": null,
+                  "imdb_id": "nm0932745"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "This Woman Is Mine",
+                  "notes": null,
+                  "imdb_id": "tt0034285"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Hageman",
+                  "notes": null,
+                  "imdb_id": "nm0006119"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Scoring of a Musical Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Dumbo",
+                  "notes": null,
+                  "imdb_id": "tt0033563"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frank Churchill",
+                  "notes": null,
+                  "imdb_id": "nm0161430"
+               },
+               {
+                  "name": "Oliver Wallace",
+                  "notes": null,
+                  "imdb_id": "nm0006337"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "All-American Co-Ed",
+                  "notes": null,
+                  "imdb_id": "tt0033323"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Ward",
+                  "notes": null,
+                  "imdb_id": "nm0911518"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Birth of the Blues",
+                  "notes": null,
+                  "imdb_id": "tt0033396"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Emmett Dolan",
+                  "notes": null,
+                  "imdb_id": "nm0006040"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Buck Privates",
+                  "notes": null,
+                  "imdb_id": "tt0033436"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Previn",
+                  "notes": null,
+                  "imdb_id": "nm0006239"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ice-Capades",
+                  "notes": null,
+                  "imdb_id": "tt0033749"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cy Feuer",
+                  "notes": null,
+                  "imdb_id": "nm0006074"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sun Valley Serenade",
+                  "notes": null,
+                  "imdb_id": "tt0034241"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Emil Newman",
+                  "notes": null,
+                  "imdb_id": "nm0006212"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sunny",
+                  "notes": null,
+                  "imdb_id": "tt0034243"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Collins",
+                  "notes": null,
+                  "imdb_id": "nm0172141"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Chocolate Soldier",
+                  "notes": null,
+                  "imdb_id": "tt0033464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herbert Stothart",
+                  "notes": null,
+                  "imdb_id": "nm0006307"
+               },
+               {
+                  "name": "Bronislau Kaper",
+                  "notes": null,
+                  "imdb_id": "nm0006147"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Strawberry Blonde",
+                  "notes": null,
+                  "imdb_id": "tt0034236"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Heinz Roemheld",
+                  "notes": null,
+                  "imdb_id": "nm0006257"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "You'll Never Get Rich",
+                  "notes": null,
+                  "imdb_id": "tt0034409"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Morris Stoloff",
+                  "notes": null,
+                  "imdb_id": "nm0006304"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Blossoms in the Dust",
+                  "notes": null,
+                  "imdb_id": "tt0033407"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Foot in Heaven",
+                  "notes": null,
+                  "imdb_id": "tt0033980"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Suspicion",
+                  "notes": null,
+                  "imdb_id": "tt0034248"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Maltese Falcon",
+                  "notes": null,
+                  "imdb_id": "tt0033870"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Lend a Paw",
+                  "notes": null,
+                  "imdb_id": "tt0033824"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Boogie Woogie Bugle Boy of Company 'B'",
+                  "notes": null,
+                  "imdb_id": "tt0033424"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walter Lantz",
+                  "notes": null,
+                  "imdb_id": "nm0487237"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hiawatha's Rabbit Hunt",
+                  "notes": null,
+                  "imdb_id": "tt0033715"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How War Came",
+                  "notes": null,
+                  "imdb_id": "tt0033730"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rhapsody in Rivets",
+                  "notes": null,
+                  "imdb_id": "tt0034097"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Leon Schlesinger",
+                  "notes": null,
+                  "imdb_id": "nm0772266"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rhythm in the Ranks",
+                  "notes": null,
+                  "imdb_id": "tt0034098"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "George Pal",
+                  "notes": null,
+                  "imdb_id": "nm0657162"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Superman",
+                  "notes": null,
+                  "imdb_id": "tt0034247"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Night Before Christmas",
+                  "notes": null,
+                  "imdb_id": "tt0033952"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Rookie Bear",
+                  "notes": null,
+                  "imdb_id": "tt0034127"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Truant Officer Donald",
+                  "notes": null,
+                  "imdb_id": "tt0034314"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Walt Disney",
+                  "notes": null,
+                  "imdb_id": "nm0000370"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, One-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Of Pups and Puzzles",
+                  "notes": null,
+                  "imdb_id": "tt0033969"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Army Champions",
+                  "notes": null,
+                  "imdb_id": "tt0033354"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pete Smith",
+                  "notes": null,
+                  "imdb_id": "nm0809570"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Beauty and the Beach",
+                  "notes": null,
+                  "imdb_id": "tt0033381"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forty Boys and a Song",
+                  "notes": null,
+                  "imdb_id": "tt0033626"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kings of the Turf",
+                  "notes": null,
+                  "imdb_id": "tt0033788"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sagebrush and Silver",
+                  "notes": null,
+                  "imdb_id": "tt0034143"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Speaking of Animals Down on the Farm",
+                  "notes": null,
+                  "imdb_id": "tt0033552"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Two-reel",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Main Street on the March!",
+                  "notes": null,
+                  "imdb_id": "tt0033866"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Alive in the Deep",
+                  "notes": null,
+                  "imdb_id": "tt0033322"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Forbidden Passage",
+                  "notes": null,
+                  "imdb_id": "tt0033618"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Gay Parisian",
+                  "notes": null,
+                  "imdb_id": "tt0033651"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Tanks Are Coming",
+                  "notes": null,
+                  "imdb_id": "tt0034263"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "That Hamilton Woman",
+                  "notes": null,
+                  "imdb_id": "tt0034272"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jack Whitney",
+                  "notes": "(General Service SSD)",
+                  "imdb_id": "nm0926303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Appointment for Love",
+                  "notes": null,
+                  "imdb_id": "tt0033348"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bernard B. Brown",
+                  "notes": "(Universal SSD)",
+                  "imdb_id": "nm0113094"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ball of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0033373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas T. Moulton",
+                  "notes": "(Samuel Goldwyn SSD)",
+                  "imdb_id": "nm0609771"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Aalberg",
+                  "notes": "(RKO Radio SSD)",
+                  "imdb_id": "nm0007356"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edmund H. Hansen",
+                  "notes": "(20th Century-Fox SSD)",
+                  "imdb_id": "nm0360770"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Nathan Levinson",
+                  "notes": "(Warner Bros. SSD)",
+                  "imdb_id": "nm0506080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Skylark",
+                  "notes": null,
+                  "imdb_id": "tt0034198"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Loren L. Ryder",
+                  "notes": "(Paramount SSD)",
+                  "imdb_id": "nm0753122"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Chocolate Soldier",
+                  "notes": null,
+                  "imdb_id": "tt0033464"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Shearer",
+                  "notes": "(M-G-M SSD)",
+                  "imdb_id": "nm0790428"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Devil Pays Off",
+                  "notes": null,
+                  "imdb_id": "tt0033531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles L. Lootens",
+                  "notes": "(Republic SSD)",
+                  "imdb_id": "nm0519780"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Men in Her Life",
+                  "notes": null,
+                  "imdb_id": "tt0033900"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John P. Livadary",
+                  "notes": "(Columbia SSD)",
+                  "imdb_id": "nm0515093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Topper Returns",
+                  "notes": null,
+                  "imdb_id": "tt0034303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Elmer Raguse",
+                  "notes": "(Hal Roach SSD)",
+                  "imdb_id": "nm0706649"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Screenplay",
+      "nominations": [
+         {
+            "notes": "On Friday, July 19th, 2003, Orson Welles' Oscar statuette went on sale at an auction at Christie's, New York, but was voluntarily withdrawn so the Academy of Motion Pictures Arts and Sciences could buy it back for just 1 dollar. The statuette, included in a large selection of Welles-related material, was going to be sold by Beatrice Welles, the youngest of the filmmaker's three daughters and the sole heir of his estate and was expected to sell at over 300,000 dollars.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Citizen Kane",
+                  "notes": null,
+                  "imdb_id": "tt0033467"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Herman J. Mankiewicz",
+                  "notes": null,
+                  "imdb_id": "nm0542534"
+               },
+               {
+                  "name": "Orson Welles",
+                  "notes": null,
+                  "imdb_id": "nm0000080"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sergeant York",
+                  "notes": null,
+                  "imdb_id": "tt0034167"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Chandlee",
+                  "notes": null,
+                  "imdb_id": "nm0151310"
+               },
+               {
+                  "name": "Abem Finkel",
+                  "notes": null,
+                  "imdb_id": "nm0277874"
+               },
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               },
+               {
+                  "name": "Howard Koch",
+                  "notes": null,
+                  "imdb_id": "nm0462321"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tall, Dark and Handsome",
+                  "notes": null,
+                  "imdb_id": "tt0034262"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Karl Tunberg",
+                  "notes": null,
+                  "imdb_id": "nm0876562"
+               },
+               {
+                  "name": "Darrell Ware",
+                  "notes": null,
+                  "imdb_id": "nm0912090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Devil and Miss Jones",
+                  "notes": null,
+                  "imdb_id": "tt0033533"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Norman Krasna",
+                  "notes": null,
+                  "imdb_id": "nm0469915"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom, Dick and Harry",
+                  "notes": null,
+                  "imdb_id": "tt0034299"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paul Jarrico",
+                  "notes": null,
+                  "imdb_id": "nm0418972"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Harry Segall",
+                  "notes": null,
+                  "imdb_id": "nm0781895"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ball of Fire",
+                  "notes": null,
+                  "imdb_id": "tt0033373"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Thomas Monroe",
+                  "notes": null,
+                  "imdb_id": "nm0598572"
+               },
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet John Doe",
+                  "notes": null,
+                  "imdb_id": "tt0033891"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Richard Connell",
+                  "notes": null,
+                  "imdb_id": "nm0175028"
+               },
+               {
+                  "name": "Robert Presnell Sr.",
+                  "notes": null,
+                  "imdb_id": "nm0696190"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Night Train to Munich",
+                  "notes": null,
+                  "imdb_id": "tt0032842"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gordon Wellesley",
+                  "notes": null,
+                  "imdb_id": "nm0919968"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Lady Eve",
+                  "notes": null,
+                  "imdb_id": "tt0033804"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Monckton Hoffe",
+                  "notes": null,
+                  "imdb_id": "nm0388743"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Here Comes Mr. Jordan",
+                  "notes": null,
+                  "imdb_id": "tt0033712"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sidney Buchman",
+                  "notes": null,
+                  "imdb_id": "nm0118227"
+               },
+               {
+                  "name": "Seton I. Miller",
+                  "notes": null,
+                  "imdb_id": "nm0589316"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hold Back the Dawn",
+                  "notes": null,
+                  "imdb_id": "tt0033722"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Brackett",
+                  "notes": null,
+                  "imdb_id": "nm0102818"
+               },
+               {
+                  "name": "Billy Wilder",
+                  "notes": null,
+                  "imdb_id": "nm0000697"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How Green Was My Valley",
+                  "notes": null,
+                  "imdb_id": "tt0033729"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Philip Dunne",
+                  "notes": null,
+                  "imdb_id": "nm0242897"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Little Foxes",
+                  "notes": null,
+                  "imdb_id": "tt0033836"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lillian Hellman",
+                  "notes": null,
+                  "imdb_id": "nm0375484"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Maltese Falcon",
+                  "notes": null,
+                  "imdb_id": "tt0033870"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Huston",
+                  "notes": null,
+                  "imdb_id": "nm0001379"
+               }
+            ]
+         }
+      ]
+   }
+]

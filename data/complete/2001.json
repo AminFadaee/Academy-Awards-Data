@@ -1,0 +1,2305 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Russell Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0000128"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ed Harris",
+                  "notes": null,
+                  "imdb_id": "nm0000438"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pollock",
+                  "notes": null,
+                  "imdb_id": "tt0183659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Geoffrey Rush",
+                  "notes": null,
+                  "imdb_id": "nm0001691"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Quills",
+                  "notes": null,
+                  "imdb_id": "tt0180073"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Javier Bardem",
+                  "notes": null,
+                  "imdb_id": "nm0000849"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Before Night Falls",
+                  "notes": null,
+                  "imdb_id": "tt0247196"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Tom Hanks",
+                  "notes": null,
+                  "imdb_id": "nm0000158"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cast Away",
+                  "notes": null,
+                  "imdb_id": "tt0162222"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actor in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Benicio Del Toro",
+                  "notes": null,
+                  "imdb_id": "nm0001125"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Traffic",
+                  "notes": null,
+                  "imdb_id": "tt0181865"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Albert Finney",
+                  "notes": null,
+                  "imdb_id": "nm0001215"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erin Brockovich",
+                  "notes": null,
+                  "imdb_id": "tt0195685"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Jeff Bridges",
+                  "notes": null,
+                  "imdb_id": "nm0000313"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Contender",
+                  "notes": null,
+                  "imdb_id": "tt0208874"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joaquin Phoenix",
+                  "notes": null,
+                  "imdb_id": "nm0001618"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Willem Dafoe",
+                  "notes": null,
+                  "imdb_id": "nm0000353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Shadow of the Vampire",
+                  "notes": null,
+                  "imdb_id": "tt0189998"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Julia Roberts",
+                  "notes": null,
+                  "imdb_id": "nm0000210"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erin Brockovich",
+                  "notes": null,
+                  "imdb_id": "tt0195685"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ellen Burstyn",
+                  "notes": null,
+                  "imdb_id": "nm0000995"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Requiem for a Dream",
+                  "notes": null,
+                  "imdb_id": "tt0180093"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Joan Allen",
+                  "notes": null,
+                  "imdb_id": "nm0000260"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "The Contender",
+                  "notes": null,
+                  "imdb_id": "tt0208874"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Juliette Binoche",
+                  "notes": null,
+                  "imdb_id": "nm0000300"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chocolat",
+                  "notes": null,
+                  "imdb_id": "tt0241303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Laura Linney",
+                  "notes": null,
+                  "imdb_id": "nm0001473"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "You Can Count on Me",
+                  "notes": null,
+                  "imdb_id": "tt0203230"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Supporting Role",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Marcia Gay Harden",
+                  "notes": null,
+                  "imdb_id": "nm0001315"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pollock",
+                  "notes": null,
+                  "imdb_id": "tt0183659"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Frances McDormand",
+                  "notes": null,
+                  "imdb_id": "nm0000531"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Almost Famous",
+                  "notes": null,
+                  "imdb_id": "tt0181875"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Judi Dench",
+                  "notes": null,
+                  "imdb_id": "nm0001132"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Chocolat",
+                  "notes": null,
+                  "imdb_id": "tt0241303"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Julie Walters",
+                  "notes": null,
+                  "imdb_id": "nm0910278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Elliot",
+                  "notes": null,
+                  "imdb_id": "tt0249462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Kate Hudson",
+                  "notes": null,
+                  "imdb_id": "nm0005028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Almost Famous",
+                  "notes": null,
+                  "imdb_id": "tt0181875"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction-Set Decoration",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Yip",
+                  "notes": null,
+                  "imdb_id": "nm0947315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Arthur Max",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0561480"
+               },
+               {
+                  "name": "Crispian Sallis",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0758605"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How the Grinch Stole Christmas",
+                  "notes": null,
+                  "imdb_id": "tt0170016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Corenblith",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0179749"
+               },
+               {
+                  "name": "Merideth Boswell",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0098353"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quills",
+                  "notes": null,
+                  "imdb_id": "tt0180073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Martin Childs",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0157575"
+               },
+               {
+                  "name": "Jill Quertier",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0703296"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Vatel",
+                  "notes": null,
+                  "imdb_id": "tt0190861"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jean Rabasse",
+                  "notes": "(art director)",
+                  "imdb_id": "nm0704740"
+               },
+               {
+                  "name": "Fran\u00e7oise Beno\u00eet-Fresco",
+                  "notes": "(set decorator)",
+                  "imdb_id": "nm0072326"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Pau",
+                  "notes": null,
+                  "imdb_id": "nm0666702"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Mathieson",
+                  "notes": null,
+                  "imdb_id": "nm0558822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Malena",
+                  "notes": null,
+                  "imdb_id": "tt0213847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lajos Koltai",
+                  "notes": null,
+                  "imdb_id": "nm0005759"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "O Brother, Where Art Thou?",
+                  "notes": null,
+                  "imdb_id": "tt0190590"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Roger Deakins",
+                  "notes": null,
+                  "imdb_id": "nm0005683"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Patriot",
+                  "notes": null,
+                  "imdb_id": "tt0187393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Caleb Deschanel",
+                  "notes": null,
+                  "imdb_id": "nm0221042"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Costume Design",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Janty Yates",
+                  "notes": null,
+                  "imdb_id": "nm0946765"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "102 Dalmatians",
+                  "notes": null,
+                  "imdb_id": "tt0211181"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Anthony Powell",
+                  "notes": null,
+                  "imdb_id": "nm0694018"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Yip",
+                  "notes": null,
+                  "imdb_id": "nm0947315"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "How the Grinch Stole Christmas",
+                  "notes": null,
+                  "imdb_id": "tt0170016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rita Ryack",
+                  "notes": null,
+                  "imdb_id": "nm0752374"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Quills",
+                  "notes": null,
+                  "imdb_id": "tt0180073"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jacqueline West",
+                  "notes": null,
+                  "imdb_id": "nm0922113"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Steven Soderbergh",
+                  "notes": null,
+                  "imdb_id": "nm0001752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Traffic",
+                  "notes": null,
+                  "imdb_id": "tt0181865"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ang Lee",
+                  "notes": null,
+                  "imdb_id": "nm0000487"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Ridley Scott",
+                  "notes": null,
+                  "imdb_id": "nm0000631"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Stephen Daldry",
+                  "notes": null,
+                  "imdb_id": "nm0197636"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Billy Elliot",
+                  "notes": null,
+                  "imdb_id": "tt0249462"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Steven Soderbergh",
+                  "notes": null,
+                  "imdb_id": "nm0001752"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Erin Brockovich",
+                  "notes": null,
+                  "imdb_id": "tt0195685"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Features",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+                  "notes": null,
+                  "imdb_id": "tt0248912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mark Jonathan Harris",
+                  "notes": null,
+                  "imdb_id": "nm0365057"
+               },
+               {
+                  "name": "Deborah Oppenheimer",
+                  "notes": null,
+                  "imdb_id": "nm0649179"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Legacy",
+                  "notes": null,
+                  "imdb_id": "tt0188028"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tod Lending",
+                  "notes": null,
+                  "imdb_id": "nm0501781"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Long Night's Journey Into Day",
+                  "notes": null,
+                  "imdb_id": "tt0236447"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Frances Reid",
+                  "notes": null,
+                  "imdb_id": "nm0717266"
+               },
+               {
+                  "name": "Deborah Hoffmann",
+                  "notes": null,
+                  "imdb_id": "nm0389161"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Scottsboro: An American Tragedy",
+                  "notes": null,
+                  "imdb_id": "tt0240885"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Barak Goodman",
+                  "notes": null,
+                  "imdb_id": "nm0329014"
+               },
+               {
+                  "name": "Daniel Anker",
+                  "notes": null,
+                  "imdb_id": "nm0030155"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Sound and Fury",
+                  "notes": null,
+                  "imdb_id": "tt0240912"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Josh Aronson",
+                  "notes": null,
+                  "imdb_id": "nm0036977"
+               },
+               {
+                  "name": "Roger Weisberg",
+                  "notes": null,
+                  "imdb_id": "nm0918724"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Documentary, Short Subjects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Big Mama",
+                  "notes": null,
+                  "imdb_id": "tt0280353"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tracy Seretean",
+                  "notes": null,
+                  "imdb_id": "nm0785033"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Curtain Call",
+                  "notes": null,
+                  "imdb_id": "tt0280580"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Charles Braverman",
+                  "notes": null,
+                  "imdb_id": "nm0106015"
+               },
+               {
+                  "name": "Steve Kalafer",
+                  "notes": null,
+                  "imdb_id": "nm0435470"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dolphins",
+                  "notes": null,
+                  "imdb_id": "tt0263278"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Greg MacGillivray",
+                  "notes": null,
+                  "imdb_id": "nm0532263"
+               },
+               {
+                  "name": "Alec Lorimore",
+                  "notes": null,
+                  "imdb_id": "nm0520975"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "On Tiptoe: Gentle Steps to Freedom",
+                  "notes": null,
+                  "imdb_id": "tt0254621"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Eric Simonson",
+                  "notes": null,
+                  "imdb_id": "nm0800787"
+               },
+               {
+                  "name": "Leelai Demoz",
+                  "notes": null,
+                  "imdb_id": "nm0218695"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Man on Lincoln's Nose",
+                  "notes": null,
+                  "imdb_id": "tt0271628"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Daniel Raim",
+                  "notes": null,
+                  "imdb_id": "nm0706888"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Effects, Visual Effects",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Nelson",
+                  "notes": null,
+                  "imdb_id": "nm0625471"
+               },
+               {
+                  "name": "Neil Corbould",
+                  "notes": null,
+                  "imdb_id": "nm0179273"
+               },
+               {
+                  "name": "Tim Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121888"
+               },
+               {
+                  "name": "Rob Harvey",
+                  "notes": null,
+                  "imdb_id": "nm0367690"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Hollow Man",
+                  "notes": null,
+                  "imdb_id": "tt0164052"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott E. Anderson",
+                  "notes": null,
+                  "imdb_id": "nm0027423"
+               },
+               {
+                  "name": "Craig Hayes",
+                  "notes": null,
+                  "imdb_id": "nm0370960"
+               },
+               {
+                  "name": "Scott Stokdyk",
+                  "notes": null,
+                  "imdb_id": "nm0831282"
+               },
+               {
+                  "name": "Stan Parks",
+                  "notes": null,
+                  "imdb_id": "nm0663012"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Perfect Storm",
+                  "notes": null,
+                  "imdb_id": "tt0177971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stefen Fangmeier",
+                  "notes": null,
+                  "imdb_id": "nm0266777"
+               },
+               {
+                  "name": "Habib Zargarpour",
+                  "notes": null,
+                  "imdb_id": "nm0953464"
+               },
+               {
+                  "name": "John Frazier",
+                  "notes": null,
+                  "imdb_id": "nm0292594"
+               },
+               {
+                  "name": "Walt Conti",
+                  "notes": null,
+                  "imdb_id": "nm0176408"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Traffic",
+                  "notes": null,
+                  "imdb_id": "tt0181865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Mirrione",
+                  "notes": null,
+                  "imdb_id": "nm0592537"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Almost Famous",
+                  "notes": null,
+                  "imdb_id": "tt0181875"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joe Hutshing",
+                  "notes": null,
+                  "imdb_id": "nm0404528"
+               },
+               {
+                  "name": "Saar Klein",
+                  "notes": null,
+                  "imdb_id": "nm0458964"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Tim Squyres",
+                  "notes": null,
+                  "imdb_id": "nm0820163"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Pietro Scalia",
+                  "notes": null,
+                  "imdb_id": "nm0768817"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wonder Boys",
+                  "notes": null,
+                  "imdb_id": "tt0185014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dede Allen",
+                  "notes": null,
+                  "imdb_id": "nm0020441"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Foreign Language Film",
+      "nominations": [
+         {
+            "notes": "Taiwan.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Mexico.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Amores perros",
+                  "notes": null,
+                  "imdb_id": "tt0245712"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Czech Republic.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Divided We Fall",
+                  "notes": null,
+                  "imdb_id": "tt0234288"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "Belgium.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Everybody's Famous!",
+                  "notes": null,
+                  "imdb_id": "tt0209037"
+               }
+            ],
+            "secondary": []
+         },
+         {
+            "notes": "France.",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Taste of Others",
+                  "notes": null,
+                  "imdb_id": "tt0216787"
+               }
+            ],
+            "secondary": []
+         }
+      ]
+   },
+   {
+      "category": "Best Makeup",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "How the Grinch Stole Christmas",
+                  "notes": null,
+                  "imdb_id": "tt0170016"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rick Baker",
+                  "notes": null,
+                  "imdb_id": "nm0000711"
+               },
+               {
+                  "name": "Gail Rowell-Ryan",
+                  "notes": null,
+                  "imdb_id": "nm0746648"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Shadow of the Vampire",
+                  "notes": null,
+                  "imdb_id": "tt0189998"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ann Buchanan",
+                  "notes": null,
+                  "imdb_id": "nm0117973"
+               },
+               {
+                  "name": "Amber Sibley",
+                  "notes": null,
+                  "imdb_id": "nm0796282"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Cell",
+                  "notes": null,
+                  "imdb_id": "tt0209958"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Mich\u00e8le Burke",
+                  "notes": null,
+                  "imdb_id": "nm0121807"
+               },
+               {
+                  "name": "Edouard F. Henriques",
+                  "notes": null,
+                  "imdb_id": "nm0377667"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Score",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Dun Tan",
+                  "notes": null,
+                  "imdb_id": "nm0241753"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chocolat",
+                  "notes": null,
+                  "imdb_id": "tt0241303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Rachel Portman",
+                  "notes": null,
+                  "imdb_id": "nm0006235"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hans Zimmer",
+                  "notes": null,
+                  "imdb_id": "nm0001877"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Malena",
+                  "notes": null,
+                  "imdb_id": "tt0213847"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ennio Morricone",
+                  "notes": null,
+                  "imdb_id": "nm0001553"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Patriot",
+                  "notes": null,
+                  "imdb_id": "tt0187393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John Williams",
+                  "notes": null,
+                  "imdb_id": "nm0002354"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "notes": "For the song \"Things Have Changed\". Bob Dylan performed the song and accepted the Oscar via satellite due to the fact that he was on tour through Australia at the time. Since winning the Oscar, Dylan has taken it on tour with him and it presides over shows perched atop his amplifier.",
+            "won": true,
+            "primary": [
+               {
+                  "name": "Wonder Boys",
+                  "notes": null,
+                  "imdb_id": "tt0185014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bob Dylan",
+                  "notes": null,
+                  "imdb_id": "nm0001168"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A Love Before Time\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jorge Calandrelli",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0129326"
+               },
+               {
+                  "name": "Dun Tan",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0241753"
+               },
+               {
+                  "name": "James Schamus",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm0770005"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"I've Seen It All\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Dancer in the Dark",
+                  "notes": null,
+                  "imdb_id": "tt0168629"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Bj\u00f6rk",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0001951"
+               },
+               {
+                  "name": "Lars von Trier",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm0001885"
+               },
+               {
+                  "name": "Sj\u00f3n",
+                  "notes": "(lyricist)",
+                  "imdb_id": "nm0797604"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"A Fool In Love\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "Meet the Parents",
+                  "notes": null,
+                  "imdb_id": "tt0212338"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Newman",
+                  "notes": null,
+                  "imdb_id": "nm0005271"
+               }
+            ]
+         },
+         {
+            "notes": "For the song \"My Funny Friend and Me\".",
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Emperor's New Groove",
+                  "notes": null,
+                  "imdb_id": "tt0120917"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Sting",
+                  "notes": "(composer/lyricist)",
+                  "imdb_id": "nm0001776"
+               },
+               {
+                  "name": "Dave Hartley",
+                  "notes": "(composer)",
+                  "imdb_id": "nm0366817"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Douglas Wick",
+                  "notes": null,
+                  "imdb_id": "nm0926824"
+               },
+               {
+                  "name": "David Franzoni",
+                  "notes": null,
+                  "imdb_id": "nm0291905"
+               },
+               {
+                  "name": "Branko Lustig",
+                  "notes": null,
+                  "imdb_id": "nm0527322"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chocolat",
+                  "notes": null,
+                  "imdb_id": "tt0241303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Brown",
+                  "notes": null,
+                  "imdb_id": "nm0113360"
+               },
+               {
+                  "name": "Kit Golden",
+                  "notes": null,
+                  "imdb_id": "nm0325455"
+               },
+               {
+                  "name": "Leslie Holleran",
+                  "notes": null,
+                  "imdb_id": "nm0390970"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "William Kong",
+                  "notes": null,
+                  "imdb_id": "nm0465067"
+               },
+               {
+                  "name": "Li-Kong Hsu",
+                  "notes": null,
+                  "imdb_id": "nm0398836"
+               },
+               {
+                  "name": "Ang Lee",
+                  "notes": null,
+                  "imdb_id": "nm0000487"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Erin Brockovich",
+                  "notes": null,
+                  "imdb_id": "tt0195685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Danny DeVito",
+                  "notes": null,
+                  "imdb_id": "nm0000362"
+               },
+               {
+                  "name": "Michael Shamberg",
+                  "notes": null,
+                  "imdb_id": "nm0787834"
+               },
+               {
+                  "name": "Stacey Sher",
+                  "notes": null,
+                  "imdb_id": "nm0792049"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Traffic",
+                  "notes": null,
+                  "imdb_id": "tt0181865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Edward Zwick",
+                  "notes": null,
+                  "imdb_id": "nm0001880"
+               },
+               {
+                  "name": "Marshall Herskovitz",
+                  "notes": null,
+                  "imdb_id": "nm0380980"
+               },
+               {
+                  "name": "Laura Bickford",
+                  "notes": null,
+                  "imdb_id": "nm0081046"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Animated",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Father and Daughter",
+                  "notes": null,
+                  "imdb_id": "tt0279079"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Michael Dudok de Wit",
+                  "notes": null,
+                  "imdb_id": "nm0240196"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Rejected",
+                  "notes": null,
+                  "imdb_id": "tt0234588"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Don Hertzfeldt",
+                  "notes": null,
+                  "imdb_id": "nm0381116"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Periwig-Maker",
+                  "notes": null,
+                  "imdb_id": "tt0239797"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steffen Sch\u00e4ffler",
+                  "notes": null,
+                  "imdb_id": "nm0778108"
+               },
+               {
+                  "name": "Annette Sch\u00e4ffler",
+                  "notes": null,
+                  "imdb_id": "nm0778105"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Film, Live Action",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Quiero ser (I want to be...)",
+                  "notes": null,
+                  "imdb_id": "tt0216131"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Florian Gallenberger",
+                  "notes": null,
+                  "imdb_id": "nm0302780"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "By Courier",
+                  "notes": null,
+                  "imdb_id": "tt0278378"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Peter Riegert",
+                  "notes": null,
+                  "imdb_id": "nm0726200"
+               },
+               {
+                  "name": "Ericka Frederick",
+                  "notes": null,
+                  "imdb_id": "nm0292778"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "One Day Crossing",
+                  "notes": null,
+                  "imdb_id": "tt0269658"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Joan Stein Schimke",
+                  "notes": null,
+                  "imdb_id": "nm0825513"
+               },
+               {
+                  "name": "Christina Lazaridi",
+                  "notes": null,
+                  "imdb_id": "nm0973408"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Seraglio",
+                  "notes": null,
+                  "imdb_id": "tt0262758"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Gail Lerner",
+                  "notes": null,
+                  "imdb_id": "nm0503611"
+               },
+               {
+                  "name": "Colin Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132330"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Uma Hist\u00f3ria de Futebol",
+                  "notes": null,
+                  "imdb_id": "tt0207112"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Paulo Machline",
+                  "notes": null,
+                  "imdb_id": "nm0003884"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Scott Millan",
+                  "notes": null,
+                  "imdb_id": "nm0586793"
+               },
+               {
+                  "name": "Bob Beemer",
+                  "notes": null,
+                  "imdb_id": "nm0066446"
+               },
+               {
+                  "name": "Ken Weston",
+                  "notes": null,
+                  "imdb_id": "nm0922984"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Cast Away",
+                  "notes": null,
+                  "imdb_id": "tt0162222"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Randy Thom",
+                  "notes": null,
+                  "imdb_id": "nm0858378"
+               },
+               {
+                  "name": "Tom Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0426348"
+               },
+               {
+                  "name": "Dennis S. Sands",
+                  "notes": null,
+                  "imdb_id": "nm0762304"
+               },
+               {
+                  "name": "William B. Kaplan",
+                  "notes": null,
+                  "imdb_id": "nm0438202"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Patriot",
+                  "notes": null,
+                  "imdb_id": "tt0187393"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kevin O'Connell",
+                  "notes": null,
+                  "imdb_id": "nm0640114"
+               },
+               {
+                  "name": "Greg P. Russell",
+                  "notes": null,
+                  "imdb_id": "nm0751169"
+               },
+               {
+                  "name": "Lee Orloff",
+                  "notes": null,
+                  "imdb_id": "nm0650090"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "The Perfect Storm",
+                  "notes": null,
+                  "imdb_id": "tt0177971"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "John T. Reitz",
+                  "notes": null,
+                  "imdb_id": "nm0718676"
+               },
+               {
+                  "name": "Gregg Rudloff",
+                  "notes": null,
+                  "imdb_id": "nm0748832"
+               },
+               {
+                  "name": "David E. Campbell",
+                  "notes": null,
+                  "imdb_id": "nm0132372"
+               },
+               {
+                  "name": "Keith A. Wester",
+                  "notes": null,
+                  "imdb_id": "nm0199492"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "U-571",
+                  "notes": null,
+                  "imdb_id": "tt0141926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Maslow",
+                  "notes": null,
+                  "imdb_id": "nm0556541"
+               },
+               {
+                  "name": "Gregg Landaker",
+                  "notes": null,
+                  "imdb_id": "nm0484414"
+               },
+               {
+                  "name": "Rick Kline",
+                  "notes": null,
+                  "imdb_id": "nm0459662"
+               },
+               {
+                  "name": "Ivan Sharrock",
+                  "notes": null,
+                  "imdb_id": "nm0789331"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound Editing",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "U-571",
+                  "notes": null,
+                  "imdb_id": "tt0141926"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Jon Johnson",
+                  "notes": null,
+                  "imdb_id": "nm0425416"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Space Cowboys",
+                  "notes": null,
+                  "imdb_id": "tt0186566"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Alan Robert Murray",
+                  "notes": null,
+                  "imdb_id": "nm0614812"
+               },
+               {
+                  "name": "Bub Asman",
+                  "notes": null,
+                  "imdb_id": "nm0039544"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Traffic",
+                  "notes": null,
+                  "imdb_id": "tt0181865"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Stephen Gaghan",
+                  "notes": null,
+                  "imdb_id": "nm0300866"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Chocolat",
+                  "notes": null,
+                  "imdb_id": "tt0241303"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Robert Nelson Jacobs",
+                  "notes": null,
+                  "imdb_id": "nm0414608"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Crouching Tiger, Hidden Dragon",
+                  "notes": null,
+                  "imdb_id": "tt0190332"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Hui-Ling Wang",
+                  "notes": null,
+                  "imdb_id": "nm0910924"
+               },
+               {
+                  "name": "James Schamus",
+                  "notes": null,
+                  "imdb_id": "nm0770005"
+               },
+               {
+                  "name": "Kuo Jung Tsai",
+                  "notes": null,
+                  "imdb_id": "nm0874631"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "O Brother, Where Art Thou?",
+                  "notes": null,
+                  "imdb_id": "tt0190590"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Ethan Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001053"
+               },
+               {
+                  "name": "Joel Coen",
+                  "notes": null,
+                  "imdb_id": "nm0001054"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Wonder Boys",
+                  "notes": null,
+                  "imdb_id": "tt0185014"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Steve Kloves",
+                  "notes": null,
+                  "imdb_id": "nm0460141"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Screenplay Written Directly for the Screen",
+      "nominations": [
+         {
+            "notes": null,
+            "won": true,
+            "primary": [
+               {
+                  "name": "Almost Famous",
+                  "notes": null,
+                  "imdb_id": "tt0181875"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Cameron Crowe",
+                  "notes": null,
+                  "imdb_id": "nm0001081"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Billy Elliot",
+                  "notes": null,
+                  "imdb_id": "tt0249462"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Lee Hall",
+                  "notes": null,
+                  "imdb_id": "nm0355822"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Erin Brockovich",
+                  "notes": null,
+                  "imdb_id": "tt0195685"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Susannah Grant",
+                  "notes": null,
+                  "imdb_id": "nm0335666"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "Gladiator",
+                  "notes": null,
+                  "imdb_id": "tt0172495"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "David Franzoni",
+                  "notes": "(screenplay/story)",
+                  "imdb_id": "nm0291905"
+               },
+               {
+                  "name": "John Logan",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0517589"
+               },
+               {
+                  "name": "William Nicholson",
+                  "notes": "(screenplay)",
+                  "imdb_id": "nm0629933"
+               }
+            ]
+         },
+         {
+            "notes": null,
+            "won": false,
+            "primary": [
+               {
+                  "name": "You Can Count on Me",
+                  "notes": null,
+                  "imdb_id": "tt0203230"
+               }
+            ],
+            "secondary": [
+               {
+                  "name": "Kenneth Lonergan",
+                  "notes": null,
+                  "imdb_id": "nm0518836"
+               }
+            ]
+         }
+      ]
+   }
+]

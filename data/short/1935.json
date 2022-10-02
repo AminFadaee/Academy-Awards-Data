@@ -1,0 +1,460 @@
+[
+   {
+      "category": "Best Actor in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Clark Gable"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Frank Morgan"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "William Powell"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Actress in a Leading Role",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Claudette Colbert"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bette Davis"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Grace Moore"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Norma Shearer"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Art Direction",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Merry Widow"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Affairs of Cellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gay Divorcee"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Assistant Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "John Waters"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cullen Tate"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Scott R. Beal"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Cinematography",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Operator 13"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Affairs of Cellini"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Director",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Frank Capra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Victor Schertzinger"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "W.S. Van Dyke"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Film Editing",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Eskimo"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Night of Love"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Original Song",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Gay Divorcee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flying Down to Rio"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "She Loves Me Not"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Music, Score",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Night of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gay Divorcee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Lost Patrol"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Picture",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "It Happened One Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flirtation Walk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Here Comes the Navy"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Imitation of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "One Night of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Barretts of Wimpole Street"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gay Divorcee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The House of Rothschild"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Villa!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Cartoons",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "The Tortoise and the Hare"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Holiday Land"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Jolly Little Elves"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Comedy",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "La Cucaracha"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Men in Black"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "What, No Men?"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Short Subject, Novelty",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "City of Wax"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Bosom Friends"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Strikes and Spares"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Sound, Recording",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "One Night of Love"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Cleopatra"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Flirtation Walk"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Imitation of Life"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Affairs of Cellini"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Gay Divorcee"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The White Parade"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Villa!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Adaptation",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "It Happened One Night"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Thin Man"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Viva Villa!"
+            ]
+         }
+      ]
+   },
+   {
+      "category": "Best Writing, Original Story",
+      "nominations": [
+         {
+            "won": true,
+            "nominees": [
+               "Manhattan Melodrama"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "Hide-Out"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
+               "The Richest Girl in the World"
+            ]
+         }
+      ]
+   }
+]
