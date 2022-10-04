@@ -1,108 +1,73 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "nominations": [
-         "Victor McLaglen"
-      ]
+      "winner": "Victor McLaglen"
    },
    {
       "category": "Best Actress in a Leading Role",
-      "nominations": [
-         "Bette Davis"
-      ]
+      "winner": "Bette Davis"
    },
    {
       "category": "Best Art Direction",
-      "nominations": [
-         "The Dark Angel"
-      ]
+      "winner": "The Dark Angel"
    },
    {
       "category": "Best Assistant Director",
-      "nominations": [
-         [
-            "Clem Beauchamp",
-            "Paul Wing"
-         ]
+      "winner": [
+         "Clem Beauchamp",
+         "Paul Wing"
       ]
    },
    {
       "category": "Best Cinematography",
-      "nominations": [
-         "A Midsummer Night's Dream"
-      ]
+      "winner": "A Midsummer Night's Dream"
    },
    {
       "category": "Best Dance Direction",
-      "nominations": [
-         "Broadway Melody of 1936",
-         "Folies Berg\u00e8re de Paris"
-      ]
+      "winner": "Folies Berg\u00e8re de Paris"
    },
    {
       "category": "Best Director",
-      "nominations": [
-         "John Ford"
-      ]
+      "winner": "John Ford"
    },
    {
       "category": "Best Film Editing",
-      "nominations": [
-         "A Midsummer Night's Dream"
-      ]
+      "winner": "A Midsummer Night's Dream"
    },
    {
       "category": "Best Music, Original Song",
-      "nominations": [
-         "Gold Diggers of 1935"
-      ]
+      "winner": "Gold Diggers of 1935"
    },
    {
       "category": "Best Music, Score",
-      "nominations": [
-         "The Informer"
-      ]
+      "winner": "The Informer"
    },
    {
       "category": "Best Picture",
-      "nominations": [
-         "Mutiny on the Bounty"
-      ]
+      "winner": "Mutiny on the Bounty"
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "nominations": [
-         "Three Orphan Kittens"
-      ]
+      "winner": "Three Orphan Kittens"
    },
    {
       "category": "Best Short Subject, Comedy",
-      "nominations": [
-         "How to Sleep"
-      ]
+      "winner": "How to Sleep"
    },
    {
       "category": "Best Short Subject, Novelty",
-      "nominations": [
-         "Wings Over Everest"
-      ]
+      "winner": "Wings Over Everest"
    },
    {
       "category": "Best Sound, Recording",
-      "nominations": [
-         "Naughty Marietta"
-      ]
+      "winner": "Naughty Marietta"
    },
    {
       "category": "Best Writing, Original Story",
-      "nominations": [
-         "The Scoundrel"
-      ]
+      "winner": "The Scoundrel"
    },
    {
       "category": "Best Writing, Screenplay",
-      "nominations": [
-         "The Informer"
-      ]
+      "winner": "The Informer"
    }
 ]

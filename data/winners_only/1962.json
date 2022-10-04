@@ -1,155 +1,105 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "nominations": [
-         "Maximilian Schell"
-      ]
+      "winner": "Maximilian Schell"
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "nominations": [
-         "George Chakiris"
-      ]
+      "winner": "George Chakiris"
    },
    {
       "category": "Best Actress in a Leading Role",
-      "nominations": [
-         "Sophia Loren"
-      ]
+      "winner": "Sophia Loren"
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "nominations": [
-         "Rita Moreno"
-      ]
+      "winner": "Rita Moreno"
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "nominations": [
-         "The Hustler"
-      ]
+      "winner": "The Hustler"
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "nominations": [
-         "The Hustler"
-      ]
+      "winner": "The Hustler"
    },
    {
       "category": "Best Cinematography, Color",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "nominations": [
-         "La dolce vita"
-      ]
+      "winner": "La dolce vita"
    },
    {
       "category": "Best Costume Design, Color",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Director",
-      "nominations": [
-         [
-            "Robert Wise",
-            "Jerome Robbins"
-         ]
+      "winner": [
+         "Robert Wise",
+         "Jerome Robbins"
       ]
    },
    {
       "category": "Best Documentary, Features",
-      "nominations": [
-         "The Sky Above, the Mud Below"
-      ]
+      "winner": "The Sky Above, the Mud Below"
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "nominations": [
-         "Project Hope"
-      ]
+      "winner": "Project Hope"
    },
    {
       "category": "Best Effects, Special Effects",
-      "nominations": [
-         "The Guns of Navarone"
-      ]
+      "winner": "The Guns of Navarone"
    },
    {
       "category": "Best Film Editing",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Foreign Language Film",
-      "nominations": [
-         "Through a Glass Darkly"
-      ]
+      "winner": "Through a Glass Darkly"
    },
    {
       "category": "Best Music, Original Song",
-      "nominations": [
-         "Breakfast at Tiffany's"
-      ]
+      "winner": "Breakfast at Tiffany's"
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "nominations": [
-         "Breakfast at Tiffany's"
-      ]
+      "winner": "Breakfast at Tiffany's"
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Picture",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "nominations": [
-         "The Substitute"
-      ]
+      "winner": "The Substitute"
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "nominations": [
-         "Seawards the Great Ships"
-      ]
+      "winner": "Seawards the Great Ships"
    },
    {
       "category": "Best Sound",
-      "nominations": [
-         "West Side Story"
-      ]
+      "winner": "West Side Story"
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "nominations": [
-         "Judgment at Nuremberg"
-      ]
+      "winner": "Judgment at Nuremberg"
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "nominations": [
-         "Splendor in the Grass"
-      ]
+      "winner": "Splendor in the Grass"
    }
 ]

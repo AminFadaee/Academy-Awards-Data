@@ -1,44 +1,30 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "nominations": [
-         "Warner Baxter"
-      ]
+      "winner": "Warner Baxter"
    },
    {
       "category": "Best Actress in a Leading Role",
-      "nominations": [
-         "Mary Pickford"
-      ]
+      "winner": "Mary Pickford"
    },
    {
       "category": "Best Art Direction",
-      "nominations": [
-         "The Bridge of San Luis Rey"
-      ]
+      "winner": "The Bridge of San Luis Rey"
    },
    {
       "category": "Best Cinematography",
-      "nominations": [
-         "White Shadows in the South Seas"
-      ]
+      "winner": "White Shadows in the South Seas"
    },
    {
       "category": "Best Director",
-      "nominations": [
-         "Frank Lloyd"
-      ]
+      "winner": "Frank Lloyd"
    },
    {
       "category": "Best Picture",
-      "nominations": [
-         "The Broadway Melody"
-      ]
+      "winner": "The Broadway Melody"
    },
    {
       "category": "Best Writing, Achievement",
-      "nominations": [
-         "The Patriot"
-      ]
+      "winner": "The Patriot"
    }
 ]

@@ -1,149 +1,101 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "nominations": [
-         "No Country for Old Men"
-      ]
+      "winner": "No Country for Old Men"
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "nominations": [
-         "Daniel Day-Lewis"
-      ]
+      "winner": "Daniel Day-Lewis"
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "nominations": [
-         "Marion Cotillard"
-      ]
+      "winner": "Marion Cotillard"
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "nominations": [
-         "Javier Bardem"
-      ]
+      "winner": "Javier Bardem"
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "nominations": [
-         "Tilda Swinton"
-      ]
+      "winner": "Tilda Swinton"
    },
    {
       "category": "Best Achievement in Directing",
-      "nominations": [
-         [
-            "Ethan Coen",
-            "Joel Coen"
-         ]
+      "winner": [
+         "Ethan Coen",
+         "Joel Coen"
       ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "nominations": [
-         "Juno"
-      ]
+      "winner": "Juno"
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "nominations": [
-         "No Country for Old Men"
-      ]
+      "winner": "No Country for Old Men"
    },
    {
       "category": "Best Achievement in Cinematography",
-      "nominations": [
-         "There Will Be Blood"
-      ]
+      "winner": "There Will Be Blood"
    },
    {
       "category": "Best Achievement in Art Direction",
-      "nominations": [
-         "Sweeney Todd: The Demon Barber of Fleet Street"
-      ]
+      "winner": "Sweeney Todd: The Demon Barber of Fleet Street"
    },
    {
       "category": "Best Achievement in Film Editing",
-      "nominations": [
-         "The Bourne Ultimatum"
-      ]
+      "winner": "The Bourne Ultimatum"
    },
    {
       "category": "Best Achievement in Costume Design",
-      "nominations": [
-         "Elizabeth: The Golden Age"
-      ]
+      "winner": "Elizabeth: The Golden Age"
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "nominations": [
-         "Once"
-      ]
+      "winner": "Once"
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "nominations": [
-         "Atonement"
-      ]
+      "winner": "Atonement"
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "nominations": [
-         "The Bourne Ultimatum"
-      ]
+      "winner": "The Bourne Ultimatum"
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "nominations": [
-         "The Bourne Ultimatum"
-      ]
+      "winner": "The Bourne Ultimatum"
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "nominations": [
-         "The Golden Compass"
-      ]
+      "winner": "The Golden Compass"
    },
    {
       "category": "Best Short Film, Animated",
-      "nominations": [
-         "Peter and The Wolf"
-      ]
+      "winner": "Peter and The Wolf"
    },
    {
       "category": "Best Short Film, Live Action",
-      "nominations": [
-         "The Mozart of Pickpockets"
-      ]
+      "winner": "The Mozart of Pickpockets"
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "nominations": [
-         "Freeheld"
-      ]
+      "winner": "Freeheld"
    },
    {
       "category": "Best Documentary, Features",
-      "nominations": [
-         "Taxi to the Dark Side"
-      ]
+      "winner": "Taxi to the Dark Side"
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "nominations": [
-         "The Counterfeiters"
-      ]
+      "winner": "The Counterfeiters"
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "nominations": [
-         "Ratatouille"
-      ]
+      "winner": "Ratatouille"
    },
    {
       "category": "Best Achievement in Makeup",
-      "nominations": [
-         "La Vie en Rose"
-      ]
+      "winner": "La Vie en Rose"
    }
 ]

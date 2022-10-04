@@ -1,147 +1,98 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "nominations": [
-         "Argo"
-      ]
+      "winner": "Argo"
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "nominations": [
-         "Daniel Day-Lewis"
-      ]
+      "winner": "Daniel Day-Lewis"
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "nominations": [
-         "Jennifer Lawrence"
-      ]
+      "winner": "Jennifer Lawrence"
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "nominations": [
-         "Christoph Waltz"
-      ]
+      "winner": "Christoph Waltz"
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "nominations": [
-         "Anne Hathaway"
-      ]
+      "winner": "Anne Hathaway"
    },
    {
       "category": "Best Achievement in Directing",
-      "nominations": [
-         "Ang Lee"
-      ]
+      "winner": "Ang Lee"
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "nominations": [
-         "Django Unchained"
-      ]
+      "winner": "Django Unchained"
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "nominations": [
-         "Argo"
-      ]
+      "winner": "Argo"
    },
    {
       "category": "Best Achievement in Cinematography",
-      "nominations": [
-         "Life of Pi"
-      ]
+      "winner": "Life of Pi"
    },
    {
       "category": "Best Achievement in Film Editing",
-      "nominations": [
-         "Argo"
-      ]
+      "winner": "Argo"
    },
    {
       "category": "Best Achievement in Production Design",
-      "nominations": [
-         "Lincoln"
-      ]
+      "winner": "Lincoln"
    },
    {
       "category": "Best Achievement in Costume Design",
-      "nominations": [
-         "Anna Karenina"
-      ]
+      "winner": "Anna Karenina"
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "nominations": [
-         "Les Mis\u00e9rables"
-      ]
+      "winner": "Les Mis\u00e9rables"
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "nominations": [
-         "Skyfall"
-      ]
+      "winner": "Skyfall"
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "nominations": [
-         "Life of Pi"
-      ]
+      "winner": "Life of Pi"
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "nominations": [
-         "Les Mis\u00e9rables"
-      ]
+      "winner": "Les Mis\u00e9rables"
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "nominations": [
-         "Skyfall",
-         "Zero Dark Thirty"
-      ]
+      "winner": "Zero Dark Thirty"
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "nominations": [
-         "Life of Pi"
-      ]
+      "winner": "Life of Pi"
    },
    {
       "category": "Best Short Film, Animated",
-      "nominations": [
-         "Paperman"
-      ]
+      "winner": "Paperman"
    },
    {
       "category": "Best Short Film, Live Action",
-      "nominations": [
-         "Curfew"
-      ]
+      "winner": "Curfew"
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "nominations": [
-         "Inocente"
-      ]
+      "winner": "Inocente"
    },
    {
       "category": "Best Documentary, Features",
-      "nominations": [
-         "Searching for Sugar Man"
-      ]
+      "winner": "Searching for Sugar Man"
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "nominations": [
-         "Amour"
-      ]
+      "winner": "Amour"
    },
    {
       "category": "Best Animated Feature",
-      "nominations": [
-         "Brave"
-      ]
+      "winner": "Brave"
    }
 ]

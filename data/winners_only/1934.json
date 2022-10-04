@@ -1,86 +1,54 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "nominations": [
-         "Charles Laughton"
-      ]
+      "winner": "Charles Laughton"
    },
    {
       "category": "Best Actress in a Leading Role",
-      "nominations": [
-         "Katharine Hepburn"
-      ]
+      "winner": "Katharine Hepburn"
    },
    {
       "category": "Best Art Direction",
-      "nominations": [
-         "Cavalcade"
-      ]
+      "winner": "Cavalcade"
    },
    {
       "category": "Best Assistant Director",
-      "nominations": [
-         "Charles Barton",
-         "Charles Dorian",
-         "Dewey Starkey",
-         "Fred Fox",
-         "Gordon Hollingshead",
-         "Scott R. Beal",
-         "William Tummel"
-      ]
+      "winner": "William Tummel"
    },
    {
       "category": "Best Cinematography",
-      "nominations": [
-         "A Farewell to Arms"
-      ]
+      "winner": "A Farewell to Arms"
    },
    {
       "category": "Best Director",
-      "nominations": [
-         "Frank Lloyd"
-      ]
+      "winner": "Frank Lloyd"
    },
    {
       "category": "Best Picture",
-      "nominations": [
-         "Cavalcade"
-      ]
+      "winner": "Cavalcade"
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "nominations": [
-         "Three Little Pigs"
-      ]
+      "winner": "Three Little Pigs"
    },
    {
       "category": "Best Short Subject, Comedy",
-      "nominations": [
-         "So This Is Harris"
-      ]
+      "winner": "So This Is Harris"
    },
    {
       "category": "Best Short Subject, Novelty",
-      "nominations": [
-         "Krakatoa"
-      ]
+      "winner": "Krakatoa"
    },
    {
       "category": "Best Sound, Recording",
-      "nominations": [
-         "A Farewell to Arms"
-      ]
+      "winner": "A Farewell to Arms"
    },
    {
       "category": "Best Writing, Adaptation",
-      "nominations": [
-         "Little Women"
-      ]
+      "winner": "Little Women"
    },
    {
       "category": "Best Writing, Original Story",
-      "nominations": [
-         "One Way Passage"
-      ]
+      "winner": "One Way Passage"
    }
 ]

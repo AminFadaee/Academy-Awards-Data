@@ -1,146 +1,98 @@
 [
    {
       "category": "Best Picture",
-      "nominations": [
-         "Chicago"
-      ]
+      "winner": "Chicago"
    },
    {
       "category": "Best Actor in a Leading Role",
-      "nominations": [
-         "Adrien Brody"
-      ]
+      "winner": "Adrien Brody"
    },
    {
       "category": "Best Actress in a Leading Role",
-      "nominations": [
-         "Nicole Kidman"
-      ]
+      "winner": "Nicole Kidman"
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "nominations": [
-         "Chris Cooper"
-      ]
+      "winner": "Chris Cooper"
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "nominations": [
-         "Catherine Zeta-Jones"
-      ]
+      "winner": "Catherine Zeta-Jones"
    },
    {
       "category": "Best Director",
-      "nominations": [
-         "Roman Polanski"
-      ]
+      "winner": "Roman Polanski"
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "nominations": [
-         "Talk to Her"
-      ]
+      "winner": "Talk to Her"
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "nominations": [
-         "The Pianist"
-      ]
+      "winner": "The Pianist"
    },
    {
       "category": "Best Foreign Language Film",
-      "nominations": [
-         "Nowhere in Africa"
-      ]
+      "winner": "Nowhere in Africa"
    },
    {
       "category": "Best Cinematography",
-      "nominations": [
-         "Road to Perdition"
-      ]
+      "winner": "Road to Perdition"
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "nominations": [
-         "Chicago"
-      ]
+      "winner": "Chicago"
    },
    {
       "category": "Best Costume Design",
-      "nominations": [
-         "Chicago"
-      ]
+      "winner": "Chicago"
    },
    {
       "category": "Best Sound",
-      "nominations": [
-         "Chicago"
-      ]
+      "winner": "Chicago"
    },
    {
       "category": "Best Sound Editing",
-      "nominations": [
-         "The Lord of the Rings: The Two Towers"
-      ]
+      "winner": "The Lord of the Rings: The Two Towers"
    },
    {
       "category": "Best Film Editing",
-      "nominations": [
-         "Chicago"
-      ]
+      "winner": "Chicago"
    },
    {
       "category": "Best Makeup",
-      "nominations": [
-         "Frida"
-      ]
+      "winner": "Frida"
    },
    {
       "category": "Best Music, Original Song",
-      "nominations": [
-         "8 Mile"
-      ]
+      "winner": "8 Mile"
    },
    {
       "category": "Best Music, Original Score",
-      "nominations": [
-         "Frida"
-      ]
+      "winner": "Frida"
    },
    {
       "category": "Best Short Film, Animated",
-      "nominations": [
-         "The Chubbchubbs!"
-      ]
+      "winner": "The Chubbchubbs!"
    },
    {
       "category": "Best Short Film, Live Action",
-      "nominations": [
-         "This Charming Man"
-      ]
+      "winner": "This Charming Man"
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "nominations": [
-         "Twin Towers"
-      ]
+      "winner": "Twin Towers"
    },
    {
       "category": "Best Documentary, Features",
-      "nominations": [
-         "Bowling for Columbine"
-      ]
+      "winner": "Bowling for Columbine"
    },
    {
       "category": "Best Animated Feature",
-      "nominations": [
-         "Spirited Away"
-      ]
+      "winner": "Spirited Away"
    },
    {
       "category": "Best Visual Effects",
-      "nominations": [
-         "The Lord of the Rings: The Two Towers"
-      ]
+      "winner": "The Lord of the Rings: The Two Towers"
    }
 ]
