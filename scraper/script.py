@@ -48,7 +48,7 @@ def get_crawler(data_mode: DataMode, dump_on: str = None):
                             data = json.loads(jsons[0])
             data = self.prepare_data(data)
             if self.dump_path:
-                file_name = response.url.split('/')[-3]+'.json'
+                file_name = response.url.split('/')[-3] + '.json'
                 folder = os.path.join(self.dump_path, str(self.mode))
                 if not os.path.isdir(folder):
                     os.makedirs(folder)
@@ -65,7 +65,8 @@ def get_crawler(data_mode: DataMode, dump_on: str = None):
             for award in data:
                 prepared_award = dict()
                 prepared_award['category'] = award['categoryName']
-                prepared_award['nominations'] = []
+                if data_mode != DataMode.winners_only:
+                    prepared_award['nominations'] = []
                 for nomination in award['nominations']:
                     prepared_nomination = {
                         'notes': nomination['notes'],
@@ -104,7 +105,10 @@ def get_crawler(data_mode: DataMode, dump_on: str = None):
                             }
                             for secondary in nomination['secondaryNominees']
                         ]
-                    prepared_award['nominations'].append(prepared_nomination)
+                    if data_mode != DataMode.winners_only:
+                        prepared_award['nominations'].append(prepared_nomination)
+                    else:
+                        prepared_award['winner'] = prepared_nomination
                 prepared_data.append(prepared_award)
             return prepared_data
 
