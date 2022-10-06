@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Jack Nicholson"
+      "winners": [
+         "Jack Nicholson"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "George Burns"
+      "winners": [
+         "George Burns"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Louise Fletcher"
+      "winners": [
+         "Louise Fletcher"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Lee Grant"
+      "winners": [
+         "Lee Grant"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Barry Lyndon"
+      "winners": [
+         "Barry Lyndon"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Barry Lyndon"
+      "winners": [
+         "Barry Lyndon"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Barry Lyndon"
+      "winners": [
+         "Barry Lyndon"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Milos Forman"
+      "winners": [
+         "Milos Forman"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Man Who Skied Down Everest"
+      "winners": [
+         "The Man Who Skied Down Everest"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "The End of the Game"
+      "winners": [
+         "The End of the Game"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Jaws"
+      "winners": [
+         "Jaws"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Dersu Uzala"
+      "winners": [
+         "Dersu Uzala"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "Jaws"
+      "winners": [
+         "Jaws"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Nashville"
+      "winners": [
+         "Nashville"
+      ]
    },
    {
       "category": "Best Music, Scoring Original Song Score and/or Adaptation",
-      "winner": "Barry Lyndon"
+      "winners": [
+         "Barry Lyndon"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "One Flew Over the Cuckoo's Nest"
+      "winners": [
+         "One Flew Over the Cuckoo's Nest"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Great (Isambard Kingdom Brunel)"
+      "winners": [
+         "Great (Isambard Kingdom Brunel)"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Angel and Big Joe"
+      "winners": [
+         "Angel and Big Joe"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Jaws"
+      "winners": [
+         "Jaws"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Dog Day Afternoon"
+      "winners": [
+         "Dog Day Afternoon"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Adapted From Other Material",
-      "winner": "One Flew Over the Cuckoo's Nest"
+      "winners": [
+         "One Flew Over the Cuckoo's Nest"
+      ]
    }
 ]

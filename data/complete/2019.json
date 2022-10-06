@@ -6,229 +6,97 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Green Book",
-                  "notes": null,
-                  "imdb_id": "tt6966692"
-               }
+               "Green Book"
             ],
             "secondary": [
-               {
-                  "name": "Jim Burke",
-                  "notes": null,
-                  "imdb_id": "nm0121724"
-               },
-               {
-                  "name": "Charles B. Wessler",
-                  "notes": null,
-                  "imdb_id": "nm0921853"
-               },
-               {
-                  "name": "Brian Hayes Currie",
-                  "notes": null,
-                  "imdb_id": "nm0192942"
-               },
-               {
-                  "name": "Peter Farrelly",
-                  "notes": null,
-                  "imdb_id": "nm0268380"
-               },
-               {
-                  "name": "Nick Vallelonga",
-                  "notes": null,
-                  "imdb_id": "nm0885014"
-               }
+               "Jim Burke",
+               "Charles B. Wessler",
+               "Brian Hayes Currie",
+               "Peter Farrelly",
+               "Nick Vallelonga"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Bill Gerber",
-                  "notes": null,
-                  "imdb_id": "nm0314088"
-               },
-               {
-                  "name": "Bradley Cooper",
-                  "notes": null,
-                  "imdb_id": "nm0177896"
-               },
-               {
-                  "name": "Lynette Howell Taylor",
-                  "notes": null,
-                  "imdb_id": "nm1987578"
-               }
+               "Bill Gerber",
+               "Bradley Cooper",
+               "Lynette Howell Taylor"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ],
             "secondary": [
-               {
-                  "name": "Sean McKittrick",
-                  "notes": null,
-                  "imdb_id": "nm0572014"
-               },
-               {
-                  "name": "Jason Blum",
-                  "notes": null,
-                  "imdb_id": "nm0089658"
-               },
-               {
-                  "name": "Raymond Mansfield",
-                  "notes": null,
-                  "imdb_id": "nm1506448"
-               },
-               {
-                  "name": "Jordan Peele",
-                  "notes": null,
-                  "imdb_id": "nm1443502"
-               },
-               {
-                  "name": "Spike Lee",
-                  "notes": null,
-                  "imdb_id": "nm0000490"
-               }
+               "Sean McKittrick",
+               "Jason Blum",
+               "Raymond Mansfield",
+               "Jordan Peele",
+               "Spike Lee"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Kevin Feige",
-                  "notes": null,
-                  "imdb_id": "nm0270559"
-               }
+               "Kevin Feige"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Bohemian Rhapsody",
-                  "notes": null,
-                  "imdb_id": "tt1727824"
-               }
+               "Bohemian Rhapsody"
             ],
             "secondary": [
-               {
-                  "name": "Graham King",
-                  "notes": null,
-                  "imdb_id": "nm0454752"
-               }
+               "Graham King"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Gabriela Rodriguez",
-                  "notes": null,
-                  "imdb_id": "nm2342288"
-               },
-               {
-                  "name": "Alfonso Cuar\u00f3n",
-                  "notes": null,
-                  "imdb_id": "nm0190859"
-               }
+               "Gabriela Rodriguez",
+               "Alfonso Cuar\u00f3n"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Ceci Dempsey",
-                  "notes": null,
-                  "imdb_id": "nm0218714"
-               },
-               {
-                  "name": "Ed Guiney",
-                  "notes": null,
-                  "imdb_id": "nm0347384"
-               },
-               {
-                  "name": "Lee Magiday",
-                  "notes": null,
-                  "imdb_id": "nm3717662"
-               },
-               {
-                  "name": "Yorgos Lanthimos",
-                  "notes": null,
-                  "imdb_id": "nm0487166"
-               }
+               "Ceci Dempsey",
+               "Ed Guiney",
+               "Lee Magiday",
+               "Yorgos Lanthimos"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ],
             "secondary": [
-               {
-                  "name": "Dede Gardner",
-                  "notes": null,
-                  "imdb_id": "nm0306890"
-               },
-               {
-                  "name": "Jeremy Kleiner",
-                  "notes": null,
-                  "imdb_id": "nm1250070"
-               },
-               {
-                  "name": "Adam McKay",
-                  "notes": null,
-                  "imdb_id": "nm0570912"
-               },
-               {
-                  "name": "Kevin J. Messick",
-                  "notes": null,
-                  "imdb_id": "nm0582111"
-               }
+               "Dede Gardner",
+               "Jeremy Kleiner",
+               "Adam McKay",
+               "Kevin J. Messick"
             ]
          }
       ]
@@ -240,90 +108,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Rami Malek",
-                  "notes": null,
-                  "imdb_id": "nm1785339"
-               }
+               "Rami Malek"
             ],
             "secondary": [
-               {
-                  "name": "Bohemian Rhapsody",
-                  "notes": null,
-                  "imdb_id": "tt1727824"
-               }
+               "Bohemian Rhapsody"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Bradley Cooper",
-                  "notes": null,
-                  "imdb_id": "nm0177896"
-               }
+               "Bradley Cooper"
             ],
             "secondary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Christian Bale",
-                  "notes": null,
-                  "imdb_id": "nm0000288"
-               }
+               "Christian Bale"
             ],
             "secondary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Viggo Mortensen",
-                  "notes": null,
-                  "imdb_id": "nm0001557"
-               }
+               "Viggo Mortensen"
             ],
             "secondary": [
-               {
-                  "name": "Green Book",
-                  "notes": null,
-                  "imdb_id": "tt6966692"
-               }
+               "Green Book"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Willem Dafoe",
-                  "notes": null,
-                  "imdb_id": "nm0000353"
-               }
+               "Willem Dafoe"
             ],
             "secondary": [
-               {
-                  "name": "At Eternity's Gate",
-                  "notes": null,
-                  "imdb_id": "tt6938828"
-               }
+               "At Eternity's Gate"
             ]
          }
       ]
@@ -335,90 +163,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Olivia Colman",
-                  "notes": null,
-                  "imdb_id": "nm1469236"
-               }
+               "Olivia Colman"
             ],
             "secondary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Glenn Close",
-                  "notes": null,
-                  "imdb_id": "nm0000335"
-               }
+               "Glenn Close"
             ],
             "secondary": [
-               {
-                  "name": "The Wife",
-                  "notes": null,
-                  "imdb_id": "tt3750872"
-               }
+               "The Wife"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lady Gaga",
-                  "notes": null,
-                  "imdb_id": "nm3078932"
-               }
+               "Lady Gaga"
             ],
             "secondary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Melissa McCarthy",
-                  "notes": null,
-                  "imdb_id": "nm0565250"
-               }
+               "Melissa McCarthy"
             ],
             "secondary": [
-               {
-                  "name": "Can You Ever Forgive Me?",
-                  "notes": null,
-                  "imdb_id": "tt4595882"
-               }
+               "Can You Ever Forgive Me?"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Yalitza Aparicio",
-                  "notes": null,
-                  "imdb_id": "nm8611957"
-               }
+               "Yalitza Aparicio"
             ],
             "secondary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ]
          }
       ]
@@ -430,90 +218,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Mahershala Ali",
-                  "notes": null,
-                  "imdb_id": "nm0991810"
-               }
+               "Mahershala Ali"
             ],
             "secondary": [
-               {
-                  "name": "Green Book",
-                  "notes": null,
-                  "imdb_id": "tt6966692"
-               }
+               "Green Book"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Adam Driver",
-                  "notes": null,
-                  "imdb_id": "nm3485845"
-               }
+               "Adam Driver"
             ],
             "secondary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Richard E. Grant",
-                  "notes": null,
-                  "imdb_id": "nm0001290"
-               }
+               "Richard E. Grant"
             ],
             "secondary": [
-               {
-                  "name": "Can You Ever Forgive Me?",
-                  "notes": null,
-                  "imdb_id": "tt4595882"
-               }
+               "Can You Ever Forgive Me?"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sam Elliott",
-                  "notes": null,
-                  "imdb_id": "nm0000385"
-               }
+               "Sam Elliott"
             ],
             "secondary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sam Rockwell",
-                  "notes": null,
-                  "imdb_id": "nm0005377"
-               }
+               "Sam Rockwell"
             ],
             "secondary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ]
          }
       ]
@@ -525,90 +273,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Regina King",
-                  "notes": null,
-                  "imdb_id": "nm0005093"
-               }
+               "Regina King"
             ],
             "secondary": [
-               {
-                  "name": "If Beale Street Could Talk",
-                  "notes": null,
-                  "imdb_id": "tt7125860"
-               }
+               "If Beale Street Could Talk"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Amy Adams",
-                  "notes": null,
-                  "imdb_id": "nm0010736"
-               }
+               "Amy Adams"
             ],
             "secondary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Emma Stone",
-                  "notes": null,
-                  "imdb_id": "nm1297015"
-               }
+               "Emma Stone"
             ],
             "secondary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Marina de Tavira",
-                  "notes": null,
-                  "imdb_id": "nm0211920"
-               }
+               "Marina de Tavira"
             ],
             "secondary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rachel Weisz",
-                  "notes": null,
-                  "imdb_id": "nm0001838"
-               }
+               "Rachel Weisz"
             ],
             "secondary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ]
          }
       ]
@@ -620,90 +328,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Alfonso Cuar\u00f3n",
-                  "notes": null,
-                  "imdb_id": "nm0190859"
-               }
+               "Alfonso Cuar\u00f3n"
             ],
             "secondary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Adam McKay",
-                  "notes": null,
-                  "imdb_id": "nm0570912"
-               }
+               "Adam McKay"
             ],
             "secondary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pawel Pawlikowski",
-                  "notes": null,
-                  "imdb_id": "nm0667734"
-               }
+               "Pawel Pawlikowski"
             ],
             "secondary": [
-               {
-                  "name": "Cold War",
-                  "notes": null,
-                  "imdb_id": "tt6543652"
-               }
+               "Cold War"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Spike Lee",
-                  "notes": null,
-                  "imdb_id": "nm0000490"
-               }
+               "Spike Lee"
             ],
             "secondary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Yorgos Lanthimos",
-                  "notes": null,
-                  "imdb_id": "nm0487166"
-               }
+               "Yorgos Lanthimos"
             ],
             "secondary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ]
          }
       ]
@@ -715,105 +383,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Green Book",
-                  "notes": null,
-                  "imdb_id": "tt6966692"
-               }
+               "Green Book"
             ],
             "secondary": [
-               {
-                  "name": "Nick Vallelonga",
-                  "notes": null,
-                  "imdb_id": "nm0885014"
-               },
-               {
-                  "name": "Brian Hayes Currie",
-                  "notes": null,
-                  "imdb_id": "nm0192942"
-               },
-               {
-                  "name": "Peter Farrelly",
-                  "notes": null,
-                  "imdb_id": "nm0268380"
-               }
+               "Nick Vallelonga",
+               "Brian Hayes Currie",
+               "Peter Farrelly"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "First Reformed",
-                  "notes": null,
-                  "imdb_id": "tt6053438"
-               }
+               "First Reformed"
             ],
             "secondary": [
-               {
-                  "name": "Paul Schrader",
-                  "notes": null,
-                  "imdb_id": "nm0001707"
-               }
+               "Paul Schrader"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Alfonso Cuar\u00f3n",
-                  "notes": null,
-                  "imdb_id": "nm0190859"
-               }
+               "Alfonso Cuar\u00f3n"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Deborah Davis",
-                  "notes": null,
-                  "imdb_id": "nm7629302"
-               },
-               {
-                  "name": "Tony McNamara",
-                  "notes": null,
-                  "imdb_id": "nm1110111"
-               }
+               "Deborah Davis",
+               "Tony McNamara"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ],
             "secondary": [
-               {
-                  "name": "Adam McKay",
-                  "notes": null,
-                  "imdb_id": "nm0570912"
-               }
+               "Adam McKay"
             ]
          }
       ]
@@ -825,125 +441,57 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ],
             "secondary": [
-               {
-                  "name": "Charlie Wachtel",
-                  "notes": null,
-                  "imdb_id": "nm4478735"
-               },
-               {
-                  "name": "David Rabinowitz",
-                  "notes": null,
-                  "imdb_id": "nm5161275"
-               },
-               {
-                  "name": "Kevin Willmott",
-                  "notes": null,
-                  "imdb_id": "nm0932551"
-               },
-               {
-                  "name": "Spike Lee",
-                  "notes": null,
-                  "imdb_id": "nm0000490"
-               }
+               "Charlie Wachtel",
+               "David Rabinowitz",
+               "Kevin Willmott",
+               "Spike Lee"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Eric Roth",
-                  "notes": null,
-                  "imdb_id": "nm0744839"
-               },
-               {
-                  "name": "Bradley Cooper",
-                  "notes": null,
-                  "imdb_id": "nm0177896"
-               },
-               {
-                  "name": "Will Fetters",
-                  "notes": null,
-                  "imdb_id": "nm3391497"
-               }
+               "Eric Roth",
+               "Bradley Cooper",
+               "Will Fetters"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Can You Ever Forgive Me?",
-                  "notes": null,
-                  "imdb_id": "tt4595882"
-               }
+               "Can You Ever Forgive Me?"
             ],
             "secondary": [
-               {
-                  "name": "Nicole Holofcener",
-                  "notes": null,
-                  "imdb_id": "nm0392237"
-               },
-               {
-                  "name": "Jeff Whitty",
-                  "notes": null,
-                  "imdb_id": "nm1036221"
-               }
+               "Nicole Holofcener",
+               "Jeff Whitty"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "If Beale Street Could Talk",
-                  "notes": null,
-                  "imdb_id": "tt7125860"
-               }
+               "If Beale Street Could Talk"
             ],
             "secondary": [
-               {
-                  "name": "Barry Jenkins",
-                  "notes": null,
-                  "imdb_id": "nm1503575"
-               }
+               "Barry Jenkins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Ballad of Buster Scruggs",
-                  "notes": null,
-                  "imdb_id": "tt6412452"
-               }
+               "The Ballad of Buster Scruggs"
             ],
             "secondary": [
-               {
-                  "name": "Joel Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001054"
-               },
-               {
-                  "name": "Ethan Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001053"
-               }
+               "Joel Coen",
+               "Ethan Coen"
             ]
          }
       ]
@@ -955,90 +503,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Alfonso Cuar\u00f3n",
-                  "notes": null,
-                  "imdb_id": "nm0190859"
-               }
+               "Alfonso Cuar\u00f3n"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Matthew Libatique",
-                  "notes": null,
-                  "imdb_id": "nm0508732"
-               }
+               "Matthew Libatique"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cold War",
-                  "notes": null,
-                  "imdb_id": "tt6543652"
-               }
+               "Cold War"
             ],
             "secondary": [
-               {
-                  "name": "Lukasz Zal",
-                  "notes": null,
-                  "imdb_id": "nm2617994"
-               }
+               "Lukasz Zal"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Never Look Away",
-                  "notes": null,
-                  "imdb_id": "tt5311542"
-               }
+               "Never Look Away"
             ],
             "secondary": [
-               {
-                  "name": "Caleb Deschanel",
-                  "notes": null,
-                  "imdb_id": "nm0221042"
-               }
+               "Caleb Deschanel"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Robbie Ryan",
-                  "notes": null,
-                  "imdb_id": "nm0752811"
-               }
+               "Robbie Ryan"
             ]
          }
       ]
@@ -1050,90 +558,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Bohemian Rhapsody",
-                  "notes": null,
-                  "imdb_id": "tt1727824"
-               }
+               "Bohemian Rhapsody"
             ],
             "secondary": [
-               {
-                  "name": "John Ottman",
-                  "notes": null,
-                  "imdb_id": "nm0653211"
-               }
+               "John Ottman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ],
             "secondary": [
-               {
-                  "name": "Barry Alexander Brown",
-                  "notes": null,
-                  "imdb_id": "nm0113084"
-               }
+               "Barry Alexander Brown"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Green Book",
-                  "notes": null,
-                  "imdb_id": "tt6966692"
-               }
+               "Green Book"
             ],
             "secondary": [
-               {
-                  "name": "Patrick J. Don Vito",
-                  "notes": null,
-                  "imdb_id": "nm0004011"
-               }
+               "Patrick J. Don Vito"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Yorgos Mavropsaridis",
-                  "notes": null,
-                  "imdb_id": "nm0561430"
-               }
+               "Yorgos Mavropsaridis"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ],
             "secondary": [
-               {
-                  "name": "Hank Corwin",
-                  "notes": null,
-                  "imdb_id": "nm0181650"
-               }
+               "Hank Corwin"
             ]
          }
       ]
@@ -1145,115 +613,55 @@
             "notes": "Hannah Beachler becomes the first African American to be nominated for and to win the Academy Award for Best Production Design.",
             "won": true,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Hannah Beachler",
-                  "notes": null,
-                  "imdb_id": "nm1667545"
-               },
-               {
-                  "name": "Jay Hart",
-                  "notes": null,
-                  "imdb_id": "nm0366345"
-               }
+               "Hannah Beachler",
+               "Jay Hart"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "First Man",
-                  "notes": null,
-                  "imdb_id": "tt1213641"
-               }
+               "First Man"
             ],
             "secondary": [
-               {
-                  "name": "Nathan Crowley",
-                  "notes": null,
-                  "imdb_id": "nm0189769"
-               },
-               {
-                  "name": "Kathy Lucas",
-                  "notes": null,
-                  "imdb_id": "nm0524205"
-               }
+               "Nathan Crowley",
+               "Kathy Lucas"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins Returns",
-                  "notes": null,
-                  "imdb_id": "tt5028340"
-               }
+               "Mary Poppins Returns"
             ],
             "secondary": [
-               {
-                  "name": "John Myhre",
-                  "notes": null,
-                  "imdb_id": "nm0616924"
-               },
-               {
-                  "name": "Gordon Sim",
-                  "notes": null,
-                  "imdb_id": "nm0799246"
-               }
+               "John Myhre",
+               "Gordon Sim"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Eugenio Caballero",
-                  "notes": null,
-                  "imdb_id": "nm0127429"
-               },
-               {
-                  "name": "Barbara Enriquez",
-                  "notes": null,
-                  "imdb_id": "nm1735500"
-               }
+               "Eugenio Caballero",
+               "Barbara Enriquez"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Fiona Crombie",
-                  "notes": null,
-                  "imdb_id": "nm2356249"
-               },
-               {
-                  "name": "Alice Felton",
-                  "notes": null,
-                  "imdb_id": "nm1818912"
-               }
+               "Fiona Crombie",
+               "Alice Felton"
             ]
          }
       ]
@@ -1265,90 +673,50 @@
             "notes": "Ruth E. Carter becomes the first African American to win the Academy Award for Best Costume Design.",
             "won": true,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Ruth E. Carter",
-                  "notes": null,
-                  "imdb_id": "nm0141921"
-               }
+               "Ruth E. Carter"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins Returns",
-                  "notes": null,
-                  "imdb_id": "tt5028340"
-               }
+               "Mary Poppins Returns"
             ],
             "secondary": [
-               {
-                  "name": "Sandy Powell",
-                  "notes": null,
-                  "imdb_id": "nm0694309"
-               }
+               "Sandy Powell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Queen of Scots",
-                  "notes": null,
-                  "imdb_id": "tt2328900"
-               }
+               "Mary Queen of Scots"
             ],
             "secondary": [
-               {
-                  "name": "Alexandra Byrne",
-                  "notes": null,
-                  "imdb_id": "nm0126107"
-               }
+               "Alexandra Byrne"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Ballad of Buster Scruggs",
-                  "notes": null,
-                  "imdb_id": "tt6412452"
-               }
+               "The Ballad of Buster Scruggs"
             ],
             "secondary": [
-               {
-                  "name": "Mary Zophres",
-                  "notes": null,
-                  "imdb_id": "nm0957861"
-               }
+               "Mary Zophres"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Favourite",
-                  "notes": null,
-                  "imdb_id": "tt5083738"
-               }
+               "The Favourite"
             ],
             "secondary": [
-               {
-                  "name": "Sandy Powell",
-                  "notes": null,
-                  "imdb_id": "nm0694309"
-               }
+               "Sandy Powell"
             ]
          }
       ]
@@ -1360,79 +728,35 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Vice",
-                  "notes": null,
-                  "imdb_id": "tt6266538"
-               }
+               "Vice"
             ],
             "secondary": [
-               {
-                  "name": "Greg Cannom",
-                  "notes": null,
-                  "imdb_id": "nm0134148"
-               },
-               {
-                  "name": "Kate Biscoe",
-                  "notes": null,
-                  "imdb_id": "nm0083917"
-               },
-               {
-                  "name": "Patricia Dehaney",
-                  "notes": null,
-                  "imdb_id": "nm0214912"
-               }
+               "Greg Cannom",
+               "Kate Biscoe",
+               "Patricia Dehaney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Border",
-                  "notes": null,
-                  "imdb_id": "tt5501104"
-               }
+               "Border"
             ],
             "secondary": [
-               {
-                  "name": "G\u00f6ran Lundstr\u00f6m",
-                  "notes": null,
-                  "imdb_id": "nm0526615"
-               },
-               {
-                  "name": "Pamela Goldammer",
-                  "notes": null,
-                  "imdb_id": "nm1744062"
-               }
+               "G\u00f6ran Lundstr\u00f6m",
+               "Pamela Goldammer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Queen of Scots",
-                  "notes": null,
-                  "imdb_id": "tt2328900"
-               }
+               "Mary Queen of Scots"
             ],
             "secondary": [
-               {
-                  "name": "Jenny Shircore",
-                  "notes": null,
-                  "imdb_id": "nm0794246"
-               },
-               {
-                  "name": "Marc Pilcher",
-                  "notes": null,
-                  "imdb_id": "nm1706094"
-               },
-               {
-                  "name": "Jessica Brooks",
-                  "notes": null,
-                  "imdb_id": "nm1928126"
-               }
+               "Jenny Shircore",
+               "Marc Pilcher",
+               "Jessica Brooks"
             ]
          }
       ]
@@ -1444,90 +768,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Ludwig G\u00f6ransson",
-                  "notes": null,
-                  "imdb_id": "nm3234869"
-               }
+               "Ludwig G\u00f6ransson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "BlacKkKlansman",
-                  "notes": null,
-                  "imdb_id": "tt7349662"
-               }
+               "BlacKkKlansman"
             ],
             "secondary": [
-               {
-                  "name": "Terence Blanchard",
-                  "notes": null,
-                  "imdb_id": "nm0005966"
-               }
+               "Terence Blanchard"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "If Beale Street Could Talk",
-                  "notes": null,
-                  "imdb_id": "tt7125860"
-               }
+               "If Beale Street Could Talk"
             ],
             "secondary": [
-               {
-                  "name": "Nicholas Britell",
-                  "notes": null,
-                  "imdb_id": "nm1615109"
-               }
+               "Nicholas Britell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Isle of Dogs",
-                  "notes": null,
-                  "imdb_id": "tt5104604"
-               }
+               "Isle of Dogs"
             ],
             "secondary": [
-               {
-                  "name": "Alexandre Desplat",
-                  "notes": null,
-                  "imdb_id": "nm0006035"
-               }
+               "Alexandre Desplat"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins Returns",
-                  "notes": null,
-                  "imdb_id": "tt5028340"
-               }
+               "Mary Poppins Returns"
             ],
             "secondary": [
-               {
-                  "name": "Marc Shaiman",
-                  "notes": null,
-                  "imdb_id": "nm0003299"
-               }
+               "Marc Shaiman"
             ]
          }
       ]
@@ -1539,130 +823,58 @@
             "notes": "For song \"Shallow\"",
             "won": true,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Lady Gaga",
-                  "notes": null,
-                  "imdb_id": "nm3078932"
-               },
-               {
-                  "name": "Mark Ronson",
-                  "notes": null,
-                  "imdb_id": "nm1053148"
-               },
-               {
-                  "name": "Anthony Rossomando",
-                  "notes": null,
-                  "imdb_id": "nm2327017"
-               },
-               {
-                  "name": "Andrew Wyatt",
-                  "notes": null,
-                  "imdb_id": "nm1961278"
-               }
+               "Lady Gaga",
+               "Mark Ronson",
+               "Anthony Rossomando",
+               "Andrew Wyatt"
             ]
          },
          {
             "notes": "For song \"All the Stars\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Sounwave",
-                  "notes": null,
-                  "imdb_id": "nm6263328"
-               },
-               {
-                  "name": "Kendrick Lamar",
-                  "notes": null,
-                  "imdb_id": "nm5302509"
-               },
-               {
-                  "name": "Anthony Tiffith",
-                  "notes": null,
-                  "imdb_id": "nm7873889"
-               },
-               {
-                  "name": "SZA",
-                  "notes": null,
-                  "imdb_id": "nm6855916"
-               }
+               "Sounwave",
+               "Kendrick Lamar",
+               "Anthony Tiffith",
+               "SZA"
             ]
          },
          {
             "notes": "For song \"The Place Where Lost Things Go\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins Returns",
-                  "notes": null,
-                  "imdb_id": "tt5028340"
-               }
+               "Mary Poppins Returns"
             ],
             "secondary": [
-               {
-                  "name": "Marc Shaiman",
-                  "notes": null,
-                  "imdb_id": "nm0003299"
-               },
-               {
-                  "name": "Scott Wittman",
-                  "notes": null,
-                  "imdb_id": "nm0937096"
-               }
+               "Marc Shaiman",
+               "Scott Wittman"
             ]
          },
          {
             "notes": "For song \"I'll Fight\"",
             "won": false,
             "primary": [
-               {
-                  "name": "RBG",
-                  "notes": null,
-                  "imdb_id": "tt7689964"
-               }
+               "RBG"
             ],
             "secondary": [
-               {
-                  "name": "Diane Warren",
-                  "notes": null,
-                  "imdb_id": "nm0005534"
-               }
+               "Diane Warren"
             ]
          },
          {
             "notes": "For song \"When a Cowboy Trades His Spurs for Wings\"",
             "won": false,
             "primary": [
-               {
-                  "name": "The Ballad of Buster Scruggs",
-                  "notes": null,
-                  "imdb_id": "tt6412452"
-               }
+               "The Ballad of Buster Scruggs"
             ],
             "secondary": [
-               {
-                  "name": "David Rawlings",
-                  "notes": null,
-                  "imdb_id": "nm1062848"
-               },
-               {
-                  "name": "Gillian Welch",
-                  "notes": null,
-                  "imdb_id": "nm0919553"
-               }
+               "David Rawlings",
+               "Gillian Welch"
             ]
          }
       ]
@@ -1674,150 +886,62 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Bohemian Rhapsody",
-                  "notes": null,
-                  "imdb_id": "tt1727824"
-               }
+               "Bohemian Rhapsody"
             ],
             "secondary": [
-               {
-                  "name": "Paul Massey",
-                  "notes": null,
-                  "imdb_id": "nm0557338"
-               },
-               {
-                  "name": "Tim Cavagin",
-                  "notes": null,
-                  "imdb_id": "nm0146687"
-               },
-               {
-                  "name": "John Casali",
-                  "notes": null,
-                  "imdb_id": "nm0142841"
-               }
+               "Paul Massey",
+               "Tim Cavagin",
+               "John Casali"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt1517451"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Tom Ozanich",
-                  "notes": null,
-                  "imdb_id": "nm0654696"
-               },
-               {
-                  "name": "Dean A. Zupancic",
-                  "notes": null,
-                  "imdb_id": "nm0958711"
-               },
-               {
-                  "name": "Jason Ruder",
-                  "notes": null,
-                  "imdb_id": "nm1720819"
-               },
-               {
-                  "name": "Steven Morrow",
-                  "notes": null,
-                  "imdb_id": "nm0607551"
-               }
+               "Tom Ozanich",
+               "Dean A. Zupancic",
+               "Jason Ruder",
+               "Steven Morrow"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Steve Boeddeker",
-                  "notes": null,
-                  "imdb_id": "nm0006655"
-               },
-               {
-                  "name": "Brandon Proctor",
-                  "notes": null,
-                  "imdb_id": "nm0698367"
-               },
-               {
-                  "name": "Peter J. Devlin",
-                  "notes": null,
-                  "imdb_id": "nm0222818"
-               }
+               "Steve Boeddeker",
+               "Brandon Proctor",
+               "Peter J. Devlin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "First Man",
-                  "notes": null,
-                  "imdb_id": "tt1213641"
-               }
+               "First Man"
             ],
             "secondary": [
-               {
-                  "name": "Jon Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0852656"
-               },
-               {
-                  "name": "Frank A. Monta\u00f1o",
-                  "notes": null,
-                  "imdb_id": "nm0599057"
-               },
-               {
-                  "name": "Ai-Ling Lee",
-                  "notes": null,
-                  "imdb_id": "nm0496763"
-               },
-               {
-                  "name": "Mary H. Ellis",
-                  "notes": null,
-                  "imdb_id": "nm0254978"
-               }
+               "Jon Taylor",
+               "Frank A. Monta\u00f1o",
+               "Ai-Ling Lee",
+               "Mary H. Ellis"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Skip Lievsay",
-                  "notes": null,
-                  "imdb_id": "nm0509792"
-               },
-               {
-                  "name": "Craig Henighan",
-                  "notes": null,
-                  "imdb_id": "nm0003357"
-               },
-               {
-                  "name": "Jos\u00e9 Antonio Garc\u00eda",
-                  "notes": null,
-                  "imdb_id": "nm0306223"
-               }
+               "Skip Lievsay",
+               "Craig Henighan",
+               "Jos\u00e9 Antonio Garc\u00eda"
             ]
          }
       ]
@@ -1829,115 +953,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Bohemian Rhapsody",
-                  "notes": null,
-                  "imdb_id": "tt1727824"
-               }
+               "Bohemian Rhapsody"
             ],
             "secondary": [
-               {
-                  "name": "John Warhurst",
-                  "notes": null,
-                  "imdb_id": "nm1341243"
-               },
-               {
-                  "name": "Nina Hartstone",
-                  "notes": null,
-                  "imdb_id": "nm0367243"
-               }
+               "John Warhurst",
+               "Nina Hartstone"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Quiet Place",
-                  "notes": null,
-                  "imdb_id": "tt6644200"
-               }
+               "A Quiet Place"
             ],
             "secondary": [
-               {
-                  "name": "Ethan Van der Ryn",
-                  "notes": null,
-                  "imdb_id": "nm0886399"
-               },
-               {
-                  "name": "Erik Aadahl",
-                  "notes": null,
-                  "imdb_id": "nm0007321"
-               }
+               "Ethan Van der Ryn",
+               "Erik Aadahl"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Panther",
-                  "notes": null,
-                  "imdb_id": "tt1825683"
-               }
+               "Black Panther"
             ],
             "secondary": [
-               {
-                  "name": "Benjamin A. Burtt",
-                  "notes": null,
-                  "imdb_id": "nm8991894"
-               },
-               {
-                  "name": "Steve Boeddeker",
-                  "notes": null,
-                  "imdb_id": "nm0006655"
-               }
+               "Benjamin A. Burtt",
+               "Steve Boeddeker"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "First Man",
-                  "notes": null,
-                  "imdb_id": "tt1213641"
-               }
+               "First Man"
             ],
             "secondary": [
-               {
-                  "name": "Ai-Ling Lee",
-                  "notes": null,
-                  "imdb_id": "nm0496763"
-               },
-               {
-                  "name": "Mildred Iatrou",
-                  "notes": null,
-                  "imdb_id": "nm0406375"
-               }
+               "Ai-Ling Lee",
+               "Mildred Iatrou"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": [
-               {
-                  "name": "Sergio Diaz",
-                  "notes": null,
-                  "imdb_id": "nm1784142"
-               },
-               {
-                  "name": "Skip Lievsay",
-                  "notes": null,
-                  "imdb_id": "nm0509792"
-               }
+               "Sergio Diaz",
+               "Skip Lievsay"
             ]
          }
       ]
@@ -1949,165 +1013,65 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "First Man",
-                  "notes": null,
-                  "imdb_id": "tt1213641"
-               }
+               "First Man"
             ],
             "secondary": [
-               {
-                  "name": "Paul Lambert",
-                  "notes": null,
-                  "imdb_id": "nm0995902"
-               },
-               {
-                  "name": "Ian Hunter",
-                  "notes": null,
-                  "imdb_id": "nm0402843"
-               },
-               {
-                  "name": "Tristan Myles",
-                  "notes": null,
-                  "imdb_id": "nm1629597"
-               },
-               {
-                  "name": "J.D. Schwalm",
-                  "notes": null,
-                  "imdb_id": "nm0777069"
-               }
+               "Paul Lambert",
+               "Ian Hunter",
+               "Tristan Myles",
+               "J.D. Schwalm"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Avengers: Infinity War",
-                  "notes": null,
-                  "imdb_id": "tt4154756"
-               }
+               "Avengers: Infinity War"
             ],
             "secondary": [
-               {
-                  "name": "Dan DeLeeuw",
-                  "notes": null,
-                  "imdb_id": "nm0216699"
-               },
-               {
-                  "name": "Kelly Port",
-                  "notes": null,
-                  "imdb_id": "nm0691883"
-               },
-               {
-                  "name": "Russell Earl",
-                  "notes": null,
-                  "imdb_id": "nm0247270"
-               },
-               {
-                  "name": "Daniel Sudick",
-                  "notes": null,
-                  "imdb_id": "nm0837203"
-               }
+               "Dan DeLeeuw",
+               "Kelly Port",
+               "Russell Earl",
+               "Daniel Sudick"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Christopher Robin",
-                  "notes": null,
-                  "imdb_id": "tt4575576"
-               }
+               "Christopher Robin"
             ],
             "secondary": [
-               {
-                  "name": "Chris Lawrence",
-                  "notes": null,
-                  "imdb_id": "nm1165856"
-               },
-               {
-                  "name": "Mike Eames",
-                  "notes": null,
-                  "imdb_id": "nm0247192"
-               },
-               {
-                  "name": "Theo Jones",
-                  "notes": null,
-                  "imdb_id": "nm1623356"
-               },
-               {
-                  "name": "Chris Corbould",
-                  "notes": null,
-                  "imdb_id": "nm0179269"
-               }
+               "Chris Lawrence",
+               "Mike Eames",
+               "Theo Jones",
+               "Chris Corbould"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ready Player One",
-                  "notes": null,
-                  "imdb_id": "tt1677720"
-               }
+               "Ready Player One"
             ],
             "secondary": [
-               {
-                  "name": "Roger Guyett",
-                  "notes": null,
-                  "imdb_id": "nm0004361"
-               },
-               {
-                  "name": "Grady Cofer",
-                  "notes": null,
-                  "imdb_id": "nm0168819"
-               },
-               {
-                  "name": "Matthew E. Butler",
-                  "notes": null,
-                  "imdb_id": "nm0125056"
-               },
-               {
-                  "name": "David Shirk",
-                  "notes": null,
-                  "imdb_id": "nm1874068"
-               }
+               "Roger Guyett",
+               "Grady Cofer",
+               "Matthew E. Butler",
+               "David Shirk"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Solo: A Star Wars Story",
-                  "notes": null,
-                  "imdb_id": "tt3778644"
-               }
+               "Solo: A Star Wars Story"
             ],
             "secondary": [
-               {
-                  "name": "Rob Bredow",
-                  "notes": null,
-                  "imdb_id": "nm0106650"
-               },
-               {
-                  "name": "Patrick Tubach",
-                  "notes": null,
-                  "imdb_id": "nm0875604"
-               },
-               {
-                  "name": "Neal Scanlan",
-                  "notes": null,
-                  "imdb_id": "nm0768943"
-               },
-               {
-                  "name": "Dominic Tuohy",
-                  "notes": null,
-                  "imdb_id": "nm0876716"
-               }
+               "Rob Bredow",
+               "Patrick Tubach",
+               "Neal Scanlan",
+               "Dominic Tuohy"
             ]
          }
       ]
@@ -2119,140 +1083,60 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Free Solo",
-                  "notes": null,
-                  "imdb_id": "tt7775622"
-               }
+               "Free Solo"
             ],
             "secondary": [
-               {
-                  "name": "Elizabeth Chai Vasarhelyi",
-                  "notes": null,
-                  "imdb_id": "nm1888091"
-               },
-               {
-                  "name": "Jimmy Chin",
-                  "notes": null,
-                  "imdb_id": "nm3011011"
-               },
-               {
-                  "name": "Evan Hayes",
-                  "notes": null,
-                  "imdb_id": "nm0371010"
-               },
-               {
-                  "name": "Shannon Dill",
-                  "notes": null,
-                  "imdb_id": "nm1634261"
-               }
+               "Elizabeth Chai Vasarhelyi",
+               "Jimmy Chin",
+               "Evan Hayes",
+               "Shannon Dill"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hale County This Morning, This Evening",
-                  "notes": null,
-                  "imdb_id": "tt6634646"
-               }
+               "Hale County This Morning, This Evening"
             ],
             "secondary": [
-               {
-                  "name": "RaMell Ross",
-                  "notes": null,
-                  "imdb_id": "nm8840476"
-               },
-               {
-                  "name": "Joslyn Barnes",
-                  "notes": null,
-                  "imdb_id": "nm0055656"
-               },
-               {
-                  "name": "Su Kim",
-                  "notes": null,
-                  "imdb_id": "nm1756893"
-               }
+               "RaMell Ross",
+               "Joslyn Barnes",
+               "Su Kim"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Minding the Gap",
-                  "notes": null,
-                  "imdb_id": "tt7476236"
-               }
+               "Minding the Gap"
             ],
             "secondary": [
-               {
-                  "name": "Bing Liu",
-                  "notes": null,
-                  "imdb_id": "nm3294913"
-               },
-               {
-                  "name": "Diane Moy Quon",
-                  "notes": null,
-                  "imdb_id": "nm8568884"
-               }
+               "Bing Liu",
+               "Diane Moy Quon"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Of Fathers and Sons",
-                  "notes": null,
-                  "imdb_id": "tt7519174"
-               }
+               "Of Fathers and Sons"
             ],
             "secondary": [
-               {
-                  "name": "Talal Derki",
-                  "notes": null,
-                  "imdb_id": "nm5957513"
-               },
-               {
-                  "name": "Ansgar Frerich",
-                  "notes": null,
-                  "imdb_id": "nm1236527"
-               },
-               {
-                  "name": "Eva Kemme",
-                  "notes": null,
-                  "imdb_id": "nm1936245"
-               },
-               {
-                  "name": "Tobias Siebert",
-                  "notes": null,
-                  "imdb_id": "nm1250460"
-               }
+               "Talal Derki",
+               "Ansgar Frerich",
+               "Eva Kemme",
+               "Tobias Siebert"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "RBG",
-                  "notes": null,
-                  "imdb_id": "tt7689964"
-               }
+               "RBG"
             ],
             "secondary": [
-               {
-                  "name": "Betsy West",
-                  "notes": null,
-                  "imdb_id": "nm1723335"
-               },
-               {
-                  "name": "Julie Cohen",
-                  "notes": null,
-                  "imdb_id": "nm3792517"
-               }
+               "Betsy West",
+               "Julie Cohen"
             ]
          }
       ]
@@ -2264,110 +1148,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Period. End of Sentence.",
-                  "notes": null,
-                  "imdb_id": "tt6939026"
-               }
+               "Period. End of Sentence."
             ],
             "secondary": [
-               {
-                  "name": "Rayka Zehtabchi",
-                  "notes": null,
-                  "imdb_id": "nm3593950"
-               },
-               {
-                  "name": "Melissa Berton",
-                  "notes": null,
-                  "imdb_id": "nm9021258"
-               }
+               "Rayka Zehtabchi",
+               "Melissa Berton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Night at the Garden",
-                  "notes": null,
-                  "imdb_id": "tt7535612"
-               }
+               "A Night at the Garden"
             ],
             "secondary": [
-               {
-                  "name": "Marshall Curry",
-                  "notes": null,
-                  "imdb_id": "nm1903582"
-               }
+               "Marshall Curry"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Sheep",
-                  "notes": null,
-                  "imdb_id": "tt7440094"
-               }
+               "Black Sheep"
             ],
             "secondary": [
-               {
-                  "name": "Ed Perkins",
-                  "notes": null,
-                  "imdb_id": "nm3598290"
-               },
-               {
-                  "name": "Jonathan Chinn",
-                  "notes": null,
-                  "imdb_id": "nm0157934"
-               }
+               "Ed Perkins",
+               "Jonathan Chinn"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "End Game",
-                  "notes": null,
-                  "imdb_id": "tt7879350"
-               }
+               "End Game"
             ],
             "secondary": [
-               {
-                  "name": "Rob Epstein",
-                  "notes": null,
-                  "imdb_id": "nm0258531"
-               },
-               {
-                  "name": "Jeffrey Friedman",
-                  "notes": null,
-                  "imdb_id": "nm0295243"
-               }
+               "Rob Epstein",
+               "Jeffrey Friedman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lifeboat",
-                  "notes": null,
-                  "imdb_id": "tt7446332"
-               }
+               "Lifeboat"
             ],
             "secondary": [
-               {
-                  "name": "Skye Fitzgerald",
-                  "notes": null,
-                  "imdb_id": "nm1148695"
-               },
-               {
-                  "name": "Bryn Mooser",
-                  "notes": null,
-                  "imdb_id": "nm1666274"
-               }
+               "Skye Fitzgerald",
+               "Bryn Mooser"
             ]
          }
       ]
@@ -2379,150 +1207,62 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Spider-Man: Into the Spider-Verse",
-                  "notes": null,
-                  "imdb_id": "tt4633694"
-               }
+               "Spider-Man: Into the Spider-Verse"
             ],
             "secondary": [
-               {
-                  "name": "Bob Persichetti",
-                  "notes": null,
-                  "imdb_id": "nm2130108"
-               },
-               {
-                  "name": "Peter Ramsey",
-                  "notes": null,
-                  "imdb_id": "nm0709056"
-               },
-               {
-                  "name": "Rodney Rothman",
-                  "notes": null,
-                  "imdb_id": "nm0745247"
-               },
-               {
-                  "name": "Phil Lord",
-                  "notes": null,
-                  "imdb_id": "nm0520488"
-               },
-               {
-                  "name": "Christopher Miller",
-                  "notes": null,
-                  "imdb_id": "nm0588087"
-               }
+               "Bob Persichetti",
+               "Peter Ramsey",
+               "Rodney Rothman",
+               "Phil Lord",
+               "Christopher Miller"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Incredibles 2",
-                  "notes": null,
-                  "imdb_id": "tt3606756"
-               }
+               "Incredibles 2"
             ],
             "secondary": [
-               {
-                  "name": "Brad Bird",
-                  "notes": null,
-                  "imdb_id": "nm0083348"
-               },
-               {
-                  "name": "John Walker",
-                  "notes": null,
-                  "imdb_id": "nm0907869"
-               },
-               {
-                  "name": "Nicole Paradis Grindle",
-                  "notes": null,
-                  "imdb_id": "nm0342430"
-               }
+               "Brad Bird",
+               "John Walker",
+               "Nicole Paradis Grindle"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Isle of Dogs",
-                  "notes": null,
-                  "imdb_id": "tt5104604"
-               }
+               "Isle of Dogs"
             ],
             "secondary": [
-               {
-                  "name": "Wes Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0027572"
-               },
-               {
-                  "name": "Scott Rudin",
-                  "notes": null,
-                  "imdb_id": "nm0748784"
-               },
-               {
-                  "name": "Steven Rales",
-                  "notes": null,
-                  "imdb_id": "nm2262509"
-               },
-               {
-                  "name": "Jeremy Dawson",
-                  "notes": null,
-                  "imdb_id": "nm0206154"
-               }
+               "Wes Anderson",
+               "Scott Rudin",
+               "Steven Rales",
+               "Jeremy Dawson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mirai",
-                  "notes": null,
-                  "imdb_id": "tt6900448"
-               }
+               "Mirai"
             ],
             "secondary": [
-               {
-                  "name": "Mamoru Hosoda",
-                  "notes": null,
-                  "imdb_id": "nm0396074"
-               },
-               {
-                  "name": "Y\u00fbichir\u00f4 Sait\u00f4",
-                  "notes": null,
-                  "imdb_id": "nm2510203"
-               }
+               "Mamoru Hosoda",
+               "Y\u00fbichir\u00f4 Sait\u00f4"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ralph Breaks the Internet",
-                  "notes": null,
-                  "imdb_id": "tt5848272"
-               }
+               "Ralph Breaks the Internet"
             ],
             "secondary": [
-               {
-                  "name": "Rich Moore",
-                  "notes": null,
-                  "imdb_id": "nm0601781"
-               },
-               {
-                  "name": "Phil Johnston",
-                  "notes": null,
-                  "imdb_id": "nm1601882"
-               },
-               {
-                  "name": "Clark Spencer",
-                  "notes": null,
-                  "imdb_id": "nm1192875"
-               }
+               "Rich Moore",
+               "Phil Johnston",
+               "Clark Spencer"
             ]
          }
       ]
@@ -2534,110 +1274,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Bao",
-                  "notes": null,
-                  "imdb_id": "tt8075496"
-               }
+               "Bao"
             ],
             "secondary": [
-               {
-                  "name": "Domee Shi",
-                  "notes": null,
-                  "imdb_id": "nm7626019"
-               },
-               {
-                  "name": "Becky Neiman",
-                  "notes": null,
-                  "imdb_id": "nm2169250"
-               }
+               "Domee Shi",
+               "Becky Neiman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Animal Behaviour",
-                  "notes": null,
-                  "imdb_id": "tt8615478"
-               }
+               "Animal Behaviour"
             ],
             "secondary": [
-               {
-                  "name": "Alison Snowden",
-                  "notes": null,
-                  "imdb_id": "nm0811345"
-               },
-               {
-                  "name": "David Fine",
-                  "notes": null,
-                  "imdb_id": "nm0277599"
-               }
+               "Alison Snowden",
+               "David Fine"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Late Afternoon",
-                  "notes": null,
-                  "imdb_id": "tt7077824"
-               }
+               "Late Afternoon"
             ],
             "secondary": [
-               {
-                  "name": "Louise Bagnall",
-                  "notes": null,
-                  "imdb_id": "nm5370400"
-               },
-               {
-                  "name": "Nuria Gonz\u00e1lez Blanco",
-                  "notes": null,
-                  "imdb_id": "nm4447482"
-               }
+               "Louise Bagnall",
+               "Nuria Gonz\u00e1lez Blanco"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "One Small Step",
-                  "notes": null,
-                  "imdb_id": "tt8783042"
-               }
+               "One Small Step"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Chesworth",
-                  "notes": null,
-                  "imdb_id": "nm2314791"
-               },
-               {
-                  "name": "Bobby Pontillas",
-                  "notes": null,
-                  "imdb_id": "nm4668167"
-               }
+               "Andrew Chesworth",
+               "Bobby Pontillas"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Weekends",
-                  "notes": null,
-                  "imdb_id": "tt7375186"
-               }
+               "Weekends"
             ],
             "secondary": [
-               {
-                  "name": "Trevor Jimenez",
-                  "notes": null,
-                  "imdb_id": "nm3266016"
-               }
+               "Trevor Jimenez"
             ]
          }
       ]
@@ -2649,115 +1333,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Skin",
-                  "notes": null,
-                  "imdb_id": "tt7332306"
-               }
+               "Skin"
             ],
             "secondary": [
-               {
-                  "name": "Guy Nattiv",
-                  "notes": null,
-                  "imdb_id": "nm1142235"
-               },
-               {
-                  "name": "Jaime Ray Newman",
-                  "notes": null,
-                  "imdb_id": "nm0628120"
-               }
+               "Guy Nattiv",
+               "Jaime Ray Newman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Detainment",
-                  "notes": null,
-                  "imdb_id": "tt6813264"
-               }
+               "Detainment"
             ],
             "secondary": [
-               {
-                  "name": "Vincent Lambe",
-                  "notes": null,
-                  "imdb_id": "nm1564793"
-               },
-               {
-                  "name": "Darren Mahon",
-                  "notes": null,
-                  "imdb_id": "nm6978857"
-               }
+               "Vincent Lambe",
+               "Darren Mahon"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Fauve",
-                  "notes": null,
-                  "imdb_id": "tt7467476"
-               }
+               "Fauve"
             ],
             "secondary": [
-               {
-                  "name": "Jeremy Comte",
-                  "notes": null,
-                  "imdb_id": "nm4478405"
-               },
-               {
-                  "name": "Maria Gracia Turgeon",
-                  "notes": null,
-                  "imdb_id": "nm5637080"
-               }
+               "Jeremy Comte",
+               "Maria Gracia Turgeon"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Madre",
-                  "notes": null,
-                  "imdb_id": "tt6597824"
-               }
+               "Madre"
             ],
             "secondary": [
-               {
-                  "name": "Rodrigo Sorogoyen",
-                  "notes": null,
-                  "imdb_id": "nm2507695"
-               },
-               {
-                  "name": "Mar\u00eda del Puy Alvarado",
-                  "notes": null,
-                  "imdb_id": "nm1966854"
-               }
+               "Rodrigo Sorogoyen",
+               "Mar\u00eda del Puy Alvarado"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Marguerite",
-                  "notes": null,
-                  "imdb_id": "tt6803040"
-               }
+               "Marguerite"
             ],
             "secondary": [
-               {
-                  "name": "Marianne Farley",
-                  "notes": null,
-                  "imdb_id": "nm0857584"
-               },
-               {
-                  "name": "Marie-H\u00e9l\u00e8ne Panisset",
-                  "notes": null,
-                  "imdb_id": "nm0659527"
-               }
+               "Marianne Farley",
+               "Marie-H\u00e9l\u00e8ne Panisset"
             ]
          }
       ]
@@ -2769,11 +1393,7 @@
             "notes": "Mexico",
             "won": true,
             "primary": [
-               {
-                  "name": "Roma",
-                  "notes": null,
-                  "imdb_id": "tt6155172"
-               }
+               "Roma"
             ],
             "secondary": []
          },
@@ -2781,11 +1401,7 @@
             "notes": "Lebanon",
             "won": false,
             "primary": [
-               {
-                  "name": "Capernaum",
-                  "notes": null,
-                  "imdb_id": "tt8267604"
-               }
+               "Capernaum"
             ],
             "secondary": []
          },
@@ -2793,11 +1409,7 @@
             "notes": "Poland",
             "won": false,
             "primary": [
-               {
-                  "name": "Cold War",
-                  "notes": null,
-                  "imdb_id": "tt6543652"
-               }
+               "Cold War"
             ],
             "secondary": []
          },
@@ -2805,11 +1417,7 @@
             "notes": "Germany",
             "won": false,
             "primary": [
-               {
-                  "name": "Never Look Away",
-                  "notes": null,
-                  "imdb_id": "tt5311542"
-               }
+               "Never Look Away"
             ],
             "secondary": []
          },
@@ -2817,11 +1425,7 @@
             "notes": "Japan",
             "won": false,
             "primary": [
-               {
-                  "name": "Shoplifters",
-                  "notes": null,
-                  "imdb_id": "tt8075192"
-               }
+               "Shoplifters"
             ],
             "secondary": []
          }

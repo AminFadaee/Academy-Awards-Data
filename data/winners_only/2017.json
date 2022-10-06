@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Moonlight"
+      "winners": [
+         "Moonlight"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Casey Affleck"
+      "winners": [
+         "Casey Affleck"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Emma Stone"
+      "winners": [
+         "Emma Stone"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Mahershala Ali"
+      "winners": [
+         "Mahershala Ali"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Viola Davis"
+      "winners": [
+         "Viola Davis"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Damien Chazelle"
+      "winners": [
+         "Damien Chazelle"
+      ]
    },
    {
       "category": "Best Original Screenplay",
-      "winner": "Manchester by the Sea"
+      "winners": [
+         "Manchester by the Sea"
+      ]
    },
    {
       "category": "Best Adapted Screenplay",
-      "winner": "Moonlight"
+      "winners": [
+         "Moonlight"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "La La Land"
+      "winners": [
+         "La La Land"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Hacksaw Ridge"
+      "winners": [
+         "Hacksaw Ridge"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "La La Land"
+      "winners": [
+         "La La Land"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Fantastic Beasts and Where to Find Them"
+      "winners": [
+         "Fantastic Beasts and Where to Find Them"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Suicide Squad"
+      "winners": [
+         "Suicide Squad"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-      "winner": "La La Land"
+      "winners": [
+         "La La Land"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-      "winner": "La La Land"
+      "winners": [
+         "La La Land"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Hacksaw Ridge"
+      "winners": [
+         "Hacksaw Ridge"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Arrival"
+      "winners": [
+         "Arrival"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "The Jungle Book"
+      "winners": [
+         "The Jungle Book"
+      ]
    },
    {
       "category": "Best Documentary Feature",
-      "winner": "O.J.: Made in America"
+      "winners": [
+         "O.J.: Made in America"
+      ]
    },
    {
       "category": "Best Documentary Short Subject",
-      "winner": "The White Helmets"
+      "winners": [
+         "The White Helmets"
+      ]
    },
    {
       "category": "Best Animated Short Film",
-      "winner": "Piper"
+      "winners": [
+         "Piper"
+      ]
    },
    {
       "category": "Best Live Action Short Film",
-      "winner": "Sing"
+      "winners": [
+         "Sing"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "The Salesman"
+      "winners": [
+         "The Salesman"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Zootopia"
+      "winners": [
+         "Zootopia"
+      ]
    }
 ]

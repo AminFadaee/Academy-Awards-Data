@@ -6,135 +6,59 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ],
             "secondary": [
-               {
-                  "name": "Brian Grazer",
-                  "notes": null,
-                  "imdb_id": "nm0004976"
-               },
-               {
-                  "name": "Ron Howard",
-                  "notes": null,
-                  "imdb_id": "nm0000165"
-               }
+               "Brian Grazer",
+               "Ron Howard"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ],
             "secondary": [
-               {
-                  "name": "Robert Altman",
-                  "notes": null,
-                  "imdb_id": "nm0000265"
-               },
-               {
-                  "name": "Bob Balaban",
-                  "notes": null,
-                  "imdb_id": "nm0000837"
-               },
-               {
-                  "name": "David Levy",
-                  "notes": null,
-                  "imdb_id": "nm0506379"
-               }
+               "Robert Altman",
+               "Bob Balaban",
+               "David Levy"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "In the Bedroom",
-                  "notes": null,
-                  "imdb_id": "tt0247425"
-               }
+               "In the Bedroom"
             ],
             "secondary": [
-               {
-                  "name": "Graham Leader",
-                  "notes": null,
-                  "imdb_id": "nm0494910"
-               },
-               {
-                  "name": "Ross Katz",
-                  "notes": null,
-                  "imdb_id": "nm0441839"
-               },
-               {
-                  "name": "Todd Field",
-                  "notes": null,
-                  "imdb_id": "nm0276062"
-               }
+               "Graham Leader",
+               "Ross Katz",
+               "Todd Field"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Fred Baron",
-                  "notes": null,
-                  "imdb_id": "nm0056236"
-               },
-               {
-                  "name": "Martin Brown",
-                  "notes": null,
-                  "imdb_id": "nm0114213"
-               },
-               {
-                  "name": "Baz Luhrmann",
-                  "notes": null,
-                  "imdb_id": "nm0525303"
-               }
+               "Fred Baron",
+               "Martin Brown",
+               "Baz Luhrmann"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               },
-               {
-                  "name": "Barrie M. Osborne",
-                  "notes": null,
-                  "imdb_id": "nm0651614"
-               },
-               {
-                  "name": "Fran Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909638"
-               }
+               "Peter Jackson",
+               "Barrie M. Osborne",
+               "Fran Walsh"
             ]
          }
       ]
@@ -146,90 +70,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Denzel Washington",
-                  "notes": null,
-                  "imdb_id": "nm0000243"
-               }
+               "Denzel Washington"
             ],
             "secondary": [
-               {
-                  "name": "Training Day",
-                  "notes": null,
-                  "imdb_id": "tt0139654"
-               }
+               "Training Day"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Russell Crowe",
-                  "notes": null,
-                  "imdb_id": "nm0000128"
-               }
+               "Russell Crowe"
             ],
             "secondary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sean Penn",
-                  "notes": null,
-                  "imdb_id": "nm0000576"
-               }
+               "Sean Penn"
             ],
             "secondary": [
-               {
-                  "name": "I Am Sam",
-                  "notes": null,
-                  "imdb_id": "tt0277027"
-               }
+               "I Am Sam"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Tom Wilkinson",
-                  "notes": null,
-                  "imdb_id": "nm0929489"
-               }
+               "Tom Wilkinson"
             ],
             "secondary": [
-               {
-                  "name": "In the Bedroom",
-                  "notes": null,
-                  "imdb_id": "tt0247425"
-               }
+               "In the Bedroom"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Will Smith",
-                  "notes": null,
-                  "imdb_id": "nm0000226"
-               }
+               "Will Smith"
             ],
             "secondary": [
-               {
-                  "name": "Ali",
-                  "notes": null,
-                  "imdb_id": "tt0248667"
-               }
+               "Ali"
             ]
          }
       ]
@@ -241,90 +125,50 @@
             "notes": "Halle Berry became the first woman of color to win the Academy Award for Best Actress.",
             "won": true,
             "primary": [
-               {
-                  "name": "Halle Berry",
-                  "notes": null,
-                  "imdb_id": "nm0000932"
-               }
+               "Halle Berry"
             ],
             "secondary": [
-               {
-                  "name": "Monster's Ball",
-                  "notes": null,
-                  "imdb_id": "tt0285742"
-               }
+               "Monster's Ball"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Judi Dench",
-                  "notes": null,
-                  "imdb_id": "nm0001132"
-               }
+               "Judi Dench"
             ],
             "secondary": [
-               {
-                  "name": "Iris",
-                  "notes": null,
-                  "imdb_id": "tt0280778"
-               }
+               "Iris"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Nicole Kidman",
-                  "notes": null,
-                  "imdb_id": "nm0000173"
-               }
+               "Nicole Kidman"
             ],
             "secondary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ren\u00e9e Zellweger",
-                  "notes": null,
-                  "imdb_id": "nm0000250"
-               }
+               "Ren\u00e9e Zellweger"
             ],
             "secondary": [
-               {
-                  "name": "Bridget Jones's Diary",
-                  "notes": null,
-                  "imdb_id": "tt0243155"
-               }
+               "Bridget Jones's Diary"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sissy Spacek",
-                  "notes": null,
-                  "imdb_id": "nm0000651"
-               }
+               "Sissy Spacek"
             ],
             "secondary": [
-               {
-                  "name": "In the Bedroom",
-                  "notes": null,
-                  "imdb_id": "tt0247425"
-               }
+               "In the Bedroom"
             ]
          }
       ]
@@ -336,90 +180,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Jim Broadbent",
-                  "notes": null,
-                  "imdb_id": "nm0000980"
-               }
+               "Jim Broadbent"
             ],
             "secondary": [
-               {
-                  "name": "Iris",
-                  "notes": null,
-                  "imdb_id": "tt0280778"
-               }
+               "Iris"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ben Kingsley",
-                  "notes": null,
-                  "imdb_id": "nm0001426"
-               }
+               "Ben Kingsley"
             ],
             "secondary": [
-               {
-                  "name": "Sexy Beast",
-                  "notes": null,
-                  "imdb_id": "tt0203119"
-               }
+               "Sexy Beast"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ethan Hawke",
-                  "notes": null,
-                  "imdb_id": "nm0000160"
-               }
+               "Ethan Hawke"
             ],
             "secondary": [
-               {
-                  "name": "Training Day",
-                  "notes": null,
-                  "imdb_id": "tt0139654"
-               }
+               "Training Day"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ian McKellen",
-                  "notes": null,
-                  "imdb_id": "nm0005212"
-               }
+               "Ian McKellen"
             ],
             "secondary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jon Voight",
-                  "notes": null,
-                  "imdb_id": "nm0000685"
-               }
+               "Jon Voight"
             ],
             "secondary": [
-               {
-                  "name": "Ali",
-                  "notes": null,
-                  "imdb_id": "tt0248667"
-               }
+               "Ali"
             ]
          }
       ]
@@ -431,90 +235,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Jennifer Connelly",
-                  "notes": null,
-                  "imdb_id": "nm0000124"
-               }
+               "Jennifer Connelly"
             ],
             "secondary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Helen Mirren",
-                  "notes": null,
-                  "imdb_id": "nm0000545"
-               }
+               "Helen Mirren"
             ],
             "secondary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Kate Winslet",
-                  "notes": null,
-                  "imdb_id": "nm0000701"
-               }
+               "Kate Winslet"
             ],
             "secondary": [
-               {
-                  "name": "Iris",
-                  "notes": null,
-                  "imdb_id": "tt0280778"
-               }
+               "Iris"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Maggie Smith",
-                  "notes": null,
-                  "imdb_id": "nm0001749"
-               }
+               "Maggie Smith"
             ],
             "secondary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Marisa Tomei",
-                  "notes": null,
-                  "imdb_id": "nm0000673"
-               }
+               "Marisa Tomei"
             ],
             "secondary": [
-               {
-                  "name": "In the Bedroom",
-                  "notes": null,
-                  "imdb_id": "tt0247425"
-               }
+               "In the Bedroom"
             ]
          }
       ]
@@ -526,90 +290,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Ron Howard",
-                  "notes": null,
-                  "imdb_id": "nm0000165"
-               }
+               "Ron Howard"
             ],
             "secondary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "David Lynch",
-                  "notes": null,
-                  "imdb_id": "nm0000186"
-               }
+               "David Lynch"
             ],
             "secondary": [
-               {
-                  "name": "Mulholland Drive",
-                  "notes": null,
-                  "imdb_id": "tt0166924"
-               }
+               "Mulholland Drive"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               }
+               "Peter Jackson"
             ],
             "secondary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ridley Scott",
-                  "notes": null,
-                  "imdb_id": "nm0000631"
-               }
+               "Ridley Scott"
             ],
             "secondary": [
-               {
-                  "name": "Black Hawk Down",
-                  "notes": null,
-                  "imdb_id": "tt0265086"
-               }
+               "Black Hawk Down"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Robert Altman",
-                  "notes": null,
-                  "imdb_id": "nm0000265"
-               }
+               "Robert Altman"
             ],
             "secondary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ]
          }
       ]
@@ -621,110 +345,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ],
             "secondary": [
-               {
-                  "name": "Julian Fellowes",
-                  "notes": null,
-                  "imdb_id": "nm0271501"
-               }
+               "Julian Fellowes"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Am\u00e9lie",
-                  "notes": null,
-                  "imdb_id": "tt0211915"
-               }
+               "Am\u00e9lie"
             ],
             "secondary": [
-               {
-                  "name": "Guillaume Laurant",
-                  "notes": null,
-                  "imdb_id": "nm0491011"
-               },
-               {
-                  "name": "Jean-Pierre Jeunet",
-                  "notes": null,
-                  "imdb_id": "nm0000466"
-               }
+               "Guillaume Laurant",
+               "Jean-Pierre Jeunet"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Memento",
-                  "notes": null,
-                  "imdb_id": "tt0209144"
-               }
+               "Memento"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Nolan",
-                  "notes": null,
-                  "imdb_id": "nm0634240"
-               },
-               {
-                  "name": "Jonathan Nolan",
-                  "notes": "(story)",
-                  "imdb_id": "nm0634300"
-               }
+               "Christopher Nolan",
+               "Jonathan Nolan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Monster's Ball",
-                  "notes": null,
-                  "imdb_id": "tt0285742"
-               }
+               "Monster's Ball"
             ],
             "secondary": [
-               {
-                  "name": "Milo Addica",
-                  "notes": null,
-                  "imdb_id": "nm0995906"
-               },
-               {
-                  "name": "Will Rokos",
-                  "notes": null,
-                  "imdb_id": "nm0737993"
-               }
+               "Milo Addica",
+               "Will Rokos"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Royal Tenenbaums",
-                  "notes": null,
-                  "imdb_id": "tt0265666"
-               }
+               "The Royal Tenenbaums"
             ],
             "secondary": [
-               {
-                  "name": "Wes Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0027572"
-               },
-               {
-                  "name": "Owen Wilson",
-                  "notes": null,
-                  "imdb_id": "nm0005562"
-               }
+               "Wes Anderson",
+               "Owen Wilson"
             ]
          }
       ]
@@ -736,125 +404,57 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ],
             "secondary": [
-               {
-                  "name": "Akiva Goldsman",
-                  "notes": null,
-                  "imdb_id": "nm0326040"
-               }
+               "Akiva Goldsman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ghost World",
-                  "notes": null,
-                  "imdb_id": "tt0162346"
-               }
+               "Ghost World"
             ],
             "secondary": [
-               {
-                  "name": "Daniel Clowes",
-                  "notes": null,
-                  "imdb_id": "nm0167280"
-               },
-               {
-                  "name": "Terry Zwigoff",
-                  "notes": null,
-                  "imdb_id": "nm0959062"
-               }
+               "Daniel Clowes",
+               "Terry Zwigoff"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "In the Bedroom",
-                  "notes": null,
-                  "imdb_id": "tt0247425"
-               }
+               "In the Bedroom"
             ],
             "secondary": [
-               {
-                  "name": "Todd Field",
-                  "notes": null,
-                  "imdb_id": "nm0276062"
-               },
-               {
-                  "name": "Robert Festinger",
-                  "notes": null,
-                  "imdb_id": "nm0275284"
-               }
+               "Todd Field",
+               "Robert Festinger"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Shrek",
-                  "notes": null,
-                  "imdb_id": "tt0126029"
-               }
+               "Shrek"
             ],
             "secondary": [
-               {
-                  "name": "Ted Elliott",
-                  "notes": null,
-                  "imdb_id": "nm0254645"
-               },
-               {
-                  "name": "Terry Rossio",
-                  "notes": null,
-                  "imdb_id": "nm0744429"
-               },
-               {
-                  "name": "Joe Stillman",
-                  "notes": null,
-                  "imdb_id": "nm0830294"
-               },
-               {
-                  "name": "Roger S.H. Schulman",
-                  "notes": null,
-                  "imdb_id": "nm0776107"
-               }
+               "Ted Elliott",
+               "Terry Rossio",
+               "Joe Stillman",
+               "Roger S.H. Schulman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Fran Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909638"
-               },
-               {
-                  "name": "Philippa Boyens",
-                  "notes": null,
-                  "imdb_id": "nm0101991"
-               },
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               }
+               "Fran Walsh",
+               "Philippa Boyens",
+               "Peter Jackson"
             ]
          }
       ]
@@ -866,11 +466,7 @@
             "notes": "Bosnia.",
             "won": true,
             "primary": [
-               {
-                  "name": "No Man's Land",
-                  "notes": null,
-                  "imdb_id": "tt0283509"
-               }
+               "No Man's Land"
             ],
             "secondary": []
          },
@@ -878,11 +474,7 @@
             "notes": "France.",
             "won": false,
             "primary": [
-               {
-                  "name": "Am\u00e9lie",
-                  "notes": null,
-                  "imdb_id": "tt0211915"
-               }
+               "Am\u00e9lie"
             ],
             "secondary": []
          },
@@ -890,11 +482,7 @@
             "notes": "Norway.",
             "won": false,
             "primary": [
-               {
-                  "name": "Elling",
-                  "notes": null,
-                  "imdb_id": "tt0279064"
-               }
+               "Elling"
             ],
             "secondary": []
          },
@@ -902,11 +490,7 @@
             "notes": "India.",
             "won": false,
             "primary": [
-               {
-                  "name": "Lagaan: Once Upon a Time in India",
-                  "notes": null,
-                  "imdb_id": "tt0169102"
-               }
+               "Lagaan: Once Upon a Time in India"
             ],
             "secondary": []
          },
@@ -914,11 +498,7 @@
             "notes": "Argentina.",
             "won": false,
             "primary": [
-               {
-                  "name": "Son of the Bride",
-                  "notes": null,
-                  "imdb_id": "tt0292542"
-               }
+               "Son of the Bride"
             ],
             "secondary": []
          }
@@ -931,90 +511,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Lesnie",
-                  "notes": null,
-                  "imdb_id": "nm0504226"
-               }
+               "Andrew Lesnie"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Am\u00e9lie",
-                  "notes": null,
-                  "imdb_id": "tt0211915"
-               }
+               "Am\u00e9lie"
             ],
             "secondary": [
-               {
-                  "name": "Bruno Delbonnel",
-                  "notes": null,
-                  "imdb_id": "nm0216632"
-               }
+               "Bruno Delbonnel"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Hawk Down",
-                  "notes": null,
-                  "imdb_id": "tt0265086"
-               }
+               "Black Hawk Down"
             ],
             "secondary": [
-               {
-                  "name": "Slawomir Idziak",
-                  "notes": null,
-                  "imdb_id": "nm0005744"
-               }
+               "Slawomir Idziak"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Donald McAlpine",
-                  "notes": null,
-                  "imdb_id": "nm0005791"
-               }
+               "Donald McAlpine"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Man Who Wasn't There",
-                  "notes": null,
-                  "imdb_id": "tt0243133"
-               }
+               "The Man Who Wasn't There"
             ],
             "secondary": [
-               {
-                  "name": "Roger Deakins",
-                  "notes": null,
-                  "imdb_id": "nm0005683"
-               }
+               "Roger Deakins"
             ]
          }
       ]
@@ -1026,115 +566,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Catherine Martin",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0552039"
-               },
-               {
-                  "name": "Brigitte Broch",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0110488"
-               }
+               "Catherine Martin",
+               "Brigitte Broch"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Am\u00e9lie",
-                  "notes": null,
-                  "imdb_id": "tt0211915"
-               }
+               "Am\u00e9lie"
             ],
             "secondary": [
-               {
-                  "name": "Aline Bonetto",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0094355"
-               },
-               {
-                  "name": "Marie-Laure Valla",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0884831"
-               }
+               "Aline Bonetto",
+               "Marie-Laure Valla"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ],
             "secondary": [
-               {
-                  "name": "Stephen Altman",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0022939"
-               },
-               {
-                  "name": "Anna Pinnock",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0003519"
-               }
+               "Stephen Altman",
+               "Anna Pinnock"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Harry Potter and the Sorcerer's Stone",
-                  "notes": null,
-                  "imdb_id": "tt0241527"
-               }
+               "Harry Potter and the Sorcerer's Stone"
             ],
             "secondary": [
-               {
-                  "name": "Stuart Craig",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0186023"
-               },
-               {
-                  "name": "Stephenie McMillan",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0573328"
-               }
+               "Stuart Craig",
+               "Stephenie McMillan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Grant Major",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0538194"
-               },
-               {
-                  "name": "Dan Hennah",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0377172"
-               }
+               "Grant Major",
+               "Dan Hennah"
             ]
          }
       ]
@@ -1146,100 +626,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Catherine Martin",
-                  "notes": null,
-                  "imdb_id": "nm0552039"
-               },
-               {
-                  "name": "Angus Strathie",
-                  "notes": null,
-                  "imdb_id": "nm0833572"
-               }
+               "Catherine Martin",
+               "Angus Strathie"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gosford Park",
-                  "notes": null,
-                  "imdb_id": "tt0280707"
-               }
+               "Gosford Park"
             ],
             "secondary": [
-               {
-                  "name": "Jenny Beavan",
-                  "notes": null,
-                  "imdb_id": "nm0064746"
-               }
+               "Jenny Beavan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Harry Potter and the Sorcerer's Stone",
-                  "notes": null,
-                  "imdb_id": "tt0241527"
-               }
+               "Harry Potter and the Sorcerer's Stone"
             ],
             "secondary": [
-               {
-                  "name": "Judianna Makovsky",
-                  "notes": null,
-                  "imdb_id": "nm0538721"
-               }
+               "Judianna Makovsky"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Affair of the Necklace",
-                  "notes": null,
-                  "imdb_id": "tt0242252"
-               }
+               "The Affair of the Necklace"
             ],
             "secondary": [
-               {
-                  "name": "Milena Canonero",
-                  "notes": null,
-                  "imdb_id": "nm0134382"
-               }
+               "Milena Canonero"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Ngila Dickson",
-                  "notes": null,
-                  "imdb_id": "nm0225699"
-               },
-               {
-                  "name": "Richard Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853050"
-               }
+               "Ngila Dickson",
+               "Richard Taylor"
             ]
          }
       ]
@@ -1251,150 +683,62 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Black Hawk Down",
-                  "notes": null,
-                  "imdb_id": "tt0265086"
-               }
+               "Black Hawk Down"
             ],
             "secondary": [
-               {
-                  "name": "Michael Minkler",
-                  "notes": null,
-                  "imdb_id": "nm0591444"
-               },
-               {
-                  "name": "Myron Nettinga",
-                  "notes": null,
-                  "imdb_id": "nm0002383"
-               },
-               {
-                  "name": "Chris Munro",
-                  "notes": null,
-                  "imdb_id": "nm0613101"
-               }
+               "Michael Minkler",
+               "Myron Nettinga",
+               "Chris Munro"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Am\u00e9lie",
-                  "notes": null,
-                  "imdb_id": "tt0211915"
-               }
+               "Am\u00e9lie"
             ],
             "secondary": [
-               {
-                  "name": "Vincent Arnardi",
-                  "notes": null,
-                  "imdb_id": "nm0003399"
-               },
-               {
-                  "name": "Guillaume Leriche",
-                  "notes": null,
-                  "imdb_id": "nm1054914"
-               },
-               {
-                  "name": "Jean Umansky",
-                  "notes": null,
-                  "imdb_id": "nm0880796"
-               }
+               "Vincent Arnardi",
+               "Guillaume Leriche",
+               "Jean Umansky"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Andy Nelson",
-                  "notes": null,
-                  "imdb_id": "nm0625144"
-               },
-               {
-                  "name": "Anna Behlmer",
-                  "notes": null,
-                  "imdb_id": "nm0066933"
-               },
-               {
-                  "name": "Roger Savage",
-                  "notes": null,
-                  "imdb_id": "nm0767373"
-               },
-               {
-                  "name": "Guntis Sics",
-                  "notes": null,
-                  "imdb_id": "nm0796456"
-               }
+               "Andy Nelson",
+               "Anna Behlmer",
+               "Roger Savage",
+               "Guntis Sics"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pearl Harbor",
-                  "notes": null,
-                  "imdb_id": "tt0213149"
-               }
+               "Pearl Harbor"
             ],
             "secondary": [
-               {
-                  "name": "Peter J. Devlin",
-                  "notes": null,
-                  "imdb_id": "nm0222818"
-               },
-               {
-                  "name": "Greg P. Russell",
-                  "notes": null,
-                  "imdb_id": "nm0751169"
-               },
-               {
-                  "name": "Kevin O'Connell",
-                  "notes": null,
-                  "imdb_id": "nm0640114"
-               }
+               "Peter J. Devlin",
+               "Greg P. Russell",
+               "Kevin O'Connell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Boyes",
-                  "notes": null,
-                  "imdb_id": "nm0102110"
-               },
-               {
-                  "name": "Michael Semanick",
-                  "notes": null,
-                  "imdb_id": "nm0783713"
-               },
-               {
-                  "name": "Gethin Creagh",
-                  "notes": null,
-                  "imdb_id": "nm0187098"
-               },
-               {
-                  "name": "Hammond Peek",
-                  "notes": null,
-                  "imdb_id": "nm0003827"
-               }
+               "Christopher Boyes",
+               "Michael Semanick",
+               "Gethin Creagh",
+               "Hammond Peek"
             ]
          }
       ]
@@ -1406,46 +750,22 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Pearl Harbor",
-                  "notes": null,
-                  "imdb_id": "tt0213149"
-               }
+               "Pearl Harbor"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Boyes",
-                  "notes": null,
-                  "imdb_id": "nm0102110"
-               },
-               {
-                  "name": "George Watters II",
-                  "notes": null,
-                  "imdb_id": "nm0915036"
-               }
+               "Christopher Boyes",
+               "George Watters II"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Monsters, Inc.",
-                  "notes": null,
-                  "imdb_id": "tt0198781"
-               }
+               "Monsters, Inc."
             ],
             "secondary": [
-               {
-                  "name": "Gary Rydstrom",
-                  "notes": null,
-                  "imdb_id": "nm0003977"
-               },
-               {
-                  "name": "Michael Silvers",
-                  "notes": null,
-                  "imdb_id": "nm0799011"
-               }
+               "Gary Rydstrom",
+               "Michael Silvers"
             ]
          }
       ]
@@ -1457,95 +777,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Black Hawk Down",
-                  "notes": null,
-                  "imdb_id": "tt0265086"
-               }
+               "Black Hawk Down"
             ],
             "secondary": [
-               {
-                  "name": "Pietro Scalia",
-                  "notes": null,
-                  "imdb_id": "nm0768817"
-               }
+               "Pietro Scalia"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ],
             "secondary": [
-               {
-                  "name": "Mike Hill",
-                  "notes": null,
-                  "imdb_id": "nm0384528"
-               },
-               {
-                  "name": "Daniel P. Hanley",
-                  "notes": null,
-                  "imdb_id": "nm0360067"
-               }
+               "Mike Hill",
+               "Daniel P. Hanley"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Memento",
-                  "notes": null,
-                  "imdb_id": "tt0209144"
-               }
+               "Memento"
             ],
             "secondary": [
-               {
-                  "name": "Dody Dorn",
-                  "notes": null,
-                  "imdb_id": "nm0233827"
-               }
+               "Dody Dorn"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Jill Bilcock",
-                  "notes": null,
-                  "imdb_id": "nm0082162"
-               }
+               "Jill Bilcock"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "John Gilbert",
-                  "notes": null,
-                  "imdb_id": "nm0003016"
-               }
+               "John Gilbert"
             ]
          }
       ]
@@ -1557,99 +833,39 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Jim Rygiel",
-                  "notes": null,
-                  "imdb_id": "nm0753277"
-               },
-               {
-                  "name": "Randall William Cook",
-                  "notes": null,
-                  "imdb_id": "nm0177241"
-               },
-               {
-                  "name": "Richard Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853050"
-               },
-               {
-                  "name": "Mark Stetson",
-                  "notes": null,
-                  "imdb_id": "nm0828078"
-               }
+               "Jim Rygiel",
+               "Randall William Cook",
+               "Richard Taylor",
+               "Mark Stetson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A.I. Artificial Intelligence",
-                  "notes": null,
-                  "imdb_id": "tt0212720"
-               }
+               "A.I. Artificial Intelligence"
             ],
             "secondary": [
-               {
-                  "name": "Dennis Muren",
-                  "notes": null,
-                  "imdb_id": "nm0613830"
-               },
-               {
-                  "name": "Scott Farrar",
-                  "notes": null,
-                  "imdb_id": "nm0268141"
-               },
-               {
-                  "name": "Stan Winston",
-                  "notes": null,
-                  "imdb_id": "nm0935644"
-               },
-               {
-                  "name": "Michael Lantieri",
-                  "notes": null,
-                  "imdb_id": "nm0487177"
-               }
+               "Dennis Muren",
+               "Scott Farrar",
+               "Stan Winston",
+               "Michael Lantieri"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pearl Harbor",
-                  "notes": null,
-                  "imdb_id": "tt0213149"
-               }
+               "Pearl Harbor"
             ],
             "secondary": [
-               {
-                  "name": "Eric Brevig",
-                  "notes": null,
-                  "imdb_id": "nm0108094"
-               },
-               {
-                  "name": "John Frazier",
-                  "notes": null,
-                  "imdb_id": "nm0292594"
-               },
-               {
-                  "name": "Edward Hirsh",
-                  "notes": null,
-                  "imdb_id": "nm0386644"
-               },
-               {
-                  "name": "Ben Snow",
-                  "notes": null,
-                  "imdb_id": "nm0811240"
-               }
+               "Eric Brevig",
+               "John Frazier",
+               "Edward Hirsh",
+               "Ben Snow"
             ]
          }
       ]
@@ -1661,69 +877,33 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Peter Owen",
-                  "notes": null,
-                  "imdb_id": "nm0654232"
-               },
-               {
-                  "name": "Richard Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853050"
-               }
+               "Peter Owen",
+               "Richard Taylor"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ],
             "secondary": [
-               {
-                  "name": "Greg Cannom",
-                  "notes": null,
-                  "imdb_id": "nm0134148"
-               },
-               {
-                  "name": "Colleen Callaghan",
-                  "notes": null,
-                  "imdb_id": "nm0130128"
-               }
+               "Greg Cannom",
+               "Colleen Callaghan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Moulin Rouge!",
-                  "notes": null,
-                  "imdb_id": "tt0203009"
-               }
+               "Moulin Rouge!"
             ],
             "secondary": [
-               {
-                  "name": "Maurizio Silvi",
-                  "notes": null,
-                  "imdb_id": "nm0799198"
-               },
-               {
-                  "name": "Aldo Signoretti",
-                  "notes": null,
-                  "imdb_id": "nm0797532"
-               }
+               "Maurizio Silvi",
+               "Aldo Signoretti"
             ]
          }
       ]
@@ -1735,100 +915,52 @@
             "notes": "For the song \"If I Didn't Have You\".",
             "won": true,
             "primary": [
-               {
-                  "name": "Monsters, Inc.",
-                  "notes": null,
-                  "imdb_id": "tt0198781"
-               }
+               "Monsters, Inc."
             ],
             "secondary": [
-               {
-                  "name": "Randy Newman",
-                  "notes": null,
-                  "imdb_id": "nm0005271"
-               }
+               "Randy Newman"
             ]
          },
          {
             "notes": "For the song \"Until\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Kate & Leopold",
-                  "notes": null,
-                  "imdb_id": "tt0035423"
-               }
+               "Kate & Leopold"
             ],
             "secondary": [
-               {
-                  "name": "Sting",
-                  "notes": null,
-                  "imdb_id": "nm0001776"
-               }
+               "Sting"
             ]
          },
          {
             "notes": "For the song \"There You'll Be\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Pearl Harbor",
-                  "notes": null,
-                  "imdb_id": "tt0213149"
-               }
+               "Pearl Harbor"
             ],
             "secondary": [
-               {
-                  "name": "Diane Warren",
-                  "notes": null,
-                  "imdb_id": "nm0005534"
-               }
+               "Diane Warren"
             ]
          },
          {
             "notes": "For the song \"May It Be\".",
             "won": false,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Enya",
-                  "notes": null,
-                  "imdb_id": "nm0258216"
-               },
-               {
-                  "name": "Nicky Ryan",
-                  "notes": null,
-                  "imdb_id": "nm1211393"
-               },
-               {
-                  "name": "Roma Ryan",
-                  "notes": null,
-                  "imdb_id": "nm0752822"
-               }
+               "Enya",
+               "Nicky Ryan",
+               "Roma Ryan"
             ]
          },
          {
             "notes": "For the song \"Vanilla Sky\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Vanilla Sky",
-                  "notes": null,
-                  "imdb_id": "tt0259711"
-               }
+               "Vanilla Sky"
             ],
             "secondary": [
-               {
-                  "name": "Paul McCartney",
-                  "notes": null,
-                  "imdb_id": "nm0005200"
-               }
+               "Paul McCartney"
             ]
          }
       ]
@@ -1840,90 +972,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Fellowship of the Ring",
-                  "notes": null,
-                  "imdb_id": "tt0120737"
-               }
+               "The Lord of the Rings: The Fellowship of the Ring"
             ],
             "secondary": [
-               {
-                  "name": "Howard Shore",
-                  "notes": null,
-                  "imdb_id": "nm0006290"
-               }
+               "Howard Shore"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Beautiful Mind",
-                  "notes": null,
-                  "imdb_id": "tt0268978"
-               }
+               "A Beautiful Mind"
             ],
             "secondary": [
-               {
-                  "name": "James Horner",
-                  "notes": null,
-                  "imdb_id": "nm0000035"
-               }
+               "James Horner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A.I. Artificial Intelligence",
-                  "notes": null,
-                  "imdb_id": "tt0212720"
-               }
+               "A.I. Artificial Intelligence"
             ],
             "secondary": [
-               {
-                  "name": "John Williams",
-                  "notes": null,
-                  "imdb_id": "nm0002354"
-               }
+               "John Williams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Harry Potter and the Sorcerer's Stone",
-                  "notes": null,
-                  "imdb_id": "tt0241527"
-               }
+               "Harry Potter and the Sorcerer's Stone"
             ],
             "secondary": [
-               {
-                  "name": "John Williams",
-                  "notes": null,
-                  "imdb_id": "nm0002354"
-               }
+               "John Williams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Monsters, Inc.",
-                  "notes": null,
-                  "imdb_id": "tt0198781"
-               }
+               "Monsters, Inc."
             ],
             "secondary": [
-               {
-                  "name": "Randy Newman",
-                  "notes": null,
-                  "imdb_id": "nm0005271"
-               }
+               "Randy Newman"
             ]
          }
       ]
@@ -1935,100 +1027,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "For the Birds",
-                  "notes": null,
-                  "imdb_id": "tt0248808"
-               }
+               "For the Birds"
             ],
             "secondary": [
-               {
-                  "name": "Ralph Eggleston",
-                  "notes": null,
-                  "imdb_id": "nm0250995"
-               }
+               "Ralph Eggleston"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Fifty Percent Grey",
-                  "notes": null,
-                  "imdb_id": "tt0303336"
-               }
+               "Fifty Percent Grey"
             ],
             "secondary": [
-               {
-                  "name": "Ruairi Robinson",
-                  "notes": null,
-                  "imdb_id": "nm1099711"
-               },
-               {
-                  "name": "Seamus Byrne",
-                  "notes": null,
-                  "imdb_id": "nm0126289"
-               }
+               "Ruairi Robinson",
+               "Seamus Byrne"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Give Up Yer Aul Sins",
-                  "notes": null,
-                  "imdb_id": "tt0308317"
-               }
+               "Give Up Yer Aul Sins"
             ],
             "secondary": [
-               {
-                  "name": "Cathal Gaffney",
-                  "notes": null,
-                  "imdb_id": "nm1124614"
-               },
-               {
-                  "name": "Darragh O'Connell",
-                  "notes": null,
-                  "imdb_id": "nm1124615"
-               }
+               "Cathal Gaffney",
+               "Darragh O'Connell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Strange Invaders",
-                  "notes": null,
-                  "imdb_id": "tt0296874"
-               }
+               "Strange Invaders"
             ],
             "secondary": [
-               {
-                  "name": "Cordell Barker",
-                  "notes": null,
-                  "imdb_id": "nm0054855"
-               }
+               "Cordell Barker"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Stubble Trouble",
-                  "notes": null,
-                  "imdb_id": "tt0309121"
-               }
+               "Stubble Trouble"
             ],
             "secondary": [
-               {
-                  "name": "Joseph E. Merideth",
-                  "notes": null,
-                  "imdb_id": "nm1124616"
-               }
+               "Joseph E. Merideth"
             ]
          }
       ]
@@ -2040,105 +1084,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Accountant",
-                  "notes": null,
-                  "imdb_id": "tt0222675"
-               }
+               "The Accountant"
             ],
             "secondary": [
-               {
-                  "name": "Ray McKinnon",
-                  "notes": null,
-                  "imdb_id": "nm0571964"
-               },
-               {
-                  "name": "Lisa Blount",
-                  "notes": null,
-                  "imdb_id": "nm0089408"
-               }
+               "Ray McKinnon",
+               "Lisa Blount"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Man Thing",
-                  "notes": null,
-                  "imdb_id": "tt0304394"
-               }
+               "A Man Thing"
             ],
             "secondary": [
-               {
-                  "name": "Slawomir Fabicki",
-                  "notes": null,
-                  "imdb_id": "nm0264614"
-               },
-               {
-                  "name": "Bogumil Godfrej\u00f3w",
-                  "notes": null,
-                  "imdb_id": "nm0323950"
-               }
+               "Slawomir Fabicki",
+               "Bogumil Godfrej\u00f3w"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Copy Shop",
-                  "notes": null,
-                  "imdb_id": "tt0182014"
-               }
+               "Copy Shop"
             ],
             "secondary": [
-               {
-                  "name": "Virgil Widrich",
-                  "notes": null,
-                  "imdb_id": "nm0927179"
-               }
+               "Virgil Widrich"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gregor's Greatest Invention",
-                  "notes": null,
-                  "imdb_id": "tt0304107"
-               }
+               "Gregor's Greatest Invention"
             ],
             "secondary": [
-               {
-                  "name": "Johannes Kiefer",
-                  "notes": null,
-                  "imdb_id": "nm0452374"
-               }
+               "Johannes Kiefer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Speed for Thespians",
-                  "notes": null,
-                  "imdb_id": "tt0269899"
-               }
+               "Speed for Thespians"
             ],
             "secondary": [
-               {
-                  "name": "Kalman Apple",
-                  "notes": null,
-                  "imdb_id": "nm0032315"
-               },
-               {
-                  "name": "Shameela Bakhsh",
-                  "notes": null,
-                  "imdb_id": "nm0049075"
-               }
+               "Kalman Apple",
+               "Shameela Bakhsh"
             ]
          }
       ]
@@ -2150,64 +1142,32 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Thoth",
-                  "notes": null,
-                  "imdb_id": "tt0299178"
-               }
+               "Thoth"
             ],
             "secondary": [
-               {
-                  "name": "Sarah Kernochan",
-                  "notes": null,
-                  "imdb_id": "nm0449576"
-               },
-               {
-                  "name": "Lynn Appelle",
-                  "notes": null,
-                  "imdb_id": "nm0032258"
-               }
+               "Sarah Kernochan",
+               "Lynn Appelle"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Artists and Orphans: A True Drama",
-                  "notes": null,
-                  "imdb_id": "tt0289073"
-               }
+               "Artists and Orphans: A True Drama"
             ],
             "secondary": [
-               {
-                  "name": "Lianne Klapper-McNally",
-                  "notes": null,
-                  "imdb_id": "nm0458259"
-               }
+               "Lianne Klapper-McNally"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sing!",
-                  "notes": null,
-                  "imdb_id": "tt0308899"
-               }
+               "Sing!"
             ],
             "secondary": [
-               {
-                  "name": "Freida Lee Mock",
-                  "notes": null,
-                  "imdb_id": "nm0595131"
-               },
-               {
-                  "name": "Jessica Sanders",
-                  "notes": null,
-                  "imdb_id": "nm1124618"
-               }
+               "Freida Lee Mock",
+               "Jessica Sanders"
             ]
          }
       ]
@@ -2219,105 +1179,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Murder on a Sunday Morning",
-                  "notes": null,
-                  "imdb_id": "tt0307197"
-               }
+               "Murder on a Sunday Morning"
             ],
             "secondary": [
-               {
-                  "name": "Jean-Xavier de Lestrade",
-                  "notes": null,
-                  "imdb_id": "nm0994355"
-               },
-               {
-                  "name": "Denis Poncet",
-                  "notes": null,
-                  "imdb_id": "nm1119350"
-               }
+               "Jean-Xavier de Lestrade",
+               "Denis Poncet"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Children Underground",
-                  "notes": null,
-                  "imdb_id": "tt0264476"
-               }
+               "Children Underground"
             ],
             "secondary": [
-               {
-                  "name": "Edet Belzberg",
-                  "notes": null,
-                  "imdb_id": "nm0069797"
-               }
+               "Edet Belzberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "LaLee's Kin: The Legacy of Cotton",
-                  "notes": null,
-                  "imdb_id": "tt0274622"
-               }
+               "LaLee's Kin: The Legacy of Cotton"
             ],
             "secondary": [
-               {
-                  "name": "Susan Froemke",
-                  "notes": null,
-                  "imdb_id": "nm0297085"
-               },
-               {
-                  "name": "Deborah Dickson",
-                  "notes": null,
-                  "imdb_id": "nm0225630"
-               }
+               "Susan Froemke",
+               "Deborah Dickson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Promises",
-                  "notes": null,
-                  "imdb_id": "tt0282864"
-               }
+               "Promises"
             ],
             "secondary": [
-               {
-                  "name": "Justine Shapiro",
-                  "notes": null,
-                  "imdb_id": "nm0035184"
-               },
-               {
-                  "name": "B.Z. Goldberg",
-                  "notes": null,
-                  "imdb_id": "nm0325148"
-               }
+               "Justine Shapiro",
+               "B.Z. Goldberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "War Photographer",
-                  "notes": null,
-                  "imdb_id": "tt0309061"
-               }
+               "War Photographer"
             ],
             "secondary": [
-               {
-                  "name": "Christian Frei",
-                  "notes": null,
-                  "imdb_id": "nm0293726"
-               }
+               "Christian Frei"
             ]
          }
       ]
@@ -2329,64 +1237,32 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Shrek",
-                  "notes": null,
-                  "imdb_id": "tt0126029"
-               }
+               "Shrek"
             ],
             "secondary": [
-               {
-                  "name": "Aron Warner",
-                  "notes": null,
-                  "imdb_id": "nm0912403"
-               }
+               "Aron Warner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jimmy Neutron: Boy Genius",
-                  "notes": null,
-                  "imdb_id": "tt0268397"
-               }
+               "Jimmy Neutron: Boy Genius"
             ],
             "secondary": [
-               {
-                  "name": "John A. Davis",
-                  "notes": null,
-                  "imdb_id": "nm0204884"
-               },
-               {
-                  "name": "Steve Oedekerk",
-                  "notes": null,
-                  "imdb_id": "nm0644203"
-               }
+               "John A. Davis",
+               "Steve Oedekerk"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Monsters, Inc.",
-                  "notes": null,
-                  "imdb_id": "tt0198781"
-               }
+               "Monsters, Inc."
             ],
             "secondary": [
-               {
-                  "name": "Pete Docter",
-                  "notes": null,
-                  "imdb_id": "nm0230032"
-               },
-               {
-                  "name": "John Lasseter",
-                  "notes": null,
-                  "imdb_id": "nm0005124"
-               }
+               "Pete Docter",
+               "John Lasseter"
             ]
          }
       ]

@@ -6,54 +6,30 @@
             "notes": "Charles Laughton was not present at the awards ceremony. Fellow nominee Leslie Howard accepted the award on his behalf.",
             "won": true,
             "primary": [
-               {
-                  "name": "Charles Laughton",
-                  "notes": null,
-                  "imdb_id": "nm0001452"
-               }
+               "Charles Laughton"
             ],
             "secondary": [
-               {
-                  "name": "The Private Life of Henry VIII",
-                  "notes": null,
-                  "imdb_id": "tt0024473"
-               }
+               "The Private Life of Henry VIII"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Leslie Howard",
-                  "notes": null,
-                  "imdb_id": "nm0001366"
-               }
+               "Leslie Howard"
             ],
             "secondary": [
-               {
-                  "name": "Berkeley Square",
-                  "notes": null,
-                  "imdb_id": "tt0023794"
-               }
+               "Berkeley Square"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Paul Muni",
-                  "notes": null,
-                  "imdb_id": "nm0612847"
-               }
+               "Paul Muni"
             ],
             "secondary": [
-               {
-                  "name": "I Am a Fugitive from a Chain Gang",
-                  "notes": null,
-                  "imdb_id": "tt0023042"
-               }
+               "I Am a Fugitive from a Chain Gang"
             ]
          }
       ]
@@ -65,54 +41,30 @@
             "notes": "Katharine Hepburn was not present at the awards ceremony.",
             "won": true,
             "primary": [
-               {
-                  "name": "Katharine Hepburn",
-                  "notes": null,
-                  "imdb_id": "nm0000031"
-               }
+               "Katharine Hepburn"
             ],
             "secondary": [
-               {
-                  "name": "Morning Glory",
-                  "notes": null,
-                  "imdb_id": "tt0024353"
-               }
+               "Morning Glory"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Diana Wynyard",
-                  "notes": null,
-                  "imdb_id": "nm0944087"
-               }
+               "Diana Wynyard"
             ],
             "secondary": [
-               {
-                  "name": "Cavalcade",
-                  "notes": null,
-                  "imdb_id": "tt0023876"
-               }
+               "Cavalcade"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "May Robson",
-                  "notes": null,
-                  "imdb_id": "nm0733480"
-               }
+               "May Robson"
             ],
             "secondary": [
-               {
-                  "name": "Lady for a Day",
-                  "notes": null,
-                  "imdb_id": "tt0024240"
-               }
+               "Lady for a Day"
             ]
          }
       ]
@@ -124,59 +76,31 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Cavalcade",
-                  "notes": null,
-                  "imdb_id": "tt0023876"
-               }
+               "Cavalcade"
             ],
             "secondary": [
-               {
-                  "name": "William S. Darling",
-                  "notes": null,
-                  "imdb_id": "nm0201419"
-               }
+               "William S. Darling"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Farewell to Arms",
-                  "notes": null,
-                  "imdb_id": "tt0022879"
-               }
+               "A Farewell to Arms"
             ],
             "secondary": [
-               {
-                  "name": "Hans Dreier",
-                  "notes": null,
-                  "imdb_id": "nm0237417"
-               },
-               {
-                  "name": "Roland Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0027380"
-               }
+               "Hans Dreier",
+               "Roland Anderson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "When Ladies Meet",
-                  "notes": null,
-                  "imdb_id": "tt0024763"
-               }
+               "When Ladies Meet"
             ],
             "secondary": [
-               {
-                  "name": "Cedric Gibbons",
-                  "notes": null,
-                  "imdb_id": "nm0316539"
-               }
+               "Cedric Gibbons"
             ]
          }
       ]
@@ -188,11 +112,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Charles Barton",
-                  "notes": "(Paramount)",
-                  "imdb_id": "nm0059106"
-               }
+               "Charles Barton"
             ],
             "secondary": []
          },
@@ -200,11 +120,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Charles Dorian",
-                  "notes": "(M-G-M)",
-                  "imdb_id": "nm0233648"
-               }
+               "Charles Dorian"
             ],
             "secondary": []
          },
@@ -212,11 +128,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Dewey Starkey",
-                  "notes": "(RKO Radio)",
-                  "imdb_id": "nm0823315"
-               }
+               "Dewey Starkey"
             ],
             "secondary": []
          },
@@ -224,11 +136,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Fred Fox",
-                  "notes": "(UA)",
-                  "imdb_id": "nm0288995"
-               }
+               "Fred Fox"
             ],
             "secondary": []
          },
@@ -236,11 +144,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Gordon Hollingshead",
-                  "notes": "(Warner Bros.)",
-                  "imdb_id": "nm0391121"
-               }
+               "Gordon Hollingshead"
             ],
             "secondary": []
          },
@@ -248,11 +152,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Scott R. Beal",
-                  "notes": "(Universal)",
-                  "imdb_id": "nm0063634"
-               }
+               "Scott R. Beal"
             ],
             "secondary": []
          },
@@ -260,11 +160,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "William Tummel",
-                  "notes": "(Fox)",
-                  "imdb_id": "nm0876537"
-               }
+               "William Tummel"
             ],
             "secondary": []
          },
@@ -272,11 +168,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Al Alleborn",
-                  "notes": "(Warner Bros.)",
-                  "imdb_id": "nm0020168"
-               }
+               "Al Alleborn"
             ],
             "secondary": []
          },
@@ -284,11 +176,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Arthur Jacobson",
-                  "notes": "(Paramount)",
-                  "imdb_id": "nm0414797"
-               }
+               "Arthur Jacobson"
             ],
             "secondary": []
          },
@@ -296,11 +184,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ben Silvey",
-                  "notes": "(UA)",
-                  "imdb_id": "nm0799185"
-               }
+               "Ben Silvey"
             ],
             "secondary": []
          },
@@ -308,11 +192,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Edward Killy",
-                  "notes": "(RKO Radio)",
-                  "imdb_id": "nm0453245"
-               }
+               "Edward Killy"
             ],
             "secondary": []
          },
@@ -320,11 +200,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Frank Shaw",
-                  "notes": "(Warner Bros.)",
-                  "imdb_id": "nm0789719"
-               }
+               "Frank Shaw"
             ],
             "secondary": []
          },
@@ -332,11 +208,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "John Waters",
-                  "notes": "(M-G-M)",
-                  "imdb_id": "nm0914112"
-               }
+               "John Waters"
             ],
             "secondary": []
          },
@@ -344,11 +216,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Joseph A. McDonough",
-                  "notes": "(Universal)",
-                  "imdb_id": "nm0568156"
-               }
+               "Joseph A. McDonough"
             ],
             "secondary": []
          },
@@ -356,11 +224,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Orville O. Dull",
-                  "notes": "(M-G-M)",
-                  "imdb_id": "nm0241338"
-               }
+               "Orville O. Dull"
             ],
             "secondary": []
          },
@@ -368,11 +232,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Percy Ikerd",
-                  "notes": "(Fox)",
-                  "imdb_id": "nm0407503"
-               }
+               "Percy Ikerd"
             ],
             "secondary": []
          },
@@ -380,11 +240,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sid Brod",
-                  "notes": "(Paramount)",
-                  "imdb_id": "nm0110762"
-               }
+               "Sid Brod"
             ],
             "secondary": []
          },
@@ -392,11 +248,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "William J. Reiter",
-                  "notes": "(Universal)",
-                  "imdb_id": "nm0718614"
-               }
+               "William J. Reiter"
             ],
             "secondary": []
          }
@@ -409,54 +261,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "A Farewell to Arms",
-                  "notes": null,
-                  "imdb_id": "tt0022879"
-               }
+               "A Farewell to Arms"
             ],
             "secondary": [
-               {
-                  "name": "Charles Lang",
-                  "notes": null,
-                  "imdb_id": "nm0485702"
-               }
+               "Charles Lang"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Reunion in Vienna",
-                  "notes": null,
-                  "imdb_id": "tt0024496"
-               }
+               "Reunion in Vienna"
             ],
             "secondary": [
-               {
-                  "name": "George J. Folsey",
-                  "notes": null,
-                  "imdb_id": "nm0005706"
-               }
+               "George J. Folsey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Sign of the Cross",
-                  "notes": null,
-                  "imdb_id": "tt0023470"
-               }
+               "The Sign of the Cross"
             ],
             "secondary": [
-               {
-                  "name": "Karl Struss",
-                  "notes": null,
-                  "imdb_id": "nm0835365"
-               }
+               "Karl Struss"
             ]
          }
       ]
@@ -468,54 +296,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Frank Lloyd",
-                  "notes": null,
-                  "imdb_id": "nm0515979"
-               }
+               "Frank Lloyd"
             ],
             "secondary": [
-               {
-                  "name": "Cavalcade",
-                  "notes": null,
-                  "imdb_id": "tt0023876"
-               }
+               "Cavalcade"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Frank Capra",
-                  "notes": null,
-                  "imdb_id": "nm0001008"
-               }
+               "Frank Capra"
             ],
             "secondary": [
-               {
-                  "name": "Lady for a Day",
-                  "notes": null,
-                  "imdb_id": "tt0024240"
-               }
+               "Lady for a Day"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "George Cukor",
-                  "notes": null,
-                  "imdb_id": "nm0002030"
-               }
+               "George Cukor"
             ],
             "secondary": [
-               {
-                  "name": "Little Women",
-                  "notes": null,
-                  "imdb_id": "tt0024264"
-               }
+               "Little Women"
             ]
          }
       ]
@@ -527,11 +331,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Cavalcade",
-                  "notes": null,
-                  "imdb_id": "tt0023876"
-               }
+               "Cavalcade"
             ],
             "secondary": []
          },
@@ -539,11 +339,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "42nd Street",
-                  "notes": null,
-                  "imdb_id": "tt0024034"
-               }
+               "42nd Street"
             ],
             "secondary": []
          },
@@ -551,11 +347,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Farewell to Arms",
-                  "notes": null,
-                  "imdb_id": "tt0022879"
-               }
+               "A Farewell to Arms"
             ],
             "secondary": []
          },
@@ -563,11 +355,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "I Am a Fugitive from a Chain Gang",
-                  "notes": null,
-                  "imdb_id": "tt0023042"
-               }
+               "I Am a Fugitive from a Chain Gang"
             ],
             "secondary": []
          },
@@ -575,11 +363,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lady for a Day",
-                  "notes": null,
-                  "imdb_id": "tt0024240"
-               }
+               "Lady for a Day"
             ],
             "secondary": []
          },
@@ -587,11 +371,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Little Women",
-                  "notes": null,
-                  "imdb_id": "tt0024264"
-               }
+               "Little Women"
             ],
             "secondary": []
          },
@@ -599,11 +379,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "She Done Him Wrong",
-                  "notes": null,
-                  "imdb_id": "tt0024548"
-               }
+               "She Done Him Wrong"
             ],
             "secondary": []
          },
@@ -611,11 +387,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Smilin' Through",
-                  "notes": null,
-                  "imdb_id": "tt0023488"
-               }
+               "Smilin' Through"
             ],
             "secondary": []
          },
@@ -623,11 +395,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "State Fair",
-                  "notes": null,
-                  "imdb_id": "tt0024610"
-               }
+               "State Fair"
             ],
             "secondary": []
          },
@@ -635,11 +403,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Private Life of Henry VIII",
-                  "notes": null,
-                  "imdb_id": "tt0024473"
-               }
+               "The Private Life of Henry VIII"
             ],
             "secondary": []
          }
@@ -652,54 +416,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Three Little Pigs",
-                  "notes": null,
-                  "imdb_id": "tt0024660"
-               }
+               "Three Little Pigs"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               }
+               "Walt Disney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Building a Building",
-                  "notes": null,
-                  "imdb_id": "tt0023854"
-               }
+               "Building a Building"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               }
+               "Walt Disney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Merry Old Soul",
-                  "notes": null,
-                  "imdb_id": "tt0142655"
-               }
+               "The Merry Old Soul"
             ],
             "secondary": [
-               {
-                  "name": "Walter Lantz",
-                  "notes": null,
-                  "imdb_id": "nm0487237"
-               }
+               "Walter Lantz"
             ]
          }
       ]
@@ -711,54 +451,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "So This Is Harris",
-                  "notes": null,
-                  "imdb_id": "tt0024580"
-               }
+               "So This Is Harris"
             ],
             "secondary": [
-               {
-                  "name": "Lou Brock",
-                  "notes": null,
-                  "imdb_id": "nm0110607"
-               }
+               "Lou Brock"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Preferred List",
-                  "notes": null,
-                  "imdb_id": "tt0024467"
-               }
+               "A Preferred List"
             ],
             "secondary": [
-               {
-                  "name": "Lou Brock",
-                  "notes": null,
-                  "imdb_id": "nm0110607"
-               }
+               "Lou Brock"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mister Mugg",
-                  "notes": null,
-                  "imdb_id": "tt0024342"
-               }
+               "Mister Mugg"
             ],
             "secondary": [
-               {
-                  "name": "Warren Doane",
-                  "notes": null,
-                  "imdb_id": "nm0229553"
-               }
+               "Warren Doane"
             ]
          }
       ]
@@ -770,47 +486,27 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Krakatoa",
-                  "notes": null,
-                  "imdb_id": "tt0024231"
-               }
+               "Krakatoa"
             ],
             "secondary": [
-               {
-                  "name": "Joe Rock",
-                  "notes": null,
-                  "imdb_id": "nm0734169"
-               }
+               "Joe Rock"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Menu",
-                  "notes": null,
-                  "imdb_id": "tt0024327"
-               }
+               "Menu"
             ],
             "secondary": [
-               {
-                  "name": "Pete Smith",
-                  "notes": null,
-                  "imdb_id": "nm0809570"
-               }
+               "Pete Smith"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Sea",
-                  "notes": null,
-                  "imdb_id": "tt0023443"
-               }
+               "The Sea"
             ],
             "secondary": []
          }
@@ -823,72 +519,40 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "A Farewell to Arms",
-                  "notes": null,
-                  "imdb_id": "tt0022879"
-               }
+               "A Farewell to Arms"
             ],
             "secondary": [
-               {
-                  "name": "Franklin Hansen",
-                  "notes": "(sound director)",
-                  "imdb_id": "nm0360630"
-               }
+               "Franklin Hansen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "42nd Street",
-                  "notes": null,
-                  "imdb_id": "tt0024034"
-               }
+               "42nd Street"
             ],
             "secondary": [
-               {
-                  "name": "Nathan Levinson",
-                  "notes": "(sound director)",
-                  "imdb_id": "nm0506080"
-               }
+               "Nathan Levinson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gold Diggers of 1933",
-                  "notes": null,
-                  "imdb_id": "tt0024069"
-               }
+               "Gold Diggers of 1933"
             ],
             "secondary": [
-               {
-                  "name": "Nathan Levinson",
-                  "notes": "(sound director)",
-                  "imdb_id": "nm0506080"
-               }
+               "Nathan Levinson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "I Am a Fugitive from a Chain Gang",
-                  "notes": null,
-                  "imdb_id": "tt0023042"
-               }
+               "I Am a Fugitive from a Chain Gang"
             ],
             "secondary": [
-               {
-                  "name": "Nathan Levinson",
-                  "notes": "(sound director)",
-                  "imdb_id": "nm0506080"
-               }
+               "Nathan Levinson"
             ]
          }
       ]
@@ -900,64 +564,32 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Little Women",
-                  "notes": null,
-                  "imdb_id": "tt0024264"
-               }
+               "Little Women"
             ],
             "secondary": [
-               {
-                  "name": "Victor Heerman",
-                  "notes": null,
-                  "imdb_id": "nm0373511"
-               },
-               {
-                  "name": "Sarah Y. Mason",
-                  "notes": null,
-                  "imdb_id": "nm0556945"
-               }
+               "Victor Heerman",
+               "Sarah Y. Mason"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lady for a Day",
-                  "notes": null,
-                  "imdb_id": "tt0024240"
-               }
+               "Lady for a Day"
             ],
             "secondary": [
-               {
-                  "name": "Robert Riskin",
-                  "notes": null,
-                  "imdb_id": "nm0728307"
-               }
+               "Robert Riskin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "State Fair",
-                  "notes": null,
-                  "imdb_id": "tt0024610"
-               }
+               "State Fair"
             ],
             "secondary": [
-               {
-                  "name": "Paul Green",
-                  "notes": null,
-                  "imdb_id": "nm0338233"
-               },
-               {
-                  "name": "Sonya Levien",
-                  "notes": null,
-                  "imdb_id": "nm0397022"
-               }
+               "Paul Green",
+               "Sonya Levien"
             ]
          }
       ]
@@ -969,54 +601,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "One Way Passage",
-                  "notes": null,
-                  "imdb_id": "tt0023305"
-               }
+               "One Way Passage"
             ],
             "secondary": [
-               {
-                  "name": "Robert Lord",
-                  "notes": null,
-                  "imdb_id": "nm0520501"
-               }
+               "Robert Lord"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rasputin and the Empress",
-                  "notes": null,
-                  "imdb_id": "tt0023374"
-               }
+               "Rasputin and the Empress"
             ],
             "secondary": [
-               {
-                  "name": "Charles MacArthur",
-                  "notes": null,
-                  "imdb_id": "nm0531269"
-               }
+               "Charles MacArthur"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Prizefighter and the Lady",
-                  "notes": null,
-                  "imdb_id": "tt0024475"
-               }
+               "The Prizefighter and the Lady"
             ],
             "secondary": [
-               {
-                  "name": "Frances Marion",
-                  "notes": null,
-                  "imdb_id": "nm0547966"
-               }
+               "Frances Marion"
             ]
          }
       ]

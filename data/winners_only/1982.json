@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Henry Fonda"
+      "winners": [
+         "Henry Fonda"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "John Gielgud"
+      "winners": [
+         "John Gielgud"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Katharine Hepburn"
+      "winners": [
+         "Katharine Hepburn"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Maureen Stapleton"
+      "winners": [
+         "Maureen Stapleton"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Indiana Jones and the Raiders of the Lost Ark"
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Reds"
+      "winners": [
+         "Reds"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Chariots of Fire"
+      "winners": [
+         "Chariots of Fire"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Warren Beatty"
+      "winners": [
+         "Warren Beatty"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Genocide"
+      "winners": [
+         "Genocide"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Close Harmony"
+      "winners": [
+         "Close Harmony"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Indiana Jones and the Raiders of the Lost Ark"
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Indiana Jones and the Raiders of the Lost Ark"
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Mephisto"
+      "winners": [
+         "Mephisto"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "An American Werewolf in London"
+      "winners": [
+         "An American Werewolf in London"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Chariots of Fire"
+      "winners": [
+         "Chariots of Fire"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Arthur"
+      "winners": [
+         "Arthur"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Chariots of Fire"
+      "winners": [
+         "Chariots of Fire"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Crac"
+      "winners": [
+         "Crac"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Violet"
+      "winners": [
+         "Violet"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Indiana Jones and the Raiders of the Lost Ark"
+      "winners": [
+         "Indiana Jones and the Raiders of the Lost Ark"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "On Golden Pond"
+      "winners": [
+         "On Golden Pond"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Chariots of Fire"
+      "winners": [
+         "Chariots of Fire"
+      ]
    }
 ]

@@ -1,54 +1,80 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Charles Laughton"
+      "winners": [
+         "Charles Laughton"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Katharine Hepburn"
+      "winners": [
+         "Katharine Hepburn"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Cavalcade"
+      "winners": [
+         "Cavalcade"
+      ]
    },
    {
       "category": "Best Assistant Director",
-      "winner": "William Tummel"
+      "winners": [
+         "Charles Barton"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "A Farewell to Arms"
+      "winners": [
+         "A Farewell to Arms"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Frank Lloyd"
+      "winners": [
+         "Frank Lloyd"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Cavalcade"
+      "winners": [
+         "Cavalcade"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Three Little Pigs"
+      "winners": [
+         "Three Little Pigs"
+      ]
    },
    {
       "category": "Best Short Subject, Comedy",
-      "winner": "So This Is Harris"
+      "winners": [
+         "So This Is Harris"
+      ]
    },
    {
       "category": "Best Short Subject, Novelty",
-      "winner": "Krakatoa"
+      "winners": [
+         "Krakatoa"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "A Farewell to Arms"
+      "winners": [
+         "A Farewell to Arms"
+      ]
    },
    {
       "category": "Best Writing, Adaptation",
-      "winner": "Little Women"
+      "winners": [
+         "Little Women"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "One Way Passage"
+      "winners": [
+         "One Way Passage"
+      ]
    }
 ]

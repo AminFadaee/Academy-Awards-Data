@@ -1,106 +1,158 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Rex Harrison"
+      "winners": [
+         "Rex Harrison"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Peter Ustinov"
+      "winners": [
+         "Peter Ustinov"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Julie Andrews"
+      "winners": [
+         "Julie Andrews"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Lila Kedrova"
+      "winners": [
+         "Lila Kedrova"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "Zorba the Greek"
+      "winners": [
+         "Zorba the Greek"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Zorba the Greek"
+      "winners": [
+         "Zorba the Greek"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "The Night of the Iguana"
+      "winners": [
+         "The Night of the Iguana"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "George Cukor"
+      "winners": [
+         "George Cukor"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "World Without Sun"
+      "winners": [
+         "World Without Sun"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Nine from Little Rock"
+      "winners": [
+         "Nine from Little Rock"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects",
-      "winner": "Goldfinger"
+      "winners": [
+         "Goldfinger"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Mary Poppins"
+      "winners": [
+         "Mary Poppins"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Mary Poppins"
+      "winners": [
+         "Mary Poppins"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Yesterday, Today and Tomorrow"
+      "winners": [
+         "Yesterday, Today and Tomorrow"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Mary Poppins"
+      "winners": [
+         "Mary Poppins"
+      ]
    },
    {
       "category": "Best Music, Scoring of Music, Adaptation or Treatment",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Music, Substantially Original Score",
-      "winner": "Mary Poppins"
+      "winners": [
+         "Mary Poppins"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Pink Phink"
+      "winners": [
+         "The Pink Phink"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "Casals Conducts: 1964"
+      "winners": [
+         "Casals Conducts: 1964"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "My Fair Lady"
+      "winners": [
+         "My Fair Lady"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Becket"
+      "winners": [
+         "Becket"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "Father Goose"
+      "winners": [
+         "Father Goose"
+      ]
    }
 ]

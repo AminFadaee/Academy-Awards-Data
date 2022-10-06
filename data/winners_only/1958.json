@@ -1,82 +1,122 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Alec Guinness"
+      "winners": [
+         "Alec Guinness"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Red Buttons"
+      "winners": [
+         "Red Buttons"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Joanne Woodward"
+      "winners": [
+         "Joanne Woodward"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Miyoshi Umeki"
+      "winners": [
+         "Miyoshi Umeki"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Sayonara"
+      "winners": [
+         "Sayonara"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Bridge on the River Kwai"
+      "winners": [
+         "The Bridge on the River Kwai"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Les Girls"
+      "winners": [
+         "Les Girls"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "David Lean"
+      "winners": [
+         "David Lean"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Albert Schweitzer"
+      "winners": [
+         "Albert Schweitzer"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "The Enemy Below"
+      "winners": [
+         "The Enemy Below"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Bridge on the River Kwai"
+      "winners": [
+         "The Bridge on the River Kwai"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Nights of Cabiria"
+      "winners": [
+         "Nights of Cabiria"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Joker Is Wild"
+      "winners": [
+         "The Joker Is Wild"
+      ]
    },
    {
       "category": "Best Music, Scoring",
-      "winner": "The Bridge on the River Kwai"
+      "winners": [
+         "The Bridge on the River Kwai"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Bridge on the River Kwai"
+      "winners": [
+         "The Bridge on the River Kwai"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Birds Anonymous"
+      "winners": [
+         "Birds Anonymous"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "The Wetback Hound"
+      "winners": [
+         "The Wetback Hound"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Sayonara"
+      "winners": [
+         "Sayonara"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "The Bridge on the River Kwai"
+      "winners": [
+         "The Bridge on the River Kwai"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "Designing Woman"
+      "winners": [
+         "Designing Woman"
+      ]
    }
 ]

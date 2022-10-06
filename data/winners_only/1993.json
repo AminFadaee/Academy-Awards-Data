@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Al Pacino"
+      "winners": [
+         "Al Pacino"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Gene Hackman"
+      "winners": [
+         "Gene Hackman"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Emma Thompson"
+      "winners": [
+         "Emma Thompson"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Marisa Tomei"
+      "winners": [
+         "Marisa Tomei"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Howards End"
+      "winners": [
+         "Howards End"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "A River Runs Through It"
+      "winners": [
+         "A River Runs Through It"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Dracula"
+      "winners": [
+         "Dracula"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Clint Eastwood"
+      "winners": [
+         "Clint Eastwood"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Panama Deception"
+      "winners": [
+         "The Panama Deception"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Educating Peter"
+      "winners": [
+         "Educating Peter"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Dracula"
+      "winners": [
+         "Dracula"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Death Becomes Her"
+      "winners": [
+         "Death Becomes Her"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Unforgiven"
+      "winners": [
+         "Unforgiven"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Indochine"
+      "winners": [
+         "Indochine"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Dracula"
+      "winners": [
+         "Dracula"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Aladdin"
+      "winners": [
+         "Aladdin"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Aladdin"
+      "winners": [
+         "Aladdin"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Unforgiven"
+      "winners": [
+         "Unforgiven"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Mona Lisa Descending a Staircase"
+      "winners": [
+         "Mona Lisa Descending a Staircase"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Omnibus"
+      "winners": [
+         "Omnibus"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "The Last of the Mohicans"
+      "winners": [
+         "The Last of the Mohicans"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "Howards End"
+      "winners": [
+         "Howards End"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "The Crying Game"
+      "winners": [
+         "The Crying Game"
+      ]
    }
 ]

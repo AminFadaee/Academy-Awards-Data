@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Peter Finch"
+      "winners": [
+         "Peter Finch"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Jason Robards"
+      "winners": [
+         "Jason Robards"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Faye Dunaway"
+      "winners": [
+         "Faye Dunaway"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Beatrice Straight"
+      "winners": [
+         "Beatrice Straight"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "All the President's Men"
+      "winners": [
+         "All the President's Men"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Bound for Glory"
+      "winners": [
+         "Bound for Glory"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Fellini's Casanova"
+      "winners": [
+         "Fellini's Casanova"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "John G. Avildsen"
+      "winners": [
+         "John G. Avildsen"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Harlan County U.S.A."
+      "winners": [
+         "Harlan County U.S.A."
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Number Our Days"
+      "winners": [
+         "Number Our Days"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Rocky"
+      "winners": [
+         "Rocky"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Black and White in Color"
+      "winners": [
+         "Black and White in Color"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Omen"
+      "winners": [
+         "The Omen"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "A Star Is Born"
+      "winners": [
+         "A Star Is Born"
+      ]
    },
    {
       "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
-      "winner": "Bound for Glory"
+      "winners": [
+         "Bound for Glory"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Rocky"
+      "winners": [
+         "Rocky"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Leisure"
+      "winners": [
+         "Leisure"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "In the Region of Ice"
+      "winners": [
+         "In the Region of Ice"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "All the President's Men"
+      "winners": [
+         "All the President's Men"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "All the President's Men"
+      "winners": [
+         "All the President's Men"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Network"
+      "winners": [
+         "Network"
+      ]
    }
 ]

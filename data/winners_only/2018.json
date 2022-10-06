@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "The Shape of Water"
+      "winners": [
+         "The Shape of Water"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Gary Oldman"
+      "winners": [
+         "Gary Oldman"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Frances McDormand"
+      "winners": [
+         "Frances McDormand"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Sam Rockwell"
+      "winners": [
+         "Sam Rockwell"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Allison Janney"
+      "winners": [
+         "Allison Janney"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Guillermo del Toro"
+      "winners": [
+         "Guillermo del Toro"
+      ]
    },
    {
       "category": "Best Original Screenplay",
-      "winner": "Get Out"
+      "winners": [
+         "Get Out"
+      ]
    },
    {
       "category": "Best Adapted Screenplay",
-      "winner": "Call Me by Your Name"
+      "winners": [
+         "Call Me by Your Name"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Blade Runner 2049"
+      "winners": [
+         "Blade Runner 2049"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Dunkirk"
+      "winners": [
+         "Dunkirk"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "The Shape of Water"
+      "winners": [
+         "The Shape of Water"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Phantom Thread"
+      "winners": [
+         "Phantom Thread"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Darkest Hour"
+      "winners": [
+         "Darkest Hour"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-      "winner": "The Shape of Water"
+      "winners": [
+         "The Shape of Water"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-      "winner": "Coco"
+      "winners": [
+         "Coco"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Dunkirk"
+      "winners": [
+         "Dunkirk"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Dunkirk"
+      "winners": [
+         "Dunkirk"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Blade Runner 2049"
+      "winners": [
+         "Blade Runner 2049"
+      ]
    },
    {
       "category": "Best Documentary Feature",
-      "winner": "Icarus"
+      "winners": [
+         "Icarus"
+      ]
    },
    {
       "category": "Best Documentary Short Subject",
-      "winner": "Heaven Is a Traffic Jam on the 405"
+      "winners": [
+         "Heaven Is a Traffic Jam on the 405"
+      ]
    },
    {
       "category": "Best Animated Feature Film",
-      "winner": "Coco"
+      "winners": [
+         "Coco"
+      ]
    },
    {
       "category": "Best Animated Short Film",
-      "winner": "Dear Basketball"
+      "winners": [
+         "Dear Basketball"
+      ]
    },
    {
       "category": "Best Live Action Short Film",
-      "winner": "The Silent Child"
+      "winners": [
+         "The Silent Child"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "A Fantastic Woman"
+      "winners": [
+         "A Fantastic Woman"
+      ]
    }
 ]

@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "The Hurt Locker"
+      "winners": [
+         "The Hurt Locker"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Jeff Bridges"
+      "winners": [
+         "Jeff Bridges"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Sandra Bullock"
+      "winners": [
+         "Sandra Bullock"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Christoph Waltz"
+      "winners": [
+         "Christoph Waltz"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Mo'Nique"
+      "winners": [
+         "Mo'Nique"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Kathryn Bigelow"
+      "winners": [
+         "Kathryn Bigelow"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "The Hurt Locker"
+      "winners": [
+         "The Hurt Locker"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "Precious"
+      "winners": [
+         "Precious"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Avatar"
+      "winners": [
+         "Avatar"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "Avatar"
+      "winners": [
+         "Avatar"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "The Hurt Locker"
+      "winners": [
+         "The Hurt Locker"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Young Victoria"
+      "winners": [
+         "The Young Victoria"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Crazy Heart"
+      "winners": [
+         "Crazy Heart"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "Up"
+      "winners": [
+         "Up"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "The Hurt Locker"
+      "winners": [
+         "The Hurt Locker"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "The Hurt Locker"
+      "winners": [
+         "The Hurt Locker"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Avatar"
+      "winners": [
+         "Avatar"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Logorama"
+      "winners": [
+         "Logorama"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The New Tenants"
+      "winners": [
+         "The New Tenants"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Music by Prudence"
+      "winners": [
+         "Music by Prudence"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Cove"
+      "winners": [
+         "The Cove"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "The Secret in Their Eyes"
+      "winners": [
+         "The Secret in Their Eyes"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Up"
+      "winners": [
+         "Up"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "Star Trek"
+      "winners": [
+         "Star Trek"
+      ]
    }
 ]

@@ -6,265 +6,117 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Iain Canning",
-                  "notes": null,
-                  "imdb_id": "nm2096617"
-               },
-               {
-                  "name": "Emile Sherman",
-                  "notes": null,
-                  "imdb_id": "nm0792431"
-               },
-               {
-                  "name": "Gareth Unwin",
-                  "notes": null,
-                  "imdb_id": "nm1060902"
-               }
+               "Iain Canning",
+               "Emile Sherman",
+               "Gareth Unwin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ],
             "secondary": [
-               {
-                  "name": "Christian Colson",
-                  "notes": null,
-                  "imdb_id": "nm1384503"
-               },
-               {
-                  "name": "Danny Boyle",
-                  "notes": null,
-                  "imdb_id": "nm0000965"
-               },
-               {
-                  "name": "John Smithson",
-                  "notes": null,
-                  "imdb_id": "nm0810478"
-               }
+               "Christian Colson",
+               "Danny Boyle",
+               "John Smithson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Swan",
-                  "notes": null,
-                  "imdb_id": "tt0947798"
-               }
+               "Black Swan"
             ],
             "secondary": [
-               {
-                  "name": "Mike Medavoy",
-                  "notes": null,
-                  "imdb_id": "nm0005219"
-               },
-               {
-                  "name": "Brian Oliver",
-                  "notes": null,
-                  "imdb_id": "nm1003922"
-               },
-               {
-                  "name": "Scott Franklin",
-                  "notes": null,
-                  "imdb_id": "nm0291542"
-               }
+               "Mike Medavoy",
+               "Brian Oliver",
+               "Scott Franklin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Nolan",
-                  "notes": null,
-                  "imdb_id": "nm0634240"
-               },
-               {
-                  "name": "Emma Thomas",
-                  "notes": null,
-                  "imdb_id": "nm0858799"
-               }
+               "Christopher Nolan",
+               "Emma Thomas"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ],
             "secondary": [
-               {
-                  "name": "David Hoberman",
-                  "notes": null,
-                  "imdb_id": "nm0387674"
-               },
-               {
-                  "name": "Todd Lieberman",
-                  "notes": null,
-                  "imdb_id": "nm0509414"
-               },
-               {
-                  "name": "Mark Wahlberg",
-                  "notes": null,
-                  "imdb_id": "nm0000242"
-               }
+               "David Hoberman",
+               "Todd Lieberman",
+               "Mark Wahlberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Kids Are All Right",
-                  "notes": null,
-                  "imdb_id": "tt0842926"
-               }
+               "The Kids Are All Right"
             ],
             "secondary": [
-               {
-                  "name": "Gary Gilbert",
-                  "notes": null,
-                  "imdb_id": "nm1344784"
-               },
-               {
-                  "name": "Jeffrey Kusama-Hinte",
-                  "notes": null,
-                  "imdb_id": "nm0506664"
-               },
-               {
-                  "name": "Celine Rattray",
-                  "notes": null,
-                  "imdb_id": "nm1488027"
-               }
+               "Gary Gilbert",
+               "Jeffrey Kusama-Hinte",
+               "Celine Rattray"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Scott Rudin",
-                  "notes": null,
-                  "imdb_id": "nm0748784"
-               },
-               {
-                  "name": "Dana Brunetti",
-                  "notes": null,
-                  "imdb_id": "nm0116232"
-               },
-               {
-                  "name": "Michael De Luca",
-                  "notes": null,
-                  "imdb_id": "nm0006894"
-               },
-               {
-                  "name": "Ce\u00e1n Chaffin",
-                  "notes": null,
-                  "imdb_id": "nm0149556"
-               }
+               "Scott Rudin",
+               "Dana Brunetti",
+               "Michael De Luca",
+               "Ce\u00e1n Chaffin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Toy Story 3",
-                  "notes": null,
-                  "imdb_id": "tt0435761"
-               }
+               "Toy Story 3"
             ],
             "secondary": [
-               {
-                  "name": "Darla K. Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0026565"
-               }
+               "Darla K. Anderson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Ethan Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001053"
-               },
-               {
-                  "name": "Joel Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001054"
-               },
-               {
-                  "name": "Scott Rudin",
-                  "notes": null,
-                  "imdb_id": "nm0748784"
-               }
+               "Ethan Coen",
+               "Joel Coen",
+               "Scott Rudin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Winter's Bone",
-                  "notes": null,
-                  "imdb_id": "tt1399683"
-               }
+               "Winter's Bone"
             ],
             "secondary": [
-               {
-                  "name": "Anne Rosellini",
-                  "notes": null,
-                  "imdb_id": "nm1367893"
-               },
-               {
-                  "name": "Alix Madigan",
-                  "notes": null,
-                  "imdb_id": "nm0534893"
-               }
+               "Anne Rosellini",
+               "Alix Madigan"
             ]
          }
       ]
@@ -276,90 +128,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Colin Firth",
-                  "notes": null,
-                  "imdb_id": "nm0000147"
-               }
+               "Colin Firth"
             ],
             "secondary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "James Franco",
-                  "notes": null,
-                  "imdb_id": "nm0290556"
-               }
+               "James Franco"
             ],
             "secondary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Javier Bardem",
-                  "notes": null,
-                  "imdb_id": "nm0000849"
-               }
+               "Javier Bardem"
             ],
             "secondary": [
-               {
-                  "name": "Biutiful",
-                  "notes": null,
-                  "imdb_id": "tt1164999"
-               }
+               "Biutiful"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jeff Bridges",
-                  "notes": null,
-                  "imdb_id": "nm0000313"
-               }
+               "Jeff Bridges"
             ],
             "secondary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jesse Eisenberg",
-                  "notes": null,
-                  "imdb_id": "nm0251986"
-               }
+               "Jesse Eisenberg"
             ],
             "secondary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ]
          }
       ]
@@ -371,90 +183,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Natalie Portman",
-                  "notes": null,
-                  "imdb_id": "nm0000204"
-               }
+               "Natalie Portman"
             ],
             "secondary": [
-               {
-                  "name": "Black Swan",
-                  "notes": null,
-                  "imdb_id": "tt0947798"
-               }
+               "Black Swan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Annette Bening",
-                  "notes": null,
-                  "imdb_id": "nm0000906"
-               }
+               "Annette Bening"
             ],
             "secondary": [
-               {
-                  "name": "The Kids Are All Right",
-                  "notes": null,
-                  "imdb_id": "tt0842926"
-               }
+               "The Kids Are All Right"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jennifer Lawrence",
-                  "notes": null,
-                  "imdb_id": "nm2225369"
-               }
+               "Jennifer Lawrence"
             ],
             "secondary": [
-               {
-                  "name": "Winter's Bone",
-                  "notes": null,
-                  "imdb_id": "tt1399683"
-               }
+               "Winter's Bone"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Michelle Williams",
-                  "notes": null,
-                  "imdb_id": "nm0931329"
-               }
+               "Michelle Williams"
             ],
             "secondary": [
-               {
-                  "name": "Blue Valentine",
-                  "notes": null,
-                  "imdb_id": "tt1120985"
-               }
+               "Blue Valentine"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Nicole Kidman",
-                  "notes": null,
-                  "imdb_id": "nm0000173"
-               }
+               "Nicole Kidman"
             ],
             "secondary": [
-               {
-                  "name": "Rabbit Hole",
-                  "notes": null,
-                  "imdb_id": "tt0935075"
-               }
+               "Rabbit Hole"
             ]
          }
       ]
@@ -466,90 +238,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Christian Bale",
-                  "notes": null,
-                  "imdb_id": "nm0000288"
-               }
+               "Christian Bale"
             ],
             "secondary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Geoffrey Rush",
-                  "notes": null,
-                  "imdb_id": "nm0001691"
-               }
+               "Geoffrey Rush"
             ],
             "secondary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jeremy Renner",
-                  "notes": null,
-                  "imdb_id": "nm0719637"
-               }
+               "Jeremy Renner"
             ],
             "secondary": [
-               {
-                  "name": "The Town",
-                  "notes": null,
-                  "imdb_id": "tt0840361"
-               }
+               "The Town"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "John Hawkes",
-                  "notes": null,
-                  "imdb_id": "nm0370035"
-               }
+               "John Hawkes"
             ],
             "secondary": [
-               {
-                  "name": "Winter's Bone",
-                  "notes": null,
-                  "imdb_id": "tt1399683"
-               }
+               "Winter's Bone"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mark Ruffalo",
-                  "notes": null,
-                  "imdb_id": "nm0749263"
-               }
+               "Mark Ruffalo"
             ],
             "secondary": [
-               {
-                  "name": "The Kids Are All Right",
-                  "notes": null,
-                  "imdb_id": "tt0842926"
-               }
+               "The Kids Are All Right"
             ]
          }
       ]
@@ -561,90 +293,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Melissa Leo",
-                  "notes": null,
-                  "imdb_id": "nm0502425"
-               }
+               "Melissa Leo"
             ],
             "secondary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Amy Adams",
-                  "notes": null,
-                  "imdb_id": "nm0010736"
-               }
+               "Amy Adams"
             ],
             "secondary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hailee Steinfeld",
-                  "notes": null,
-                  "imdb_id": "nm2794962"
-               }
+               "Hailee Steinfeld"
             ],
             "secondary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Helena Bonham Carter",
-                  "notes": null,
-                  "imdb_id": "nm0000307"
-               }
+               "Helena Bonham Carter"
             ],
             "secondary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jacki Weaver",
-                  "notes": null,
-                  "imdb_id": "nm0915865"
-               }
+               "Jacki Weaver"
             ],
             "secondary": [
-               {
-                  "name": "Animal Kingdom",
-                  "notes": null,
-                  "imdb_id": "tt1313092"
-               }
+               "Animal Kingdom"
             ]
          }
       ]
@@ -656,95 +348,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Tom Hooper",
-                  "notes": null,
-                  "imdb_id": "nm0393799"
-               }
+               "Tom Hooper"
             ],
             "secondary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Darren Aronofsky",
-                  "notes": null,
-                  "imdb_id": "nm0004716"
-               }
+               "Darren Aronofsky"
             ],
             "secondary": [
-               {
-                  "name": "Black Swan",
-                  "notes": null,
-                  "imdb_id": "tt0947798"
-               }
+               "Black Swan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "David Fincher",
-                  "notes": null,
-                  "imdb_id": "nm0000399"
-               }
+               "David Fincher"
             ],
             "secondary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "David O. Russell",
-                  "notes": null,
-                  "imdb_id": "nm0751102"
-               }
+               "David O. Russell"
             ],
             "secondary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ethan Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001053"
-               },
-               {
-                  "name": "Joel Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001054"
-               }
+               "Ethan Coen",
+               "Joel Coen"
             ],
             "secondary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ]
          }
       ]
@@ -756,110 +404,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "David Seidler",
-                  "notes": null,
-                  "imdb_id": "nm0782436"
-               }
+               "David Seidler"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Another Year",
-                  "notes": null,
-                  "imdb_id": "tt1431181"
-               }
+               "Another Year"
             ],
             "secondary": [
-               {
-                  "name": "Mike Leigh",
-                  "notes": null,
-                  "imdb_id": "nm0005139"
-               }
+               "Mike Leigh"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Nolan",
-                  "notes": null,
-                  "imdb_id": "nm0634240"
-               }
+               "Christopher Nolan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ],
             "secondary": [
-               {
-                  "name": "Scott Silver",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0798788"
-               },
-               {
-                  "name": "Paul Tamasy",
-                  "notes": "(screenplay/story)",
-                  "imdb_id": "nm0848496"
-               },
-               {
-                  "name": "Eric Johnson",
-                  "notes": "(screenplay/story)",
-                  "imdb_id": "nm2053216"
-               },
-               {
-                  "name": "Keith Dorrington",
-                  "notes": "(story)",
-                  "imdb_id": "nm2565612"
-               }
+               "Scott Silver",
+               "Paul Tamasy",
+               "Eric Johnson",
+               "Keith Dorrington"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Kids Are All Right",
-                  "notes": null,
-                  "imdb_id": "tt0842926"
-               }
+               "The Kids Are All Right"
             ],
             "secondary": [
-               {
-                  "name": "Lisa Cholodenko",
-                  "notes": null,
-                  "imdb_id": "nm0158966"
-               },
-               {
-                  "name": "Stuart Blumberg",
-                  "notes": null,
-                  "imdb_id": "nm0089742"
-               }
+               "Lisa Cholodenko",
+               "Stuart Blumberg"
             ]
          }
       ]
@@ -871,120 +463,56 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Aaron Sorkin",
-                  "notes": null,
-                  "imdb_id": "nm0815070"
-               }
+               "Aaron Sorkin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ],
             "secondary": [
-               {
-                  "name": "Danny Boyle",
-                  "notes": null,
-                  "imdb_id": "nm0000965"
-               },
-               {
-                  "name": "Simon Beaufoy",
-                  "notes": null,
-                  "imdb_id": "nm0064479"
-               }
+               "Danny Boyle",
+               "Simon Beaufoy"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Toy Story 3",
-                  "notes": null,
-                  "imdb_id": "tt0435761"
-               }
+               "Toy Story 3"
             ],
             "secondary": [
-               {
-                  "name": "Michael Arndt",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm1578335"
-               },
-               {
-                  "name": "John Lasseter",
-                  "notes": "(story)",
-                  "imdb_id": "nm0005124"
-               },
-               {
-                  "name": "Andrew Stanton",
-                  "notes": "(story)",
-                  "imdb_id": "nm0004056"
-               },
-               {
-                  "name": "Lee Unkrich",
-                  "notes": "(story)",
-                  "imdb_id": "nm0881279"
-               }
+               "Michael Arndt",
+               "John Lasseter",
+               "Andrew Stanton",
+               "Lee Unkrich"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Joel Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001054"
-               },
-               {
-                  "name": "Ethan Coen",
-                  "notes": null,
-                  "imdb_id": "nm0001053"
-               }
+               "Joel Coen",
+               "Ethan Coen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Winter's Bone",
-                  "notes": null,
-                  "imdb_id": "tt1399683"
-               }
+               "Winter's Bone"
             ],
             "secondary": [
-               {
-                  "name": "Debra Granik",
-                  "notes": null,
-                  "imdb_id": "nm0335138"
-               },
-               {
-                  "name": "Anne Rosellini",
-                  "notes": null,
-                  "imdb_id": "nm1367893"
-               }
+               "Debra Granik",
+               "Anne Rosellini"
             ]
          }
       ]
@@ -996,90 +524,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Wally Pfister",
-                  "notes": null,
-                  "imdb_id": "nm0002892"
-               }
+               "Wally Pfister"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Swan",
-                  "notes": null,
-                  "imdb_id": "tt0947798"
-               }
+               "Black Swan"
             ],
             "secondary": [
-               {
-                  "name": "Matthew Libatique",
-                  "notes": null,
-                  "imdb_id": "nm0508732"
-               }
+               "Matthew Libatique"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Danny Cohen",
-                  "notes": null,
-                  "imdb_id": "nm0169299"
-               }
+               "Danny Cohen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Jeff Cronenweth",
-                  "notes": null,
-                  "imdb_id": "nm0188729"
-               }
+               "Jeff Cronenweth"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Roger Deakins",
-                  "notes": null,
-                  "imdb_id": "nm0005683"
-               }
+               "Roger Deakins"
             ]
          }
       ]
@@ -1091,120 +579,56 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Alice in Wonderland",
-                  "notes": null,
-                  "imdb_id": "tt1014759"
-               }
+               "Alice in Wonderland"
             ],
             "secondary": [
-               {
-                  "name": "Robert Stromberg",
-                  "notes": "(production designer)",
-                  "imdb_id": "nm0834902"
-               },
-               {
-                  "name": "Karen O'Hara",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0641286"
-               }
+               "Robert Stromberg",
+               "Karen O'Hara"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Harry Potter and the Deathly Hallows: Part 1",
-                  "notes": null,
-                  "imdb_id": "tt0926084"
-               }
+               "Harry Potter and the Deathly Hallows: Part 1"
             ],
             "secondary": [
-               {
-                  "name": "Stuart Craig",
-                  "notes": "(production designer)",
-                  "imdb_id": "nm0186023"
-               },
-               {
-                  "name": "Stephenie McMillan",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0573328"
-               }
+               "Stuart Craig",
+               "Stephenie McMillan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Guy Hendrix Dyas",
-                  "notes": "(production designer)",
-                  "imdb_id": "nm0245596"
-               },
-               {
-                  "name": "Larry Dias",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0224878"
-               },
-               {
-                  "name": "Douglas A. Mowat",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0610245"
-               }
+               "Guy Hendrix Dyas",
+               "Larry Dias",
+               "Douglas A. Mowat"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Eve Stewart",
-                  "notes": "(production designer)",
-                  "imdb_id": "nm0829378"
-               },
-               {
-                  "name": "Judy Farr",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0268035"
-               }
+               "Eve Stewart",
+               "Judy Farr"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Jess Gonchor",
-                  "notes": "(production designer)",
-                  "imdb_id": "nm0327211"
-               },
-               {
-                  "name": "Nancy Haigh",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0354101"
-               }
+               "Jess Gonchor",
+               "Nancy Haigh"
             ]
          }
       ]
@@ -1216,95 +640,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Kirk Baxter",
-                  "notes": null,
-                  "imdb_id": "nm0062775"
-               },
-               {
-                  "name": "Angus Wall",
-                  "notes": null,
-                  "imdb_id": "nm0908370"
-               }
+               "Kirk Baxter",
+               "Angus Wall"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ],
             "secondary": [
-               {
-                  "name": "Jon Harris",
-                  "notes": null,
-                  "imdb_id": "nm1154184"
-               }
+               "Jon Harris"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Black Swan",
-                  "notes": null,
-                  "imdb_id": "tt0947798"
-               }
+               "Black Swan"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Weisblum",
-                  "notes": null,
-                  "imdb_id": "nm0918733"
-               }
+               "Andrew Weisblum"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Fighter",
-                  "notes": null,
-                  "imdb_id": "tt0964517"
-               }
+               "The Fighter"
             ],
             "secondary": [
-               {
-                  "name": "Pamela Martin",
-                  "notes": null,
-                  "imdb_id": "nm0552862"
-               }
+               "Pamela Martin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Tariq Anwar",
-                  "notes": null,
-                  "imdb_id": "nm0031697"
-               }
+               "Tariq Anwar"
             ]
          }
       ]
@@ -1316,90 +696,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Alice in Wonderland",
-                  "notes": null,
-                  "imdb_id": "tt1014759"
-               }
+               "Alice in Wonderland"
             ],
             "secondary": [
-               {
-                  "name": "Colleen Atwood",
-                  "notes": null,
-                  "imdb_id": "nm0041181"
-               }
+               "Colleen Atwood"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "I Am Love",
-                  "notes": null,
-                  "imdb_id": "tt1226236"
-               }
+               "I Am Love"
             ],
             "secondary": [
-               {
-                  "name": "Antonella Cannarozzi",
-                  "notes": null,
-                  "imdb_id": "nm0134050"
-               }
+               "Antonella Cannarozzi"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Jenny Beavan",
-                  "notes": null,
-                  "imdb_id": "nm0064746"
-               }
+               "Jenny Beavan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Tempest",
-                  "notes": null,
-                  "imdb_id": "tt1274300"
-               }
+               "The Tempest"
             ],
             "secondary": [
-               {
-                  "name": "Sandy Powell",
-                  "notes": null,
-                  "imdb_id": "nm0694309"
-               }
+               "Sandy Powell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Mary Zophres",
-                  "notes": null,
-                  "imdb_id": "nm0957861"
-               }
+               "Mary Zophres"
             ]
          }
       ]
@@ -1411,97 +751,45 @@
             "notes": "For the song \"We Belong Together\".",
             "won": true,
             "primary": [
-               {
-                  "name": "Toy Story 3",
-                  "notes": null,
-                  "imdb_id": "tt0435761"
-               }
+               "Toy Story 3"
             ],
             "secondary": [
-               {
-                  "name": "Randy Newman",
-                  "notes": null,
-                  "imdb_id": "nm0005271"
-               }
+               "Randy Newman"
             ]
          },
          {
             "notes": "For the song \"If I Rise\".",
             "won": false,
             "primary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ],
             "secondary": [
-               {
-                  "name": "A.R. Rahman",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006246"
-               },
-               {
-                  "name": "Dido",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0225824"
-               },
-               {
-                  "name": "Roland 'Rollo' Armstrong",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm1926821"
-               }
+               "A.R. Rahman",
+               "Dido",
+               "Roland 'Rollo' Armstrong"
             ]
          },
          {
             "notes": "For the song \"Coming Home\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Country Strong",
-                  "notes": null,
-                  "imdb_id": "tt1555064"
-               }
+               "Country Strong"
             ],
             "secondary": [
-               {
-                  "name": "Tom Douglas",
-                  "notes": null,
-                  "imdb_id": "nm2762412"
-               },
-               {
-                  "name": "Troy Verges",
-                  "notes": null,
-                  "imdb_id": "nm1525422"
-               },
-               {
-                  "name": "Hillary Lindsey",
-                  "notes": null,
-                  "imdb_id": "nm4269992"
-               }
+               "Tom Douglas",
+               "Troy Verges",
+               "Hillary Lindsey"
             ]
          },
          {
             "notes": "For the song \"I See the Light\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Tangled",
-                  "notes": null,
-                  "imdb_id": "tt0398286"
-               }
+               "Tangled"
             ],
             "secondary": [
-               {
-                  "name": "Alan Menken",
-                  "notes": "(music)",
-                  "imdb_id": "nm0579678"
-               },
-               {
-                  "name": "Glenn Slater",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm1637698"
-               }
+               "Alan Menken",
+               "Glenn Slater"
             ]
          }
       ]
@@ -1513,95 +801,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Trent Reznor",
-                  "notes": null,
-                  "imdb_id": "nm0722153"
-               },
-               {
-                  "name": "Atticus Ross",
-                  "notes": null,
-                  "imdb_id": "nm1589604"
-               }
+               "Trent Reznor",
+               "Atticus Ross"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "127 Hours",
-                  "notes": null,
-                  "imdb_id": "tt1542344"
-               }
+               "127 Hours"
             ],
             "secondary": [
-               {
-                  "name": "A.R. Rahman",
-                  "notes": null,
-                  "imdb_id": "nm0006246"
-               }
+               "A.R. Rahman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "How to Train Your Dragon",
-                  "notes": null,
-                  "imdb_id": "tt0892769"
-               }
+               "How to Train Your Dragon"
             ],
             "secondary": [
-               {
-                  "name": "John Powell",
-                  "notes": null,
-                  "imdb_id": "nm0694173"
-               }
+               "John Powell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Hans Zimmer",
-                  "notes": null,
-                  "imdb_id": "nm0001877"
-               }
+               "Hans Zimmer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Alexandre Desplat",
-                  "notes": null,
-                  "imdb_id": "nm0006035"
-               }
+               "Alexandre Desplat"
             ]
          }
       ]
@@ -1613,155 +857,63 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Lora Hirschberg",
-                  "notes": null,
-                  "imdb_id": "nm0386567"
-               },
-               {
-                  "name": "Gary A. Rizzo",
-                  "notes": null,
-                  "imdb_id": "nm0729886"
-               },
-               {
-                  "name": "Ed Novick",
-                  "notes": null,
-                  "imdb_id": "nm0637085"
-               }
+               "Lora Hirschberg",
+               "Gary A. Rizzo",
+               "Ed Novick"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Salt",
-                  "notes": null,
-                  "imdb_id": "tt0944835"
-               }
+               "Salt"
             ],
             "secondary": [
-               {
-                  "name": "Jeffrey J. Haboush",
-                  "notes": null,
-                  "imdb_id": "nm0352300"
-               },
-               {
-                  "name": "William Sarokin",
-                  "notes": null,
-                  "imdb_id": "nm0765458"
-               },
-               {
-                  "name": "Scott Millan",
-                  "notes": null,
-                  "imdb_id": "nm0586793"
-               },
-               {
-                  "name": "Greg P. Russell",
-                  "notes": null,
-                  "imdb_id": "nm0751169"
-               }
+               "Jeffrey J. Haboush",
+               "William Sarokin",
+               "Scott Millan",
+               "Greg P. Russell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The King's Speech",
-                  "notes": null,
-                  "imdb_id": "tt1504320"
-               }
+               "The King's Speech"
             ],
             "secondary": [
-               {
-                  "name": "Paul Hamblin",
-                  "notes": null,
-                  "imdb_id": "nm0357413"
-               },
-               {
-                  "name": "Martin Jensen",
-                  "notes": null,
-                  "imdb_id": "nm1259646"
-               },
-               {
-                  "name": "John Midgley",
-                  "notes": null,
-                  "imdb_id": "nm0585611"
-               }
+               "Paul Hamblin",
+               "Martin Jensen",
+               "John Midgley"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Social Network",
-                  "notes": null,
-                  "imdb_id": "tt1285016"
-               }
+               "The Social Network"
             ],
             "secondary": [
-               {
-                  "name": "Ren Klyce",
-                  "notes": null,
-                  "imdb_id": "nm0460274"
-               },
-               {
-                  "name": "David Parker",
-                  "notes": null,
-                  "imdb_id": "nm0662188"
-               },
-               {
-                  "name": "Michael Semanick",
-                  "notes": null,
-                  "imdb_id": "nm0783713"
-               },
-               {
-                  "name": "Mark Weingarten",
-                  "notes": null,
-                  "imdb_id": "nm0918319"
-               }
+               "Ren Klyce",
+               "David Parker",
+               "Michael Semanick",
+               "Mark Weingarten"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Skip Lievsay",
-                  "notes": null,
-                  "imdb_id": "nm0509792"
-               },
-               {
-                  "name": "Craig Berkey",
-                  "notes": null,
-                  "imdb_id": "nm0075389"
-               },
-               {
-                  "name": "Greg Orloff",
-                  "notes": null,
-                  "imdb_id": "nm0650088"
-               },
-               {
-                  "name": "Peter F. Kurland",
-                  "notes": null,
-                  "imdb_id": "nm0004212"
-               }
+               "Skip Lievsay",
+               "Craig Berkey",
+               "Greg Orloff",
+               "Peter F. Kurland"
             ]
          }
       ]
@@ -1773,105 +925,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Richard King",
-                  "notes": null,
-                  "imdb_id": "nm0455185"
-               }
+               "Richard King"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "TRON: Legacy",
-                  "notes": null,
-                  "imdb_id": "tt1104001"
-               }
+               "TRON: Legacy"
             ],
             "secondary": [
-               {
-                  "name": "Gwendolyn Yates Whittle",
-                  "notes": null,
-                  "imdb_id": "nm0946705"
-               },
-               {
-                  "name": "Addison Teague",
-                  "notes": null,
-                  "imdb_id": "nm0853529"
-               }
+               "Gwendolyn Yates Whittle",
+               "Addison Teague"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Toy Story 3",
-                  "notes": null,
-                  "imdb_id": "tt0435761"
-               }
+               "Toy Story 3"
             ],
             "secondary": [
-               {
-                  "name": "Tom Myers",
-                  "notes": null,
-                  "imdb_id": "nm0616878"
-               },
-               {
-                  "name": "Michael Silvers",
-                  "notes": null,
-                  "imdb_id": "nm0799011"
-               }
+               "Tom Myers",
+               "Michael Silvers"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "True Grit",
-                  "notes": null,
-                  "imdb_id": "tt1403865"
-               }
+               "True Grit"
             ],
             "secondary": [
-               {
-                  "name": "Skip Lievsay",
-                  "notes": null,
-                  "imdb_id": "nm0509792"
-               },
-               {
-                  "name": "Craig Berkey",
-                  "notes": null,
-                  "imdb_id": "nm0075389"
-               }
+               "Skip Lievsay",
+               "Craig Berkey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Unstoppable",
-                  "notes": null,
-                  "imdb_id": "tt0477080"
-               }
+               "Unstoppable"
             ],
             "secondary": [
-               {
-                  "name": "Mark P. Stoeckinger",
-                  "notes": null,
-                  "imdb_id": "nm0831057"
-               }
+               "Mark P. Stoeckinger"
             ]
          }
       ]
@@ -1883,165 +983,65 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Inception",
-                  "notes": null,
-                  "imdb_id": "tt1375666"
-               }
+               "Inception"
             ],
             "secondary": [
-               {
-                  "name": "Chris Corbould",
-                  "notes": null,
-                  "imdb_id": "nm0179269"
-               },
-               {
-                  "name": "Andrew Lockley",
-                  "notes": null,
-                  "imdb_id": "nm0516916"
-               },
-               {
-                  "name": "Pete Bebb",
-                  "notes": null,
-                  "imdb_id": "nm0064825"
-               },
-               {
-                  "name": "Paul J. Franklin",
-                  "notes": null,
-                  "imdb_id": "nm0291518"
-               }
+               "Chris Corbould",
+               "Andrew Lockley",
+               "Pete Bebb",
+               "Paul J. Franklin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Alice in Wonderland",
-                  "notes": null,
-                  "imdb_id": "tt1014759"
-               }
+               "Alice in Wonderland"
             ],
             "secondary": [
-               {
-                  "name": "Ken Ralston",
-                  "notes": null,
-                  "imdb_id": "nm0707822"
-               },
-               {
-                  "name": "David Schaub",
-                  "notes": null,
-                  "imdb_id": "nm0770258"
-               },
-               {
-                  "name": "Carey Villegas",
-                  "notes": null,
-                  "imdb_id": "nm0898211"
-               },
-               {
-                  "name": "Sean Phillips",
-                  "notes": null,
-                  "imdb_id": "nm1237052"
-               }
+               "Ken Ralston",
+               "David Schaub",
+               "Carey Villegas",
+               "Sean Phillips"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Harry Potter and the Deathly Hallows: Part 1",
-                  "notes": null,
-                  "imdb_id": "tt0926084"
-               }
+               "Harry Potter and the Deathly Hallows: Part 1"
             ],
             "secondary": [
-               {
-                  "name": "Tim Burke",
-                  "notes": null,
-                  "imdb_id": "nm0121888"
-               },
-               {
-                  "name": "John Richardson",
-                  "notes": null,
-                  "imdb_id": "nm0724624"
-               },
-               {
-                  "name": "Christian Manz",
-                  "notes": null,
-                  "imdb_id": "nm1114640"
-               },
-               {
-                  "name": "Nicolas Aithadi",
-                  "notes": null,
-                  "imdb_id": "nm1212365"
-               }
+               "Tim Burke",
+               "John Richardson",
+               "Christian Manz",
+               "Nicolas Aithadi"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hereafter",
-                  "notes": null,
-                  "imdb_id": "tt1212419"
-               }
+               "Hereafter"
             ],
             "secondary": [
-               {
-                  "name": "Michael Owens",
-                  "notes": null,
-                  "imdb_id": "nm0654424"
-               },
-               {
-                  "name": "Bryan Grill",
-                  "notes": null,
-                  "imdb_id": "nm0341985"
-               },
-               {
-                  "name": "Stephan Trojansky",
-                  "notes": null,
-                  "imdb_id": "nm1176756"
-               },
-               {
-                  "name": "Joe Farrell",
-                  "notes": null,
-                  "imdb_id": "nm1062239"
-               }
+               "Michael Owens",
+               "Bryan Grill",
+               "Stephan Trojansky",
+               "Joe Farrell"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Iron Man 2",
-                  "notes": null,
-                  "imdb_id": "tt1228705"
-               }
+               "Iron Man 2"
             ],
             "secondary": [
-               {
-                  "name": "Janek Sirrs",
-                  "notes": null,
-                  "imdb_id": "nm0802938"
-               },
-               {
-                  "name": "Ben Snow",
-                  "notes": null,
-                  "imdb_id": "nm0811240"
-               },
-               {
-                  "name": "Ged Wright",
-                  "notes": null,
-                  "imdb_id": "nm2261997"
-               },
-               {
-                  "name": "Daniel Sudick",
-                  "notes": null,
-                  "imdb_id": "nm0837203"
-               }
+               "Janek Sirrs",
+               "Ben Snow",
+               "Ged Wright",
+               "Daniel Sudick"
             ]
          }
       ]
@@ -2053,100 +1053,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lost Thing",
-                  "notes": null,
-                  "imdb_id": "tt1669698"
-               }
+               "The Lost Thing"
             ],
             "secondary": [
-               {
-                  "name": "Shaun Tan",
-                  "notes": null,
-                  "imdb_id": "nm1316810"
-               },
-               {
-                  "name": "Andrew Ruhemann",
-                  "notes": null,
-                  "imdb_id": "nm0749509"
-               }
+               "Shaun Tan",
+               "Andrew Ruhemann"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Day & Night",
-                  "notes": null,
-                  "imdb_id": "tt1620446"
-               }
+               "Day & Night"
             ],
             "secondary": [
-               {
-                  "name": "Teddy Newton",
-                  "notes": null,
-                  "imdb_id": "nm0628599"
-               }
+               "Teddy Newton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Let's Pollute",
-                  "notes": null,
-                  "imdb_id": "tt1470652"
-               }
+               "Let's Pollute"
             ],
             "secondary": [
-               {
-                  "name": "Geefwee Boedoe",
-                  "notes": null,
-                  "imdb_id": "nm0091161"
-               }
+               "Geefwee Boedoe"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Madagascar, a Journey Diary",
-                  "notes": null,
-                  "imdb_id": "tt1590114"
-               }
+               "Madagascar, a Journey Diary"
             ],
             "secondary": [
-               {
-                  "name": "Bastien Dubois",
-                  "notes": null,
-                  "imdb_id": "nm3777126"
-               }
+               "Bastien Dubois"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Gruffalo",
-                  "notes": null,
-                  "imdb_id": "tt1461418"
-               }
+               "The Gruffalo"
             ],
             "secondary": [
-               {
-                  "name": "Jakob Schuh",
-                  "notes": null,
-                  "imdb_id": "nm2104164"
-               },
-               {
-                  "name": "Max Lang",
-                  "notes": null,
-                  "imdb_id": "nm3495071"
-               }
+               "Jakob Schuh",
+               "Max Lang"
             ]
          }
       ]
@@ -2158,95 +1110,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "God of Love",
-                  "notes": null,
-                  "imdb_id": "tt1631323"
-               }
+               "God of Love"
             ],
             "secondary": [
-               {
-                  "name": "Luke Matheny",
-                  "notes": null,
-                  "imdb_id": "nm1487468"
-               }
+               "Luke Matheny"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Na Wewe",
-                  "notes": null,
-                  "imdb_id": "tt1764508"
-               }
+               "Na Wewe"
             ],
             "secondary": [
-               {
-                  "name": "Ivan Goldschmidt",
-                  "notes": null,
-                  "imdb_id": "nm0326006"
-               }
+               "Ivan Goldschmidt"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Confession",
-                  "notes": null,
-                  "imdb_id": "tt1687903"
-               }
+               "The Confession"
             ],
             "secondary": [
-               {
-                  "name": "Tanel Toom",
-                  "notes": null,
-                  "imdb_id": "nm1823803"
-               }
+               "Tanel Toom"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Crush",
-                  "notes": null,
-                  "imdb_id": "tt1509756"
-               }
+               "The Crush"
             ],
             "secondary": [
-               {
-                  "name": "Michael Creagh",
-                  "notes": null,
-                  "imdb_id": "nm1739260"
-               }
+               "Michael Creagh"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Wish 143",
-                  "notes": null,
-                  "imdb_id": "tt1518330"
-               }
+               "Wish 143"
             ],
             "secondary": [
-               {
-                  "name": "Ian Barnes",
-                  "notes": null,
-                  "imdb_id": "nm1357838"
-               },
-               {
-                  "name": "Samantha Waite",
-                  "notes": null,
-                  "imdb_id": "nm1639314"
-               }
+               "Ian Barnes",
+               "Samantha Waite"
             ]
          }
       ]
@@ -2258,110 +1166,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Strangers No More",
-                  "notes": null,
-                  "imdb_id": "tt1754549"
-               }
+               "Strangers No More"
             ],
             "secondary": [
-               {
-                  "name": "Karen Goodman",
-                  "notes": null,
-                  "imdb_id": "nm0329139"
-               },
-               {
-                  "name": "Kirk Simon",
-                  "notes": null,
-                  "imdb_id": "nm0800232"
-               }
+               "Karen Goodman",
+               "Kirk Simon"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Killing in the Name",
-                  "notes": null,
-                  "imdb_id": "tt1684897"
-               }
+               "Killing in the Name"
             ],
             "secondary": [
-               {
-                  "name": "Jed Rothstein",
-                  "notes": null,
-                  "imdb_id": "nm1160206"
-               }
+               "Jed Rothstein"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Poster Girl",
-                  "notes": null,
-                  "imdb_id": "tt1505384"
-               }
+               "Poster Girl"
             ],
             "secondary": [
-               {
-                  "name": "Mitchell Block",
-                  "notes": "(producer)",
-                  "imdb_id": "nm0088753"
-               },
-               {
-                  "name": "Sara Nesson",
-                  "notes": "(director)",
-                  "imdb_id": "nm3257331"
-               }
+               "Mitchell Block",
+               "Sara Nesson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sun Come Up",
-                  "notes": null,
-                  "imdb_id": "tt1621975"
-               }
+               "Sun Come Up"
             ],
             "secondary": [
-               {
-                  "name": "Jennifer Redfearn",
-                  "notes": null,
-                  "imdb_id": "nm2503646"
-               },
-               {
-                  "name": "Tim Metzger",
-                  "notes": null,
-                  "imdb_id": "nm0582758"
-               }
+               "Jennifer Redfearn",
+               "Tim Metzger"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Warriors of Qiugang",
-                  "notes": null,
-                  "imdb_id": "tt1744887"
-               }
+               "The Warriors of Qiugang"
             ],
             "secondary": [
-               {
-                  "name": "Ruby Yang",
-                  "notes": null,
-                  "imdb_id": "nm0002548"
-               },
-               {
-                  "name": "Thomas Lennon",
-                  "notes": null,
-                  "imdb_id": "nm0502072"
-               }
+               "Ruby Yang",
+               "Thomas Lennon"
             ]
          }
       ]
@@ -2373,115 +1225,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Inside Job",
-                  "notes": null,
-                  "imdb_id": "tt1645089"
-               }
+               "Inside Job"
             ],
             "secondary": [
-               {
-                  "name": "Charles Ferguson",
-                  "notes": null,
-                  "imdb_id": "nm2480587"
-               },
-               {
-                  "name": "Audrey Marrs",
-                  "notes": null,
-                  "imdb_id": "nm2513737"
-               }
+               "Charles Ferguson",
+               "Audrey Marrs"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Exit Through the Gift Shop",
-                  "notes": null,
-                  "imdb_id": "tt1587707"
-               }
+               "Exit Through the Gift Shop"
             ],
             "secondary": [
-               {
-                  "name": "Banksy",
-                  "notes": null,
-                  "imdb_id": "nm2612991"
-               },
-               {
-                  "name": "Jaimie D'Cruz",
-                  "notes": null,
-                  "imdb_id": "nm3261008"
-               }
+               "Banksy",
+               "Jaimie D'Cruz"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "GasLand",
-                  "notes": null,
-                  "imdb_id": "tt1558250"
-               }
+               "GasLand"
             ],
             "secondary": [
-               {
-                  "name": "Josh Fox",
-                  "notes": null,
-                  "imdb_id": "nm1068198"
-               },
-               {
-                  "name": "Trish Adlesic",
-                  "notes": null,
-                  "imdb_id": "nm0012267"
-               }
+               "Josh Fox",
+               "Trish Adlesic"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Restrepo",
-                  "notes": null,
-                  "imdb_id": "tt1559549"
-               }
+               "Restrepo"
             ],
             "secondary": [
-               {
-                  "name": "Tim Hetherington",
-                  "notes": null,
-                  "imdb_id": "nm1770672"
-               },
-               {
-                  "name": "Sebastian Junger",
-                  "notes": null,
-                  "imdb_id": "nm0432631"
-               }
+               "Tim Hetherington",
+               "Sebastian Junger"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Waste Land",
-                  "notes": null,
-                  "imdb_id": "tt1268204"
-               }
+               "Waste Land"
             ],
             "secondary": [
-               {
-                  "name": "Lucy Walker",
-                  "notes": null,
-                  "imdb_id": "nm1013671"
-               },
-               {
-                  "name": "Angus Aynsley",
-                  "notes": null,
-                  "imdb_id": "nm2376154"
-               }
+               "Lucy Walker",
+               "Angus Aynsley"
             ]
          }
       ]
@@ -2493,11 +1285,7 @@
             "notes": "Denmark.",
             "won": true,
             "primary": [
-               {
-                  "name": "In a Better World",
-                  "notes": null,
-                  "imdb_id": "tt1340107"
-               }
+               "In a Better World"
             ],
             "secondary": []
          },
@@ -2505,11 +1293,7 @@
             "notes": "Mexico.",
             "won": false,
             "primary": [
-               {
-                  "name": "Biutiful",
-                  "notes": null,
-                  "imdb_id": "tt1164999"
-               }
+               "Biutiful"
             ],
             "secondary": []
          },
@@ -2517,11 +1301,7 @@
             "notes": "Greece.",
             "won": false,
             "primary": [
-               {
-                  "name": "Dogtooth",
-                  "notes": null,
-                  "imdb_id": "tt1379182"
-               }
+               "Dogtooth"
             ],
             "secondary": []
          },
@@ -2529,11 +1309,7 @@
             "notes": "Canada.",
             "won": false,
             "primary": [
-               {
-                  "name": "Incendies",
-                  "notes": null,
-                  "imdb_id": "tt1255953"
-               }
+               "Incendies"
             ],
             "secondary": []
          },
@@ -2541,11 +1317,7 @@
             "notes": "Algeria.",
             "won": false,
             "primary": [
-               {
-                  "name": "Outside the Law",
-                  "notes": null,
-                  "imdb_id": "tt1229381"
-               }
+               "Outside the Law"
             ],
             "secondary": []
          }
@@ -2558,59 +1330,31 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Toy Story 3",
-                  "notes": null,
-                  "imdb_id": "tt0435761"
-               }
+               "Toy Story 3"
             ],
             "secondary": [
-               {
-                  "name": "Lee Unkrich",
-                  "notes": null,
-                  "imdb_id": "nm0881279"
-               }
+               "Lee Unkrich"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "How to Train Your Dragon",
-                  "notes": null,
-                  "imdb_id": "tt0892769"
-               }
+               "How to Train Your Dragon"
             ],
             "secondary": [
-               {
-                  "name": "Dean DeBlois",
-                  "notes": null,
-                  "imdb_id": "nm0213450"
-               },
-               {
-                  "name": "Chris Sanders",
-                  "notes": null,
-                  "imdb_id": "nm0761498"
-               }
+               "Dean DeBlois",
+               "Chris Sanders"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Illusionist",
-                  "notes": null,
-                  "imdb_id": "tt0775489"
-               }
+               "The Illusionist"
             ],
             "secondary": [
-               {
-                  "name": "Sylvain Chomet",
-                  "notes": null,
-                  "imdb_id": "nm0158984"
-               }
+               "Sylvain Chomet"
             ]
          }
       ]
@@ -2622,69 +1366,33 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Wolfman",
-                  "notes": null,
-                  "imdb_id": "tt0780653"
-               }
+               "The Wolfman"
             ],
             "secondary": [
-               {
-                  "name": "Rick Baker",
-                  "notes": null,
-                  "imdb_id": "nm0000711"
-               },
-               {
-                  "name": "Dave Elsey",
-                  "notes": null,
-                  "imdb_id": "nm0255642"
-               }
+               "Rick Baker",
+               "Dave Elsey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Barney's Version",
-                  "notes": null,
-                  "imdb_id": "tt1423894"
-               }
+               "Barney's Version"
             ],
             "secondary": [
-               {
-                  "name": "Adrien Morot",
-                  "notes": null,
-                  "imdb_id": "nm0606110"
-               }
+               "Adrien Morot"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Way Back",
-                  "notes": null,
-                  "imdb_id": "tt1023114"
-               }
+               "The Way Back"
             ],
             "secondary": [
-               {
-                  "name": "Edouard F. Henriques",
-                  "notes": null,
-                  "imdb_id": "nm0377667"
-               },
-               {
-                  "name": "Greg Funk",
-                  "notes": null,
-                  "imdb_id": "nm0298727"
-               },
-               {
-                  "name": "Yolanda Toussieng",
-                  "notes": null,
-                  "imdb_id": "nm0869758"
-               }
+               "Edouard F. Henriques",
+               "Greg Funk",
+               "Yolanda Toussieng"
             ]
          }
       ]

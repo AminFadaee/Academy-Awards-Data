@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Richard Dreyfuss"
+      "winners": [
+         "Richard Dreyfuss"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Jason Robards"
+      "winners": [
+         "Jason Robards"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Diane Keaton"
+      "winners": [
+         "Diane Keaton"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Vanessa Redgrave"
+      "winners": [
+         "Vanessa Redgrave"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Close Encounters of the Third Kind"
+      "winners": [
+         "Close Encounters of the Third Kind"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Woody Allen"
+      "winners": [
+         "Woody Allen"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Who Are the DeBolts? and Where Did They Get Nineteen Kids?"
+      "winners": [
+         "Who Are the DeBolts? and Where Did They Get Nineteen Kids?"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Gravity Is My Enemy"
+      "winners": [
+         "Gravity Is My Enemy"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Madame Rosa"
+      "winners": [
+         "Madame Rosa"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "You Light Up My Life"
+      "winners": [
+         "You Light Up My Life"
+      ]
    },
    {
       "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
-      "winner": "A Little Night Music"
+      "winners": [
+         "A Little Night Music"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Annie Hall"
+      "winners": [
+         "Annie Hall"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "The Sand Castle"
+      "winners": [
+         "The Sand Castle"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "I'll Find a Way"
+      "winners": [
+         "I'll Find a Way"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Star Wars: Episode IV - A New Hope"
+      "winners": [
+         "Star Wars: Episode IV - A New Hope"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Julia"
+      "winners": [
+         "Julia"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Annie Hall"
+      "winners": [
+         "Annie Hall"
+      ]
    }
 ]

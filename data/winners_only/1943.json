@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "James Cagney"
+      "winners": [
+         "James Cagney"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Van Heflin"
+      "winners": [
+         "Van Heflin"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Greer Garson"
+      "winners": [
+         "Greer Garson"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Teresa Wright"
+      "winners": [
+         "Teresa Wright"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Black-and-White",
-      "winner": "This Above All"
+      "winners": [
+         "This Above All"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Color",
-      "winner": "My Gal Sal"
+      "winners": [
+         "My Gal Sal"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Mrs. Miniver"
+      "winners": [
+         "Mrs. Miniver"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "The Black Swan"
+      "winners": [
+         "The Black Swan"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "William Wyler"
+      "winners": [
+         "William Wyler"
+      ]
    },
    {
       "category": "Best Documentary",
-      "winner": "Why We Fight"
+      "winners": [
+         "Kokoda Front Line!"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "Reap the Wild Wind"
+      "winners": [
+         "Reap the Wild Wind"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Pride of the Yankees"
+      "winners": [
+         "The Pride of the Yankees"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Holiday Inn"
+      "winners": [
+         "Holiday Inn"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "Now, Voyager"
+      "winners": [
+         "Now, Voyager"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "Yankee Doodle Dandy"
+      "winners": [
+         "Yankee Doodle Dandy"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Mrs. Miniver"
+      "winners": [
+         "Mrs. Miniver"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Der Fuehrer's Face"
+      "winners": [
+         "Der Fuehrer's Face"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Speaking of Animals and Their Families"
+      "winners": [
+         "Speaking of Animals and Their Families"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Beyond the Line of Duty"
+      "winners": [
+         "Beyond the Line of Duty"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Yankee Doodle Dandy"
+      "winners": [
+         "Yankee Doodle Dandy"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Woman of the Year"
+      "winners": [
+         "Woman of the Year"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "49th Parallel"
+      "winners": [
+         "49th Parallel"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "Mrs. Miniver"
+      "winners": [
+         "Mrs. Miniver"
+      ]
    }
 ]

@@ -1,38 +1,56 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Lionel Barrymore"
+      "winners": [
+         "Lionel Barrymore"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Marie Dressler"
+      "winners": [
+         "Marie Dressler"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Cimarron"
+      "winners": [
+         "Cimarron"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Tabu: A Story of the South Seas"
+      "winners": [
+         "Tabu: A Story of the South Seas"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Norman Taurog"
+      "winners": [
+         "Norman Taurog"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Cimarron"
+      "winners": [
+         "Cimarron"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Paramount Publix Corporation"
+      "winners": [
+         "Paramount Publix Corporation"
+      ]
    },
    {
       "category": "Best Writing, Adaptation",
-      "winner": "Cimarron"
+      "winners": [
+         "Cimarron"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "The Dawn Patrol"
+      "winners": [
+         "The Dawn Patrol"
+      ]
    }
 ]

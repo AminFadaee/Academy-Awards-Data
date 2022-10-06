@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Spotlight"
+      "winners": [
+         "Spotlight"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Leonardo DiCaprio"
+      "winners": [
+         "Leonardo DiCaprio"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Brie Larson"
+      "winners": [
+         "Brie Larson"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Mark Rylance"
+      "winners": [
+         "Mark Rylance"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Alicia Vikander"
+      "winners": [
+         "Alicia Vikander"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Alejandro G. I\u00f1\u00e1rritu"
+      "winners": [
+         "Alejandro G. I\u00f1\u00e1rritu"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Spotlight"
+      "winners": [
+         "Spotlight"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "The Big Short"
+      "winners": [
+         "The Big Short"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "The Revenant"
+      "winners": [
+         "The Revenant"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Spectre"
+      "winners": [
+         "Spectre"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "The Hateful Eight"
+      "winners": [
+         "The Hateful Eight"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Mad Max: Fury Road"
+      "winners": [
+         "Mad Max: Fury Road"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Ex Machina"
+      "winners": [
+         "Ex Machina"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Bear Story"
+      "winners": [
+         "Bear Story"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Stutterer"
+      "winners": [
+         "Stutterer"
+      ]
    },
    {
       "category": "Best Documentary, Short Subject",
-      "winner": "A Girl in the River: The Price of Forgiveness"
+      "winners": [
+         "A Girl in the River: The Price of Forgiveness"
+      ]
    },
    {
       "category": "Best Documentary, Feature",
-      "winner": "Amy"
+      "winners": [
+         "Amy"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "Son of Saul"
+      "winners": [
+         "Son of Saul"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Inside Out"
+      "winners": [
+         "Inside Out"
+      ]
    }
 ]

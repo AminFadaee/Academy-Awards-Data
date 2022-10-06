@@ -1,106 +1,158 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Sidney Poitier"
+      "winners": [
+         "Sidney Poitier"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Melvyn Douglas"
+      "winners": [
+         "Melvyn Douglas"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Patricia Neal"
+      "winners": [
+         "Patricia Neal"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Margaret Rutherford"
+      "winners": [
+         "Margaret Rutherford"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "America America"
+      "winners": [
+         "America America"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "Cleopatra"
+      "winners": [
+         "Cleopatra"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Hud"
+      "winners": [
+         "Hud"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Cleopatra"
+      "winners": [
+         "Cleopatra"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "8\u00bd"
+      "winners": [
+         "8\u00bd"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "Cleopatra"
+      "winners": [
+         "Cleopatra"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Tony Richardson"
+      "winners": [
+         "Tony Richardson"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Robert Frost: A Lover's Quarrel with the World"
+      "winners": [
+         "Robert Frost: A Lover's Quarrel with the World"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Chagall"
+      "winners": [
+         "Chagall"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects",
-      "winner": "It's a Mad Mad Mad Mad World"
+      "winners": [
+         "It's a Mad Mad Mad Mad World"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Cleopatra"
+      "winners": [
+         "Cleopatra"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "How the West Was Won"
+      "winners": [
+         "How the West Was Won"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "8\u00bd"
+      "winners": [
+         "8\u00bd"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Papa's Delicate Condition"
+      "winners": [
+         "Papa's Delicate Condition"
+      ]
    },
    {
       "category": "Best Music, Score - Substantially Original",
-      "winner": "Tom Jones"
+      "winners": [
+         "Tom Jones"
+      ]
    },
    {
       "category": "Best Music, Scoring of Music, Adaptation or Treatment",
-      "winner": "Irma la Douce"
+      "winners": [
+         "Irma la Douce"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Tom Jones"
+      "winners": [
+         "Tom Jones"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Critic"
+      "winners": [
+         "The Critic"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "Occurrence at Owl Creek Bridge"
+      "winners": [
+         "Occurrence at Owl Creek Bridge"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "How the West Was Won"
+      "winners": [
+         "How the West Was Won"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Tom Jones"
+      "winners": [
+         "Tom Jones"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "How the West Was Won"
+      "winners": [
+         "How the West Was Won"
+      ]
    }
 ]

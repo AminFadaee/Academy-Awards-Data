@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Million Dollar Baby"
+      "winners": [
+         "Million Dollar Baby"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Jamie Foxx"
+      "winners": [
+         "Jamie Foxx"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Hilary Swank"
+      "winners": [
+         "Hilary Swank"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Morgan Freeman"
+      "winners": [
+         "Morgan Freeman"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Cate Blanchett"
+      "winners": [
+         "Cate Blanchett"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Clint Eastwood"
+      "winners": [
+         "Clint Eastwood"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Eternal Sunshine of the Spotless Mind"
+      "winners": [
+         "Eternal Sunshine of the Spotless Mind"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "Sideways"
+      "winners": [
+         "Sideways"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "The Aviator"
+      "winners": [
+         "The Aviator"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "The Aviator"
+      "winners": [
+         "The Aviator"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "The Aviator"
+      "winners": [
+         "The Aviator"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Aviator"
+      "winners": [
+         "The Aviator"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "The Motorcycle Diaries"
+      "winners": [
+         "The Motorcycle Diaries"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "Finding Neverland"
+      "winners": [
+         "Finding Neverland"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Ray"
+      "winners": [
+         "Ray"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "The Incredibles"
+      "winners": [
+         "The Incredibles"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Spider-Man 2"
+      "winners": [
+         "Spider-Man 2"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Ryan"
+      "winners": [
+         "Ryan"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Wasp"
+      "winners": [
+         "Wasp"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Mighty Times: The Children's March"
+      "winners": [
+         "Mighty Times: The Children's March"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Born Into Brothels: Calcutta's Red Light Kids"
+      "winners": [
+         "Born Into Brothels: Calcutta's Red Light Kids"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "The Sea Inside"
+      "winners": [
+         "The Sea Inside"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "The Incredibles"
+      "winners": [
+         "The Incredibles"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "A Series of Unfortunate Events"
+      "winners": [
+         "A Series of Unfortunate Events"
+      ]
    }
 ]

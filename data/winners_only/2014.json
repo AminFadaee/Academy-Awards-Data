@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "12 Years a Slave"
+      "winners": [
+         "12 Years a Slave"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Matthew McConaughey"
+      "winners": [
+         "Matthew McConaughey"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Cate Blanchett"
+      "winners": [
+         "Cate Blanchett"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Jared Leto"
+      "winners": [
+         "Jared Leto"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Lupita Nyong'o"
+      "winners": [
+         "Lupita Nyong'o"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Alfonso Cuar\u00f3n"
+      "winners": [
+         "Alfonso Cuar\u00f3n"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Her"
+      "winners": [
+         "Her"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "12 Years a Slave"
+      "winners": [
+         "12 Years a Slave"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "The Great Gatsby"
+      "winners": [
+         "The Great Gatsby"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Great Gatsby"
+      "winners": [
+         "The Great Gatsby"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Dallas Buyers Club"
+      "winners": [
+         "Dallas Buyers Club"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Frozen"
+      "winners": [
+         "Frozen"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Gravity"
+      "winners": [
+         "Gravity"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Mr Hublot"
+      "winners": [
+         "Mr Hublot"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Helium"
+      "winners": [
+         "Helium"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "The Lady in Number 6: Music Saved My Life"
+      "winners": [
+         "The Lady in Number 6: Music Saved My Life"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "20 Feet from Stardom"
+      "winners": [
+         "20 Feet from Stardom"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "The Great Beauty"
+      "winners": [
+         "The Great Beauty"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Frozen"
+      "winners": [
+         "Frozen"
+      ]
    }
 ]

@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Ray Milland"
+      "winners": [
+         "Ray Milland"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "James Dunn"
+      "winners": [
+         "James Dunn"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Joan Crawford"
+      "winners": [
+         "Joan Crawford"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Anne Revere"
+      "winners": [
+         "Anne Revere"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Black-and-White",
-      "winner": "Blood on the Sun"
+      "winners": [
+         "Blood on the Sun"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Color",
-      "winner": "Frenchman's Creek"
+      "winners": [
+         "Frenchman's Creek"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "The Picture of Dorian Gray"
+      "winners": [
+         "The Picture of Dorian Gray"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Leave Her to Heaven"
+      "winners": [
+         "Leave Her to Heaven"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Billy Wilder"
+      "winners": [
+         "Billy Wilder"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The True Glory"
+      "winners": [
+         "The True Glory"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Hitler Lives"
+      "winners": [
+         "Hitler Lives"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "Wonder Man"
+      "winners": [
+         "Wonder Man"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "National Velvet"
+      "winners": [
+         "National Velvet"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "State Fair"
+      "winners": [
+         "State Fair"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "Spellbound"
+      "winners": [
+         "Spellbound"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "Anchors Aweigh"
+      "winners": [
+         "Anchors Aweigh"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Lost Weekend"
+      "winners": [
+         "The Lost Weekend"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Quiet Please!"
+      "winners": [
+         "Quiet Please!"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Stairway to Light"
+      "winners": [
+         "Stairway to Light"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Star in the Night"
+      "winners": [
+         "Star in the Night"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "The Bells of St. Mary's"
+      "winners": [
+         "The Bells of St. Mary's"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Marie-Louise"
+      "winners": [
+         "Marie-Louise"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "The House on 92nd Street"
+      "winners": [
+         "The House on 92nd Street"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Lost Weekend"
+      "winners": [
+         "The Lost Weekend"
+      ]
    }
 ]

@@ -1,74 +1,110 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Spencer Tracy"
+      "winners": [
+         "Spencer Tracy"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Walter Brennan"
+      "winners": [
+         "Walter Brennan"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Bette Davis"
+      "winners": [
+         "Bette Davis"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Fay Bainter"
+      "winners": [
+         "Fay Bainter"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "The Adventures of Robin Hood"
+      "winners": [
+         "The Adventures of Robin Hood"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Great Waltz"
+      "winners": [
+         "The Great Waltz"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Frank Capra"
+      "winners": [
+         "Frank Capra"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Adventures of Robin Hood"
+      "winners": [
+         "The Adventures of Robin Hood"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Adventures of Robin Hood"
+      "winners": [
+         "The Adventures of Robin Hood"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Big Broadcast of 1938"
+      "winners": [
+         "The Big Broadcast of 1938"
+      ]
    },
    {
       "category": "Best Music, Scoring",
-      "winner": "Alexander's Ragtime Band"
+      "winners": [
+         "Alexander's Ragtime Band"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "You Can't Take It with You"
+      "winners": [
+         "You Can't Take It with You"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Ferdinand the Bull"
+      "winners": [
+         "Ferdinand the Bull"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "That Mothers Might Live"
+      "winners": [
+         "That Mothers Might Live"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "The Declaration of Independence"
+      "winners": [
+         "The Declaration of Independence"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "The Cowboy and the Lady"
+      "winners": [
+         "The Cowboy and the Lady"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Boys Town"
+      "winners": [
+         "Boys Town"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "Pygmalion"
+      "winners": [
+         "Pygmalion"
+      ]
    }
 ]

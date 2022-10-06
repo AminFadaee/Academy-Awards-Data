@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Anthony Hopkins"
+      "winners": [
+         "Anthony Hopkins"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Jack Palance"
+      "winners": [
+         "Jack Palance"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jodie Foster"
+      "winners": [
+         "Jodie Foster"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Mercedes Ruehl"
+      "winners": [
+         "Mercedes Ruehl"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Bugsy"
+      "winners": [
+         "Bugsy"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "JFK"
+      "winners": [
+         "JFK"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Bugsy"
+      "winners": [
+         "Bugsy"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Jonathan Demme"
+      "winners": [
+         "Jonathan Demme"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "In the Shadow of the Stars"
+      "winners": [
+         "In the Shadow of the Stars"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+      "winners": [
+         "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Terminator 2: Judgment Day"
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Terminator 2: Judgment Day"
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "JFK"
+      "winners": [
+         "JFK"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Mediterraneo"
+      "winners": [
+         "Mediterraneo"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Terminator 2: Judgment Day"
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Beauty and the Beast"
+      "winners": [
+         "Beauty and the Beast"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Beauty and the Beast"
+      "winners": [
+         "Beauty and the Beast"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Silence of the Lambs"
+      "winners": [
+         "The Silence of the Lambs"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Manipulation"
+      "winners": [
+         "Manipulation"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Session Man"
+      "winners": [
+         "Session Man"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Terminator 2: Judgment Day"
+      "winners": [
+         "Terminator 2: Judgment Day"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "The Silence of the Lambs"
+      "winners": [
+         "The Silence of the Lambs"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Thelma & Louise"
+      "winners": [
+         "Thelma & Louise"
+      ]
    }
 ]

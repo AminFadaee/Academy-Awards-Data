@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Gene Hackman"
+      "winners": [
+         "Gene Hackman"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Ben Johnson"
+      "winners": [
+         "Ben Johnson"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jane Fonda"
+      "winners": [
+         "Jane Fonda"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Cloris Leachman"
+      "winners": [
+         "Cloris Leachman"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Nicholas and Alexandra"
+      "winners": [
+         "Nicholas and Alexandra"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Fiddler on the Roof"
+      "winners": [
+         "Fiddler on the Roof"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Nicholas and Alexandra"
+      "winners": [
+         "Nicholas and Alexandra"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "William Friedkin"
+      "winners": [
+         "William Friedkin"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Hellstrom Chronicle"
+      "winners": [
+         "The Hellstrom Chronicle"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Sentinels of Silence"
+      "winners": [
+         "Sentinels of Silence"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Bedknobs and Broomsticks"
+      "winners": [
+         "Bedknobs and Broomsticks"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The French Connection"
+      "winners": [
+         "The French Connection"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "The Garden of the Finzi-Continis"
+      "winners": [
+         "The Garden of the Finzi-Continis"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "Summer of '42"
+      "winners": [
+         "Summer of '42"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Shaft"
+      "winners": [
+         "Shaft"
+      ]
    },
    {
       "category": "Best Music, Scoring Adaptation and Original Song Score",
-      "winner": "Fiddler on the Roof"
+      "winners": [
+         "Fiddler on the Roof"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The French Connection"
+      "winners": [
+         "The French Connection"
+      ]
    },
    {
       "category": "Best Short Subject, Animated Films",
-      "winner": "The Crunch Bird"
+      "winners": [
+         "The Crunch Bird"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Films",
-      "winner": "Sentinels of Silence"
+      "winners": [
+         "Sentinels of Silence"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Fiddler on the Roof"
+      "winners": [
+         "Fiddler on the Roof"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "The French Connection"
+      "winners": [
+         "The French Connection"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
-      "winner": "The Hospital"
+      "winners": [
+         "The Hospital"
+      ]
    }
 ]

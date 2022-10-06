@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Daniel Day-Lewis"
+      "winners": [
+         "Daniel Day-Lewis"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Denzel Washington"
+      "winners": [
+         "Denzel Washington"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jessica Tandy"
+      "winners": [
+         "Jessica Tandy"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Brenda Fricker"
+      "winners": [
+         "Brenda Fricker"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Batman"
+      "winners": [
+         "Batman"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Glory"
+      "winners": [
+         "Glory"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Henry V"
+      "winners": [
+         "Henry V"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Oliver Stone"
+      "winners": [
+         "Oliver Stone"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Common Threads: Stories from the Quilt"
+      "winners": [
+         "Common Threads: Stories from the Quilt"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "The Johnstown Flood"
+      "winners": [
+         "The Johnstown Flood"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Indiana Jones and the Last Crusade"
+      "winners": [
+         "Indiana Jones and the Last Crusade"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "The Abyss"
+      "winners": [
+         "The Abyss"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Born on the Fourth of July"
+      "winners": [
+         "Born on the Fourth of July"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Cinema Paradiso"
+      "winners": [
+         "Cinema Paradiso"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Driving Miss Daisy"
+      "winners": [
+         "Driving Miss Daisy"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Little Mermaid"
+      "winners": [
+         "The Little Mermaid"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Little Mermaid"
+      "winners": [
+         "The Little Mermaid"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Driving Miss Daisy"
+      "winners": [
+         "Driving Miss Daisy"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Balance"
+      "winners": [
+         "Balance"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Work Experience"
+      "winners": [
+         "Work Experience"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Glory"
+      "winners": [
+         "Glory"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Driving Miss Daisy"
+      "winners": [
+         "Driving Miss Daisy"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Dead Poets Society"
+      "winners": [
+         "Dead Poets Society"
+      ]
    }
 ]

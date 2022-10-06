@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Art Carney"
+      "winners": [
+         "Art Carney"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Robert De Niro"
+      "winners": [
+         "Robert De Niro"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Ellen Burstyn"
+      "winners": [
+         "Ellen Burstyn"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Ingrid Bergman"
+      "winners": [
+         "Ingrid Bergman"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "The Godfather Part II"
+      "winners": [
+         "The Godfather Part II"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Towering Inferno"
+      "winners": [
+         "The Towering Inferno"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "The Great Gatsby"
+      "winners": [
+         "The Great Gatsby"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Francis Ford Coppola"
+      "winners": [
+         "Francis Ford Coppola"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Hearts and Minds"
+      "winners": [
+         "Hearts and Minds"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Don't"
+      "winners": [
+         "Don't"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Towering Inferno"
+      "winners": [
+         "The Towering Inferno"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "I Remember"
+      "winners": [
+         "I Remember"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "The Godfather Part II"
+      "winners": [
+         "The Godfather Part II"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Towering Inferno"
+      "winners": [
+         "The Towering Inferno"
+      ]
    },
    {
       "category": "Best Music, Scoring Original Song Score and/or Adaptation",
-      "winner": "The Great Gatsby"
+      "winners": [
+         "The Great Gatsby"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Godfather Part II"
+      "winners": [
+         "The Godfather Part II"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Closed Mondays"
+      "winners": [
+         "Closed Mondays"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "One-Eyed Men Are Kings"
+      "winners": [
+         "One-Eyed Men Are Kings"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Earthquake"
+      "winners": [
+         "Earthquake"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Chinatown"
+      "winners": [
+         "Chinatown"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Adapted From Other Material",
-      "winner": "The Godfather Part II"
+      "winners": [
+         "The Godfather Part II"
+      ]
    }
 ]

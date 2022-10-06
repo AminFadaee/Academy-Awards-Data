@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Tom Hanks"
+      "winners": [
+         "Tom Hanks"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Martin Landau"
+      "winners": [
+         "Martin Landau"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jessica Lange"
+      "winners": [
+         "Jessica Lange"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Dianne Wiest"
+      "winners": [
+         "Dianne Wiest"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "The Madness of King George"
+      "winners": [
+         "The Madness of King George"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Legends of the Fall"
+      "winners": [
+         "Legends of the Fall"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "The Adventures of Priscilla, Queen of the Desert"
+      "winners": [
+         "The Adventures of Priscilla, Queen of the Desert"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Robert Zemeckis"
+      "winners": [
+         "Robert Zemeckis"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Maya Lin: A Strong Clear Vision"
+      "winners": [
+         "Maya Lin: A Strong Clear Vision"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "A Time for Justice"
+      "winners": [
+         "A Time for Justice"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Speed"
+      "winners": [
+         "Speed"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Forrest Gump"
+      "winners": [
+         "Forrest Gump"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Forrest Gump"
+      "winners": [
+         "Forrest Gump"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Burnt by the Sun"
+      "winners": [
+         "Burnt by the Sun"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Ed Wood"
+      "winners": [
+         "Ed Wood"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Lion King"
+      "winners": [
+         "The Lion King"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Lion King"
+      "winners": [
+         "The Lion King"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Forrest Gump"
+      "winners": [
+         "Forrest Gump"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Bob's Birthday"
+      "winners": [
+         "Bob's Birthday"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Trevor"
+      "winners": [
+         "Franz Kafka's It's a Wonderful Life"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Speed"
+      "winners": [
+         "Speed"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "Forrest Gump"
+      "winners": [
+         "Forrest Gump"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Pulp Fiction"
+      "winners": [
+         "Pulp Fiction"
+      ]
    }
 ]

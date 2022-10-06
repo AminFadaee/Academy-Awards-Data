@@ -500,7 +500,7 @@
          {
             "won": true,
             "nominees": [
-               "The Road"
+               "La strada"
             ]
          },
          {
@@ -832,6 +832,12 @@
          {
             "won": false,
             "nominees": [
+               "La strada"
+            ]
+         },
+         {
+            "won": false,
+            "nominees": [
                "The Bold and the Brave"
             ]
          },
@@ -839,12 +845,6 @@
             "won": false,
             "nominees": [
                "The Ladykillers"
-            ]
-         },
-         {
-            "won": false,
-            "nominees": [
-               "The Road"
             ]
          }
       ]

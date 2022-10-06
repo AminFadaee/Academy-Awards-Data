@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Tom Hanks"
+      "winners": [
+         "Tom Hanks"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Tommy Lee Jones"
+      "winners": [
+         "Tommy Lee Jones"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Holly Hunter"
+      "winners": [
+         "Holly Hunter"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Anna Paquin"
+      "winners": [
+         "Anna Paquin"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "The Age of Innocence"
+      "winners": [
+         "The Age of Innocence"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Steven Spielberg"
+      "winners": [
+         "Steven Spielberg"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "I Am a Promise: The Children of Stanton Elementary School"
+      "winners": [
+         "I Am a Promise: The Children of Stanton Elementary School"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Defending Our Lives"
+      "winners": [
+         "Defending Our Lives"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Jurassic Park"
+      "winners": [
+         "Jurassic Park"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Jurassic Park"
+      "winners": [
+         "Jurassic Park"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Belle Epoque"
+      "winners": [
+         "Belle Epoque"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Mrs. Doubtfire"
+      "winners": [
+         "Mrs. Doubtfire"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Philadelphia"
+      "winners": [
+         "Philadelphia"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "The Wrong Trousers"
+      "winners": [
+         "The Wrong Trousers"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Black Rider"
+      "winners": [
+         "Black Rider"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Jurassic Park"
+      "winners": [
+         "Jurassic Park"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "Schindler's List"
+      "winners": [
+         "Schindler's List"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "The Piano"
+      "winners": [
+         "The Piano"
+      ]
    }
 ]

@@ -6,90 +6,50 @@
             "notes": "Rex Harrison dedicated his Oscar to \"two fair ladies\": Julie Andrews and Audrey Hepburn.",
             "won": true,
             "primary": [
-               {
-                  "name": "Rex Harrison",
-                  "notes": null,
-                  "imdb_id": "nm0001322"
-               }
+               "Rex Harrison"
             ],
             "secondary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Anthony Quinn",
-                  "notes": null,
-                  "imdb_id": "nm0000063"
-               }
+               "Anthony Quinn"
             ],
             "secondary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Peter O'Toole",
-                  "notes": null,
-                  "imdb_id": "nm0000564"
-               }
+               "Peter O'Toole"
             ],
             "secondary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Peter Sellers",
-                  "notes": null,
-                  "imdb_id": "nm0000634"
-               }
+               "Peter Sellers"
             ],
             "secondary": [
-               {
-                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-                  "notes": null,
-                  "imdb_id": "tt0057012"
-               }
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Richard Burton",
-                  "notes": null,
-                  "imdb_id": "nm0000009"
-               }
+               "Richard Burton"
             ],
             "secondary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ]
          }
       ]
@@ -101,90 +61,50 @@
             "notes": "Peter Ustinov was not present at the awards ceremony. Jonathan Winters accepted the award on his behalf.",
             "won": true,
             "primary": [
-               {
-                  "name": "Peter Ustinov",
-                  "notes": null,
-                  "imdb_id": "nm0001811"
-               }
+               "Peter Ustinov"
             ],
             "secondary": [
-               {
-                  "name": "Topkapi",
-                  "notes": null,
-                  "imdb_id": "tt0058672"
-               }
+               "Topkapi"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Edmond O'Brien",
-                  "notes": null,
-                  "imdb_id": "nm0639529"
-               }
+               "Edmond O'Brien"
             ],
             "secondary": [
-               {
-                  "name": "Seven Days in May",
-                  "notes": null,
-                  "imdb_id": "tt0058576"
-               }
+               "Seven Days in May"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "John Gielgud",
-                  "notes": null,
-                  "imdb_id": "nm0000024"
-               }
+               "John Gielgud"
             ],
             "secondary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lee Tracy",
-                  "notes": null,
-                  "imdb_id": "nm0870543"
-               }
+               "Lee Tracy"
             ],
             "secondary": [
-               {
-                  "name": "The Best Man",
-                  "notes": null,
-                  "imdb_id": "tt0057883"
-               }
+               "The Best Man"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Stanley Holloway",
-                  "notes": null,
-                  "imdb_id": "nm0391361"
-               }
+               "Stanley Holloway"
             ],
             "secondary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ]
          }
       ]
@@ -196,90 +116,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Julie Andrews",
-                  "notes": null,
-                  "imdb_id": "nm0000267"
-               }
+               "Julie Andrews"
             ],
             "secondary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Anne Bancroft",
-                  "notes": null,
-                  "imdb_id": "nm0000843"
-               }
+               "Anne Bancroft"
             ],
             "secondary": [
-               {
-                  "name": "The Pumpkin Eater",
-                  "notes": null,
-                  "imdb_id": "tt0058500"
-               }
+               "The Pumpkin Eater"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Debbie Reynolds",
-                  "notes": null,
-                  "imdb_id": "nm0001666"
-               }
+               "Debbie Reynolds"
             ],
             "secondary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Kim Stanley",
-                  "notes": null,
-                  "imdb_id": "nm0822535"
-               }
+               "Kim Stanley"
             ],
             "secondary": [
-               {
-                  "name": "Seance on a Wet Afternoon",
-                  "notes": null,
-                  "imdb_id": "tt0058557"
-               }
+               "Seance on a Wet Afternoon"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sophia Loren",
-                  "notes": null,
-                  "imdb_id": "nm0000047"
-               }
+               "Sophia Loren"
             ],
             "secondary": [
-               {
-                  "name": "Marriage Italian Style",
-                  "notes": null,
-                  "imdb_id": "tt0058335"
-               }
+               "Marriage Italian Style"
             ]
          }
       ]
@@ -291,90 +171,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Lila Kedrova",
-                  "notes": null,
-                  "imdb_id": "nm0444321"
-               }
+               "Lila Kedrova"
             ],
             "secondary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Agnes Moorehead",
-                  "notes": null,
-                  "imdb_id": "nm0001547"
-               }
+               "Agnes Moorehead"
             ],
             "secondary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Edith Evans",
-                  "notes": null,
-                  "imdb_id": "nm0262725"
-               }
+               "Edith Evans"
             ],
             "secondary": [
-               {
-                  "name": "The Chalk Garden",
-                  "notes": null,
-                  "imdb_id": "tt0057933"
-               }
+               "The Chalk Garden"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gladys Cooper",
-                  "notes": null,
-                  "imdb_id": "nm0178066"
-               }
+               "Gladys Cooper"
             ],
             "secondary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Grayson Hall",
-                  "notes": null,
-                  "imdb_id": "nm0355621"
-               }
+               "Grayson Hall"
             ],
             "secondary": [
-               {
-                  "name": "The Night of the Iguana",
-                  "notes": null,
-                  "imdb_id": "tt0058404"
-               }
+               "The Night of the Iguana"
             ]
          }
       ]
@@ -386,120 +226,56 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ],
             "secondary": [
-               {
-                  "name": "Vasilis Fotopoulos",
-                  "notes": null,
-                  "imdb_id": "nm0288193"
-               }
+               "Vasilis Fotopoulos"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "William Glasgow",
-                  "notes": null,
-                  "imdb_id": "nm0321881"
-               },
-               {
-                  "name": "Raphael Bretton",
-                  "notes": null,
-                  "imdb_id": "nm0107987"
-               }
+               "William Glasgow",
+               "Raphael Bretton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seven Days in May",
-                  "notes": null,
-                  "imdb_id": "tt0058576"
-               }
+               "Seven Days in May"
             ],
             "secondary": [
-               {
-                  "name": "Cary Odell",
-                  "notes": null,
-                  "imdb_id": "nm0643970"
-               },
-               {
-                  "name": "Edward G. Boyle",
-                  "notes": null,
-                  "imdb_id": "nm0102231"
-               }
+               "Cary Odell",
+               "Edward G. Boyle"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Americanization of Emily",
-                  "notes": null,
-                  "imdb_id": "tt0057840"
-               }
+               "The Americanization of Emily"
             ],
             "secondary": [
-               {
-                  "name": "George W. Davis",
-                  "notes": null,
-                  "imdb_id": "nm0204649"
-               },
-               {
-                  "name": "Hans Peters",
-                  "notes": null,
-                  "imdb_id": "nm0676462"
-               },
-               {
-                  "name": "Elliot Scott",
-                  "notes": null,
-                  "imdb_id": "nm0779089"
-               },
-               {
-                  "name": "Henry Grace",
-                  "notes": null,
-                  "imdb_id": "nm0333352"
-               },
-               {
-                  "name": "Robert R. Benton",
-                  "notes": null,
-                  "imdb_id": "nm0072960"
-               }
+               "George W. Davis",
+               "Hans Peters",
+               "Elliot Scott",
+               "Henry Grace",
+               "Robert R. Benton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Night of the Iguana",
-                  "notes": null,
-                  "imdb_id": "tt0058404"
-               }
+               "The Night of the Iguana"
             ],
             "secondary": [
-               {
-                  "name": "Stephen B. Grimes",
-                  "notes": null,
-                  "imdb_id": "nm0342242"
-               }
+               "Stephen B. Grimes"
             ]
          }
       ]
@@ -511,160 +287,64 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Gene Allen",
-                  "notes": null,
-                  "imdb_id": "nm0020537"
-               },
-               {
-                  "name": "Cecil Beaton",
-                  "notes": null,
-                  "imdb_id": "nm0064100"
-               },
-               {
-                  "name": "George James Hopkins",
-                  "notes": null,
-                  "imdb_id": "nm0394166"
-               }
+               "Gene Allen",
+               "Cecil Beaton",
+               "George James Hopkins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "John Bryan",
-                  "notes": null,
-                  "imdb_id": "nm0116961"
-               },
-               {
-                  "name": "Maurice Carter",
-                  "notes": null,
-                  "imdb_id": "nm0141806"
-               },
-               {
-                  "name": "Patrick McLoughlin",
-                  "notes": null,
-                  "imdb_id": "nm0572947"
-               },
-               {
-                  "name": "Robert Cartwright",
-                  "notes": null,
-                  "imdb_id": "nm0142204"
-               }
+               "John Bryan",
+               "Maurice Carter",
+               "Patrick McLoughlin",
+               "Robert Cartwright"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Carroll Clark",
-                  "notes": null,
-                  "imdb_id": "nm0163754"
-               },
-               {
-                  "name": "William H. Tuntke",
-                  "notes": null,
-                  "imdb_id": "nm0876700"
-               },
-               {
-                  "name": "Emile Kuri",
-                  "notes": null,
-                  "imdb_id": "nm0475689"
-               },
-               {
-                  "name": "Hal Gausman",
-                  "notes": null,
-                  "imdb_id": "nm0310198"
-               }
+               "Carroll Clark",
+               "William H. Tuntke",
+               "Emile Kuri",
+               "Hal Gausman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ],
             "secondary": [
-               {
-                  "name": "George W. Davis",
-                  "notes": null,
-                  "imdb_id": "nm0204649"
-               },
-               {
-                  "name": "E. Preston Ames",
-                  "notes": null,
-                  "imdb_id": "nm0024694"
-               },
-               {
-                  "name": "Henry Grace",
-                  "notes": null,
-                  "imdb_id": "nm0333352"
-               },
-               {
-                  "name": "Hugh Hunt",
-                  "notes": null,
-                  "imdb_id": "nm0402474"
-               }
+               "George W. Davis",
+               "E. Preston Ames",
+               "Henry Grace",
+               "Hugh Hunt"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "What a Way to Go!",
-                  "notes": null,
-                  "imdb_id": "tt0058743"
-               }
+               "What a Way to Go!"
             ],
             "secondary": [
-               {
-                  "name": "Jack Martin Smith",
-                  "notes": null,
-                  "imdb_id": "nm0005584"
-               },
-               {
-                  "name": "Ted Haworth",
-                  "notes": null,
-                  "imdb_id": "nm0370385"
-               },
-               {
-                  "name": "Walter M. Scott",
-                  "notes": null,
-                  "imdb_id": "nm0779898"
-               },
-               {
-                  "name": "Stuart A. Reiss",
-                  "notes": null,
-                  "imdb_id": "nm0718524"
-               }
+               "Jack Martin Smith",
+               "Ted Haworth",
+               "Walter M. Scott",
+               "Stuart A. Reiss"
             ]
          }
       ]
@@ -676,90 +356,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ],
             "secondary": [
-               {
-                  "name": "Walter Lassally",
-                  "notes": null,
-                  "imdb_id": "nm0007178"
-               }
+               "Walter Lassally"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Fate Is the Hunter",
-                  "notes": null,
-                  "imdb_id": "tt0058091"
-               }
+               "Fate Is the Hunter"
             ],
             "secondary": [
-               {
-                  "name": "Milton R. Krasner",
-                  "notes": null,
-                  "imdb_id": "nm0005762"
-               }
+               "Milton R. Krasner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "Joseph F. Biroc",
-                  "notes": null,
-                  "imdb_id": "nm0005657"
-               }
+               "Joseph F. Biroc"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Americanization of Emily",
-                  "notes": null,
-                  "imdb_id": "tt0057840"
-               }
+               "The Americanization of Emily"
             ],
             "secondary": [
-               {
-                  "name": "Philip H. Lathrop",
-                  "notes": null,
-                  "imdb_id": "nm0005769"
-               }
+               "Philip H. Lathrop"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Night of the Iguana",
-                  "notes": null,
-                  "imdb_id": "tt0058404"
-               }
+               "The Night of the Iguana"
             ],
             "secondary": [
-               {
-                  "name": "Gabriel Figueroa",
-                  "notes": null,
-                  "imdb_id": "nm0004195"
-               }
+               "Gabriel Figueroa"
             ]
          }
       ]
@@ -771,90 +411,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Harry Stradling Sr.",
-                  "notes": null,
-                  "imdb_id": "nm0005889"
-               }
+               "Harry Stradling Sr."
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Geoffrey Unsworth",
-                  "notes": null,
-                  "imdb_id": "nm0005910"
-               }
+               "Geoffrey Unsworth"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cheyenne Autumn",
-                  "notes": null,
-                  "imdb_id": "tt0057940"
-               }
+               "Cheyenne Autumn"
             ],
             "secondary": [
-               {
-                  "name": "William H. Clothier",
-                  "notes": null,
-                  "imdb_id": "nm0005670"
-               }
+               "William H. Clothier"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Edward Colman",
-                  "notes": null,
-                  "imdb_id": "nm0169344"
-               }
+               "Edward Colman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ],
             "secondary": [
-               {
-                  "name": "Daniel L. Fapp",
-                  "notes": null,
-                  "imdb_id": "nm0005701"
-               }
+               "Daniel L. Fapp"
             ]
          }
       ]
@@ -866,90 +466,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Night of the Iguana",
-                  "notes": null,
-                  "imdb_id": "tt0058404"
-               }
+               "The Night of the Iguana"
             ],
             "secondary": [
-               {
-                  "name": "Dorothy Jeakins",
-                  "notes": null,
-                  "imdb_id": "nm0419820"
-               }
+               "Dorothy Jeakins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A House Is Not a Home",
-                  "notes": null,
-                  "imdb_id": "tt0058209"
-               }
+               "A House Is Not a Home"
             ],
             "secondary": [
-               {
-                  "name": "Edith Head",
-                  "notes": null,
-                  "imdb_id": "nm0372128"
-               }
+               "Edith Head"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "Norma Koch",
-                  "notes": null,
-                  "imdb_id": "nm0462382"
-               }
+               "Norma Koch"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Kisses for My President",
-                  "notes": null,
-                  "imdb_id": "tt0058266"
-               }
+               "Kisses for My President"
             ],
             "secondary": [
-               {
-                  "name": "Howard Shoup",
-                  "notes": null,
-                  "imdb_id": "nm0795251"
-               }
+               "Howard Shoup"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Visit",
-                  "notes": null,
-                  "imdb_id": "tt0058724"
-               }
+               "The Visit"
             ],
             "secondary": [
-               {
-                  "name": "Ren\u00e9 Hubert",
-                  "notes": null,
-                  "imdb_id": "nm0399484"
-               }
+               "Ren\u00e9 Hubert"
             ]
          }
       ]
@@ -961,95 +521,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Cecil Beaton",
-                  "notes": null,
-                  "imdb_id": "nm0064100"
-               }
+               "Cecil Beaton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Margaret Furse",
-                  "notes": null,
-                  "imdb_id": "nm0299094"
-               }
+               "Margaret Furse"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Tony Walton",
-                  "notes": null,
-                  "imdb_id": "nm0910589"
-               }
+               "Tony Walton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ],
             "secondary": [
-               {
-                  "name": "Morton Haack",
-                  "notes": null,
-                  "imdb_id": "nm0351736"
-               }
+               "Morton Haack"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "What a Way to Go!",
-                  "notes": null,
-                  "imdb_id": "tt0058743"
-               }
+               "What a Way to Go!"
             ],
             "secondary": [
-               {
-                  "name": "Edith Head",
-                  "notes": null,
-                  "imdb_id": "nm0372128"
-               },
-               {
-                  "name": "Moss Mabry",
-                  "notes": null,
-                  "imdb_id": "nm0531117"
-               }
+               "Edith Head",
+               "Moss Mabry"
             ]
          }
       ]
@@ -1061,90 +577,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "George Cukor",
-                  "notes": null,
-                  "imdb_id": "nm0002030"
-               }
+               "George Cukor"
             ],
             "secondary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Michael Cacoyannis",
-                  "notes": null,
-                  "imdb_id": "nm0128050"
-               }
+               "Michael Cacoyannis"
             ],
             "secondary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Peter Glenville",
-                  "notes": null,
-                  "imdb_id": "nm0322706"
-               }
+               "Peter Glenville"
             ],
             "secondary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Robert Stevenson",
-                  "notes": null,
-                  "imdb_id": "nm0829038"
-               }
+               "Robert Stevenson"
             ],
             "secondary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Stanley Kubrick",
-                  "notes": null,
-                  "imdb_id": "nm0000040"
-               }
+               "Stanley Kubrick"
             ],
             "secondary": [
-               {
-                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-                  "notes": null,
-                  "imdb_id": "tt0057012"
-               }
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
             ]
          }
       ]
@@ -1156,90 +632,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "World Without Sun",
-                  "notes": null,
-                  "imdb_id": "tt0058364"
-               }
+               "World Without Sun"
             ],
             "secondary": [
-               {
-                  "name": "Jacques-Yves Cousteau",
-                  "notes": null,
-                  "imdb_id": "nm0184150"
-               }
+               "Jacques-Yves Cousteau"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Alleman",
-                  "notes": null,
-                  "imdb_id": "tt0056819"
-               }
+               "Alleman"
             ],
             "secondary": [
-               {
-                  "name": "Bert Haanstra",
-                  "notes": null,
-                  "imdb_id": "nm0351842"
-               }
+               "Bert Haanstra"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Four Days in November",
-                  "notes": null,
-                  "imdb_id": "tt0059197"
-               }
+               "Four Days in November"
             ],
             "secondary": [
-               {
-                  "name": "Mel Stuart",
-                  "notes": null,
-                  "imdb_id": "nm0835799"
-               }
+               "Mel Stuart"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Over There, 1914-18",
-                  "notes": null,
-                  "imdb_id": "tt0056797"
-               }
+               "Over There, 1914-18"
             ],
             "secondary": [
-               {
-                  "name": "Jean Aurel",
-                  "notes": null,
-                  "imdb_id": "nm0042159"
-               }
+               "Jean Aurel"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Finest Hours",
-                  "notes": null,
-                  "imdb_id": "tt0058099"
-               }
+               "The Finest Hours"
             ],
             "secondary": [
-               {
-                  "name": "Jack Levin",
-                  "notes": "(as Jack Le Vien)",
-                  "imdb_id": "nm0505617"
-               }
+               "Jack Levin"
             ]
          }
       ]
@@ -1251,11 +687,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Nine from Little Rock",
-                  "notes": null,
-                  "imdb_id": "tt0058410"
-               }
+               "Nine from Little Rock"
             ],
             "secondary": []
          },
@@ -1263,57 +695,29 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "140 Days Under the World",
-                  "notes": null,
-                  "imdb_id": "tt0057806"
-               }
+               "140 Days Under the World"
             ],
             "secondary": [
-               {
-                  "name": "Geoffrey Scott",
-                  "notes": null,
-                  "imdb_id": "nm0779180"
-               },
-               {
-                  "name": "Oxley Hughan",
-                  "notes": null,
-                  "imdb_id": "nm0400419"
-               }
+               "Geoffrey Scott",
+               "Oxley Hughan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Breaking the Habit",
-                  "notes": null,
-                  "imdb_id": "tt0057898"
-               }
+               "Breaking the Habit"
             ],
             "secondary": [
-               {
-                  "name": "Henry Jacobs",
-                  "notes": null,
-                  "imdb_id": "nm0414430"
-               },
-               {
-                  "name": "John Korty",
-                  "notes": null,
-                  "imdb_id": "nm0466793"
-               }
+               "Henry Jacobs",
+               "John Korty"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Children Without",
-                  "notes": null,
-                  "imdb_id": "tt0057945"
-               }
+               "Children Without"
             ],
             "secondary": []
          },
@@ -1321,11 +725,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Eskimo Artist: Kenojuak",
-                  "notes": null,
-                  "imdb_id": "tt0058260"
-               }
+               "Eskimo Artist: Kenojuak"
             ],
             "secondary": []
          }
@@ -1338,36 +738,20 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Goldfinger",
-                  "notes": null,
-                  "imdb_id": "tt0058150"
-               }
+               "Goldfinger"
             ],
             "secondary": [
-               {
-                  "name": "Norman Wanstall",
-                  "notes": null,
-                  "imdb_id": "nm0911232"
-               }
+               "Norman Wanstall"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Lively Set",
-                  "notes": null,
-                  "imdb_id": "tt0058296"
-               }
+               "The Lively Set"
             ],
             "secondary": [
-               {
-                  "name": "Robert L. Bratton",
-                  "notes": null,
-                  "imdb_id": "nm0105600"
-               }
+               "Robert L. Bratton"
             ]
          }
       ]
@@ -1379,46 +763,22 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Peter Ellenshaw",
-                  "notes": null,
-                  "imdb_id": "nm0254002"
-               },
-               {
-                  "name": "Hamilton Luske",
-                  "notes": null,
-                  "imdb_id": "nm0527217"
-               },
-               {
-                  "name": "Eustace Lycett",
-                  "notes": null,
-                  "imdb_id": "nm0527941"
-               }
+               "Peter Ellenshaw",
+               "Hamilton Luske",
+               "Eustace Lycett"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "7 Faces of Dr. Lao",
-                  "notes": null,
-                  "imdb_id": "tt0057812"
-               }
+               "7 Faces of Dr. Lao"
             ],
             "secondary": [
-               {
-                  "name": "Jim Danforth",
-                  "notes": null,
-                  "imdb_id": "nm0199453"
-               }
+               "Jim Danforth"
             ]
          }
       ]
@@ -1430,90 +790,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Cotton Warburton",
-                  "notes": null,
-                  "imdb_id": "nm0911307"
-               }
+               "Cotton Warburton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Anne V. Coates",
-                  "notes": null,
-                  "imdb_id": "nm0167613"
-               }
+               "Anne V. Coates"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Father Goose",
-                  "notes": null,
-                  "imdb_id": "tt0058092"
-               }
+               "Father Goose"
             ],
             "secondary": [
-               {
-                  "name": "Ted J. Kent",
-                  "notes": null,
-                  "imdb_id": "nm0448867"
-               }
+               "Ted J. Kent"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "Michael Luciano",
-                  "notes": null,
-                  "imdb_id": "nm0524597"
-               }
+               "Michael Luciano"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "William H. Ziegler",
-                  "notes": null,
-                  "imdb_id": "nm0956155"
-               }
+               "William H. Ziegler"
             ]
          }
       ]
@@ -1525,11 +845,7 @@
             "notes": "Italy.",
             "won": true,
             "primary": [
-               {
-                  "name": "Yesterday, Today and Tomorrow",
-                  "notes": null,
-                  "imdb_id": "tt0057171"
-               }
+               "Yesterday, Today and Tomorrow"
             ],
             "secondary": []
          },
@@ -1537,11 +853,7 @@
             "notes": "Sweden.",
             "won": false,
             "primary": [
-               {
-                  "name": "Raven's End",
-                  "notes": null,
-                  "imdb_id": "tt0057237"
-               }
+               "Raven's End"
             ],
             "secondary": []
          },
@@ -1549,11 +861,7 @@
             "notes": "Israel.",
             "won": false,
             "primary": [
-               {
-                  "name": "Sallah",
-                  "notes": null,
-                  "imdb_id": "tt0058541"
-               }
+               "Sallah"
             ],
             "secondary": []
          },
@@ -1561,11 +869,7 @@
             "notes": "France.",
             "won": false,
             "primary": [
-               {
-                  "name": "The Umbrellas of Cherbourg",
-                  "notes": null,
-                  "imdb_id": "tt0058450"
-               }
+               "The Umbrellas of Cherbourg"
             ],
             "secondary": []
          },
@@ -1573,11 +877,7 @@
             "notes": "Japan.",
             "won": false,
             "primary": [
-               {
-                  "name": "Woman in the Dunes",
-                  "notes": null,
-                  "imdb_id": "tt0058625"
-               }
+               "Woman in the Dunes"
             ],
             "secondary": []
          }
@@ -1590,120 +890,56 @@
             "notes": "For the song \"Chim Chim Cher-ee\"",
             "won": true,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Richard M. Sherman",
-                  "notes": null,
-                  "imdb_id": "nm0792556"
-               },
-               {
-                  "name": "Robert B. Sherman",
-                  "notes": null,
-                  "imdb_id": "nm0792567"
-               }
+               "Richard M. Sherman",
+               "Robert B. Sherman"
             ]
          },
          {
             "notes": "For the song \"Dear Heart\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Dear Heart",
-                  "notes": null,
-                  "imdb_id": "tt0057999"
-               }
+               "Dear Heart"
             ],
             "secondary": [
-               {
-                  "name": "Henry Mancini",
-                  "notes": "(music)",
-                  "imdb_id": "nm0000049"
-               },
-               {
-                  "name": "Jay Livingston",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0515254"
-               },
-               {
-                  "name": "Ray Evans",
-                  "notes": null,
-                  "imdb_id": "nm0263143"
-               }
+               "Henry Mancini",
+               "Jay Livingston",
+               "Ray Evans"
             ]
          },
          {
             "notes": "For the song \"Hush...Hush, Sweet Charlotte\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "Frank De Vol",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006030"
-               },
-               {
-                  "name": "Mack David",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0202988"
-               }
+               "Frank De Vol",
+               "Mack David"
             ]
          },
          {
             "notes": "For the song \"My Kind of Town\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Robin and the 7 Hoods",
-                  "notes": null,
-                  "imdb_id": "tt0058529"
-               }
+               "Robin and the 7 Hoods"
             ],
             "secondary": [
-               {
-                  "name": "Jimmy Van Heusen",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006329"
-               },
-               {
-                  "name": "Sammy Cahn",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0005991"
-               }
+               "Jimmy Van Heusen",
+               "Sammy Cahn"
             ]
          },
          {
             "notes": "For the song \"Where Love Has Gone\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Where Love Has Gone",
-                  "notes": null,
-                  "imdb_id": "tt0058745"
-               }
+               "Where Love Has Gone"
             ],
             "secondary": [
-               {
-                  "name": "Jimmy Van Heusen",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006329"
-               },
-               {
-                  "name": "Sammy Cahn",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0005991"
-               }
+               "Jimmy Van Heusen",
+               "Sammy Cahn"
             ]
          }
       ]
@@ -1715,115 +951,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Andr\u00e9 Previn",
-                  "notes": null,
-                  "imdb_id": "nm0006238"
-               }
+               "Andr\u00e9 Previn"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Hard Day's Night",
-                  "notes": null,
-                  "imdb_id": "tt0058182"
-               }
+               "A Hard Day's Night"
             ],
             "secondary": [
-               {
-                  "name": "George Martin",
-                  "notes": null,
-                  "imdb_id": "nm0552326"
-               }
+               "George Martin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Irwin Kostal",
-                  "notes": null,
-                  "imdb_id": "nm0467348"
-               }
+               "Irwin Kostal"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Robin and the 7 Hoods",
-                  "notes": null,
-                  "imdb_id": "tt0058529"
-               }
+               "Robin and the 7 Hoods"
             ],
             "secondary": [
-               {
-                  "name": "Nelson Riddle",
-                  "notes": null,
-                  "imdb_id": "nm0725765"
-               }
+               "Nelson Riddle"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ],
             "secondary": [
-               {
-                  "name": "Robert Armbruster",
-                  "notes": null,
-                  "imdb_id": "nm0035372"
-               },
-               {
-                  "name": "Leo Arnaud",
-                  "notes": null,
-                  "imdb_id": "nm0036069"
-               },
-               {
-                  "name": "Jack Elliott",
-                  "notes": null,
-                  "imdb_id": "nm0254477"
-               },
-               {
-                  "name": "Jack Hayes",
-                  "notes": null,
-                  "imdb_id": "nm0369948"
-               },
-               {
-                  "name": "Calvin Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0413330"
-               },
-               {
-                  "name": "Leo Shuken",
-                  "notes": null,
-                  "imdb_id": "nm0795640"
-               }
+               "Robert Armbruster",
+               "Leo Arnaud",
+               "Jack Elliott",
+               "Jack Hayes",
+               "Calvin Jackson",
+               "Leo Shuken"
             ]
          }
       ]
@@ -1835,95 +1011,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Richard M. Sherman",
-                  "notes": null,
-                  "imdb_id": "nm0792556"
-               },
-               {
-                  "name": "Robert B. Sherman",
-                  "notes": null,
-                  "imdb_id": "nm0792567"
-               }
+               "Richard M. Sherman",
+               "Robert B. Sherman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Laurence Rosenthal",
-                  "notes": null,
-                  "imdb_id": "nm0002304"
-               }
+               "Laurence Rosenthal"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hush...Hush, Sweet Charlotte",
-                  "notes": null,
-                  "imdb_id": "tt0058213"
-               }
+               "Hush...Hush, Sweet Charlotte"
             ],
             "secondary": [
-               {
-                  "name": "Frank De Vol",
-                  "notes": null,
-                  "imdb_id": "nm0006030"
-               }
+               "Frank De Vol"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Fall of the Roman Empire",
-                  "notes": null,
-                  "imdb_id": "tt0058085"
-               }
+               "The Fall of the Roman Empire"
             ],
             "secondary": [
-               {
-                  "name": "Dimitri Tiomkin",
-                  "notes": null,
-                  "imdb_id": "nm0006323"
-               }
+               "Dimitri Tiomkin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Pink Panther",
-                  "notes": null,
-                  "imdb_id": "tt0057413"
-               }
+               "The Pink Panther"
             ],
             "secondary": [
-               {
-                  "name": "Henry Mancini",
-                  "notes": null,
-                  "imdb_id": "nm0000049"
-               }
+               "Henry Mancini"
             ]
          }
       ]
@@ -1935,95 +1067,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Jack L. Warner",
-                  "notes": null,
-                  "imdb_id": "nm0912491"
-               }
+               "Jack L. Warner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Hal B. Wallis",
-                  "notes": null,
-                  "imdb_id": "nm0909259"
-               }
+               "Hal B. Wallis"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-                  "notes": null,
-                  "imdb_id": "tt0057012"
-               }
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
             ],
             "secondary": [
-               {
-                  "name": "Stanley Kubrick",
-                  "notes": null,
-                  "imdb_id": "nm0000040"
-               }
+               "Stanley Kubrick"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               },
-               {
-                  "name": "Bill Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909556"
-               }
+               "Walt Disney",
+               "Bill Walsh"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ],
             "secondary": [
-               {
-                  "name": "Michael Cacoyannis",
-                  "notes": null,
-                  "imdb_id": "nm0128050"
-               }
+               "Michael Cacoyannis"
             ]
          }
       ]
@@ -2035,34 +1123,18 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Pink Phink",
-                  "notes": null,
-                  "imdb_id": "tt0058472"
-               }
+               "The Pink Phink"
             ],
             "secondary": [
-               {
-                  "name": "David H. DePatie",
-                  "notes": null,
-                  "imdb_id": "nm0220039"
-               },
-               {
-                  "name": "Friz Freleng",
-                  "notes": null,
-                  "imdb_id": "nm0293989"
-               }
+               "David H. DePatie",
+               "Friz Freleng"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Christmas Cracker",
-                  "notes": null,
-                  "imdb_id": "tt0055849"
-               }
+               "Christmas Cracker"
             ],
             "secondary": []
          },
@@ -2070,36 +1142,20 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Here's Nudnik",
-                  "notes": null,
-                  "imdb_id": "tt0058416"
-               }
+               "Here's Nudnik"
             ],
             "secondary": [
-               {
-                  "name": "William L. Snyder",
-                  "notes": null,
-                  "imdb_id": "nm0811581"
-               }
+               "William L. Snyder"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "How to Avoid Friendship",
-                  "notes": null,
-                  "imdb_id": "tt0058211"
-               }
+               "How to Avoid Friendship"
             ],
             "secondary": [
-               {
-                  "name": "William L. Snyder",
-                  "notes": null,
-                  "imdb_id": "nm0811581"
-               }
+               "William L. Snyder"
             ]
          }
       ]
@@ -2111,54 +1167,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Casals Conducts: 1964",
-                  "notes": null,
-                  "imdb_id": "tt0057922"
-               }
+               "Casals Conducts: 1964"
             ],
             "secondary": [
-               {
-                  "name": "Edward Schreiber",
-                  "notes": null,
-                  "imdb_id": "nm0775233"
-               }
+               "Edward Schreiber"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Help! My Snowman's Burning Down",
-                  "notes": null,
-                  "imdb_id": "tt0058189"
-               }
+               "Help! My Snowman's Burning Down"
             ],
             "secondary": [
-               {
-                  "name": "Carson Davidson",
-                  "notes": null,
-                  "imdb_id": "nm0203262"
-               }
+               "Carson Davidson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Legend of Jimmy Blue Eyes",
-                  "notes": null,
-                  "imdb_id": "tt0058288"
-               }
+               "The Legend of Jimmy Blue Eyes"
             ],
             "secondary": [
-               {
-                  "name": "Robert Clouse",
-                  "notes": null,
-                  "imdb_id": "nm0167195"
-               }
+               "Robert Clouse"
             ]
          }
       ]
@@ -2170,90 +1202,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "George Groves",
-                  "notes": "(Warner Bros. SSD)",
-                  "imdb_id": "nm0344060"
-               }
+               "George Groves"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "John Cox",
-                  "notes": "(Shepperton SSD)",
-                  "imdb_id": "nm0185090"
-               }
+               "John Cox"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Father Goose",
-                  "notes": null,
-                  "imdb_id": "tt0058092"
-               }
+               "Father Goose"
             ],
             "secondary": [
-               {
-                  "name": "Waldon O. Watson",
-                  "notes": "(Universal City SSD)",
-                  "imdb_id": "nm0910592"
-               }
+               "Waldon O. Watson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Robert O. Cook",
-                  "notes": "(Walt Disney SSD)",
-                  "imdb_id": "nm0177256"
-               }
+               "Robert O. Cook"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Unsinkable Molly Brown",
-                  "notes": null,
-                  "imdb_id": "tt0058708"
-               }
+               "The Unsinkable Molly Brown"
             ],
             "secondary": [
-               {
-                  "name": "Franklin Milton",
-                  "notes": "(M-G-M SSD)",
-                  "imdb_id": "nm0590665"
-               }
+               "Franklin Milton"
             ]
          }
       ]
@@ -2265,105 +1257,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Becket",
-                  "notes": null,
-                  "imdb_id": "tt0057877"
-               }
+               "Becket"
             ],
             "secondary": [
-               {
-                  "name": "Edward Anhalt",
-                  "notes": null,
-                  "imdb_id": "nm0030019"
-               }
+               "Edward Anhalt"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-                  "notes": null,
-                  "imdb_id": "tt0057012"
-               }
+               "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
             ],
             "secondary": [
-               {
-                  "name": "Stanley Kubrick",
-                  "notes": null,
-                  "imdb_id": "nm0000040"
-               },
-               {
-                  "name": "Peter George",
-                  "notes": null,
-                  "imdb_id": "nm0313570"
-               },
-               {
-                  "name": "Terry Southern",
-                  "notes": null,
-                  "imdb_id": "nm0816143"
-               }
+               "Stanley Kubrick",
+               "Peter George",
+               "Terry Southern"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mary Poppins",
-                  "notes": null,
-                  "imdb_id": "tt0058331"
-               }
+               "Mary Poppins"
             ],
             "secondary": [
-               {
-                  "name": "Bill Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909556"
-               },
-               {
-                  "name": "Don DaGradi",
-                  "notes": null,
-                  "imdb_id": "nm0196119"
-               }
+               "Bill Walsh",
+               "Don DaGradi"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "My Fair Lady",
-                  "notes": null,
-                  "imdb_id": "tt0058385"
-               }
+               "My Fair Lady"
             ],
             "secondary": [
-               {
-                  "name": "Alan Jay Lerner",
-                  "notes": null,
-                  "imdb_id": "nm0503585"
-               }
+               "Alan Jay Lerner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Zorba the Greek",
-                  "notes": null,
-                  "imdb_id": "tt0057831"
-               }
+               "Zorba the Greek"
             ],
             "secondary": [
-               {
-                  "name": "Michael Cacoyannis",
-                  "notes": null,
-                  "imdb_id": "nm0128050"
-               }
+               "Michael Cacoyannis"
             ]
          }
       ]
@@ -2375,130 +1315,58 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Father Goose",
-                  "notes": null,
-                  "imdb_id": "tt0058092"
-               }
+               "Father Goose"
             ],
             "secondary": [
-               {
-                  "name": "S.H. Barnett",
-                  "notes": "(story)",
-                  "imdb_id": "nm0055975"
-               },
-               {
-                  "name": "Peter Stone",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0832099"
-               },
-               {
-                  "name": "Frank Tarloff",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0850514"
-               }
+               "S.H. Barnett",
+               "Peter Stone",
+               "Frank Tarloff"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Hard Day's Night",
-                  "notes": null,
-                  "imdb_id": "tt0058182"
-               }
+               "A Hard Day's Night"
             ],
             "secondary": [
-               {
-                  "name": "Alun Owen",
-                  "notes": null,
-                  "imdb_id": "nm0654079"
-               }
+               "Alun Owen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "One Potato, Two Potato",
-                  "notes": null,
-                  "imdb_id": "tt0058429"
-               }
+               "One Potato, Two Potato"
             ],
             "secondary": [
-               {
-                  "name": "Orville H. Hampton",
-                  "notes": "(screenplay/story)",
-                  "imdb_id": "nm0359034"
-               },
-               {
-                  "name": "Raphael Hayes",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0371193"
-               }
+               "Orville H. Hampton",
+               "Raphael Hayes"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "That Man from Rio",
-                  "notes": null,
-                  "imdb_id": "tt0058203"
-               }
+               "That Man from Rio"
             ],
             "secondary": [
-               {
-                  "name": "Jean-Paul Rappeneau",
-                  "notes": null,
-                  "imdb_id": "nm0710919"
-               },
-               {
-                  "name": "Ariane Mnouchkine",
-                  "notes": null,
-                  "imdb_id": "nm0594892"
-               },
-               {
-                  "name": "Daniel Boulanger",
-                  "notes": null,
-                  "imdb_id": "nm0099429"
-               },
-               {
-                  "name": "Philippe de Broca",
-                  "notes": null,
-                  "imdb_id": "nm0003606"
-               }
+               "Jean-Paul Rappeneau",
+               "Ariane Mnouchkine",
+               "Daniel Boulanger",
+               "Philippe de Broca"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Organizer",
-                  "notes": null,
-                  "imdb_id": "tt0056945"
-               }
+               "The Organizer"
             ],
             "secondary": [
-               {
-                  "name": "Agenore Incrocci",
-                  "notes": null,
-                  "imdb_id": "nm0408488"
-               },
-               {
-                  "name": "Furio Scarpelli",
-                  "notes": null,
-                  "imdb_id": "nm0769249"
-               },
-               {
-                  "name": "Mario Monicelli",
-                  "notes": null,
-                  "imdb_id": "nm0598102"
-               }
+               "Agenore Incrocci",
+               "Furio Scarpelli",
+               "Mario Monicelli"
             ]
          }
       ]

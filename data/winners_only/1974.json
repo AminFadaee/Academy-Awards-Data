@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Jack Lemmon"
+      "winners": [
+         "Jack Lemmon"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "John Houseman"
+      "winners": [
+         "John Houseman"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Glenda Jackson"
+      "winners": [
+         "Glenda Jackson"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Tatum O'Neal"
+      "winners": [
+         "Tatum O'Neal"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Cries & Whispers"
+      "winners": [
+         "Cries & Whispers"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "George Roy Hill"
+      "winners": [
+         "George Roy Hill"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Great American Cowboy"
+      "winners": [
+         "The Great American Cowboy"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Princeton: A Search for Answers"
+      "winners": [
+         "Princeton: A Search for Answers"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Day for Night"
+      "winners": [
+         "Day for Night"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "The Way We Were"
+      "winners": [
+         "The Way We Were"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Way We Were"
+      "winners": [
+         "The Way We Were"
+      ]
    },
    {
       "category": "Best Music, Scoring Original Song Score and/or Adaptation",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    },
    {
       "category": "Best Short Subject, Animated Films",
-      "winner": "Frank Film"
+      "winners": [
+         "Frank Film"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Films",
-      "winner": "The Bolero"
+      "winners": [
+         "The Bolero"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "The Exorcist"
+      "winners": [
+         "The Exorcist"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "The Exorcist"
+      "winners": [
+         "The Exorcist"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
-      "winner": "The Sting"
+      "winners": [
+         "The Sting"
+      ]
    }
 ]

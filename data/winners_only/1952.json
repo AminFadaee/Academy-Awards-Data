@@ -1,106 +1,158 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Humphrey Bogart"
+      "winners": [
+         "Humphrey Bogart"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Karl Malden"
+      "winners": [
+         "Karl Malden"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Vivien Leigh"
+      "winners": [
+         "Vivien Leigh"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Kim Hunter"
+      "winners": [
+         "Kim Hunter"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "A Streetcar Named Desire"
+      "winners": [
+         "A Streetcar Named Desire"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "A Place in the Sun"
+      "winners": [
+         "A Place in the Sun"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "A Place in the Sun"
+      "winners": [
+         "A Place in the Sun"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "George Stevens"
+      "winners": [
+         "George Stevens"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Kon-Tiki"
+      "winners": [
+         "Kon-Tiki"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Benjy"
+      "winners": [
+         "Benjy"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "When Worlds Collide"
+      "winners": [
+         "When Worlds Collide"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "A Place in the Sun"
+      "winners": [
+         "A Place in the Sun"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Here Comes the Groom"
+      "winners": [
+         "Here Comes the Groom"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "A Place in the Sun"
+      "winners": [
+         "A Place in the Sun"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Two Mouseketeers"
+      "winners": [
+         "The Two Mouseketeers"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "World of Kids"
+      "winners": [
+         "World of Kids"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Nature's Half Acre"
+      "winners": [
+         "Nature's Half Acre"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "The Great Caruso"
+      "winners": [
+         "The Great Caruso"
+      ]
    },
    {
       "category": "Best Writing, Motion Picture Story",
-      "winner": "Seven Days to Noon"
+      "winners": [
+         "Seven Days to Noon"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "A Place in the Sun"
+      "winners": [
+         "A Place in the Sun"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay",
-      "winner": "An American in Paris"
+      "winners": [
+         "An American in Paris"
+      ]
    }
 ]

@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Dustin Hoffman"
+      "winners": [
+         "Dustin Hoffman"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Kevin Kline"
+      "winners": [
+         "Kevin Kline"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jodie Foster"
+      "winners": [
+         "Jodie Foster"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Geena Davis"
+      "winners": [
+         "Geena Davis"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Dangerous Liaisons"
+      "winners": [
+         "Dangerous Liaisons"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Mississippi Burning"
+      "winners": [
+         "Mississippi Burning"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Dangerous Liaisons"
+      "winners": [
+         "Dangerous Liaisons"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Barry Levinson"
+      "winners": [
+         "Barry Levinson"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "H\u00f4tel Terminus"
+      "winners": [
+         "H\u00f4tel Terminus"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "You Don't Have to Die"
+      "winners": [
+         "You Don't Have to Die"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Who Framed Roger Rabbit"
+      "winners": [
+         "Who Framed Roger Rabbit"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Who Framed Roger Rabbit"
+      "winners": [
+         "Who Framed Roger Rabbit"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Who Framed Roger Rabbit"
+      "winners": [
+         "Who Framed Roger Rabbit"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Pelle the Conqueror"
+      "winners": [
+         "Pelle the Conqueror"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Beetlejuice"
+      "winners": [
+         "Beetlejuice"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Milagro Beanfield War"
+      "winners": [
+         "The Milagro Beanfield War"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Working Girl"
+      "winners": [
+         "Working Girl"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Rain Man"
+      "winners": [
+         "Rain Man"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Tin Toy"
+      "winners": [
+         "Tin Toy"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Appointments of Dennis Jennings"
+      "winners": [
+         "The Appointments of Dennis Jennings"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Bird"
+      "winners": [
+         "Bird"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Dangerous Liaisons"
+      "winners": [
+         "Dangerous Liaisons"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Rain Man"
+      "winners": [
+         "Rain Man"
+      ]
    }
 ]

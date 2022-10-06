@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "The King's Speech"
+      "winners": [
+         "The King's Speech"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Colin Firth"
+      "winners": [
+         "Colin Firth"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Natalie Portman"
+      "winners": [
+         "Natalie Portman"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Christian Bale"
+      "winners": [
+         "Christian Bale"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Melissa Leo"
+      "winners": [
+         "Melissa Leo"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Tom Hooper"
+      "winners": [
+         "Tom Hooper"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "The King's Speech"
+      "winners": [
+         "The King's Speech"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "The Social Network"
+      "winners": [
+         "The Social Network"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Inception"
+      "winners": [
+         "Inception"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "Alice in Wonderland"
+      "winners": [
+         "Alice in Wonderland"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "The Social Network"
+      "winners": [
+         "The Social Network"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Alice in Wonderland"
+      "winners": [
+         "Alice in Wonderland"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Toy Story 3"
+      "winners": [
+         "Toy Story 3"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "The Social Network"
+      "winners": [
+         "The Social Network"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Inception"
+      "winners": [
+         "Inception"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Inception"
+      "winners": [
+         "Inception"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Inception"
+      "winners": [
+         "Inception"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "The Lost Thing"
+      "winners": [
+         "The Lost Thing"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "God of Love"
+      "winners": [
+         "God of Love"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Strangers No More"
+      "winners": [
+         "Strangers No More"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Inside Job"
+      "winners": [
+         "Inside Job"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "In a Better World"
+      "winners": [
+         "In a Better World"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Toy Story 3"
+      "winners": [
+         "Toy Story 3"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "The Wolfman"
+      "winners": [
+         "The Wolfman"
+      ]
    }
 ]

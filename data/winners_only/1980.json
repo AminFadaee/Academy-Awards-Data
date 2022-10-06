@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Dustin Hoffman"
+      "winners": [
+         "Dustin Hoffman"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Melvyn Douglas"
+      "winners": [
+         "Melvyn Douglas"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Sally Field"
+      "winners": [
+         "Sally Field"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Meryl Streep"
+      "winners": [
+         "Meryl Streep"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "All That Jazz"
+      "winners": [
+         "All That Jazz"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Apocalypse Now"
+      "winners": [
+         "Apocalypse Now"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "All That Jazz"
+      "winners": [
+         "All That Jazz"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Robert Benton"
+      "winners": [
+         "Robert Benton"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Best Boy"
+      "winners": [
+         "Best Boy"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Paul Robeson: Tribute to an Artist"
+      "winners": [
+         "Paul Robeson: Tribute to an Artist"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Alien"
+      "winners": [
+         "Alien"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "All That Jazz"
+      "winners": [
+         "All That Jazz"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "The Tin Drum"
+      "winners": [
+         "The Tin Drum"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "A Little Romance"
+      "winners": [
+         "A Little Romance"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Norma Rae"
+      "winners": [
+         "Norma Rae"
+      ]
    },
    {
       "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
-      "winner": "All That Jazz"
+      "winners": [
+         "All That Jazz"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Kramer vs. Kramer"
+      "winners": [
+         "Kramer vs. Kramer"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Every Child"
+      "winners": [
+         "Every Child"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Board and Care"
+      "winners": [
+         "Board and Care"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Apocalypse Now"
+      "winners": [
+         "Apocalypse Now"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Kramer vs. Kramer"
+      "winners": [
+         "Kramer vs. Kramer"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Breaking Away"
+      "winners": [
+         "Breaking Away"
+      ]
    }
 ]

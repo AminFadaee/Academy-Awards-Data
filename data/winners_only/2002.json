@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Picture",
-      "winner": "A Beautiful Mind"
+      "winners": [
+         "A Beautiful Mind"
+      ]
    },
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Denzel Washington"
+      "winners": [
+         "Denzel Washington"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Halle Berry"
+      "winners": [
+         "Halle Berry"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Jim Broadbent"
+      "winners": [
+         "Jim Broadbent"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Jennifer Connelly"
+      "winners": [
+         "Jennifer Connelly"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Ron Howard"
+      "winners": [
+         "Ron Howard"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Gosford Park"
+      "winners": [
+         "Gosford Park"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "A Beautiful Mind"
+      "winners": [
+         "A Beautiful Mind"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "No Man's Land"
+      "winners": [
+         "No Man's Land"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Lord of the Rings: The Fellowship of the Ring"
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Moulin Rouge!"
+      "winners": [
+         "Moulin Rouge!"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Moulin Rouge!"
+      "winners": [
+         "Moulin Rouge!"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Black Hawk Down"
+      "winners": [
+         "Black Hawk Down"
+      ]
    },
    {
       "category": "Best Sound Editing",
-      "winner": "Pearl Harbor"
+      "winners": [
+         "Pearl Harbor"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Black Hawk Down"
+      "winners": [
+         "Black Hawk Down"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "The Lord of the Rings: The Fellowship of the Ring"
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "The Lord of the Rings: The Fellowship of the Ring"
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Monsters, Inc."
+      "winners": [
+         "Monsters, Inc."
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Lord of the Rings: The Fellowship of the Ring"
+      "winners": [
+         "The Lord of the Rings: The Fellowship of the Ring"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "For the Birds"
+      "winners": [
+         "For the Birds"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Accountant"
+      "winners": [
+         "The Accountant"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Thoth"
+      "winners": [
+         "Thoth"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Murder on a Sunday Morning"
+      "winners": [
+         "Murder on a Sunday Morning"
+      ]
    },
    {
       "category": "Best Animated Feature",
-      "winner": "Shrek"
+      "winners": [
+         "Shrek"
+      ]
    }
 ]

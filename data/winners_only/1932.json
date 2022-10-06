@@ -1,50 +1,74 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Wallace Beery"
+      "winners": [
+         "Fredric March"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Helen Hayes"
+      "winners": [
+         "Helen Hayes"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Transatlantic"
+      "winners": [
+         "Transatlantic"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Shanghai Express"
+      "winners": [
+         "Shanghai Express"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Frank Borzage"
+      "winners": [
+         "Frank Borzage"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Grand Hotel"
+      "winners": [
+         "Grand Hotel"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Flowers and Trees"
+      "winners": [
+         "Flowers and Trees"
+      ]
    },
    {
       "category": "Best Short Subject, Comedy",
-      "winner": "The Music Box"
+      "winners": [
+         "The Music Box"
+      ]
    },
    {
       "category": "Best Short Subject, Novelty",
-      "winner": "Wrestling Swordfish"
+      "winners": [
+         "Wrestling Swordfish"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Paramount Publix Corporation"
+      "winners": [
+         "Paramount Publix Corporation"
+      ]
    },
    {
       "category": "Best Writing, Adaptation",
-      "winner": "Bad Girl"
+      "winners": [
+         "Bad Girl"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "The Champ"
+      "winners": [
+         "The Champ"
+      ]
    }
 ]

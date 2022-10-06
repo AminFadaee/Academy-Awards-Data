@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Green Book"
+      "winners": [
+         "Green Book"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Rami Malek"
+      "winners": [
+         "Rami Malek"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Olivia Colman"
+      "winners": [
+         "Olivia Colman"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Mahershala Ali"
+      "winners": [
+         "Mahershala Ali"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Regina King"
+      "winners": [
+         "Regina King"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Alfonso Cuar\u00f3n"
+      "winners": [
+         "Alfonso Cuar\u00f3n"
+      ]
    },
    {
       "category": "Best Original Screenplay",
-      "winner": "Green Book"
+      "winners": [
+         "Green Book"
+      ]
    },
    {
       "category": "Best Adapted Screenplay",
-      "winner": "BlacKkKlansman"
+      "winners": [
+         "BlacKkKlansman"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Roma"
+      "winners": [
+         "Roma"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Bohemian Rhapsody"
+      "winners": [
+         "Bohemian Rhapsody"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "Black Panther"
+      "winners": [
+         "Black Panther"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Black Panther"
+      "winners": [
+         "Black Panther"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Vice"
+      "winners": [
+         "Vice"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-      "winner": "Black Panther"
+      "winners": [
+         "Black Panther"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-      "winner": "A Star Is Born"
+      "winners": [
+         "A Star Is Born"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Bohemian Rhapsody"
+      "winners": [
+         "Bohemian Rhapsody"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Bohemian Rhapsody"
+      "winners": [
+         "Bohemian Rhapsody"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "First Man"
+      "winners": [
+         "First Man"
+      ]
    },
    {
       "category": "Best Documentary Feature",
-      "winner": "Free Solo"
+      "winners": [
+         "Free Solo"
+      ]
    },
    {
       "category": "Best Documentary Short Subject",
-      "winner": "Period. End of Sentence."
+      "winners": [
+         "Period. End of Sentence."
+      ]
    },
    {
       "category": "Best Animated Feature Film",
-      "winner": "Spider-Man: Into the Spider-Verse"
+      "winners": [
+         "Spider-Man: Into the Spider-Verse"
+      ]
    },
    {
       "category": "Best Animated Short Film",
-      "winner": "Bao"
+      "winners": [
+         "Bao"
+      ]
    },
    {
       "category": "Best Live Action Short Film",
-      "winner": "Skin"
+      "winners": [
+         "Skin"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "Roma"
+      "winners": [
+         "Roma"
+      ]
    }
 ]

@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Nomadland"
+      "winners": [
+         "Nomadland"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Anthony Hopkins"
+      "winners": [
+         "Anthony Hopkins"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Frances McDormand"
+      "winners": [
+         "Frances McDormand"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Daniel Kaluuya"
+      "winners": [
+         "Daniel Kaluuya"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Youn Yuh-jung"
+      "winners": [
+         "Youn Yuh-jung"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Chlo\u00e9 Zhao"
+      "winners": [
+         "Chlo\u00e9 Zhao"
+      ]
    },
    {
       "category": "Best Original Screenplay",
-      "winner": "Promising Young Woman"
+      "winners": [
+         "Promising Young Woman"
+      ]
    },
    {
       "category": "Best Adapted Screenplay",
-      "winner": "The Father"
+      "winners": [
+         "The Father"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Mank"
+      "winners": [
+         "Mank"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Sound of Metal"
+      "winners": [
+         "Sound of Metal"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "Mank"
+      "winners": [
+         "Mank"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Ma Rainey's Black Bottom"
+      "winners": [
+         "Ma Rainey's Black Bottom"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Sound of Metal"
+      "winners": [
+         "Sound of Metal"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "Ma Rainey's Black Bottom"
+      "winners": [
+         "Ma Rainey's Black Bottom"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-      "winner": "Soul"
+      "winners": [
+         "Soul"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-      "winner": "Judas and the Black Messiah"
+      "winners": [
+         "Judas and the Black Messiah"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Tenet"
+      "winners": [
+         "Tenet"
+      ]
    },
    {
       "category": "Best Documentary Feature",
-      "winner": "My Octopus Teacher"
+      "winners": [
+         "My Octopus Teacher"
+      ]
    },
    {
       "category": "Best Documentary Short Subject",
-      "winner": "Colette"
+      "winners": [
+         "Colette"
+      ]
    },
    {
       "category": "Best Animated Feature Film",
-      "winner": "Soul"
+      "winners": [
+         "Soul"
+      ]
    },
    {
       "category": "Best Animated Short Film",
-      "winner": "If Anything Happens I Love You"
+      "winners": [
+         "If Anything Happens I Love You"
+      ]
    },
    {
       "category": "Best Live Action Short Film",
-      "winner": "Two Distant Strangers"
+      "winners": [
+         "Two Distant Strangers"
+      ]
    },
    {
       "category": "Best International Feature Film",
-      "winner": "Another Round"
+      "winners": [
+         "Another Round"
+      ]
    }
 ]

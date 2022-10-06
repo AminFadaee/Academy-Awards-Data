@@ -1,101 +1,147 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "No Country for Old Men"
+      "winners": [
+         "No Country for Old Men"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Daniel Day-Lewis"
+      "winners": [
+         "Daniel Day-Lewis"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Marion Cotillard"
+      "winners": [
+         "Marion Cotillard"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Javier Bardem"
+      "winners": [
+         "Javier Bardem"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Tilda Swinton"
+      "winners": [
+         "Tilda Swinton"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": [
+      "winners": [
          "Ethan Coen",
          "Joel Coen"
       ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Juno"
+      "winners": [
+         "Juno"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "No Country for Old Men"
+      "winners": [
+         "No Country for Old Men"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "There Will Be Blood"
+      "winners": [
+         "There Will Be Blood"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "Sweeney Todd: The Demon Barber of Fleet Street"
+      "winners": [
+         "Sweeney Todd: The Demon Barber of Fleet Street"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "The Bourne Ultimatum"
+      "winners": [
+         "The Bourne Ultimatum"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Elizabeth: The Golden Age"
+      "winners": [
+         "Elizabeth: The Golden Age"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Once"
+      "winners": [
+         "Once"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "Atonement"
+      "winners": [
+         "Atonement"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "The Bourne Ultimatum"
+      "winners": [
+         "The Bourne Ultimatum"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "The Bourne Ultimatum"
+      "winners": [
+         "The Bourne Ultimatum"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "The Golden Compass"
+      "winners": [
+         "The Golden Compass"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Peter and The Wolf"
+      "winners": [
+         "Peter and The Wolf"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Mozart of Pickpockets"
+      "winners": [
+         "The Mozart of Pickpockets"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Freeheld"
+      "winners": [
+         "Freeheld"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Taxi to the Dark Side"
+      "winners": [
+         "Taxi to the Dark Side"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "The Counterfeiters"
+      "winners": [
+         "The Counterfeiters"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Ratatouille"
+      "winners": [
+         "Ratatouille"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "La Vie en Rose"
+      "winners": [
+         "La Vie en Rose"
+      ]
    }
 ]

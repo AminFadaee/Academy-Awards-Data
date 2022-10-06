@@ -6,90 +6,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Marlon Brando",
-                  "notes": null,
-                  "imdb_id": "nm0000008"
-               }
+               "Marlon Brando"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Bing Crosby",
-                  "notes": null,
-                  "imdb_id": "nm0001078"
-               }
+               "Bing Crosby"
             ],
             "secondary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Dan O'Herlihy",
-                  "notes": null,
-                  "imdb_id": "nm0641397"
-               }
+               "Dan O'Herlihy"
             ],
             "secondary": [
-               {
-                  "name": "Robinson Crusoe",
-                  "notes": null,
-                  "imdb_id": "tt0044386"
-               }
+               "Robinson Crusoe"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Humphrey Bogart",
-                  "notes": null,
-                  "imdb_id": "nm0000007"
-               }
+               "Humphrey Bogart"
             ],
             "secondary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "James Mason",
-                  "notes": null,
-                  "imdb_id": "nm0000051"
-               }
+               "James Mason"
             ],
             "secondary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ]
          }
       ]
@@ -101,90 +61,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Edmond O'Brien",
-                  "notes": null,
-                  "imdb_id": "nm0639529"
-               }
+               "Edmond O'Brien"
             ],
             "secondary": [
-               {
-                  "name": "The Barefoot Contessa",
-                  "notes": null,
-                  "imdb_id": "tt0046754"
-               }
+               "The Barefoot Contessa"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Karl Malden",
-                  "notes": null,
-                  "imdb_id": "nm0001500"
-               }
+               "Karl Malden"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lee J. Cobb",
-                  "notes": null,
-                  "imdb_id": "nm0002011"
-               }
+               "Lee J. Cobb"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rod Steiger",
-                  "notes": null,
-                  "imdb_id": "nm0001768"
-               }
+               "Rod Steiger"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Tom Tully",
-                  "notes": null,
-                  "imdb_id": "nm0876451"
-               }
+               "Tom Tully"
             ],
             "secondary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ]
          }
       ]
@@ -196,90 +116,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Grace Kelly",
-                  "notes": null,
-                  "imdb_id": "nm0000038"
-               }
+               "Grace Kelly"
             ],
             "secondary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Audrey Hepburn",
-                  "notes": null,
-                  "imdb_id": "nm0000030"
-               }
+               "Audrey Hepburn"
             ],
             "secondary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ]
          },
          {
             "notes": "Dorothy Dandridge became the first African-American to be nominated for the Academy Award for Best Actress in a Leading Role.",
             "won": false,
             "primary": [
-               {
-                  "name": "Dorothy Dandridge",
-                  "notes": null,
-                  "imdb_id": "nm0199268"
-               }
+               "Dorothy Dandridge"
             ],
             "secondary": [
-               {
-                  "name": "Carmen Jones",
-                  "notes": null,
-                  "imdb_id": "tt0046828"
-               }
+               "Carmen Jones"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jane Wyman",
-                  "notes": null,
-                  "imdb_id": "nm0943837"
-               }
+               "Jane Wyman"
             ],
             "secondary": [
-               {
-                  "name": "Magnificent Obsession",
-                  "notes": null,
-                  "imdb_id": "tt0047203"
-               }
+               "Magnificent Obsession"
             ]
          },
          {
             "notes": "Judy Garland couldn't attend the ceremony because she was giving birth to her third child and only son, Joey Luft. Even though she did not win the Academy Award she always stated that Joey was the best \"Academy Award\" she ever received that night.",
             "won": false,
             "primary": [
-               {
-                  "name": "Judy Garland",
-                  "notes": null,
-                  "imdb_id": "nm0000023"
-               }
+               "Judy Garland"
             ],
             "secondary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ]
          }
       ]
@@ -291,90 +171,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Eva Marie Saint",
-                  "notes": null,
-                  "imdb_id": "nm0001693"
-               }
+               "Eva Marie Saint"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Claire Trevor",
-                  "notes": null,
-                  "imdb_id": "nm0872456"
-               }
+               "Claire Trevor"
             ],
             "secondary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jan Sterling",
-                  "notes": null,
-                  "imdb_id": "nm0012443"
-               }
+               "Jan Sterling"
             ],
             "secondary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Katy Jurado",
-                  "notes": null,
-                  "imdb_id": "nm0432827"
-               }
+               "Katy Jurado"
             ],
             "secondary": [
-               {
-                  "name": "Broken Lance",
-                  "notes": null,
-                  "imdb_id": "tt0046808"
-               }
+               "Broken Lance"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Nina Foch",
-                  "notes": null,
-                  "imdb_id": "nm0001225"
-               }
+               "Nina Foch"
             ],
             "secondary": [
-               {
-                  "name": "Executive Suite",
-                  "notes": null,
-                  "imdb_id": "tt0046963"
-               }
+               "Executive Suite"
             ]
          }
       ]
@@ -386,135 +226,59 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Richard Day",
-                  "notes": null,
-                  "imdb_id": "nm0206554"
-               }
+               "Richard Day"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Executive Suite",
-                  "notes": null,
-                  "imdb_id": "tt0046963"
-               }
+               "Executive Suite"
             ],
             "secondary": [
-               {
-                  "name": "Cedric Gibbons",
-                  "notes": null,
-                  "imdb_id": "nm0316539"
-               },
-               {
-                  "name": "Edward C. Carfagno",
-                  "notes": null,
-                  "imdb_id": "nm0137063"
-               },
-               {
-                  "name": "Edwin B. Willis",
-                  "notes": null,
-                  "imdb_id": "nm0932320"
-               },
-               {
-                  "name": "Emile Kuri",
-                  "notes": null,
-                  "imdb_id": "nm0475689"
-               }
+               "Cedric Gibbons",
+               "Edward C. Carfagno",
+               "Edwin B. Willis",
+               "Emile Kuri"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Le plaisir",
-                  "notes": null,
-                  "imdb_id": "tt0045034"
-               }
+               "Le plaisir"
             ],
             "secondary": [
-               {
-                  "name": "Max Oph\u00fcls",
-                  "notes": null,
-                  "imdb_id": "nm0649097"
-               }
+               "Max Oph\u00fcls"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ],
             "secondary": [
-               {
-                  "name": "Hal Pereira",
-                  "notes": null,
-                  "imdb_id": "nm0673134"
-               },
-               {
-                  "name": "Walter H. Tyler",
-                  "notes": null,
-                  "imdb_id": "nm0878934"
-               },
-               {
-                  "name": "Sam Comer",
-                  "notes": null,
-                  "imdb_id": "nm0173754"
-               },
-               {
-                  "name": "Ray Moyer",
-                  "notes": null,
-                  "imdb_id": "nm0610455"
-               }
+               "Hal Pereira",
+               "Walter H. Tyler",
+               "Sam Comer",
+               "Ray Moyer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ],
             "secondary": [
-               {
-                  "name": "Hal Pereira",
-                  "notes": null,
-                  "imdb_id": "nm0673134"
-               },
-               {
-                  "name": "Roland Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0027380"
-               },
-               {
-                  "name": "Sam Comer",
-                  "notes": null,
-                  "imdb_id": "nm0173754"
-               },
-               {
-                  "name": "Grace Gregory",
-                  "notes": null,
-                  "imdb_id": "nm0339822"
-               }
+               "Hal Pereira",
+               "Roland Anderson",
+               "Sam Comer",
+               "Grace Gregory"
             ]
          }
       ]
@@ -526,155 +290,63 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "20,000 Leagues Under the Sea",
-                  "notes": null,
-                  "imdb_id": "tt0046672"
-               }
+               "20,000 Leagues Under the Sea"
             ],
             "secondary": [
-               {
-                  "name": "John Meehan",
-                  "notes": null,
-                  "imdb_id": "nm0576048"
-               },
-               {
-                  "name": "Emile Kuri",
-                  "notes": null,
-                  "imdb_id": "nm0475689"
-               }
+               "John Meehan",
+               "Emile Kuri"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Malcolm C. Bert",
-                  "notes": null,
-                  "imdb_id": "nm0077798"
-               },
-               {
-                  "name": "Gene Allen",
-                  "notes": null,
-                  "imdb_id": "nm0020537"
-               },
-               {
-                  "name": "Irene Sharaff",
-                  "notes": null,
-                  "imdb_id": "nm0788695"
-               },
-               {
-                  "name": "George James Hopkins",
-                  "notes": null,
-                  "imdb_id": "nm0394166"
-               }
+               "Malcolm C. Bert",
+               "Gene Allen",
+               "Irene Sharaff",
+               "George James Hopkins"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Brigadoon",
-                  "notes": null,
-                  "imdb_id": "tt0046807"
-               }
+               "Brigadoon"
             ],
             "secondary": [
-               {
-                  "name": "Cedric Gibbons",
-                  "notes": null,
-                  "imdb_id": "nm0316539"
-               },
-               {
-                  "name": "E. Preston Ames",
-                  "notes": null,
-                  "imdb_id": "nm0024694"
-               },
-               {
-                  "name": "Edwin B. Willis",
-                  "notes": null,
-                  "imdb_id": "nm0932320"
-               },
-               {
-                  "name": "F. Keogh Gleason",
-                  "notes": null,
-                  "imdb_id": "nm0322294"
-               }
+               "Cedric Gibbons",
+               "E. Preston Ames",
+               "Edwin B. Willis",
+               "F. Keogh Gleason"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "D\u00e9sir\u00e9e",
-                  "notes": null,
-                  "imdb_id": "tt0046903"
-               }
+               "D\u00e9sir\u00e9e"
             ],
             "secondary": [
-               {
-                  "name": "Lyle R. Wheeler",
-                  "notes": null,
-                  "imdb_id": "nm0923907"
-               },
-               {
-                  "name": "Leland Fuller",
-                  "notes": null,
-                  "imdb_id": "nm0298285"
-               },
-               {
-                  "name": "Walter M. Scott",
-                  "notes": null,
-                  "imdb_id": "nm0779898"
-               },
-               {
-                  "name": "Paul S. Fox",
-                  "notes": null,
-                  "imdb_id": "nm0289189"
-               }
+               "Lyle R. Wheeler",
+               "Leland Fuller",
+               "Walter M. Scott",
+               "Paul S. Fox"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Red Garters",
-                  "notes": null,
-                  "imdb_id": "tt0047400"
-               }
+               "Red Garters"
             ],
             "secondary": [
-               {
-                  "name": "Hal Pereira",
-                  "notes": null,
-                  "imdb_id": "nm0673134"
-               },
-               {
-                  "name": "Roland Anderson",
-                  "notes": null,
-                  "imdb_id": "nm0027380"
-               },
-               {
-                  "name": "Sam Comer",
-                  "notes": null,
-                  "imdb_id": "nm0173754"
-               },
-               {
-                  "name": "Ray Moyer",
-                  "notes": null,
-                  "imdb_id": "nm0610455"
-               }
+               "Hal Pereira",
+               "Roland Anderson",
+               "Sam Comer",
+               "Ray Moyer"
             ]
          }
       ]
@@ -686,90 +358,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Boris Kaufman",
-                  "notes": null,
-                  "imdb_id": "nm0442100"
-               }
+               "Boris Kaufman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Executive Suite",
-                  "notes": null,
-                  "imdb_id": "tt0046963"
-               }
+               "Executive Suite"
             ],
             "secondary": [
-               {
-                  "name": "George J. Folsey",
-                  "notes": null,
-                  "imdb_id": "nm0005706"
-               }
+               "George J. Folsey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rogue Cop",
-                  "notes": null,
-                  "imdb_id": "tt0047424"
-               }
+               "Rogue Cop"
             ],
             "secondary": [
-               {
-                  "name": "John F. Seitz",
-                  "notes": null,
-                  "imdb_id": "nm0005870"
-               }
+               "John F. Seitz"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ],
             "secondary": [
-               {
-                  "name": "Charles Lang",
-                  "notes": null,
-                  "imdb_id": "nm0485702"
-               }
+               "Charles Lang"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ],
             "secondary": [
-               {
-                  "name": "John F. Warren",
-                  "notes": null,
-                  "imdb_id": "nm0912860"
-               }
+               "John F. Warren"
             ]
          }
       ]
@@ -781,90 +413,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Three Coins in the Fountain",
-                  "notes": null,
-                  "imdb_id": "tt0047580"
-               }
+               "Three Coins in the Fountain"
             ],
             "secondary": [
-               {
-                  "name": "Milton R. Krasner",
-                  "notes": null,
-                  "imdb_id": "nm0005762"
-               }
+               "Milton R. Krasner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rear Window",
-                  "notes": null,
-                  "imdb_id": "tt0047396"
-               }
+               "Rear Window"
             ],
             "secondary": [
-               {
-                  "name": "Robert Burks",
-                  "notes": null,
-                  "imdb_id": "nm0122079"
-               }
+               "Robert Burks"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seven Brides for Seven Brothers",
-                  "notes": null,
-                  "imdb_id": "tt0047472"
-               }
+               "Seven Brides for Seven Brothers"
             ],
             "secondary": [
-               {
-                  "name": "George J. Folsey",
-                  "notes": null,
-                  "imdb_id": "nm0005706"
-               }
+               "George J. Folsey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Egyptian",
-                  "notes": null,
-                  "imdb_id": "tt0046949"
-               }
+               "The Egyptian"
             ],
             "secondary": [
-               {
-                  "name": "Leon Shamroy",
-                  "notes": null,
-                  "imdb_id": "nm0005872"
-               }
+               "Leon Shamroy"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Silver Chalice",
-                  "notes": null,
-                  "imdb_id": "tt0047494"
-               }
+               "The Silver Chalice"
             ],
             "secondary": [
-               {
-                  "name": "William V. Skall",
-                  "notes": null,
-                  "imdb_id": "nm0005877"
-               }
+               "William V. Skall"
             ]
          }
       ]
@@ -876,95 +468,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ],
             "secondary": [
-               {
-                  "name": "Edith Head",
-                  "notes": null,
-                  "imdb_id": "nm0372128"
-               }
+               "Edith Head"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Executive Suite",
-                  "notes": null,
-                  "imdb_id": "tt0046963"
-               }
+               "Executive Suite"
             ],
             "secondary": [
-               {
-                  "name": "Helen Rose",
-                  "notes": null,
-                  "imdb_id": "nm0741423"
-               }
+               "Helen Rose"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Indiscretion of an American Wife",
-                  "notes": null,
-                  "imdb_id": "tt0046366"
-               }
+               "Indiscretion of an American Wife"
             ],
             "secondary": [
-               {
-                  "name": "Christian Dior",
-                  "notes": null,
-                  "imdb_id": "nm0228039"
-               }
+               "Christian Dior"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "It Should Happen to You",
-                  "notes": null,
-                  "imdb_id": "tt0047123"
-               }
+               "It Should Happen to You"
             ],
             "secondary": [
-               {
-                  "name": "Jean Louis",
-                  "notes": null,
-                  "imdb_id": "nm0521872"
-               }
+               "Jean Louis"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Earrings of Madame De...",
-                  "notes": null,
-                  "imdb_id": "tt0046022"
-               }
+               "The Earrings of Madame De..."
             ],
             "secondary": [
-               {
-                  "name": "Georges Annenkov",
-                  "notes": null,
-                  "imdb_id": "nm0030333"
-               },
-               {
-                  "name": "Rosine Delamare",
-                  "notes": null,
-                  "imdb_id": "nm0216212"
-               }
+               "Georges Annenkov",
+               "Rosine Delamare"
             ]
          }
       ]
@@ -976,115 +524,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Gate of Hell",
-                  "notes": null,
-                  "imdb_id": "tt0045935"
-               }
+               "Gate of Hell"
             ],
             "secondary": [
-               {
-                  "name": "Mitsuz\u00f4 Wada",
-                  "notes": null,
-                  "imdb_id": "nm0905272"
-               }
+               "Mitsuz\u00f4 Wada"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Jean Louis",
-                  "notes": null,
-                  "imdb_id": "nm0521872"
-               },
-               {
-                  "name": "Mary Ann Nyberg",
-                  "notes": null,
-                  "imdb_id": "nm0638501"
-               },
-               {
-                  "name": "Irene Sharaff",
-                  "notes": null,
-                  "imdb_id": "nm0788695"
-               }
+               "Jean Louis",
+               "Mary Ann Nyberg",
+               "Irene Sharaff"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Brigadoon",
-                  "notes": null,
-                  "imdb_id": "tt0046807"
-               }
+               "Brigadoon"
             ],
             "secondary": [
-               {
-                  "name": "Irene Sharaff",
-                  "notes": null,
-                  "imdb_id": "nm0788695"
-               }
+               "Irene Sharaff"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "D\u00e9sir\u00e9e",
-                  "notes": null,
-                  "imdb_id": "tt0046903"
-               }
+               "D\u00e9sir\u00e9e"
             ],
             "secondary": [
-               {
-                  "name": "Charles Le Maire",
-                  "notes": null,
-                  "imdb_id": "nm0494406"
-               },
-               {
-                  "name": "Ren\u00e9 Hubert",
-                  "notes": null,
-                  "imdb_id": "nm0399484"
-               }
+               "Charles Le Maire",
+               "Ren\u00e9 Hubert"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "There's No Business Like Show Business",
-                  "notes": null,
-                  "imdb_id": "tt0047574"
-               }
+               "There's No Business Like Show Business"
             ],
             "secondary": [
-               {
-                  "name": "Charles Le Maire",
-                  "notes": null,
-                  "imdb_id": "nm0494406"
-               },
-               {
-                  "name": "Travilla",
-                  "notes": null,
-                  "imdb_id": "nm0871359"
-               },
-               {
-                  "name": "Miles White",
-                  "notes": null,
-                  "imdb_id": "nm0925240"
-               }
+               "Charles Le Maire",
+               "Travilla",
+               "Miles White"
             ]
          }
       ]
@@ -1096,90 +584,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Elia Kazan",
-                  "notes": null,
-                  "imdb_id": "nm0001415"
-               }
+               "Elia Kazan"
             ],
             "secondary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Alfred Hitchcock",
-                  "notes": null,
-                  "imdb_id": "nm0000033"
-               }
+               "Alfred Hitchcock"
             ],
             "secondary": [
-               {
-                  "name": "Rear Window",
-                  "notes": null,
-                  "imdb_id": "tt0047396"
-               }
+               "Rear Window"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Billy Wilder",
-                  "notes": null,
-                  "imdb_id": "nm0000697"
-               }
+               "Billy Wilder"
             ],
             "secondary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "George Seaton",
-                  "notes": null,
-                  "imdb_id": "nm0780833"
-               }
+               "George Seaton"
             ],
             "secondary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "William A. Wellman",
-                  "notes": null,
-                  "imdb_id": "nm0920074"
-               }
+               "William A. Wellman"
             ],
             "secondary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ]
          }
       ]
@@ -1191,36 +639,20 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Vanishing Prairie",
-                  "notes": null,
-                  "imdb_id": "tt0047642"
-               }
+               "The Vanishing Prairie"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               }
+               "Walt Disney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Stratford Adventure",
-                  "notes": null,
-                  "imdb_id": "tt0047530"
-               }
+               "The Stratford Adventure"
             ],
             "secondary": [
-               {
-                  "name": "Guy Glover",
-                  "notes": null,
-                  "imdb_id": "nm0323123"
-               }
+               "Guy Glover"
             ]
          }
       ]
@@ -1232,11 +664,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Thursday's Children",
-                  "notes": null,
-                  "imdb_id": "tt0047585"
-               }
+               "Thursday's Children"
             ],
             "secondary": []
          },
@@ -1244,36 +672,20 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jet Carrier",
-                  "notes": null,
-                  "imdb_id": "tt0047131"
-               }
+               "Jet Carrier"
             ],
             "secondary": [
-               {
-                  "name": "Otto Lang",
-                  "notes": null,
-                  "imdb_id": "nm0485871"
-               }
+               "Otto Lang"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rembrandt: A Self-Portrait",
-                  "notes": null,
-                  "imdb_id": "tt0047404"
-               }
+               "Rembrandt: A Self-Portrait"
             ],
             "secondary": [
-               {
-                  "name": "Morrie Roizman",
-                  "notes": null,
-                  "imdb_id": "nm0737726"
-               }
+               "Morrie Roizman"
             ]
          }
       ]
@@ -1285,11 +697,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "20,000 Leagues Under the Sea",
-                  "notes": null,
-                  "imdb_id": "tt0046672"
-               }
+               "20,000 Leagues Under the Sea"
             ],
             "secondary": []
          },
@@ -1297,11 +705,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Hell and High Water",
-                  "notes": null,
-                  "imdb_id": "tt0047073"
-               }
+               "Hell and High Water"
             ],
             "secondary": []
          },
@@ -1309,11 +713,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Them!",
-                  "notes": null,
-                  "imdb_id": "tt0047573"
-               }
+               "Them!"
             ],
             "secondary": []
          }
@@ -1326,95 +726,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Gene Milford",
-                  "notes": null,
-                  "imdb_id": "nm0587332"
-               }
+               "Gene Milford"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "20,000 Leagues Under the Sea",
-                  "notes": null,
-                  "imdb_id": "tt0046672"
-               }
+               "20,000 Leagues Under the Sea"
             ],
             "secondary": [
-               {
-                  "name": "Elmo Williams",
-                  "notes": null,
-                  "imdb_id": "nm0930536"
-               }
+               "Elmo Williams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seven Brides for Seven Brothers",
-                  "notes": null,
-                  "imdb_id": "tt0047472"
-               }
+               "Seven Brides for Seven Brothers"
             ],
             "secondary": [
-               {
-                  "name": "Ralph E. Winters",
-                  "notes": null,
-                  "imdb_id": "nm0935988"
-               }
+               "Ralph E. Winters"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ],
             "secondary": [
-               {
-                  "name": "William A. Lyon",
-                  "notes": null,
-                  "imdb_id": "nm0528995"
-               },
-               {
-                  "name": "Henry Batista",
-                  "notes": null,
-                  "imdb_id": "nm0061151"
-               }
+               "William A. Lyon",
+               "Henry Batista"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ],
             "secondary": [
-               {
-                  "name": "Ralph Dawson",
-                  "notes": null,
-                  "imdb_id": "nm0206238"
-               }
+               "Ralph Dawson"
             ]
          }
       ]
@@ -1426,110 +782,54 @@
             "notes": "For the song \"Three Coins in the Fountain\"",
             "won": true,
             "primary": [
-               {
-                  "name": "Three Coins in the Fountain",
-                  "notes": null,
-                  "imdb_id": "tt0047580"
-               }
+               "Three Coins in the Fountain"
             ],
             "secondary": [
-               {
-                  "name": "Jule Styne",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006312"
-               },
-               {
-                  "name": "Sammy Cahn",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0005991"
-               }
+               "Jule Styne",
+               "Sammy Cahn"
             ]
          },
          {
             "notes": "For the song \"The Man that Got Away\"",
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Harold Arlen",
-                  "notes": "(music)",
-                  "imdb_id": "nm0002182"
-               },
-               {
-                  "name": "Ira Gershwin",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0314857"
-               }
+               "Harold Arlen",
+               "Ira Gershwin"
             ]
          },
          {
             "notes": "For the song \"Hold My Hand\"",
             "won": false,
             "primary": [
-               {
-                  "name": "Susan Slept Here",
-                  "notes": null,
-                  "imdb_id": "tt0047550"
-               }
+               "Susan Slept Here"
             ],
             "secondary": [
-               {
-                  "name": "Jack Lawrence",
-                  "notes": null,
-                  "imdb_id": "nm0492805"
-               },
-               {
-                  "name": "Richard Myers",
-                  "notes": null,
-                  "imdb_id": "nm0616840"
-               }
+               "Jack Lawrence",
+               "Richard Myers"
             ]
          },
          {
             "notes": "For the song \"The High and the Mighty\"",
             "won": false,
             "primary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ],
             "secondary": [
-               {
-                  "name": "Dimitri Tiomkin",
-                  "notes": "(music)",
-                  "imdb_id": "nm0006323"
-               },
-               {
-                  "name": "Ned Washington",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0913513"
-               }
+               "Dimitri Tiomkin",
+               "Ned Washington"
             ]
          },
          {
             "notes": "For the song \"Count Your Blessings Instead of Sheep\"",
             "won": false,
             "primary": [
-               {
-                  "name": "White Christmas",
-                  "notes": null,
-                  "imdb_id": "tt0047673"
-               }
+               "White Christmas"
             ],
             "secondary": [
-               {
-                  "name": "Irving Berlin",
-                  "notes": null,
-                  "imdb_id": "nm0000927"
-               }
+               "Irving Berlin"
             ]
          }
       ]
@@ -1541,90 +841,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The High and the Mighty",
-                  "notes": null,
-                  "imdb_id": "tt0047086"
-               }
+               "The High and the Mighty"
             ],
             "secondary": [
-               {
-                  "name": "Dimitri Tiomkin",
-                  "notes": null,
-                  "imdb_id": "nm0006323"
-               }
+               "Dimitri Tiomkin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Genevieve",
-                  "notes": null,
-                  "imdb_id": "tt0045808"
-               }
+               "Genevieve"
             ],
             "secondary": [
-               {
-                  "name": "Larry Adler",
-                  "notes": null,
-                  "imdb_id": "nm0012196"
-               }
+               "Larry Adler"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Leonard Bernstein",
-                  "notes": null,
-                  "imdb_id": "nm0077086"
-               }
+               "Leonard Bernstein"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ],
             "secondary": [
-               {
-                  "name": "Max Steiner",
-                  "notes": null,
-                  "imdb_id": "nm0000070"
-               }
+               "Max Steiner"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Silver Chalice",
-                  "notes": null,
-                  "imdb_id": "tt0047494"
-               }
+               "The Silver Chalice"
             ],
             "secondary": [
-               {
-                  "name": "Franz Waxman",
-                  "notes": null,
-                  "imdb_id": "nm0000077"
-               }
+               "Franz Waxman"
             ]
          }
       ]
@@ -1636,105 +896,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Seven Brides for Seven Brothers",
-                  "notes": null,
-                  "imdb_id": "tt0047472"
-               }
+               "Seven Brides for Seven Brothers"
             ],
             "secondary": [
-               {
-                  "name": "Adolph Deutsch",
-                  "notes": null,
-                  "imdb_id": "nm0006037"
-               },
-               {
-                  "name": "Saul Chaplin",
-                  "notes": null,
-                  "imdb_id": "nm0006000"
-               }
+               "Adolph Deutsch",
+               "Saul Chaplin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "A Star Is Born",
-                  "notes": null,
-                  "imdb_id": "tt0047522"
-               }
+               "A Star Is Born"
             ],
             "secondary": [
-               {
-                  "name": "Ray Heindorf",
-                  "notes": null,
-                  "imdb_id": "nm0006127"
-               }
+               "Ray Heindorf"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Carmen Jones",
-                  "notes": null,
-                  "imdb_id": "tt0046828"
-               }
+               "Carmen Jones"
             ],
             "secondary": [
-               {
-                  "name": "Herschel Burke Gilbert",
-                  "notes": null,
-                  "imdb_id": "nm0318074"
-               }
+               "Herschel Burke Gilbert"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Glenn Miller Story",
-                  "notes": null,
-                  "imdb_id": "tt0047030"
-               }
+               "The Glenn Miller Story"
             ],
             "secondary": [
-               {
-                  "name": "Joseph Gershenson",
-                  "notes": null,
-                  "imdb_id": "nm0314829"
-               },
-               {
-                  "name": "Henry Mancini",
-                  "notes": null,
-                  "imdb_id": "nm0000049"
-               }
+               "Joseph Gershenson",
+               "Henry Mancini"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "There's No Business Like Show Business",
-                  "notes": null,
-                  "imdb_id": "tt0047574"
-               }
+               "There's No Business Like Show Business"
             ],
             "secondary": [
-               {
-                  "name": "Alfred Newman",
-                  "notes": null,
-                  "imdb_id": "nm0000055"
-               },
-               {
-                  "name": "Lionel Newman",
-                  "notes": null,
-                  "imdb_id": "nm0006213"
-               }
+               "Alfred Newman",
+               "Lionel Newman"
             ]
          }
       ]
@@ -1746,90 +954,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Sam Spiegel",
-                  "notes": null,
-                  "imdb_id": "nm0818545"
-               }
+               "Sam Spiegel"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seven Brides for Seven Brothers",
-                  "notes": null,
-                  "imdb_id": "tt0047472"
-               }
+               "Seven Brides for Seven Brothers"
             ],
             "secondary": [
-               {
-                  "name": "Jack Cummings",
-                  "notes": null,
-                  "imdb_id": "nm0191901"
-               }
+               "Jack Cummings"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ],
             "secondary": [
-               {
-                  "name": "Stanley Kramer",
-                  "notes": null,
-                  "imdb_id": "nm0006452"
-               }
+               "Stanley Kramer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ],
             "secondary": [
-               {
-                  "name": "William Perlberg",
-                  "notes": null,
-                  "imdb_id": "nm0674169"
-               }
+               "William Perlberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Three Coins in the Fountain",
-                  "notes": null,
-                  "imdb_id": "tt0047580"
-               }
+               "Three Coins in the Fountain"
             ],
             "secondary": [
-               {
-                  "name": "Sol C. Siegel",
-                  "notes": null,
-                  "imdb_id": "nm0797012"
-               }
+               "Sol C. Siegel"
             ]
          }
       ]
@@ -1841,90 +1009,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "When Magoo Flew",
-                  "notes": null,
-                  "imdb_id": "tt0047672"
-               }
+               "When Magoo Flew"
             ],
             "secondary": [
-               {
-                  "name": "Stephen Bosustow",
-                  "notes": null,
-                  "imdb_id": "nm0098322"
-               }
+               "Stephen Bosustow"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Crazy Mixed Up Pup",
-                  "notes": null,
-                  "imdb_id": "tt0047959"
-               }
+               "Crazy Mixed Up Pup"
             ],
             "secondary": [
-               {
-                  "name": "Walter Lantz",
-                  "notes": null,
-                  "imdb_id": "nm0487237"
-               }
+               "Walter Lantz"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pigs Is Pigs",
-                  "notes": null,
-                  "imdb_id": "tt0047353"
-               }
+               "Pigs Is Pigs"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               }
+               "Walt Disney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sandy Claws",
-                  "notes": null,
-                  "imdb_id": "tt0048581"
-               }
+               "Sandy Claws"
             ],
             "secondary": [
-               {
-                  "name": "Edward Selzer",
-                  "notes": null,
-                  "imdb_id": "nm0783666"
-               }
+               "Edward Selzer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Touch\u00e9, Pussy Cat!",
-                  "notes": null,
-                  "imdb_id": "tt0047600"
-               }
+               "Touch\u00e9, Pussy Cat!"
             ],
             "secondary": [
-               {
-                  "name": "Fred Quimby",
-                  "notes": null,
-                  "imdb_id": "nm0703642"
-               }
+               "Fred Quimby"
             ]
          }
       ]
@@ -1936,54 +1064,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "This Mechanical Age",
-                  "notes": null,
-                  "imdb_id": "tt0047578"
-               }
+               "This Mechanical Age"
             ],
             "secondary": [
-               {
-                  "name": "Robert Youngson",
-                  "notes": null,
-                  "imdb_id": "nm0950288"
-               }
+               "Robert Youngson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Strauss Fantasy",
-                  "notes": null,
-                  "imdb_id": "tt0047531"
-               }
+               "Strauss Fantasy"
             ],
             "secondary": [
-               {
-                  "name": "Johnny Green",
-                  "notes": null,
-                  "imdb_id": "nm0338004"
-               }
+               "Johnny Green"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The First Piano Quartette",
-                  "notes": null,
-                  "imdb_id": "tt0046981"
-               }
+               "The First Piano Quartette"
             ],
             "secondary": [
-               {
-                  "name": "Otto Lang",
-                  "notes": null,
-                  "imdb_id": "nm0485871"
-               }
+               "Otto Lang"
             ]
          }
       ]
@@ -1995,77 +1099,41 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "A Time Out of War",
-                  "notes": null,
-                  "imdb_id": "tt0047587"
-               }
+               "A Time Out of War"
             ],
             "secondary": [
-               {
-                  "name": "Denis Sanders",
-                  "notes": null,
-                  "imdb_id": "nm0761522"
-               },
-               {
-                  "name": "Terry Sanders",
-                  "notes": null,
-                  "imdb_id": "nm0761739"
-               }
+               "Denis Sanders",
+               "Terry Sanders"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Beauty and the Bull",
-                  "notes": null,
-                  "imdb_id": "tt0046760"
-               }
+               "Beauty and the Bull"
             ],
             "secondary": [
-               {
-                  "name": "Cedric Francis",
-                  "notes": null,
-                  "imdb_id": "nm0290103"
-               }
+               "Cedric Francis"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jet Carrier",
-                  "notes": null,
-                  "imdb_id": "tt0047131"
-               }
+               "Jet Carrier"
             ],
             "secondary": [
-               {
-                  "name": "Otto Lang",
-                  "notes": null,
-                  "imdb_id": "nm0485871"
-               }
+               "Otto Lang"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Siam",
-                  "notes": null,
-                  "imdb_id": "tt0047485"
-               }
+               "Siam"
             ],
             "secondary": [
-               {
-                  "name": "Walt Disney",
-                  "notes": null,
-                  "imdb_id": "nm0000370"
-               }
+               "Walt Disney"
             ]
          }
       ]
@@ -2077,90 +1145,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Glenn Miller Story",
-                  "notes": null,
-                  "imdb_id": "tt0047030"
-               }
+               "The Glenn Miller Story"
             ],
             "secondary": [
-               {
-                  "name": "Leslie I. Carey",
-                  "notes": "(U-I)",
-                  "imdb_id": "nm0136989"
-               }
+               "Leslie I. Carey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Brigadoon",
-                  "notes": null,
-                  "imdb_id": "tt0046807"
-               }
+               "Brigadoon"
             ],
             "secondary": [
-               {
-                  "name": "Wesley C. Miller",
-                  "notes": "(M-G-M)",
-                  "imdb_id": "nm0589506"
-               }
+               "Wesley C. Miller"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rear Window",
-                  "notes": null,
-                  "imdb_id": "tt0047396"
-               }
+               "Rear Window"
             ],
             "secondary": [
-               {
-                  "name": "Loren L. Ryder",
-                  "notes": "(Paramount)",
-                  "imdb_id": "nm0753122"
-               }
+               "Loren L. Ryder"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Susan Slept Here",
-                  "notes": null,
-                  "imdb_id": "tt0047550"
-               }
+               "Susan Slept Here"
             ],
             "secondary": [
-               {
-                  "name": "John Aalberg",
-                  "notes": "(RKO Radio)",
-                  "imdb_id": "nm0007356"
-               }
+               "John Aalberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ],
             "secondary": [
-               {
-                  "name": "John P. Livadary",
-                  "notes": "(Columbia SSD)",
-                  "imdb_id": "nm0515093"
-               }
+               "John P. Livadary"
             ]
          }
       ]
@@ -2172,95 +1200,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Broken Lance",
-                  "notes": null,
-                  "imdb_id": "tt0046808"
-               }
+               "Broken Lance"
             ],
             "secondary": [
-               {
-                  "name": "Philip Yordan",
-                  "notes": null,
-                  "imdb_id": "nm0948634"
-               }
+               "Philip Yordan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Bread, Love and Dreams",
-                  "notes": null,
-                  "imdb_id": "tt0046159"
-               }
+               "Bread, Love and Dreams"
             ],
             "secondary": [
-               {
-                  "name": "Ettore Maria Margadonna",
-                  "notes": null,
-                  "imdb_id": "nm0546572"
-               }
+               "Ettore Maria Margadonna"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Forbidden Games",
-                  "notes": null,
-                  "imdb_id": "tt0043686"
-               }
+               "Forbidden Games"
             ],
             "secondary": [
-               {
-                  "name": "Fran\u00e7ois Boyer",
-                  "notes": null,
-                  "imdb_id": "nm0102030"
-               }
+               "Fran\u00e7ois Boyer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Night People",
-                  "notes": null,
-                  "imdb_id": "tt0047279"
-               }
+               "Night People"
             ],
             "secondary": [
-               {
-                  "name": "Jed Harris",
-                  "notes": null,
-                  "imdb_id": "nm0364824"
-               },
-               {
-                  "name": "Tom Reed",
-                  "notes": null,
-                  "imdb_id": "nm0715723"
-               }
+               "Jed Harris",
+               "Tom Reed"
             ]
          },
          {
             "notes": "Posthumous nomination.",
             "won": false,
             "primary": [
-               {
-                  "name": "There's No Business Like Show Business",
-                  "notes": null,
-                  "imdb_id": "tt0047574"
-               }
+               "There's No Business Like Show Business"
             ],
             "secondary": [
-               {
-                  "name": "Lamar Trotti",
-                  "notes": null,
-                  "imdb_id": "nm0873707"
-               }
+               "Lamar Trotti"
             ]
          }
       ]
@@ -2272,110 +1256,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Country Girl",
-                  "notes": null,
-                  "imdb_id": "tt0046874"
-               }
+               "The Country Girl"
             ],
             "secondary": [
-               {
-                  "name": "George Seaton",
-                  "notes": null,
-                  "imdb_id": "nm0780833"
-               }
+               "George Seaton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Rear Window",
-                  "notes": null,
-                  "imdb_id": "tt0047396"
-               }
+               "Rear Window"
             ],
             "secondary": [
-               {
-                  "name": "John Michael Hayes",
-                  "notes": null,
-                  "imdb_id": "nm0371088"
-               }
+               "John Michael Hayes"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sabrina",
-                  "notes": null,
-                  "imdb_id": "tt0047437"
-               }
+               "Sabrina"
             ],
             "secondary": [
-               {
-                  "name": "Billy Wilder",
-                  "notes": null,
-                  "imdb_id": "nm0000697"
-               },
-               {
-                  "name": "Samuel A. Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853138"
-               },
-               {
-                  "name": "Ernest Lehman",
-                  "notes": null,
-                  "imdb_id": "nm0499626"
-               }
+               "Billy Wilder",
+               "Samuel A. Taylor",
+               "Ernest Lehman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seven Brides for Seven Brothers",
-                  "notes": null,
-                  "imdb_id": "tt0047472"
-               }
+               "Seven Brides for Seven Brothers"
             ],
             "secondary": [
-               {
-                  "name": "Albert Hackett",
-                  "notes": null,
-                  "imdb_id": "nm0352443"
-               },
-               {
-                  "name": "Frances Goodrich",
-                  "notes": null,
-                  "imdb_id": "nm0329304"
-               },
-               {
-                  "name": "Dorothy Kingsley",
-                  "notes": null,
-                  "imdb_id": "nm0455510"
-               }
+               "Albert Hackett",
+               "Frances Goodrich",
+               "Dorothy Kingsley"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Caine Mutiny",
-                  "notes": null,
-                  "imdb_id": "tt0046816"
-               }
+               "The Caine Mutiny"
             ],
             "secondary": [
-               {
-                  "name": "Stanley Roberts",
-                  "notes": null,
-                  "imdb_id": "nm0731592"
-               }
+               "Stanley Roberts"
             ]
          }
       ]
@@ -2387,100 +1315,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "On the Waterfront",
-                  "notes": null,
-                  "imdb_id": "tt0047296"
-               }
+               "On the Waterfront"
             ],
             "secondary": [
-               {
-                  "name": "Budd Schulberg",
-                  "notes": null,
-                  "imdb_id": "nm0775977"
-               }
+               "Budd Schulberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Genevieve",
-                  "notes": null,
-                  "imdb_id": "tt0045808"
-               }
+               "Genevieve"
             ],
             "secondary": [
-               {
-                  "name": "William Rose",
-                  "notes": null,
-                  "imdb_id": "nm0741740"
-               }
+               "William Rose"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Knock on Wood",
-                  "notes": null,
-                  "imdb_id": "tt0047152"
-               }
+               "Knock on Wood"
             ],
             "secondary": [
-               {
-                  "name": "Norman Panama",
-                  "notes": null,
-                  "imdb_id": "nm0659085"
-               },
-               {
-                  "name": "Melvin Frank",
-                  "notes": null,
-                  "imdb_id": "nm0291035"
-               }
+               "Norman Panama",
+               "Melvin Frank"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Barefoot Contessa",
-                  "notes": null,
-                  "imdb_id": "tt0046754"
-               }
+               "The Barefoot Contessa"
             ],
             "secondary": [
-               {
-                  "name": "Joseph L. Mankiewicz",
-                  "notes": null,
-                  "imdb_id": "nm0000581"
-               }
+               "Joseph L. Mankiewicz"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Glenn Miller Story",
-                  "notes": null,
-                  "imdb_id": "tt0047030"
-               }
+               "The Glenn Miller Story"
             ],
             "secondary": [
-               {
-                  "name": "Valentine Davies",
-                  "notes": null,
-                  "imdb_id": "nm0204016"
-               },
-               {
-                  "name": "Oscar Brodney",
-                  "notes": null,
-                  "imdb_id": "nm0110958"
-               }
+               "Valentine Davies",
+               "Oscar Brodney"
             ]
          }
       ]

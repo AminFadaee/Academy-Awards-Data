@@ -6,135 +6,59 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Barrie M. Osborne",
-                  "notes": null,
-                  "imdb_id": "nm0651614"
-               },
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               },
-               {
-                  "name": "Fran Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909638"
-               }
+               "Barrie M. Osborne",
+               "Peter Jackson",
+               "Fran Walsh"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Lost in Translation",
-                  "notes": null,
-                  "imdb_id": "tt0335266"
-               }
+               "Lost in Translation"
             ],
             "secondary": [
-               {
-                  "name": "Ross Katz",
-                  "notes": null,
-                  "imdb_id": "nm0441839"
-               },
-               {
-                  "name": "Sofia Coppola",
-                  "notes": null,
-                  "imdb_id": "nm0001068"
-               }
+               "Ross Katz",
+               "Sofia Coppola"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Samuel Goldwyn Jr.",
-                  "notes": null,
-                  "imdb_id": "nm0326412"
-               },
-               {
-                  "name": "Peter Weir",
-                  "notes": null,
-                  "imdb_id": "nm0001837"
-               },
-               {
-                  "name": "Duncan Henderson",
-                  "notes": null,
-                  "imdb_id": "nm0376416"
-               }
+               "Samuel Goldwyn Jr.",
+               "Peter Weir",
+               "Duncan Henderson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ],
             "secondary": [
-               {
-                  "name": "Robert Lorenz",
-                  "notes": null,
-                  "imdb_id": "nm0520749"
-               },
-               {
-                  "name": "Judie Hoyt",
-                  "notes": null,
-                  "imdb_id": "nm0398469"
-               },
-               {
-                  "name": "Clint Eastwood",
-                  "notes": null,
-                  "imdb_id": "nm0000142"
-               }
+               "Robert Lorenz",
+               "Judie Hoyt",
+               "Clint Eastwood"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "Kathleen Kennedy",
-                  "notes": null,
-                  "imdb_id": "nm0005086"
-               },
-               {
-                  "name": "Frank Marshall",
-                  "notes": null,
-                  "imdb_id": "nm0550881"
-               },
-               {
-                  "name": "Gary Ross",
-                  "notes": null,
-                  "imdb_id": "nm0002657"
-               }
+               "Kathleen Kennedy",
+               "Frank Marshall",
+               "Gary Ross"
             ]
          }
       ]
@@ -146,90 +70,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Sean Penn",
-                  "notes": null,
-                  "imdb_id": "nm0000576"
-               }
+               "Sean Penn"
             ],
             "secondary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ben Kingsley",
-                  "notes": null,
-                  "imdb_id": "nm0001426"
-               }
+               "Ben Kingsley"
             ],
             "secondary": [
-               {
-                  "name": "House of Sand and Fog",
-                  "notes": null,
-                  "imdb_id": "tt0315983"
-               }
+               "House of Sand and Fog"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Bill Murray",
-                  "notes": null,
-                  "imdb_id": "nm0000195"
-               }
+               "Bill Murray"
             ],
             "secondary": [
-               {
-                  "name": "Lost in Translation",
-                  "notes": null,
-                  "imdb_id": "tt0335266"
-               }
+               "Lost in Translation"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Johnny Depp",
-                  "notes": null,
-                  "imdb_id": "nm0000136"
-               }
+               "Johnny Depp"
             ],
             "secondary": [
-               {
-                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                  "notes": null,
-                  "imdb_id": "tt0325980"
-               }
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Jude Law",
-                  "notes": null,
-                  "imdb_id": "nm0000179"
-               }
+               "Jude Law"
             ],
             "secondary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ]
          }
       ]
@@ -241,90 +125,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Charlize Theron",
-                  "notes": null,
-                  "imdb_id": "nm0000234"
-               }
+               "Charlize Theron"
             ],
             "secondary": [
-               {
-                  "name": "Monster",
-                  "notes": null,
-                  "imdb_id": "tt0340855"
-               }
+               "Monster"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Diane Keaton",
-                  "notes": null,
-                  "imdb_id": "nm0000473"
-               }
+               "Diane Keaton"
             ],
             "secondary": [
-               {
-                  "name": "Something's Gotta Give",
-                  "notes": null,
-                  "imdb_id": "tt0337741"
-               }
+               "Something's Gotta Give"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Keisha Castle-Hughes",
-                  "notes": null,
-                  "imdb_id": "nm1095720"
-               }
+               "Keisha Castle-Hughes"
             ],
             "secondary": [
-               {
-                  "name": "Whale Rider",
-                  "notes": null,
-                  "imdb_id": "tt0298228"
-               }
+               "Whale Rider"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Naomi Watts",
-                  "notes": null,
-                  "imdb_id": "nm0915208"
-               }
+               "Naomi Watts"
             ],
             "secondary": [
-               {
-                  "name": "21 Grams",
-                  "notes": null,
-                  "imdb_id": "tt0315733"
-               }
+               "21 Grams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Samantha Morton",
-                  "notes": null,
-                  "imdb_id": "nm0608090"
-               }
+               "Samantha Morton"
             ],
             "secondary": [
-               {
-                  "name": "In America",
-                  "notes": null,
-                  "imdb_id": "tt0298845"
-               }
+               "In America"
             ]
          }
       ]
@@ -336,90 +180,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Tim Robbins",
-                  "notes": null,
-                  "imdb_id": "nm0000209"
-               }
+               "Tim Robbins"
             ],
             "secondary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Alec Baldwin",
-                  "notes": null,
-                  "imdb_id": "nm0000285"
-               }
+               "Alec Baldwin"
             ],
             "secondary": [
-               {
-                  "name": "The Cooler",
-                  "notes": null,
-                  "imdb_id": "tt0318374"
-               }
+               "The Cooler"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Benicio Del Toro",
-                  "notes": null,
-                  "imdb_id": "nm0001125"
-               }
+               "Benicio Del Toro"
             ],
             "secondary": [
-               {
-                  "name": "21 Grams",
-                  "notes": null,
-                  "imdb_id": "tt0315733"
-               }
+               "21 Grams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Djimon Hounsou",
-                  "notes": null,
-                  "imdb_id": "nm0005023"
-               }
+               "Djimon Hounsou"
             ],
             "secondary": [
-               {
-                  "name": "In America",
-                  "notes": null,
-                  "imdb_id": "tt0298845"
-               }
+               "In America"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ken Watanabe",
-                  "notes": null,
-                  "imdb_id": "nm0913822"
-               }
+               "Ken Watanabe"
             ],
             "secondary": [
-               {
-                  "name": "The Last Samurai",
-                  "notes": null,
-                  "imdb_id": "tt0325710"
-               }
+               "The Last Samurai"
             ]
          }
       ]
@@ -431,90 +235,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Ren\u00e9e Zellweger",
-                  "notes": null,
-                  "imdb_id": "nm0000250"
-               }
+               "Ren\u00e9e Zellweger"
             ],
             "secondary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Holly Hunter",
-                  "notes": null,
-                  "imdb_id": "nm0000456"
-               }
+               "Holly Hunter"
             ],
             "secondary": [
-               {
-                  "name": "Thirteen",
-                  "notes": null,
-                  "imdb_id": "tt0328538"
-               }
+               "Thirteen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Marcia Gay Harden",
-                  "notes": null,
-                  "imdb_id": "nm0001315"
-               }
+               "Marcia Gay Harden"
             ],
             "secondary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Patricia Clarkson",
-                  "notes": null,
-                  "imdb_id": "nm0165101"
-               }
+               "Patricia Clarkson"
             ],
             "secondary": [
-               {
-                  "name": "Pieces of April",
-                  "notes": null,
-                  "imdb_id": "tt0311648"
-               }
+               "Pieces of April"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Shohreh Aghdashloo",
-                  "notes": null,
-                  "imdb_id": "nm0013037"
-               }
+               "Shohreh Aghdashloo"
             ],
             "secondary": [
-               {
-                  "name": "House of Sand and Fog",
-                  "notes": null,
-                  "imdb_id": "tt0315983"
-               }
+               "House of Sand and Fog"
             ]
          }
       ]
@@ -526,110 +290,54 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Lost in Translation",
-                  "notes": null,
-                  "imdb_id": "tt0335266"
-               }
+               "Lost in Translation"
             ],
             "secondary": [
-               {
-                  "name": "Sofia Coppola",
-                  "notes": null,
-                  "imdb_id": "nm0001068"
-               }
+               "Sofia Coppola"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Dirty Pretty Things",
-                  "notes": null,
-                  "imdb_id": "tt0301199"
-               }
+               "Dirty Pretty Things"
             ],
             "secondary": [
-               {
-                  "name": "Steven Knight",
-                  "notes": null,
-                  "imdb_id": "nm1140275"
-               }
+               "Steven Knight"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Finding Nemo",
-                  "notes": null,
-                  "imdb_id": "tt0266543"
-               }
+               "Finding Nemo"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Stanton",
-                  "notes": "(screenplay/story)",
-                  "imdb_id": "nm0004056"
-               },
-               {
-                  "name": "Bob Peterson",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0677037"
-               },
-               {
-                  "name": "David Reynolds",
-                  "notes": "(screenplay)",
-                  "imdb_id": "nm0721675"
-               }
+               "Andrew Stanton",
+               "Bob Peterson",
+               "David Reynolds"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "In America",
-                  "notes": null,
-                  "imdb_id": "tt0298845"
-               }
+               "In America"
             ],
             "secondary": [
-               {
-                  "name": "Jim Sheridan",
-                  "notes": null,
-                  "imdb_id": "nm0006487"
-               },
-               {
-                  "name": "Naomi Sheridan",
-                  "notes": null,
-                  "imdb_id": "nm1238875"
-               },
-               {
-                  "name": "Kirsten Sheridan",
-                  "notes": null,
-                  "imdb_id": "nm0792202"
-               }
+               "Jim Sheridan",
+               "Naomi Sheridan",
+               "Kirsten Sheridan"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Barbarian Invasions",
-                  "notes": null,
-                  "imdb_id": "tt0338135"
-               }
+               "The Barbarian Invasions"
             ],
             "secondary": [
-               {
-                  "name": "Denys Arcand",
-                  "notes": null,
-                  "imdb_id": "nm0000780"
-               }
+               "Denys Arcand"
             ]
          }
       ]
@@ -641,105 +349,53 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Fran Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909638"
-               },
-               {
-                  "name": "Philippa Boyens",
-                  "notes": null,
-                  "imdb_id": "nm0101991"
-               },
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               }
+               "Fran Walsh",
+               "Philippa Boyens",
+               "Peter Jackson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "American Splendor",
-                  "notes": null,
-                  "imdb_id": "tt0305206"
-               }
+               "American Splendor"
             ],
             "secondary": [
-               {
-                  "name": "Shari Springer Berman",
-                  "notes": null,
-                  "imdb_id": "nm0075849"
-               },
-               {
-                  "name": "Robert Pulcini",
-                  "notes": null,
-                  "imdb_id": "nm0700301"
-               }
+               "Shari Springer Berman",
+               "Robert Pulcini"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "City of God",
-                  "notes": null,
-                  "imdb_id": "tt0317248"
-               }
+               "City of God"
             ],
             "secondary": [
-               {
-                  "name": "Br\u00e1ulio Mantovani",
-                  "notes": null,
-                  "imdb_id": "nm1130251"
-               }
+               "Br\u00e1ulio Mantovani"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ],
             "secondary": [
-               {
-                  "name": "Brian Helgeland",
-                  "notes": null,
-                  "imdb_id": "nm0001338"
-               }
+               "Brian Helgeland"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "Gary Ross",
-                  "notes": null,
-                  "imdb_id": "nm0002657"
-               }
+               "Gary Ross"
             ]
          }
       ]
@@ -751,11 +407,7 @@
             "notes": "Canada.",
             "won": true,
             "primary": [
-               {
-                  "name": "The Barbarian Invasions",
-                  "notes": null,
-                  "imdb_id": "tt0338135"
-               }
+               "The Barbarian Invasions"
             ],
             "secondary": []
          },
@@ -763,11 +415,7 @@
             "notes": "Sweden.",
             "won": false,
             "primary": [
-               {
-                  "name": "Evil",
-                  "notes": null,
-                  "imdb_id": "tt0338309"
-               }
+               "Evil"
             ],
             "secondary": []
          },
@@ -775,11 +423,7 @@
             "notes": "Japan.",
             "won": false,
             "primary": [
-               {
-                  "name": "The Twilight Samurai",
-                  "notes": null,
-                  "imdb_id": "tt0351817"
-               }
+               "The Twilight Samurai"
             ],
             "secondary": []
          },
@@ -787,11 +431,7 @@
             "notes": "Netherlands.",
             "won": false,
             "primary": [
-               {
-                  "name": "Twin Sisters",
-                  "notes": null,
-                  "imdb_id": "tt0322674"
-               }
+               "Twin Sisters"
             ],
             "secondary": []
          },
@@ -799,11 +439,7 @@
             "notes": "Czech Republic.",
             "won": false,
             "primary": [
-               {
-                  "name": "Zelary",
-                  "notes": null,
-                  "imdb_id": "tt0288330"
-               }
+               "Zelary"
             ],
             "secondary": []
          }
@@ -816,90 +452,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Russell Boyd",
-                  "notes": null,
-                  "imdb_id": "nm0006570"
-               }
+               "Russell Boyd"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "City of God",
-                  "notes": null,
-                  "imdb_id": "tt0317248"
-               }
+               "City of God"
             ],
             "secondary": [
-               {
-                  "name": "C\u00e9sar Charlone",
-                  "notes": null,
-                  "imdb_id": "nm0153263"
-               }
+               "C\u00e9sar Charlone"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ],
             "secondary": [
-               {
-                  "name": "John Seale",
-                  "notes": null,
-                  "imdb_id": "nm0005868"
-               }
+               "John Seale"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Girl with a Pearl Earring",
-                  "notes": null,
-                  "imdb_id": "tt0335119"
-               }
+               "Girl with a Pearl Earring"
             ],
             "secondary": [
-               {
-                  "name": "Eduardo Serra",
-                  "notes": null,
-                  "imdb_id": "nm0785381"
-               }
+               "Eduardo Serra"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "John Schwartzman",
-                  "notes": null,
-                  "imdb_id": "nm0006701"
-               }
+               "John Schwartzman"
             ]
          }
       ]
@@ -911,95 +507,51 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Ngila Dickson",
-                  "notes": null,
-                  "imdb_id": "nm0225699"
-               },
-               {
-                  "name": "Richard Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853050"
-               }
+               "Ngila Dickson",
+               "Richard Taylor"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Girl with a Pearl Earring",
-                  "notes": null,
-                  "imdb_id": "tt0335119"
-               }
+               "Girl with a Pearl Earring"
             ],
             "secondary": [
-               {
-                  "name": "Dien van Straalen",
-                  "notes": null,
-                  "imdb_id": "nm0833009"
-               }
+               "Dien van Straalen"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Wendy Stites",
-                  "notes": null,
-                  "imdb_id": "nm0830594"
-               }
+               "Wendy Stites"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "Judianna Makovsky",
-                  "notes": null,
-                  "imdb_id": "nm0538721"
-               }
+               "Judianna Makovsky"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Last Samurai",
-                  "notes": null,
-                  "imdb_id": "tt0325710"
-               }
+               "The Last Samurai"
             ],
             "secondary": [
-               {
-                  "name": "Ngila Dickson",
-                  "notes": null,
-                  "imdb_id": "nm0225699"
-               }
+               "Ngila Dickson"
             ]
          }
       ]
@@ -1011,64 +563,32 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Richard King",
-                  "notes": null,
-                  "imdb_id": "nm0455185"
-               }
+               "Richard King"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Finding Nemo",
-                  "notes": null,
-                  "imdb_id": "tt0266543"
-               }
+               "Finding Nemo"
             ],
             "secondary": [
-               {
-                  "name": "Gary Rydstrom",
-                  "notes": null,
-                  "imdb_id": "nm0003977"
-               },
-               {
-                  "name": "Michael Silvers",
-                  "notes": null,
-                  "imdb_id": "nm0799011"
-               }
+               "Gary Rydstrom",
+               "Michael Silvers"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                  "notes": null,
-                  "imdb_id": "tt0325980"
-               }
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Boyes",
-                  "notes": null,
-                  "imdb_id": "nm0102110"
-               },
-               {
-                  "name": "George Watters II",
-                  "notes": null,
-                  "imdb_id": "nm0915036"
-               }
+               "Christopher Boyes",
+               "George Watters II"
             ]
          }
       ]
@@ -1080,150 +600,62 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Boyes",
-                  "notes": null,
-                  "imdb_id": "nm0102110"
-               },
-               {
-                  "name": "Michael Semanick",
-                  "notes": null,
-                  "imdb_id": "nm0783713"
-               },
-               {
-                  "name": "Michael Hedges",
-                  "notes": null,
-                  "imdb_id": "nm0373276"
-               },
-               {
-                  "name": "Hammond Peek",
-                  "notes": null,
-                  "imdb_id": "nm0003827"
-               }
+               "Christopher Boyes",
+               "Michael Semanick",
+               "Michael Hedges",
+               "Hammond Peek"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Paul Massey",
-                  "notes": null,
-                  "imdb_id": "nm0557338"
-               },
-               {
-                  "name": "Doug Hemphill",
-                  "notes": null,
-                  "imdb_id": "nm0376153"
-               },
-               {
-                  "name": "Art Rochester",
-                  "notes": null,
-                  "imdb_id": "nm0734053"
-               }
+               "Paul Massey",
+               "Doug Hemphill",
+               "Art Rochester"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                  "notes": null,
-                  "imdb_id": "tt0325980"
-               }
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Boyes",
-                  "notes": null,
-                  "imdb_id": "nm0102110"
-               },
-               {
-                  "name": "David Parker",
-                  "notes": null,
-                  "imdb_id": "nm0662188"
-               },
-               {
-                  "name": "David E. Campbell",
-                  "notes": null,
-                  "imdb_id": "nm0132372"
-               },
-               {
-                  "name": "Lee Orloff",
-                  "notes": null,
-                  "imdb_id": "nm0650090"
-               }
+               "Christopher Boyes",
+               "David Parker",
+               "David E. Campbell",
+               "Lee Orloff"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "Andy Nelson",
-                  "notes": null,
-                  "imdb_id": "nm0625144"
-               },
-               {
-                  "name": "Anna Behlmer",
-                  "notes": null,
-                  "imdb_id": "nm0066933"
-               },
-               {
-                  "name": "Tod A. Maitland",
-                  "notes": null,
-                  "imdb_id": "nm0537972"
-               }
+               "Andy Nelson",
+               "Anna Behlmer",
+               "Tod A. Maitland"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Last Samurai",
-                  "notes": null,
-                  "imdb_id": "tt0325710"
-               }
+               "The Last Samurai"
             ],
             "secondary": [
-               {
-                  "name": "Andy Nelson",
-                  "notes": null,
-                  "imdb_id": "nm0625144"
-               },
-               {
-                  "name": "Anna Behlmer",
-                  "notes": null,
-                  "imdb_id": "nm0066933"
-               },
-               {
-                  "name": "Jeff Wexler",
-                  "notes": null,
-                  "imdb_id": "nm0923306"
-               }
+               "Andy Nelson",
+               "Anna Behlmer",
+               "Jeff Wexler"
             ]
          }
       ]
@@ -1235,90 +667,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Jamie Selkirk",
-                  "notes": null,
-                  "imdb_id": "nm0783241"
-               }
+               "Jamie Selkirk"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "City of God",
-                  "notes": null,
-                  "imdb_id": "tt0317248"
-               }
+               "City of God"
             ],
             "secondary": [
-               {
-                  "name": "Daniel Rezende",
-                  "notes": null,
-                  "imdb_id": "nm1179870"
-               }
+               "Daniel Rezende"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ],
             "secondary": [
-               {
-                  "name": "Walter Murch",
-                  "notes": null,
-                  "imdb_id": "nm0004555"
-               }
+               "Walter Murch"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Lee Smith",
-                  "notes": null,
-                  "imdb_id": "nm0809059"
-               }
+               "Lee Smith"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "William Goldenberg",
-                  "notes": null,
-                  "imdb_id": "nm0325549"
-               }
+               "William Goldenberg"
             ]
          }
       ]
@@ -1330,69 +722,33 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Richard Taylor",
-                  "notes": null,
-                  "imdb_id": "nm0853050"
-               },
-               {
-                  "name": "Peter Swords King",
-                  "notes": null,
-                  "imdb_id": "nm0455135"
-               }
+               "Richard Taylor",
+               "Peter Swords King"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Edouard F. Henriques",
-                  "notes": null,
-                  "imdb_id": "nm0377667"
-               },
-               {
-                  "name": "Yolanda Toussieng",
-                  "notes": null,
-                  "imdb_id": "nm0869758"
-               }
+               "Edouard F. Henriques",
+               "Yolanda Toussieng"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                  "notes": null,
-                  "imdb_id": "tt0325980"
-               }
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
             ],
             "secondary": [
-               {
-                  "name": "Ve Neill",
-                  "notes": null,
-                  "imdb_id": "nm0624763"
-               },
-               {
-                  "name": "Martin Samuel",
-                  "notes": null,
-                  "imdb_id": "nm0760407"
-               }
+               "Ve Neill",
+               "Martin Samuel"
             ]
          }
       ]
@@ -1404,115 +760,55 @@
             "notes": "For the song \"Into the West\".",
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Fran Walsh",
-                  "notes": null,
-                  "imdb_id": "nm0909638"
-               },
-               {
-                  "name": "Howard Shore",
-                  "notes": null,
-                  "imdb_id": "nm0006290"
-               },
-               {
-                  "name": "Annie Lennox",
-                  "notes": null,
-                  "imdb_id": "nm0005142"
-               }
+               "Fran Walsh",
+               "Howard Shore",
+               "Annie Lennox"
             ]
          },
          {
             "notes": "For the song \"A Kiss at the End of the Rainbow\".",
             "won": false,
             "primary": [
-               {
-                  "name": "A Mighty Wind",
-                  "notes": null,
-                  "imdb_id": "tt0310281"
-               }
+               "A Mighty Wind"
             ],
             "secondary": [
-               {
-                  "name": "Michael McKean",
-                  "notes": null,
-                  "imdb_id": "nm0571106"
-               },
-               {
-                  "name": "Annette O'Toole",
-                  "notes": null,
-                  "imdb_id": "nm0001578"
-               }
+               "Michael McKean",
+               "Annette O'Toole"
             ]
          },
          {
             "notes": "For the song \"You Will Be My Ain True Love\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ],
             "secondary": [
-               {
-                  "name": "Sting",
-                  "notes": null,
-                  "imdb_id": "nm0001776"
-               }
+               "Sting"
             ]
          },
          {
             "notes": "For the song \"Scarlet Tide\".",
             "won": false,
             "primary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ],
             "secondary": [
-               {
-                  "name": "T Bone Burnett",
-                  "notes": null,
-                  "imdb_id": "nm0122439"
-               },
-               {
-                  "name": "Elvis Costello",
-                  "notes": null,
-                  "imdb_id": "nm0004845"
-               }
+               "T Bone Burnett",
+               "Elvis Costello"
             ]
          },
          {
             "notes": "For the song \"Belleville Rendez-Vous\".",
             "won": false,
             "primary": [
-               {
-                  "name": "The Triplets of Belleville",
-                  "notes": null,
-                  "imdb_id": "tt0286244"
-               }
+               "The Triplets of Belleville"
             ],
             "secondary": [
-               {
-                  "name": "Beno\u00eet Charest",
-                  "notes": "(music)",
-                  "imdb_id": "nm0152844"
-               },
-               {
-                  "name": "Sylvain Chomet",
-                  "notes": "(lyrics)",
-                  "imdb_id": "nm0158984"
-               }
+               "Beno\u00eet Charest",
+               "Sylvain Chomet"
             ]
          }
       ]
@@ -1524,90 +820,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Howard Shore",
-                  "notes": null,
-                  "imdb_id": "nm0006290"
-               }
+               "Howard Shore"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Big Fish",
-                  "notes": null,
-                  "imdb_id": "tt0319061"
-               }
+               "Big Fish"
             ],
             "secondary": [
-               {
-                  "name": "Danny Elfman",
-                  "notes": null,
-                  "imdb_id": "nm0000384"
-               }
+               "Danny Elfman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cold Mountain",
-                  "notes": null,
-                  "imdb_id": "tt0159365"
-               }
+               "Cold Mountain"
             ],
             "secondary": [
-               {
-                  "name": "Gabriel Yared",
-                  "notes": null,
-                  "imdb_id": "nm0001189"
-               }
+               "Gabriel Yared"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Finding Nemo",
-                  "notes": null,
-                  "imdb_id": "tt0266543"
-               }
+               "Finding Nemo"
             ],
             "secondary": [
-               {
-                  "name": "Thomas Newman",
-                  "notes": null,
-                  "imdb_id": "nm0002353"
-               }
+               "Thomas Newman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "House of Sand and Fog",
-                  "notes": null,
-                  "imdb_id": "tt0315983"
-               }
+               "House of Sand and Fog"
             ],
             "secondary": [
-               {
-                  "name": "James Horner",
-                  "notes": null,
-                  "imdb_id": "nm0000035"
-               }
+               "James Horner"
             ]
          }
       ]
@@ -1619,100 +875,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Harvie Krumpet",
-                  "notes": null,
-                  "imdb_id": "tt0382734"
-               }
+               "Harvie Krumpet"
             ],
             "secondary": [
-               {
-                  "name": "Adam Elliot",
-                  "notes": null,
-                  "imdb_id": "nm0254178"
-               }
+               "Adam Elliot"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Boundin'",
-                  "notes": null,
-                  "imdb_id": "tt0395479"
-               }
+               "Boundin'"
             ],
             "secondary": [
-               {
-                  "name": "Bud Luckey",
-                  "notes": null,
-                  "imdb_id": "nm0524726"
-               }
+               "Bud Luckey"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Destino",
-                  "notes": null,
-                  "imdb_id": "tt0377770"
-               }
+               "Destino"
             ],
             "secondary": [
-               {
-                  "name": "Dominique Monfery",
-                  "notes": null,
-                  "imdb_id": "nm0597963"
-               },
-               {
-                  "name": "Roy Edward Disney",
-                  "notes": null,
-                  "imdb_id": "nm0004877"
-               }
+               "Dominique Monfery",
+               "Roy Edward Disney"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gone Nutty",
-                  "notes": null,
-                  "imdb_id": "tt0342965"
-               }
+               "Gone Nutty"
             ],
             "secondary": [
-               {
-                  "name": "Carlos Saldanha",
-                  "notes": null,
-                  "imdb_id": "nm0757858"
-               },
-               {
-                  "name": "John C. Donkin",
-                  "notes": null,
-                  "imdb_id": "nm0232561"
-               }
+               "Carlos Saldanha",
+               "John C. Donkin"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Nibbles",
-                  "notes": null,
-                  "imdb_id": "tt0392542"
-               }
+               "Nibbles"
             ],
             "secondary": [
-               {
-                  "name": "Christopher Hinton",
-                  "notes": null,
-                  "imdb_id": "nm0385975"
-               }
+               "Christopher Hinton"
             ]
          }
       ]
@@ -1724,100 +932,52 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Two Soldiers",
-                  "notes": null,
-                  "imdb_id": "tt0304858"
-               }
+               "Two Soldiers"
             ],
             "secondary": [
-               {
-                  "name": "Aaron Schneider",
-                  "notes": null,
-                  "imdb_id": "nm0773689"
-               },
-               {
-                  "name": "Andrew J. Sacks",
-                  "notes": null,
-                  "imdb_id": "nm0755287"
-               }
+               "Aaron Schneider",
+               "Andrew J. Sacks"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "(A)Torzija",
-                  "notes": null,
-                  "imdb_id": "tt0350476"
-               }
+               "(A)Torzija"
             ],
             "secondary": [
-               {
-                  "name": "Stefan Arsenijevic",
-                  "notes": null,
-                  "imdb_id": "nm1313590"
-               }
+               "Stefan Arsenijevic"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Most",
-                  "notes": null,
-                  "imdb_id": "tt0345672"
-               }
+               "Most"
             ],
             "secondary": [
-               {
-                  "name": "Bobby Garabedian",
-                  "notes": null,
-                  "imdb_id": "nm1286048"
-               },
-               {
-                  "name": "William Zabka",
-                  "notes": null,
-                  "imdb_id": "nm0951420"
-               }
+               "Bobby Garabedian",
+               "William Zabka"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Squash",
-                  "notes": null,
-                  "imdb_id": "tt0341588"
-               }
+               "Squash"
             ],
             "secondary": [
-               {
-                  "name": "Lionel Bailliu",
-                  "notes": null,
-                  "imdb_id": "nm1014409"
-               }
+               "Lionel Bailliu"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Red Jacket",
-                  "notes": null,
-                  "imdb_id": "tt0323844"
-               }
+               "The Red Jacket"
             ],
             "secondary": [
-               {
-                  "name": "Florian Baxmeyer",
-                  "notes": null,
-                  "imdb_id": "nm1140801"
-               }
+               "Florian Baxmeyer"
             ]
          }
       ]
@@ -1829,59 +989,31 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Chernobyl Heart",
-                  "notes": null,
-                  "imdb_id": "tt0396959"
-               }
+               "Chernobyl Heart"
             ],
             "secondary": [
-               {
-                  "name": "Maryann DeLeo",
-                  "notes": null,
-                  "imdb_id": "nm1463062"
-               }
+               "Maryann DeLeo"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Asylum",
-                  "notes": null,
-                  "imdb_id": "tt0363445"
-               }
+               "Asylum"
             ],
             "secondary": [
-               {
-                  "name": "Sandy McLeod",
-                  "notes": null,
-                  "imdb_id": "nm0572865"
-               },
-               {
-                  "name": "Gini Reticker",
-                  "notes": null,
-                  "imdb_id": "nm0720533"
-               }
+               "Sandy McLeod",
+               "Gini Reticker"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ferry Tales",
-                  "notes": null,
-                  "imdb_id": "tt0363607"
-               }
+               "Ferry Tales"
             ],
             "secondary": [
-               {
-                  "name": "Katja Esson",
-                  "notes": null,
-                  "imdb_id": "nm1534515"
-               }
+               "Katja Esson"
             ]
          }
       ]
@@ -1893,115 +1025,55 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Fog of War",
-                  "notes": null,
-                  "imdb_id": "tt0317910"
-               }
+               "The Fog of War"
             ],
             "secondary": [
-               {
-                  "name": "Errol Morris",
-                  "notes": null,
-                  "imdb_id": "nm0001554"
-               },
-               {
-                  "name": "Michael Williams",
-                  "notes": null,
-                  "imdb_id": "nm0931308"
-               }
+               "Errol Morris",
+               "Michael Williams"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Capturing the Friedmans",
-                  "notes": null,
-                  "imdb_id": "tt0342172"
-               }
+               "Capturing the Friedmans"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Jarecki",
-                  "notes": null,
-                  "imdb_id": "nm1285613"
-               },
-               {
-                  "name": "Marc Smerling",
-                  "notes": null,
-                  "imdb_id": "nm0806830"
-               }
+               "Andrew Jarecki",
+               "Marc Smerling"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Cuban Rafters",
-                  "notes": null,
-                  "imdb_id": "tt0321376"
-               }
+               "Cuban Rafters"
             ],
             "secondary": [
-               {
-                  "name": "Carles Bosch",
-                  "notes": null,
-                  "imdb_id": "nm1188723"
-               },
-               {
-                  "name": "Josep Maria Dom\u00e8nech",
-                  "notes": null,
-                  "imdb_id": "nm2060660"
-               }
+               "Carles Bosch",
+               "Josep Maria Dom\u00e8nech"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "My Architect",
-                  "notes": null,
-                  "imdb_id": "tt0373175"
-               }
+               "My Architect"
             ],
             "secondary": [
-               {
-                  "name": "Nathaniel Kahn",
-                  "notes": null,
-                  "imdb_id": "nm0434896"
-               },
-               {
-                  "name": "Susan Rose Behr",
-                  "notes": null,
-                  "imdb_id": "nm1405980"
-               }
+               "Nathaniel Kahn",
+               "Susan Rose Behr"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Weather Underground",
-                  "notes": null,
-                  "imdb_id": "tt0343168"
-               }
+               "The Weather Underground"
             ],
             "secondary": [
-               {
-                  "name": "Sam Green",
-                  "notes": null,
-                  "imdb_id": "nm0338316"
-               },
-               {
-                  "name": "Bill Siegel",
-                  "notes": null,
-                  "imdb_id": "nm0796903"
-               }
+               "Sam Green",
+               "Bill Siegel"
             ]
          }
       ]
@@ -2013,59 +1085,31 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Finding Nemo",
-                  "notes": null,
-                  "imdb_id": "tt0266543"
-               }
+               "Finding Nemo"
             ],
             "secondary": [
-               {
-                  "name": "Andrew Stanton",
-                  "notes": null,
-                  "imdb_id": "nm0004056"
-               }
+               "Andrew Stanton"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Brother Bear",
-                  "notes": null,
-                  "imdb_id": "tt0328880"
-               }
+               "Brother Bear"
             ],
             "secondary": [
-               {
-                  "name": "Aaron Blaise",
-                  "notes": null,
-                  "imdb_id": "nm0086431"
-               },
-               {
-                  "name": "Robert Walker",
-                  "notes": null,
-                  "imdb_id": "nm1074107"
-               }
+               "Aaron Blaise",
+               "Robert Walker"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Triplets of Belleville",
-                  "notes": null,
-                  "imdb_id": "tt0286244"
-               }
+               "The Triplets of Belleville"
             ],
             "secondary": [
-               {
-                  "name": "Sylvain Chomet",
-                  "notes": null,
-                  "imdb_id": "nm0158984"
-               }
+               "Sylvain Chomet"
             ]
          }
       ]
@@ -2077,99 +1121,39 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Jim Rygiel",
-                  "notes": null,
-                  "imdb_id": "nm0753277"
-               },
-               {
-                  "name": "Joe Letteri",
-                  "notes": null,
-                  "imdb_id": "nm0504784"
-               },
-               {
-                  "name": "Randall William Cook",
-                  "notes": null,
-                  "imdb_id": "nm0177241"
-               },
-               {
-                  "name": "Alex Funke",
-                  "notes": null,
-                  "imdb_id": "nm0298754"
-               }
+               "Jim Rygiel",
+               "Joe Letteri",
+               "Randall William Cook",
+               "Alex Funke"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "Daniel Sudick",
-                  "notes": null,
-                  "imdb_id": "nm0837203"
-               },
-               {
-                  "name": "Stefen Fangmeier",
-                  "notes": null,
-                  "imdb_id": "nm0266777"
-               },
-               {
-                  "name": "Nathan McGuinness",
-                  "notes": null,
-                  "imdb_id": "nm0570135"
-               },
-               {
-                  "name": "Robert Stromberg",
-                  "notes": null,
-                  "imdb_id": "nm0834902"
-               }
+               "Daniel Sudick",
+               "Stefen Fangmeier",
+               "Nathan McGuinness",
+               "Robert Stromberg"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
-                  "notes": null,
-                  "imdb_id": "tt0325980"
-               }
+               "Pirates of the Caribbean: The Curse of the Black Pearl"
             ],
             "secondary": [
-               {
-                  "name": "John Knoll",
-                  "notes": null,
-                  "imdb_id": "nm0461306"
-               },
-               {
-                  "name": "Hal T. Hickel",
-                  "notes": null,
-                  "imdb_id": "nm0382579"
-               },
-               {
-                  "name": "Charles Gibson",
-                  "notes": null,
-                  "imdb_id": "nm0002716"
-               },
-               {
-                  "name": "Terry D. Frazee",
-                  "notes": null,
-                  "imdb_id": "nm0292476"
-               }
+               "John Knoll",
+               "Hal T. Hickel",
+               "Charles Gibson",
+               "Terry D. Frazee"
             ]
          }
       ]
@@ -2181,120 +1165,56 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ],
             "secondary": [
-               {
-                  "name": "Grant Major",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0538194"
-               },
-               {
-                  "name": "Dan Hennah",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0377172"
-               },
-               {
-                  "name": "Alan Lee",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0496769"
-               }
+               "Grant Major",
+               "Dan Hennah",
+               "Alan Lee"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Girl with a Pearl Earring",
-                  "notes": null,
-                  "imdb_id": "tt0335119"
-               }
+               "Girl with a Pearl Earring"
             ],
             "secondary": [
-               {
-                  "name": "Ben van Os",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0651470"
-               },
-               {
-                  "name": "Cecile Heideman",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm1359745"
-               }
+               "Ben van Os",
+               "Cecile Heideman"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ],
             "secondary": [
-               {
-                  "name": "William Sandell",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0761367"
-               },
-               {
-                  "name": "Robert Gould",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0332481"
-               }
+               "William Sandell",
+               "Robert Gould"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Seabiscuit",
-                  "notes": null,
-                  "imdb_id": "tt0329575"
-               }
+               "Seabiscuit"
             ],
             "secondary": [
-               {
-                  "name": "Jeannine Oppewall",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0649223"
-               },
-               {
-                  "name": "Leslie Pope",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0005319"
-               }
+               "Jeannine Oppewall",
+               "Leslie Pope"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Last Samurai",
-                  "notes": null,
-                  "imdb_id": "tt0325710"
-               }
+               "The Last Samurai"
             ],
             "secondary": [
-               {
-                  "name": "Lilly Kilvert",
-                  "notes": "(art director)",
-                  "imdb_id": "nm0453344"
-               },
-               {
-                  "name": "Gretchen Rau",
-                  "notes": "(set decorator)",
-                  "imdb_id": "nm0711956"
-               }
+               "Lilly Kilvert",
+               "Gretchen Rau"
             ]
          }
       ]
@@ -2306,90 +1226,50 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Peter Jackson",
-                  "notes": null,
-                  "imdb_id": "nm0001392"
-               }
+               "Peter Jackson"
             ],
             "secondary": [
-               {
-                  "name": "The Lord of the Rings: The Return of the King",
-                  "notes": null,
-                  "imdb_id": "tt0167260"
-               }
+               "The Lord of the Rings: The Return of the King"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Clint Eastwood",
-                  "notes": null,
-                  "imdb_id": "nm0000142"
-               }
+               "Clint Eastwood"
             ],
             "secondary": [
-               {
-                  "name": "Mystic River",
-                  "notes": null,
-                  "imdb_id": "tt0327056"
-               }
+               "Mystic River"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Fernando Meirelles",
-                  "notes": null,
-                  "imdb_id": "nm0576987"
-               }
+               "Fernando Meirelles"
             ],
             "secondary": [
-               {
-                  "name": "City of God",
-                  "notes": null,
-                  "imdb_id": "tt0317248"
-               }
+               "City of God"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Peter Weir",
-                  "notes": null,
-                  "imdb_id": "nm0001837"
-               }
+               "Peter Weir"
             ],
             "secondary": [
-               {
-                  "name": "Master and Commander: The Far Side of the World",
-                  "notes": null,
-                  "imdb_id": "tt0311113"
-               }
+               "Master and Commander: The Far Side of the World"
             ]
          },
          {
             "notes": "Sofia Coppola becomes the first woman to be nominated for writing, directing and producing in the same year.",
             "won": false,
             "primary": [
-               {
-                  "name": "Sofia Coppola",
-                  "notes": null,
-                  "imdb_id": "nm0001068"
-               }
+               "Sofia Coppola"
             ],
             "secondary": [
-               {
-                  "name": "Lost in Translation",
-                  "notes": null,
-                  "imdb_id": "tt0335266"
-               }
+               "Lost in Translation"
             ]
          }
       ]

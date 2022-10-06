@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "George C. Scott"
+      "winners": [
+         "George C. Scott"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "John Mills"
+      "winners": [
+         "John Mills"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Glenda Jackson"
+      "winners": [
+         "Glenda Jackson"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Helen Hayes"
+      "winners": [
+         "Helen Hayes"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Patton"
+      "winners": [
+         "Patton"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Ryan's Daughter"
+      "winners": [
+         "Ryan's Daughter"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Cromwell"
+      "winners": [
+         "Cromwell"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Franklin J. Schaffner"
+      "winners": [
+         "Franklin J. Schaffner"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Woodstock"
+      "winners": [
+         "Woodstock"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Interviews with My Lai Veterans"
+      "winners": [
+         "Interviews with My Lai Veterans"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Tora! Tora! Tora!"
+      "winners": [
+         "Tora! Tora! Tora!"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Patton"
+      "winners": [
+         "Patton"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Investigation of a Citizen Above Suspicion"
+      "winners": [
+         "Investigation of a Citizen Above Suspicion"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Love Story"
+      "winners": [
+         "Love Story"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Lovers and Other Strangers"
+      "winners": [
+         "Lovers and Other Strangers"
+      ]
    },
    {
       "category": "Best Music, Original Song Score",
-      "winner": "Let It Be"
+      "winners": [
+         "Let It Be"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Patton"
+      "winners": [
+         "Patton"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Is It Always Right to Be Right?"
+      "winners": [
+         "Is It Always Right to Be Right?"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "The Resurrection of Broncho Billy"
+      "winners": [
+         "The Resurrection of Broncho Billy"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Patton"
+      "winners": [
+         "Patton"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "MASH"
+      "winners": [
+         "MASH"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
-      "winner": "Patton"
+      "winners": [
+         "Patton"
+      ]
    }
 ]

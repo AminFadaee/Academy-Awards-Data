@@ -1,66 +1,98 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Clark Gable"
+      "winners": [
+         "Clark Gable"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Claudette Colbert"
+      "winners": [
+         "Claudette Colbert"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "The Merry Widow"
+      "winners": [
+         "The Merry Widow"
+      ]
    },
    {
       "category": "Best Assistant Director",
-      "winner": "John Waters"
+      "winners": [
+         "John Waters"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Cleopatra"
+      "winners": [
+         "Cleopatra"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Frank Capra"
+      "winners": [
+         "Frank Capra"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Eskimo"
+      "winners": [
+         "Eskimo"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Gay Divorcee"
+      "winners": [
+         "The Gay Divorcee"
+      ]
    },
    {
       "category": "Best Music, Score",
-      "winner": "One Night of Love"
+      "winners": [
+         "One Night of Love"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "It Happened One Night"
+      "winners": [
+         "It Happened One Night"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Tortoise and the Hare"
+      "winners": [
+         "The Tortoise and the Hare"
+      ]
    },
    {
       "category": "Best Short Subject, Comedy",
-      "winner": "La Cucaracha"
+      "winners": [
+         "La Cucaracha"
+      ]
    },
    {
       "category": "Best Short Subject, Novelty",
-      "winner": "City of Wax"
+      "winners": [
+         "City of Wax"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "One Night of Love"
+      "winners": [
+         "One Night of Love"
+      ]
    },
    {
       "category": "Best Writing, Adaptation",
-      "winner": "It Happened One Night"
+      "winners": [
+         "It Happened One Night"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Manhattan Melodrama"
+      "winners": [
+         "Manhattan Melodrama"
+      ]
    }
 ]

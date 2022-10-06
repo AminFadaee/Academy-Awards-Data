@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "John Wayne"
+      "winners": [
+         "John Wayne"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Gig Young"
+      "winners": [
+         "Gig Young"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Maggie Smith"
+      "winners": [
+         "Maggie Smith"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Goldie Hawn"
+      "winners": [
+         "Goldie Hawn"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Hello, Dolly!"
+      "winners": [
+         "Hello, Dolly!"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Butch Cassidy and the Sundance Kid"
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Anne of the Thousand Days"
+      "winners": [
+         "Anne of the Thousand Days"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "John Schlesinger"
+      "winners": [
+         "John Schlesinger"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Love of Life"
+      "winners": [
+         "Love of Life"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Czechoslovakia 1918-1968"
+      "winners": [
+         "Czechoslovakia 1918-1968"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Marooned"
+      "winners": [
+         "Marooned"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Z"
+      "winners": [
+         "Z"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Z"
+      "winners": [
+         "Z"
+      ]
    },
    {
       "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
-      "winner": "Butch Cassidy and the Sundance Kid"
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Butch Cassidy and the Sundance Kid"
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ]
    },
    {
       "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
-      "winner": "Hello, Dolly!"
+      "winners": [
+         "Hello, Dolly!"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Midnight Cowboy"
+      "winners": [
+         "Midnight Cowboy"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "It's Tough to Be a Bird"
+      "winners": [
+         "It's Tough to Be a Bird"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "The Magic Machines"
+      "winners": [
+         "The Magic Machines"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Hello, Dolly!"
+      "winners": [
+         "Hello, Dolly!"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Midnight Cowboy"
+      "winners": [
+         "Midnight Cowboy"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay Based on Material Not Previously Published or Produced",
-      "winner": "Butch Cassidy and the Sundance Kid"
+      "winners": [
+         "Butch Cassidy and the Sundance Kid"
+      ]
    }
 ]

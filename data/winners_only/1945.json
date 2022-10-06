@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Bing Crosby"
+      "winners": [
+         "Bing Crosby"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Barry Fitzgerald"
+      "winners": [
+         "Barry Fitzgerald"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Ingrid Bergman"
+      "winners": [
+         "Ingrid Bergman"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Ethel Barrymore"
+      "winners": [
+         "Ethel Barrymore"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Black-and-White",
-      "winner": "Gaslight"
+      "winners": [
+         "Gaslight"
+      ]
    },
    {
       "category": "Best Art Direction-Interior Decoration, Color",
-      "winner": "Wilson"
+      "winners": [
+         "Wilson"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Laura"
+      "winners": [
+         "Laura"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Wilson"
+      "winners": [
+         "Wilson"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Leo McCarey"
+      "winners": [
+         "Leo McCarey"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Fighting Lady"
+      "winners": [
+         "The Fighting Lady"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "With the Marines at Tarawa"
+      "winners": [
+         "With the Marines at Tarawa"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "Thirty Seconds Over Tokyo"
+      "winners": [
+         "Thirty Seconds Over Tokyo"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Wilson"
+      "winners": [
+         "Wilson"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Going My Way"
+      "winners": [
+         "Going My Way"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "Since You Went Away"
+      "winners": [
+         "Since You Went Away"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "Cover Girl"
+      "winners": [
+         "Cover Girl"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Going My Way"
+      "winners": [
+         "Going My Way"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Mouse Trouble"
+      "winners": [
+         "Mouse Trouble"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Who's Who in Animal Land"
+      "winners": [
+         "Who's Who in Animal Land"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "I Won't Play"
+      "winners": [
+         "I Won't Play"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Wilson"
+      "winners": [
+         "Wilson"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Wilson"
+      "winners": [
+         "Wilson"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Going My Way"
+      "winners": [
+         "Going My Way"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "Going My Way"
+      "winners": [
+         "Going My Way"
+      ]
    }
 ]

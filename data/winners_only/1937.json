@@ -1,82 +1,122 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Paul Muni"
+      "winners": [
+         "Paul Muni"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Walter Brennan"
+      "winners": [
+         "Walter Brennan"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Luise Rainer"
+      "winners": [
+         "Luise Rainer"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Gale Sondergaard"
+      "winners": [
+         "Gale Sondergaard"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Dodsworth"
+      "winners": [
+         "Dodsworth"
+      ]
    },
    {
       "category": "Best Assistant Director",
-      "winner": "Jack Sullivan"
+      "winners": [
+         "Jack Sullivan"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Anthony Adverse"
+      "winners": [
+         "Anthony Adverse"
+      ]
    },
    {
       "category": "Best Dance Direction",
-      "winner": "The Great Ziegfeld"
+      "winners": [
+         "The Great Ziegfeld"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Frank Capra"
+      "winners": [
+         "Frank Capra"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Anthony Adverse"
+      "winners": [
+         "Anthony Adverse"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Swing Time"
+      "winners": [
+         "Swing Time"
+      ]
    },
    {
       "category": "Best Music, Score",
-      "winner": "Anthony Adverse"
+      "winners": [
+         "Anthony Adverse"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Great Ziegfeld"
+      "winners": [
+         "The Great Ziegfeld"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Country Cousin"
+      "winners": [
+         "The Country Cousin"
+      ]
    },
    {
       "category": "Best Short Subject, Color",
-      "winner": "Give Me Liberty"
+      "winners": [
+         "Give Me Liberty"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Bored of Education"
+      "winners": [
+         "Bored of Education"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "The Public Pays"
+      "winners": [
+         "The Public Pays"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "San Francisco"
+      "winners": [
+         "San Francisco"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "The Story of Louis Pasteur"
+      "winners": [
+         "The Story of Louis Pasteur"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Story of Louis Pasteur"
+      "winners": [
+         "The Story of Louis Pasteur"
+      ]
    }
 ]

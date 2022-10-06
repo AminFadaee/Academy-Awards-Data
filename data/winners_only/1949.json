@@ -1,102 +1,152 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Laurence Olivier"
+      "winners": [
+         "Laurence Olivier"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Walter Huston"
+      "winners": [
+         "Walter Huston"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jane Wyman"
+      "winners": [
+         "Jane Wyman"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Claire Trevor"
+      "winners": [
+         "Claire Trevor"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "Hamlet"
+      "winners": [
+         "Hamlet"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "The Red Shoes"
+      "winners": [
+         "The Red Shoes"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "The Naked City"
+      "winners": [
+         "The Naked City"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Joan of Arc"
+      "winners": [
+         "Joan of Arc"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "Hamlet"
+      "winners": [
+         "Hamlet"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "Joan of Arc"
+      "winners": [
+         "Joan of Arc"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "John Huston"
+      "winners": [
+         "John Huston"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Secret Land"
+      "winners": [
+         "The Secret Land"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Toward Independence"
+      "winners": [
+         "Toward Independence"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "Portrait of Jennie"
+      "winners": [
+         "Portrait of Jennie"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Naked City"
+      "winners": [
+         "The Naked City"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Paleface"
+      "winners": [
+         "The Paleface"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "The Red Shoes"
+      "winners": [
+         "The Red Shoes"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "Easter Parade"
+      "winners": [
+         "Easter Parade"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Hamlet"
+      "winners": [
+         "Hamlet"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Little Orphan"
+      "winners": [
+         "The Little Orphan"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Rhythm of a City"
+      "winners": [
+         "Rhythm of a City"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Seal Island"
+      "winners": [
+         "Seal Island"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "The Snake Pit"
+      "winners": [
+         "The Snake Pit"
+      ]
    },
    {
       "category": "Best Writing, Motion Picture Story",
-      "winner": "The Search"
+      "winners": [
+         "The Search"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Treasure of the Sierra Madre"
+      "winners": [
+         "The Treasure of the Sierra Madre"
+      ]
    }
 ]

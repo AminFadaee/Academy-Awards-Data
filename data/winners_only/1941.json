@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "James Stewart"
+      "winners": [
+         "James Stewart"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Walter Brennan"
+      "winners": [
+         "Walter Brennan"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Ginger Rogers"
+      "winners": [
+         "Ginger Rogers"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Jane Darwell"
+      "winners": [
+         "Jane Darwell"
+      ]
    },
    {
       "category": "Best Art Direction, Black-and-White",
-      "winner": "Pride and Prejudice"
+      "winners": [
+         "Pride and Prejudice"
+      ]
    },
    {
       "category": "Best Art Direction, Color",
-      "winner": "The Thief of Bagdad"
+      "winners": [
+         "The Thief of Bagdad"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Rebecca"
+      "winners": [
+         "Rebecca"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "The Thief of Bagdad"
+      "winners": [
+         "The Thief of Bagdad"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "John Ford"
+      "winners": [
+         "John Ford"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "The Thief of Bagdad"
+      "winners": [
+         "The Thief of Bagdad"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "North West Mounted Police"
+      "winners": [
+         "North West Mounted Police"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Pinocchio"
+      "winners": [
+         "Pinocchio"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Pinocchio"
+      "winners": [
+         "Pinocchio"
+      ]
    },
    {
       "category": "Best Music, Score",
-      "winner": "Tin Pan Alley"
+      "winners": [
+         "Tin Pan Alley"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Rebecca"
+      "winners": [
+         "Rebecca"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Milky Way"
+      "winners": [
+         "The Milky Way"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Quicker'n a Wink"
+      "winners": [
+         "Quicker'n a Wink"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Teddy the Rough Rider"
+      "winners": [
+         "Teddy the Rough Rider"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Strike Up the Band"
+      "winners": [
+         "Strike Up the Band"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "The Great McGinty"
+      "winners": [
+         "The Great McGinty"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Arise, My Love"
+      "winners": [
+         "Arise, My Love"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Philadelphia Story"
+      "winners": [
+         "The Philadelphia Story"
+      ]
    }
 ]

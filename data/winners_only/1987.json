@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Paul Newman"
+      "winners": [
+         "Paul Newman"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Michael Caine"
+      "winners": [
+         "Michael Caine"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Marlee Matlin"
+      "winners": [
+         "Marlee Matlin"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Dianne Wiest"
+      "winners": [
+         "Dianne Wiest"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "A Room with a View"
+      "winners": [
+         "A Room with a View"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Mission"
+      "winners": [
+         "The Mission"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "A Room with a View"
+      "winners": [
+         "A Room with a View"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Oliver Stone"
+      "winners": [
+         "Oliver Stone"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Down and Out in America"
+      "winners": [
+         "Artie Shaw: Time Is All You've Got"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Women - for America, for the World"
+      "winners": [
+         "Women - for America, for the World"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Aliens"
+      "winners": [
+         "Aliens"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Aliens"
+      "winners": [
+         "Aliens"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Platoon"
+      "winners": [
+         "Platoon"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "The Assault"
+      "winners": [
+         "The Assault"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "The Fly"
+      "winners": [
+         "The Fly"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "'Round Midnight"
+      "winners": [
+         "'Round Midnight"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Top Gun"
+      "winners": [
+         "Top Gun"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Platoon"
+      "winners": [
+         "Platoon"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "A Greek Tragedy"
+      "winners": [
+         "A Greek Tragedy"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Precious Images"
+      "winners": [
+         "Precious Images"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Platoon"
+      "winners": [
+         "Platoon"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "A Room with a View"
+      "winners": [
+         "A Room with a View"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Hannah and Her Sisters"
+      "winners": [
+         "Hannah and Her Sisters"
+      ]
    }
 ]

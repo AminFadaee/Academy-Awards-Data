@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Cliff Robertson"
+      "winners": [
+         "Cliff Robertson"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Jack Albertson"
+      "winners": [
+         "Jack Albertson"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Katharine Hepburn"
+      "winners": [
+         "Barbra Streisand"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Ruth Gordon"
+      "winners": [
+         "Ruth Gordon"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Oliver!"
+      "winners": [
+         "Oliver!"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Romeo and Juliet"
+      "winners": [
+         "Romeo and Juliet"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Romeo and Juliet"
+      "winners": [
+         "Romeo and Juliet"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Carol Reed"
+      "winners": [
+         "Carol Reed"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Journey Into Self"
+      "winners": [
+         "Journey Into Self"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Why Man Creates"
+      "winners": [
+         "Why Man Creates"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "2001: A Space Odyssey"
+      "winners": [
+         "2001: A Space Odyssey"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Bullitt"
+      "winners": [
+         "Bullitt"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "War and Peace"
+      "winners": [
+         "War and Peace"
+      ]
    },
    {
       "category": "Best Music, Original Score for a Motion Picture (not a Musical)",
-      "winner": "The Lion in Winter"
+      "winners": [
+         "The Lion in Winter"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Thomas Crown Affair"
+      "winners": [
+         "The Thomas Crown Affair"
+      ]
    },
    {
       "category": "Best Music, Score of a Musical Picture (Original or Adaptation)",
-      "winner": "Oliver!"
+      "winners": [
+         "Oliver!"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Oliver!"
+      "winners": [
+         "Oliver!"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Winnie the Pooh and the Blustery Day"
+      "winners": [
+         "Winnie the Pooh and the Blustery Day"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "Robert Kennedy Remembered"
+      "winners": [
+         "Robert Kennedy Remembered"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Oliver!"
+      "winners": [
+         "Oliver!"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "The Lion in Winter"
+      "winners": [
+         "The Lion in Winter"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "The Producers"
+      "winners": [
+         "The Producers"
+      ]
    }
 ]

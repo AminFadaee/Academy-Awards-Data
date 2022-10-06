@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Jack Nicholson"
+      "winners": [
+         "Jack Nicholson"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Robin Williams"
+      "winners": [
+         "Robin Williams"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Helen Hunt"
+      "winners": [
+         "Helen Hunt"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Kim Basinger"
+      "winners": [
+         "Kim Basinger"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "James Cameron"
+      "winners": [
+         "James Cameron"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Long Way Home"
+      "winners": [
+         "The Long Way Home"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "A Story of Healing"
+      "winners": [
+         "A Story of Healing"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Character"
+      "winners": [
+         "Character"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Men in Black"
+      "winners": [
+         "Men in Black"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Music, Original Musical or Comedy Score",
-      "winner": "The Full Monty"
+      "winners": [
+         "The Full Monty"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Geri's Game"
+      "winners": [
+         "Geri's Game"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Visas and Virtue"
+      "winners": [
+         "Visas and Virtue"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Titanic"
+      "winners": [
+         "Titanic"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "L.A. Confidential"
+      "winners": [
+         "L.A. Confidential"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Good Will Hunting"
+      "winners": [
+         "Good Will Hunting"
+      ]
    }
 ]

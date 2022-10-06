@@ -1,82 +1,122 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Spencer Tracy"
+      "winners": [
+         "Spencer Tracy"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Joseph Schildkraut"
+      "winners": [
+         "Joseph Schildkraut"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Luise Rainer"
+      "winners": [
+         "Luise Rainer"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Alice Brady"
+      "winners": [
+         "Alice Brady"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Lost Horizon"
+      "winners": [
+         "Lost Horizon"
+      ]
    },
    {
       "category": "Best Assistant Director",
-      "winner": "Robert D. Webb"
+      "winners": [
+         "Robert D. Webb"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "The Good Earth"
+      "winners": [
+         "The Good Earth"
+      ]
    },
    {
       "category": "Best Dance Direction",
-      "winner": "A Damsel in Distress"
+      "winners": [
+         "A Damsel in Distress"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Leo McCarey"
+      "winners": [
+         "Leo McCarey"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Lost Horizon"
+      "winners": [
+         "Lost Horizon"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Waikiki Wedding"
+      "winners": [
+         "Waikiki Wedding"
+      ]
    },
    {
       "category": "Best Music, Score",
-      "winner": "One Hundred Men and a Girl"
+      "winners": [
+         "One Hundred Men and a Girl"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Life of Emile Zola"
+      "winners": [
+         "The Life of Emile Zola"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Old Mill"
+      "winners": [
+         "The Old Mill"
+      ]
    },
    {
       "category": "Best Short Subject, Color",
-      "winner": "Penny Wisdom"
+      "winners": [
+         "Penny Wisdom"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "The Private Life of the Gannets"
+      "winners": [
+         "The Private Life of the Gannets"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Torture Money"
+      "winners": [
+         "Torture Money"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "The Hurricane"
+      "winners": [
+         "The Hurricane"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "A Star Is Born"
+      "winners": [
+         "A Star Is Born"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Life of Emile Zola"
+      "winners": [
+         "The Life of Emile Zola"
+      ]
    }
 ]

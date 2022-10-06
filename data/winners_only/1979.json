@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Jon Voight"
+      "winners": [
+         "Jon Voight"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Christopher Walken"
+      "winners": [
+         "Christopher Walken"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Jane Fonda"
+      "winners": [
+         "Jane Fonda"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Maggie Smith"
+      "winners": [
+         "Maggie Smith"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Heaven Can Wait"
+      "winners": [
+         "Heaven Can Wait"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Days of Heaven"
+      "winners": [
+         "Days of Heaven"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Death on the Nile"
+      "winners": [
+         "Death on the Nile"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Michael Cimino"
+      "winners": [
+         "Michael Cimino"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Scared Straight!"
+      "winners": [
+         "Scared Straight!"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "The Flight of the Gossamer Condor"
+      "winners": [
+         "The Flight of the Gossamer Condor"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Deer Hunter"
+      "winners": [
+         "The Deer Hunter"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Get Out Your Handkerchiefs"
+      "winners": [
+         "Get Out Your Handkerchiefs"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Midnight Express"
+      "winners": [
+         "Midnight Express"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Thank God It's Friday"
+      "winners": [
+         "Thank God It's Friday"
+      ]
    },
    {
       "category": "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score",
-      "winner": "The Buddy Holly Story"
+      "winners": [
+         "The Buddy Holly Story"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Deer Hunter"
+      "winners": [
+         "The Deer Hunter"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Special Delivery"
+      "winners": [
+         "Special Delivery"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Teenage Father"
+      "winners": [
+         "Teenage Father"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "The Deer Hunter"
+      "winners": [
+         "The Deer Hunter"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Midnight Express"
+      "winners": [
+         "Midnight Express"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Coming Home"
+      "winners": [
+         "Coming Home"
+      ]
    }
 ]

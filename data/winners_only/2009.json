@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Sean Penn"
+      "winners": [
+         "Sean Penn"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Kate Winslet"
+      "winners": [
+         "Kate Winslet"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Heath Ledger"
+      "winners": [
+         "Heath Ledger"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Pen\u00e9lope Cruz"
+      "winners": [
+         "Pen\u00e9lope Cruz"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Danny Boyle"
+      "winners": [
+         "Danny Boyle"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Milk"
+      "winners": [
+         "Milk"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "The Curious Case of Benjamin Button"
+      "winners": [
+         "The Curious Case of Benjamin Button"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Duchess"
+      "winners": [
+         "The Duchess"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Slumdog Millionaire"
+      "winners": [
+         "Slumdog Millionaire"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "The Dark Knight"
+      "winners": [
+         "The Dark Knight"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "The Curious Case of Benjamin Button"
+      "winners": [
+         "The Curious Case of Benjamin Button"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "The House of Small Cubes"
+      "winners": [
+         "The House of Small Cubes"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Toyland"
+      "winners": [
+         "Toyland"
+      ]
    },
    {
       "category": "Best Documentary, Short Subject",
-      "winner": "Smile Pinki"
+      "winners": [
+         "Smile Pinki"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Man on Wire"
+      "winners": [
+         "Man on Wire"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "Departures"
+      "winners": [
+         "Departures"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "WALL\u00b7E"
+      "winners": [
+         "WALL\u00b7E"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "The Curious Case of Benjamin Button"
+      "winners": [
+         "The Curious Case of Benjamin Button"
+      ]
    }
 ]

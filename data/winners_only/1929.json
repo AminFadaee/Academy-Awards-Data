@@ -1,50 +1,74 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Emil Jannings"
+      "winners": [
+         "Emil Jannings"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Janet Gaynor"
+      "winners": [
+         "Janet Gaynor"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "The Dove"
+      "winners": [
+         "Tempest"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Sunrise"
+      "winners": [
+         "Sunrise"
+      ]
    },
    {
       "category": "Best Director, Comedy Picture",
-      "winner": "Lewis Milestone"
+      "winners": [
+         "Lewis Milestone"
+      ]
    },
    {
       "category": "Best Director, Dramatic Picture",
-      "winner": "Frank Borzage"
+      "winners": [
+         "Frank Borzage"
+      ]
    },
    {
       "category": "Best Effects, Engineering Effects",
-      "winner": "Wings"
+      "winners": [
+         "Wings"
+      ]
    },
    {
       "category": "Best Picture, Production",
-      "winner": "Wings"
+      "winners": [
+         "Wings"
+      ]
    },
    {
       "category": "Best Picture, Unique and Artistic Production",
-      "winner": "Sunrise"
+      "winners": [
+         "Sunrise"
+      ]
    },
    {
       "category": "Best Writing, Adaptation",
-      "winner": "7th Heaven"
+      "winners": [
+         "7th Heaven"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Underworld"
+      "winners": [
+         "Underworld"
+      ]
    },
    {
       "category": "Best Writing, Title Writing",
-      "winner": "Joseph Farnham"
+      "winners": [
+         "Joseph Farnham"
+      ]
    }
 ]

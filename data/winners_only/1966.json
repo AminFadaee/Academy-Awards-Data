@@ -1,106 +1,158 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Lee Marvin"
+      "winners": [
+         "Lee Marvin"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Martin Balsam"
+      "winners": [
+         "Martin Balsam"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Julie Christie"
+      "winners": [
+         "Julie Christie"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Shelley Winters"
+      "winners": [
+         "Shelley Winters"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "Ship of Fools"
+      "winners": [
+         "Ship of Fools"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "Doctor Zhivago"
+      "winners": [
+         "Doctor Zhivago"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Ship of Fools"
+      "winners": [
+         "Ship of Fools"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Doctor Zhivago"
+      "winners": [
+         "Doctor Zhivago"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "Darling"
+      "winners": [
+         "Darling"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "Doctor Zhivago"
+      "winners": [
+         "Doctor Zhivago"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Robert Wise"
+      "winners": [
+         "Robert Wise"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Eleanor Roosevelt Story"
+      "winners": [
+         "The Eleanor Roosevelt Story"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "To Be Alive!"
+      "winners": [
+         "To Be Alive!"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects",
-      "winner": "The Great Race"
+      "winners": [
+         "The Great Race"
+      ]
    },
    {
       "category": "Best Effects, Special Visual Effects",
-      "winner": "Thunderball"
+      "winners": [
+         "Thunderball"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "The Sound of Music"
+      "winners": [
+         "The Sound of Music"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "The Shop on Main Street"
+      "winners": [
+         "The Shop on Main Street"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Sandpiper"
+      "winners": [
+         "The Sandpiper"
+      ]
    },
    {
       "category": "Best Music, Score - Substantially Original",
-      "winner": "Doctor Zhivago"
+      "winners": [
+         "Doctor Zhivago"
+      ]
    },
    {
       "category": "Best Music, Scoring of Music, Adaptation or Treatment",
-      "winner": "The Sound of Music"
+      "winners": [
+         "The Sound of Music"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Sound of Music"
+      "winners": [
+         "The Sound of Music"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Dot and the Line: A Romance in Lower Mathematics"
+      "winners": [
+         "The Dot and the Line: A Romance in Lower Mathematics"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "The Chicken"
+      "winners": [
+         "The Chicken"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "The Sound of Music"
+      "winners": [
+         "The Sound of Music"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Doctor Zhivago"
+      "winners": [
+         "Doctor Zhivago"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "Darling"
+      "winners": [
+         "Darling"
+      ]
    }
 ]

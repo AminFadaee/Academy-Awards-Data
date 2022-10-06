@@ -1,105 +1,153 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Maximilian Schell"
+      "winners": [
+         "Maximilian Schell"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "George Chakiris"
+      "winners": [
+         "George Chakiris"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Sophia Loren"
+      "winners": [
+         "Sophia Loren"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Rita Moreno"
+      "winners": [
+         "Rita Moreno"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Black-and-White",
-      "winner": "The Hustler"
+      "winners": [
+         "The Hustler"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration, Color",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "The Hustler"
+      "winners": [
+         "The Hustler"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Costume Design, Black-and-White",
-      "winner": "La dolce vita"
+      "winners": [
+         "La dolce vita"
+      ]
    },
    {
       "category": "Best Costume Design, Color",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": [
+      "winners": [
          "Robert Wise",
          "Jerome Robbins"
       ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "The Sky Above, the Mud Below"
+      "winners": [
+         "The Sky Above, the Mud Below"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Project Hope"
+      "winners": [
+         "Project Hope"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "The Guns of Navarone"
+      "winners": [
+         "The Guns of Navarone"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Through a Glass Darkly"
+      "winners": [
+         "Through a Glass Darkly"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Breakfast at Tiffany's"
+      "winners": [
+         "Breakfast at Tiffany's"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "winner": "Breakfast at Tiffany's"
+      "winners": [
+         "Breakfast at Tiffany's"
+      ]
    },
    {
       "category": "Best Music, Scoring of a Musical Picture",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "The Substitute"
+      "winners": [
+         "The Substitute"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Subjects",
-      "winner": "Seawards the Great Ships"
+      "winners": [
+         "Seawards the Great Ships"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "West Side Story"
+      "winners": [
+         "West Side Story"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Judgment at Nuremberg"
+      "winners": [
+         "Judgment at Nuremberg"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "winner": "Splendor in the Grass"
+      "winners": [
+         "Splendor in the Grass"
+      ]
    }
 ]

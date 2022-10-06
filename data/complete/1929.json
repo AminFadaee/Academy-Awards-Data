@@ -6,59 +6,31 @@
             "notes": "Emil Jannings received his award early due to the fact that he was going home to Europe before the ceremony.",
             "won": true,
             "primary": [
-               {
-                  "name": "Emil Jannings",
-                  "notes": null,
-                  "imdb_id": "nm0417837"
-               }
+               "Emil Jannings"
             ],
             "secondary": [
-               {
-                  "name": "The Last Command",
-                  "notes": null,
-                  "imdb_id": "tt0019071"
-               },
-               {
-                  "name": "The Way of All Flesh",
-                  "notes": null,
-                  "imdb_id": "tt0019553"
-               }
+               "The Last Command",
+               "The Way of All Flesh"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Richard Barthelmess",
-                  "notes": null,
-                  "imdb_id": "nm0001932"
-               }
+               "Richard Barthelmess"
             ],
             "secondary": [
-               {
-                  "name": "The Patent Leather Kid",
-                  "notes": null,
-                  "imdb_id": "tt0018253"
-               }
+               "The Patent Leather Kid"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Richard Barthelmess",
-                  "notes": null,
-                  "imdb_id": "nm0001932"
-               }
+               "Richard Barthelmess"
             ],
             "secondary": [
-               {
-                  "name": "The Noose",
-                  "notes": null,
-                  "imdb_id": "tt0019217"
-               }
+               "The Noose"
             ]
          }
       ]
@@ -70,64 +42,32 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Janet Gaynor",
-                  "notes": null,
-                  "imdb_id": "nm0310980"
-               }
+               "Janet Gaynor"
             ],
             "secondary": [
-               {
-                  "name": "7th Heaven",
-                  "notes": null,
-                  "imdb_id": "tt0018379"
-               },
-               {
-                  "name": "Street Angel",
-                  "notes": null,
-                  "imdb_id": "tt0019429"
-               },
-               {
-                  "name": "Sunrise",
-                  "notes": null,
-                  "imdb_id": "tt0018455"
-               }
+               "7th Heaven",
+               "Street Angel",
+               "Sunrise"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Gloria Swanson",
-                  "notes": null,
-                  "imdb_id": "nm0841797"
-               }
+               "Gloria Swanson"
             ],
             "secondary": [
-               {
-                  "name": "Sadie Thompson",
-                  "notes": null,
-                  "imdb_id": "tt0019344"
-               }
+               "Sadie Thompson"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Louise Dresser",
-                  "notes": null,
-                  "imdb_id": "nm0237571"
-               }
+               "Louise Dresser"
             ],
             "secondary": [
-               {
-                  "name": "A Ship Comes In",
-                  "notes": null,
-                  "imdb_id": "tt0018389"
-               }
+               "A Ship Comes In"
             ]
          }
       ]
@@ -139,72 +79,40 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Tempest",
-                  "notes": null,
-                  "imdb_id": "tt0019451"
-               }
+               "Tempest"
             ],
             "secondary": [
-               {
-                  "name": "William Cameron Menzies",
-                  "notes": null,
-                  "imdb_id": "nm0580017"
-               }
+               "William Cameron Menzies"
             ]
          },
          {
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "The Dove",
-                  "notes": null,
-                  "imdb_id": "tt0017822"
-               }
+               "The Dove"
             ],
             "secondary": [
-               {
-                  "name": "William Cameron Menzies",
-                  "notes": null,
-                  "imdb_id": "nm0580017"
-               }
+               "William Cameron Menzies"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "7th Heaven",
-                  "notes": null,
-                  "imdb_id": "tt0018379"
-               }
+               "7th Heaven"
             ],
             "secondary": [
-               {
-                  "name": "Harry Oliver",
-                  "notes": null,
-                  "imdb_id": "nm0646856"
-               }
+               "Harry Oliver"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sunrise",
-                  "notes": null,
-                  "imdb_id": "tt0018455"
-               }
+               "Sunrise"
             ],
             "secondary": [
-               {
-                  "name": "Rochus Gliese",
-                  "notes": null,
-                  "imdb_id": "nm0322843"
-               }
+               "Rochus Gliese"
             ]
          }
       ]
@@ -216,77 +124,41 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Sunrise",
-                  "notes": null,
-                  "imdb_id": "tt0018455"
-               }
+               "Sunrise"
             ],
             "secondary": [
-               {
-                  "name": "Charles Rosher",
-                  "notes": null,
-                  "imdb_id": "nm0003546"
-               },
-               {
-                  "name": "Karl Struss",
-                  "notes": null,
-                  "imdb_id": "nm0835365"
-               }
+               "Charles Rosher",
+               "Karl Struss"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Sadie Thompson",
-                  "notes": null,
-                  "imdb_id": "tt0019344"
-               }
+               "Sadie Thompson"
             ],
             "secondary": [
-               {
-                  "name": "George Barnes",
-                  "notes": null,
-                  "imdb_id": "nm0055604"
-               }
+               "George Barnes"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Devil Dancer",
-                  "notes": null,
-                  "imdb_id": "tt0017806"
-               }
+               "The Devil Dancer"
             ],
             "secondary": [
-               {
-                  "name": "George Barnes",
-                  "notes": null,
-                  "imdb_id": "nm0055604"
-               }
+               "George Barnes"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Magic Flame",
-                  "notes": null,
-                  "imdb_id": "tt0018129"
-               }
+               "The Magic Flame"
             ],
             "secondary": [
-               {
-                  "name": "George Barnes",
-                  "notes": null,
-                  "imdb_id": "nm0055604"
-               }
+               "George Barnes"
             ]
          }
       ]
@@ -298,36 +170,20 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Lewis Milestone",
-                  "notes": null,
-                  "imdb_id": "nm0587277"
-               }
+               "Lewis Milestone"
             ],
             "secondary": [
-               {
-                  "name": "Two Arabian Knights",
-                  "notes": null,
-                  "imdb_id": "tt0018515"
-               }
+               "Two Arabian Knights"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ted Wilde",
-                  "notes": null,
-                  "imdb_id": "nm0928514"
-               }
+               "Ted Wilde"
             ],
             "secondary": [
-               {
-                  "name": "Speedy",
-                  "notes": null,
-                  "imdb_id": "tt0019412"
-               }
+               "Speedy"
             ]
          }
       ]
@@ -339,54 +195,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Frank Borzage",
-                  "notes": null,
-                  "imdb_id": "nm0097648"
-               }
+               "Frank Borzage"
             ],
             "secondary": [
-               {
-                  "name": "7th Heaven",
-                  "notes": null,
-                  "imdb_id": "tt0018379"
-               }
+               "7th Heaven"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Herbert Brenon",
-                  "notes": null,
-                  "imdb_id": "nm0107543"
-               }
+               "Herbert Brenon"
             ],
             "secondary": [
-               {
-                  "name": "Sorrell and Son",
-                  "notes": null,
-                  "imdb_id": "tt0018429"
-               }
+               "Sorrell and Son"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "King Vidor",
-                  "notes": null,
-                  "imdb_id": "nm0896542"
-               }
+               "King Vidor"
             ],
             "secondary": [
-               {
-                  "name": "The Crowd",
-                  "notes": null,
-                  "imdb_id": "tt0018806"
-               }
+               "The Crowd"
             ]
          }
       ]
@@ -398,29 +230,17 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Wings",
-                  "notes": null,
-                  "imdb_id": "tt0018578"
-               }
+               "Wings"
             ],
             "secondary": [
-               {
-                  "name": "Roy Pomeroy",
-                  "notes": null,
-                  "imdb_id": "nm0690120"
-               }
+               "Roy Pomeroy"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Nugent Slaughter",
-                  "notes": null,
-                  "imdb_id": "nm0805521"
-               }
+               "Nugent Slaughter"
             ],
             "secondary": []
          },
@@ -428,11 +248,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Ralph Hammeras",
-                  "notes": null,
-                  "imdb_id": "nm0358518"
-               }
+               "Ralph Hammeras"
             ],
             "secondary": []
          }
@@ -445,11 +261,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Wings",
-                  "notes": null,
-                  "imdb_id": "tt0018578"
-               }
+               "Wings"
             ],
             "secondary": []
          },
@@ -457,11 +269,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "7th Heaven",
-                  "notes": null,
-                  "imdb_id": "tt0018379"
-               }
+               "7th Heaven"
             ],
             "secondary": []
          },
@@ -469,11 +277,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Racket",
-                  "notes": null,
-                  "imdb_id": "tt0019304"
-               }
+               "The Racket"
             ],
             "secondary": []
          }
@@ -486,11 +290,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Sunrise",
-                  "notes": null,
-                  "imdb_id": "tt0018455"
-               }
+               "Sunrise"
             ],
             "secondary": []
          },
@@ -498,11 +298,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Chang: A Drama of the Wilderness",
-                  "notes": null,
-                  "imdb_id": "tt0017743"
-               }
+               "Chang: A Drama of the Wilderness"
             ],
             "secondary": []
          },
@@ -510,11 +306,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Crowd",
-                  "notes": null,
-                  "imdb_id": "tt0018806"
-               }
+               "The Crowd"
             ],
             "secondary": []
          }
@@ -527,54 +319,30 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "7th Heaven",
-                  "notes": null,
-                  "imdb_id": "tt0018379"
-               }
+               "7th Heaven"
             ],
             "secondary": [
-               {
-                  "name": "Benjamin Glazer",
-                  "notes": null,
-                  "imdb_id": "nm0322227"
-               }
+               "Benjamin Glazer"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "Glorious Betsy",
-                  "notes": null,
-                  "imdb_id": "tt0018945"
-               }
+               "Glorious Betsy"
             ],
             "secondary": [
-               {
-                  "name": "Anthony Coldeway",
-                  "notes": null,
-                  "imdb_id": "nm0170401"
-               }
+               "Anthony Coldeway"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Jazz Singer",
-                  "notes": null,
-                  "imdb_id": "tt0018037"
-               }
+               "The Jazz Singer"
             ],
             "secondary": [
-               {
-                  "name": "Alfred A. Cohn",
-                  "notes": null,
-                  "imdb_id": "nm0169879"
-               }
+               "Alfred A. Cohn"
             ]
          }
       ]
@@ -586,36 +354,20 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Underworld",
-                  "notes": null,
-                  "imdb_id": "tt0018526"
-               }
+               "Underworld"
             ],
             "secondary": [
-               {
-                  "name": "Ben Hecht",
-                  "notes": null,
-                  "imdb_id": "nm0372942"
-               }
+               "Ben Hecht"
             ]
          },
          {
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Last Command",
-                  "notes": null,
-                  "imdb_id": "tt0019071"
-               }
+               "The Last Command"
             ],
             "secondary": [
-               {
-                  "name": "Lajos Bir\u00f3",
-                  "notes": null,
-                  "imdb_id": "nm0083742"
-               }
+               "Lajos Bir\u00f3"
             ]
          }
       ]
@@ -627,11 +379,7 @@
             "notes": null,
             "won": true,
             "primary": [
-               {
-                  "name": "Joseph Farnham",
-                  "notes": null,
-                  "imdb_id": "nm0267868"
-               }
+               "Joseph Farnham"
             ],
             "secondary": []
          },
@@ -639,11 +387,7 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "George Marion Jr.",
-                  "notes": null,
-                  "imdb_id": "nm0547938"
-               }
+               "George Marion Jr."
             ],
             "secondary": []
          },
@@ -651,18 +395,10 @@
             "notes": null,
             "won": false,
             "primary": [
-               {
-                  "name": "The Private Life of Helen of Troy",
-                  "notes": null,
-                  "imdb_id": "tt0017979"
-               }
+               "The Private Life of Helen of Troy"
             ],
             "secondary": [
-               {
-                  "name": "Gerald C. Duffy",
-                  "notes": null,
-                  "imdb_id": "nm0240534"
-               }
+               "Gerald C. Duffy"
             ]
          }
       ]

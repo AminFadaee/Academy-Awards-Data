@@ -1,90 +1,134 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Jeremy Irons"
+      "winners": [
+         "Jeremy Irons"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Joe Pesci"
+      "winners": [
+         "Joe Pesci"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Kathy Bates"
+      "winners": [
+         "Kathy Bates"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Whoopi Goldberg"
+      "winners": [
+         "Whoopi Goldberg"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Dick Tracy"
+      "winners": [
+         "Dick Tracy"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Cyrano de Bergerac"
+      "winners": [
+         "Cyrano de Bergerac"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Kevin Costner"
+      "winners": [
+         "Kevin Costner"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "American Dream"
+      "winners": [
+         "American Dream"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Days of Waiting"
+      "winners": [
+         "Days of Waiting"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "The Hunt for Red October"
+      "winners": [
+         "The Hunt for Red October"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Journey of Hope"
+      "winners": [
+         "Journey of Hope"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Dick Tracy"
+      "winners": [
+         "Dick Tracy"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Dick Tracy"
+      "winners": [
+         "Dick Tracy"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Creature Comforts"
+      "winners": [
+         "Creature Comforts"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Lunch Date"
+      "winners": [
+         "The Lunch Date"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "Dances with Wolves"
+      "winners": [
+         "Dances with Wolves"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "Ghost"
+      "winners": [
+         "Ghost"
+      ]
    }
 ]

@@ -1,86 +1,128 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Marlon Brando"
+      "winners": [
+         "Marlon Brando"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Joel Grey"
+      "winners": [
+         "Joel Grey"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Liza Minnelli"
+      "winners": [
+         "Liza Minnelli"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Eileen Heckart"
+      "winners": [
+         "Eileen Heckart"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Cabaret"
+      "winners": [
+         "Cabaret"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Cabaret"
+      "winners": [
+         "Cabaret"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Travels with My Aunt"
+      "winners": [
+         "Travels with My Aunt"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Bob Fosse"
+      "winners": [
+         "Bob Fosse"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Marjoe"
+      "winners": [
+         "Marjoe"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Deze kleine wereld"
+      "winners": [
+         "Deze kleine wereld"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Cabaret"
+      "winners": [
+         "Cabaret"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "The Discreet Charm of the Bourgeoisie"
+      "winners": [
+         "The Discreet Charm of the Bourgeoisie"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "Limelight"
+      "winners": [
+         "Limelight"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Poseidon Adventure"
+      "winners": [
+         "The Poseidon Adventure"
+      ]
    },
    {
       "category": "Best Music, Scoring Original Song Score and/or Adaptation",
-      "winner": "Cabaret"
+      "winners": [
+         "Cabaret"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "The Godfather"
+      "winners": [
+         "The Godfather"
+      ]
    },
    {
       "category": "Best Short Subject, Animated Films",
-      "winner": "A Christmas Carol"
+      "winners": [
+         "A Christmas Carol"
+      ]
    },
    {
       "category": "Best Short Subject, Live Action Films",
-      "winner": "Norman Rockwell's World... An American Dream"
+      "winners": [
+         "Norman Rockwell's World... An American Dream"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Cabaret"
+      "winners": [
+         "Cabaret"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material from Another Medium",
-      "winner": "The Godfather"
+      "winners": [
+         "The Godfather"
+      ]
    },
    {
       "category": "Best Writing, Story and Screenplay Based on Factual Material or Material Not Previously Published or Produced",
-      "winner": "The Candidate"
+      "winners": [
+         "The Candidate"
+      ]
    }
 ]

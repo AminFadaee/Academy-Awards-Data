@@ -1,73 +1,105 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Victor McLaglen"
+      "winners": [
+         "Victor McLaglen"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Bette Davis"
+      "winners": [
+         "Bette Davis"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "The Dark Angel"
+      "winners": [
+         "The Dark Angel"
+      ]
    },
    {
       "category": "Best Assistant Director",
-      "winner": [
+      "winners": [
          "Clem Beauchamp",
          "Paul Wing"
       ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "A Midsummer Night's Dream"
+      "winners": [
+         "A Midsummer Night's Dream"
+      ]
    },
    {
       "category": "Best Dance Direction",
-      "winner": "Folies Berg\u00e8re de Paris"
+      "winners": [
+         "Broadway Melody of 1936"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "John Ford"
+      "winners": [
+         "John Ford"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "A Midsummer Night's Dream"
+      "winners": [
+         "A Midsummer Night's Dream"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Gold Diggers of 1935"
+      "winners": [
+         "Gold Diggers of 1935"
+      ]
    },
    {
       "category": "Best Music, Score",
-      "winner": "The Informer"
+      "winners": [
+         "The Informer"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Mutiny on the Bounty"
+      "winners": [
+         "Mutiny on the Bounty"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Three Orphan Kittens"
+      "winners": [
+         "Three Orphan Kittens"
+      ]
    },
    {
       "category": "Best Short Subject, Comedy",
-      "winner": "How to Sleep"
+      "winners": [
+         "How to Sleep"
+      ]
    },
    {
       "category": "Best Short Subject, Novelty",
-      "winner": "Wings Over Everest"
+      "winners": [
+         "Wings Over Everest"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "Naughty Marietta"
+      "winners": [
+         "Naughty Marietta"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "The Scoundrel"
+      "winners": [
+         "The Scoundrel"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "The Informer"
+      "winners": [
+         "The Informer"
+      ]
    }
 ]

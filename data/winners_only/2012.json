@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "The Artist"
+      "winners": [
+         "The Artist"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Jean Dujardin"
+      "winners": [
+         "Jean Dujardin"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Meryl Streep"
+      "winners": [
+         "Meryl Streep"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Christopher Plummer"
+      "winners": [
+         "Christopher Plummer"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Octavia Spencer"
+      "winners": [
+         "Octavia Spencer"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Michel Hazanavicius"
+      "winners": [
+         "Michel Hazanavicius"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Midnight in Paris"
+      "winners": [
+         "Midnight in Paris"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "The Descendants"
+      "winners": [
+         "The Descendants"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Hugo"
+      "winners": [
+         "Hugo"
+      ]
    },
    {
       "category": "Best Achievement in Art Direction",
-      "winner": "Hugo"
+      "winners": [
+         "Hugo"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "The Girl with the Dragon Tattoo"
+      "winners": [
+         "The Girl with the Dragon Tattoo"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Artist"
+      "winners": [
+         "The Artist"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "The Muppets"
+      "winners": [
+         "The Muppets"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "The Artist"
+      "winners": [
+         "The Artist"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Hugo"
+      "winners": [
+         "Hugo"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "Hugo"
+      "winners": [
+         "Hugo"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Hugo"
+      "winners": [
+         "Hugo"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "The Fantastic Flying Books of Mr. Morris Lessmore"
+      "winners": [
+         "The Fantastic Flying Books of Mr. Morris Lessmore"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Shore"
+      "winners": [
+         "The Shore"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "Saving Face"
+      "winners": [
+         "Saving Face"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Undefeated"
+      "winners": [
+         "Undefeated"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "A Separation"
+      "winners": [
+         "A Separation"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Rango"
+      "winners": [
+         "Rango"
+      ]
    },
    {
       "category": "Best Achievement in Makeup",
-      "winner": "The Iron Lady"
+      "winners": [
+         "The Iron Lady"
+      ]
    }
 ]

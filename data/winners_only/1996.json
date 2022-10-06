@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Nicolas Cage"
+      "winners": [
+         "Nicolas Cage"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Kevin Spacey"
+      "winners": [
+         "Kevin Spacey"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Susan Sarandon"
+      "winners": [
+         "Susan Sarandon"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Mira Sorvino"
+      "winners": [
+         "Mira Sorvino"
+      ]
    },
    {
       "category": "Best Art Direction-Set Decoration",
-      "winner": "Restoration"
+      "winners": [
+         "Restoration"
+      ]
    },
    {
       "category": "Best Cinematography",
-      "winner": "Braveheart"
+      "winners": [
+         "Braveheart"
+      ]
    },
    {
       "category": "Best Costume Design",
-      "winner": "Restoration"
+      "winners": [
+         "Restoration"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Mel Gibson"
+      "winners": [
+         "Mel Gibson"
+      ]
    },
    {
       "category": "Best Documentary, Features",
-      "winner": "Anne Frank Remembered"
+      "winners": [
+         "Anne Frank Remembered"
+      ]
    },
    {
       "category": "Best Documentary, Short Subjects",
-      "winner": "One Survivor Remembers"
+      "winners": [
+         "One Survivor Remembers"
+      ]
    },
    {
       "category": "Best Effects, Sound Effects Editing",
-      "winner": "Braveheart"
+      "winners": [
+         "Braveheart"
+      ]
    },
    {
       "category": "Best Effects, Visual Effects",
-      "winner": "Babe"
+      "winners": [
+         "Babe"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Apollo 13"
+      "winners": [
+         "Apollo 13"
+      ]
    },
    {
       "category": "Best Foreign Language Film",
-      "winner": "Antonia's Line"
+      "winners": [
+         "Antonia's Line"
+      ]
    },
    {
       "category": "Best Makeup",
-      "winner": "Braveheart"
+      "winners": [
+         "Braveheart"
+      ]
    },
    {
       "category": "Best Music, Original Dramatic Score",
-      "winner": "The Postman"
+      "winners": [
+         "The Postman"
+      ]
    },
    {
       "category": "Best Music, Original Musical or Comedy Score",
-      "winner": "Pocahontas"
+      "winners": [
+         "Pocahontas"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "Pocahontas"
+      "winners": [
+         "Pocahontas"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Braveheart"
+      "winners": [
+         "Braveheart"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "A Close Shave"
+      "winners": [
+         "A Close Shave"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "Lieberman in Love"
+      "winners": [
+         "Lieberman in Love"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Apollo 13"
+      "winners": [
+         "Apollo 13"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Based on Material Previously Produced or Published",
-      "winner": "Sense and Sensibility"
+      "winners": [
+         "Sense and Sensibility"
+      ]
    },
    {
       "category": "Best Writing, Screenplay Written Directly for the Screen",
-      "winner": "The Usual Suspects"
+      "winners": [
+         "The Usual Suspects"
+      ]
    }
 ]

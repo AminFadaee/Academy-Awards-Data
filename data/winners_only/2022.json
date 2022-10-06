@@ -1,94 +1,140 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "CODA"
+      "winners": [
+         "CODA"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Will Smith"
+      "winners": [
+         "Will Smith"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Jessica Chastain"
+      "winners": [
+         "Jessica Chastain"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "Troy Kotsur"
+      "winners": [
+         "Troy Kotsur"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Ariana DeBose"
+      "winners": [
+         "Ariana DeBose"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Jane Campion"
+      "winners": [
+         "Jane Campion"
+      ]
    },
    {
       "category": "Best Original Screenplay",
-      "winner": "Belfast"
+      "winners": [
+         "Belfast"
+      ]
    },
    {
       "category": "Best Adapted Screenplay",
-      "winner": "CODA"
+      "winners": [
+         "CODA"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "Cruella"
+      "winners": [
+         "Cruella"
+      ]
    },
    {
       "category": "Best Sound",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "The Eyes of Tammy Faye"
+      "winners": [
+         "The Eyes of Tammy Faye"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Score)",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures (Original Song)",
-      "winner": "No Time to Die"
+      "winners": [
+         "No Time to Die"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Dune"
+      "winners": [
+         "Dune"
+      ]
    },
    {
       "category": "Best Documentary Feature",
-      "winner": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+      "winners": [
+         "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+      ]
    },
    {
       "category": "Best Documentary Short Subject",
-      "winner": "The Queen of Basketball"
+      "winners": [
+         "The Queen of Basketball"
+      ]
    },
    {
       "category": "Best Animated Feature Film",
-      "winner": "Encanto"
+      "winners": [
+         "Encanto"
+      ]
    },
    {
       "category": "Best Animated Short Film",
-      "winner": "The Windshield Wiper"
+      "winners": [
+         "The Windshield Wiper"
+      ]
    },
    {
       "category": "Best Live Action Short Film",
-      "winner": "The Long Goodbye"
+      "winners": [
+         "The Long Goodbye"
+      ]
    },
    {
       "category": "Best International Feature Film",
-      "winner": "Drive My Car"
+      "winners": [
+         "Drive My Car"
+      ]
    }
 ]

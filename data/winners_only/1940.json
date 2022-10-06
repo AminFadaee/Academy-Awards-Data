@@ -1,82 +1,122 @@
 [
    {
       "category": "Best Actor in a Leading Role",
-      "winner": "Robert Donat"
+      "winners": [
+         "Robert Donat"
+      ]
    },
    {
       "category": "Best Actor in a Supporting Role",
-      "winner": "Thomas Mitchell"
+      "winners": [
+         "Thomas Mitchell"
+      ]
    },
    {
       "category": "Best Actress in a Leading Role",
-      "winner": "Vivien Leigh"
+      "winners": [
+         "Vivien Leigh"
+      ]
    },
    {
       "category": "Best Actress in a Supporting Role",
-      "winner": "Hattie McDaniel"
+      "winners": [
+         "Hattie McDaniel"
+      ]
    },
    {
       "category": "Best Art Direction",
-      "winner": "Gone with the Wind"
+      "winners": [
+         "Gone with the Wind"
+      ]
    },
    {
       "category": "Best Cinematography, Black-and-White",
-      "winner": "Wuthering Heights"
+      "winners": [
+         "Wuthering Heights"
+      ]
    },
    {
       "category": "Best Cinematography, Color",
-      "winner": "Gone with the Wind"
+      "winners": [
+         "Gone with the Wind"
+      ]
    },
    {
       "category": "Best Director",
-      "winner": "Victor Fleming"
+      "winners": [
+         "Victor Fleming"
+      ]
    },
    {
       "category": "Best Effects, Special Effects",
-      "winner": "The Rains Came"
+      "winners": [
+         "The Rains Came"
+      ]
    },
    {
       "category": "Best Film Editing",
-      "winner": "Gone with the Wind"
+      "winners": [
+         "Gone with the Wind"
+      ]
    },
    {
       "category": "Best Music, Original Score",
-      "winner": "The Wizard of Oz"
+      "winners": [
+         "The Wizard of Oz"
+      ]
    },
    {
       "category": "Best Music, Original Song",
-      "winner": "The Wizard of Oz"
+      "winners": [
+         "The Wizard of Oz"
+      ]
    },
    {
       "category": "Best Music, Scoring",
-      "winner": "Stagecoach"
+      "winners": [
+         "Stagecoach"
+      ]
    },
    {
       "category": "Best Picture",
-      "winner": "Gone with the Wind"
+      "winners": [
+         "Gone with the Wind"
+      ]
    },
    {
       "category": "Best Short Subject, Cartoons",
-      "winner": "Ugly Duckling"
+      "winners": [
+         "Ugly Duckling"
+      ]
    },
    {
       "category": "Best Short Subject, One-reel",
-      "winner": "Busy Little Bears"
+      "winners": [
+         "Busy Little Bears"
+      ]
    },
    {
       "category": "Best Short Subject, Two-reel",
-      "winner": "Sons of Liberty"
+      "winners": [
+         "Sons of Liberty"
+      ]
    },
    {
       "category": "Best Sound, Recording",
-      "winner": "When Tomorrow Comes"
+      "winners": [
+         "When Tomorrow Comes"
+      ]
    },
    {
       "category": "Best Writing, Original Story",
-      "winner": "Mr. Smith Goes to Washington"
+      "winners": [
+         "Mr. Smith Goes to Washington"
+      ]
    },
    {
       "category": "Best Writing, Screenplay",
-      "winner": "Gone with the Wind"
+      "winners": [
+         "Gone with the Wind"
+      ]
    }
 ]

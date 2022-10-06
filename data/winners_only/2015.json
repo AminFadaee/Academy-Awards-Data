@@ -1,98 +1,146 @@
 [
    {
       "category": "Best Motion Picture of the Year",
-      "winner": "Birdman or (The Unexpected Virtue of Ignorance)"
+      "winners": [
+         "Birdman or (The Unexpected Virtue of Ignorance)"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Leading Role",
-      "winner": "Eddie Redmayne"
+      "winners": [
+         "Eddie Redmayne"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Leading Role",
-      "winner": "Julianne Moore"
+      "winners": [
+         "Julianne Moore"
+      ]
    },
    {
       "category": "Best Performance by an Actor in a Supporting Role",
-      "winner": "J.K. Simmons"
+      "winners": [
+         "J.K. Simmons"
+      ]
    },
    {
       "category": "Best Performance by an Actress in a Supporting Role",
-      "winner": "Patricia Arquette"
+      "winners": [
+         "Patricia Arquette"
+      ]
    },
    {
       "category": "Best Achievement in Directing",
-      "winner": "Alejandro G. I\u00f1\u00e1rritu"
+      "winners": [
+         "Alejandro G. I\u00f1\u00e1rritu"
+      ]
    },
    {
       "category": "Best Writing, Original Screenplay",
-      "winner": "Birdman or (The Unexpected Virtue of Ignorance)"
+      "winners": [
+         "Birdman or (The Unexpected Virtue of Ignorance)"
+      ]
    },
    {
       "category": "Best Writing, Adapted Screenplay",
-      "winner": "The Imitation Game"
+      "winners": [
+         "The Imitation Game"
+      ]
    },
    {
       "category": "Best Achievement in Cinematography",
-      "winner": "Birdman or (The Unexpected Virtue of Ignorance)"
+      "winners": [
+         "Birdman or (The Unexpected Virtue of Ignorance)"
+      ]
    },
    {
       "category": "Best Achievement in Film Editing",
-      "winner": "Whiplash"
+      "winners": [
+         "Whiplash"
+      ]
    },
    {
       "category": "Best Achievement in Production Design",
-      "winner": "The Grand Budapest Hotel"
+      "winners": [
+         "The Grand Budapest Hotel"
+      ]
    },
    {
       "category": "Best Achievement in Costume Design",
-      "winner": "The Grand Budapest Hotel"
+      "winners": [
+         "The Grand Budapest Hotel"
+      ]
    },
    {
       "category": "Best Achievement in Makeup and Hairstyling",
-      "winner": "The Grand Budapest Hotel"
+      "winners": [
+         "The Grand Budapest Hotel"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Song",
-      "winner": "Selma"
+      "winners": [
+         "Selma"
+      ]
    },
    {
       "category": "Best Achievement in Music Written for Motion Pictures, Original Score",
-      "winner": "The Grand Budapest Hotel"
+      "winners": [
+         "The Grand Budapest Hotel"
+      ]
    },
    {
       "category": "Best Achievement in Sound Mixing",
-      "winner": "Whiplash"
+      "winners": [
+         "Whiplash"
+      ]
    },
    {
       "category": "Best Achievement in Sound Editing",
-      "winner": "American Sniper"
+      "winners": [
+         "American Sniper"
+      ]
    },
    {
       "category": "Best Achievement in Visual Effects",
-      "winner": "Interstellar"
+      "winners": [
+         "Interstellar"
+      ]
    },
    {
       "category": "Best Short Film, Animated",
-      "winner": "Feast"
+      "winners": [
+         "Feast"
+      ]
    },
    {
       "category": "Best Short Film, Live Action",
-      "winner": "The Phone Call"
+      "winners": [
+         "The Phone Call"
+      ]
    },
    {
       "category": "Best Documentary, Short Subject",
-      "winner": "Crisis Hotline: Veterans Press 1"
+      "winners": [
+         "Crisis Hotline: Veterans Press 1"
+      ]
    },
    {
       "category": "Best Documentary, Feature",
-      "winner": "Citizenfour"
+      "winners": [
+         "Citizenfour"
+      ]
    },
    {
       "category": "Best Foreign Language Film of the Year",
-      "winner": "Ida"
+      "winners": [
+         "Ida"
+      ]
    },
    {
       "category": "Best Animated Feature Film of the Year",
-      "winner": "Big Hero 6"
+      "winners": [
+         "Big Hero 6"
+      ]
    }
 ]

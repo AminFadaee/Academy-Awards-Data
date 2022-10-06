@@ -57,63 +57,63 @@ def get_crawler(data_mode: DataMode, dump_on: str = None):
                 file.close()
             return data
 
+        def prepare_winners_only_data(self, data):
+            return [
+                {
+                    'category': award['categoryName'],
+                    'winners': [
+                        [primary['name'] for primary in nomination['primaryNominees']]
+                        for nomination in award['nominations']
+                        if nomination['isWinner']
+                    ][0]  # 1 Winner only
+                }
+                for award in data
+            ]
+
+        def prepare_short_data(self, data):
+            return [
+                {
+                    'category': award['categoryName'],
+                    'nominations': [
+                        {
+                            'won': nomination['isWinner'],
+                            'nominees': [primary['name'] for primary in nomination['primaryNominees']]
+                        }
+                        for nomination in award['nominations']
+                    ]
+                }
+                for award in data
+            ]
+
+        def prepare_complete_data(self, data):
+            return [
+                {
+                    'category': award['categoryName'],
+                    'nominations': [
+                        {
+                            'notes': nomination['notes'],
+                            'won': nomination['isWinner'],
+                            'primary': [primary['name'] for primary in nomination['primaryNominees']],
+                            'secondary': [secondary['name'] for secondary in nomination['secondaryNominees']]
+                        }
+                        for nomination in award['nominations']
+                    ]
+                }
+                for award in data
+            ]
+
         def prepare_data(self, data):
             if not data:
                 return data
             data = data['nomineesWidgetModel']['eventEditionSummary']['awards'][0]['categories']
-            prepared_data = []
-            for award in data:
-                prepared_award = dict()
-                prepared_award['category'] = award['categoryName']
-                if data_mode != DataMode.winners_only:
-                    prepared_award['nominations'] = []
-                for nomination in award['nominations']:
-                    prepared_nomination = {
-                        'notes': nomination['notes'],
-                        'won': nomination['isWinner']
-                    }
-                    if data_mode == DataMode.winners_only and not prepared_nomination['won']:
-                        continue
-                    primary_nominations = [
-                        {
-                            'name': primary['name'],
-                            'notes': primary['note'],
-                            'imdb_id': primary['const']
-                        }
-                        for primary in nomination['primaryNominees']
-                    ]
-                    if data_mode == DataMode.winners_only:
-                        prepared_nomination = [
-                            primary_nomination['name']
-                            for primary_nomination in primary_nominations
-                        ]
-                        while isinstance(prepared_nomination, list) and len(prepared_nomination) == 1:
-                            prepared_nomination = prepared_nomination[0]
-                    elif self.mode == DataMode.short:
-                        prepared_nomination['nominees'] = [
-                            primary_nomination['name']
-                            for primary_nomination in primary_nominations
-                        ]
-                        prepared_nomination.pop('notes')
-                    else:
-                        prepared_nomination['primary'] = primary_nominations
-                        prepared_nomination['secondary'] = [
-                            {
-                                'name': secondary['name'],
-                                'notes': secondary['note'],
-                                'imdb_id': secondary['const']
-                            }
-                            for secondary in nomination['secondaryNominees']
-                        ]
-                    if data_mode != DataMode.winners_only:
-                        prepared_award['nominations'].append(prepared_nomination)
-                    else:
-                        prepared_award['winner'] = prepared_nomination
-                prepared_data.append(prepared_award)
-            return prepared_data
+            if self.mode == DataMode.winners_only:
+                return self.prepare_winners_only_data(data)
+            if self.mode == DataMode.short:
+                return self.prepare_short_data(data)
+            return self.prepare_complete_data(data)
 
     return IMDbAwardsSpider()
 
 
-spider = get_crawler(DataMode.winners_only, dump_on='out')
+spider = get_crawler(DataMode.complete, dump_on='out')
 spider.collect()
